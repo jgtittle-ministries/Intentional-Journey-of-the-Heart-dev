@@ -217,5 +217,11 @@ nav:
     - "Part 3: Succession Letter": volume-6-governance/part-3-succession-letter.md
     - "Proposal Template": volume-6-governance/proposal-template.md
 
+extra_css:
+  - extra/pdf-popup.css
+
+extra_javascript:
+  - extra/pdf-popup.js
+
 copyright: Copyright &copy; John G. Tittle — Licensed under CC BY 4.0
 
