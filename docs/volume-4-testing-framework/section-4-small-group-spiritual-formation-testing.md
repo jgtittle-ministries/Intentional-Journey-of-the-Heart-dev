@@ -1,0 +1,202 @@
+---
+title: "Section 4: Small Group Spiritual Formation Testing Protocol"
+volume: 4
+source: "IJH_Vol4_v5_6_0_1.pdf"
+---
+
+# Section 4: Small Group Spiritual Formation Testing Protocol
+
+## The Group Is Not Incidental — It Is the Method
+
+When I think back to what made the original Laws of the Spirit workshop actually work, it was not primarily the questions we were asking, as good as some of them were. It was the four of us in the room together, week after week, refusing to let each other get away with vague spiritual generalities. Tom would push back on a principle with a counter-example from his own experience. Larry would bring a scripture that complicated what we thought we had settled the week before. John would ask the uncomfortable practical question — so what does that mean you are going to do differently on Monday morning? That kind of friction, sustained over time, produced discernment that none of us could have arrived at alone.
+
+The small group is not a delivery mechanism for the Laws of the Spirit. It is the primary testing environment. Individual formation happens in the context of community, is confirmed by it, and is often triggered by its dynamics. The PROAPT model's final step — Tell — is not an afterthought; it is the completion of the formation loop. Faith comes from hearing (Romans 10:17), and the small group is where much of that hearing happens: hearing the word, hearing each other's responses to the word, hearing what the Spirit is saying to this particular community in this particular moment.
+
+**VOL 2 CONNECTION — SESSION LITURGY:** Vol 2 develops V2.Exp8B (Session Liturgy) as the companion claim to V2.Exp8's container claim. The session — the gathered time when a group meets to do this work together, with its front-notes, formally- marked opening, clearings, work, formally-marked closing, and teachings — is the unit of analysis the small group testing protocol is actually observing. Vol 2's canonical claim is that these are not optional checklist items but sequenced moves within one practice; the integrity of the sequence is what makes the work the work. For Vol 4's Small Group Testing Protocol, this has two practical implications. First, the protocol's unit of observation should be the session-as-a-whole, not the discrete components — a session with strong opening and clearings but weak closing dissipates the formation it produced, and the protocol needs to be able to see that. Second, the LotS group health indicators may need to be cross-tabulated against session-liturgy integrity (were opening and closing formally marked? were the clearings substantive? did the closing include the de- roling and the integrating-into-life moves?) as a predictor variable for the formation outcomes the GSFP tracks. The convergence between Schwarz's communal-qualities instrument and Vol 2's V2.Exp8B session-liturgy structure is a natural area for the multi- site research design to test. Section 3 described the Individual Spiritual Formation Testing Protocol — how to track and assess formation in one person over twelve months. Section 4 describes the Small Group Testing Protocol: how to observe and assess the group as a formation unit, how to measure what the group produces that individual formation cannot produce on its own, and how to account for the group's collective journey as a distinct object of study. This section also addresses Open Trail OT-6 — the question of whether a community can be understood to move through the Affective Taxonomy as a collective entity — which was left unresolved in Volume 3.
+
+## 4a. Defining the Small Group Testing Unit
+
+The standard LotS small-group testing unit consists of five to seven participants meeting weekly for 90 minutes using the PROAPT model over a minimum 12-month period. These parameters are not arbitrary. Five to seven is the group size that allows every member to share in every session without the group becoming either a private conversation between two people or a
+
+passive audience for one. Ninety minutes is long enough to move through all six PROAPT steps with genuine depth — the Observe and Apply stages in particular require time that shorter formats compress into superficiality. And twelve months is the minimum period over which the Affective Taxonomy stage transitions predicted by the LotS framework are likely to become visible at the group level.
+
+The group should be led by a trained facilitator — someone who understands the Affective Taxonomy, knows the PROAPT model well enough to hold the structure without strangling the Spirit's work within it, and is themselves at Stage 3 or above on the Affective Taxonomy. The facilitator requirement is discussed in more detail in section 4e below, but it is stated here because it is a constraint on the testing unit itself: a group led by a Stage 1 or Stage 2 facilitator is not testing the LotS small group protocol. It is testing an under-resourced approximation of it.
+
+The group composition that best serves the research program is a realistic cross-section of the church population — not a hand-picked group of unusually committed disciples, but a group drawn from the full range of spiritual development stages present in any healthy congregation. Hawkins and Parkinson's (2011) MOVE study found that church populations characteristically cluster at the four growth stages in roughly equal proportions, with fewer people at the most advanced stage. A research group that reflects this distribution — one or two participants at Stage 1, two at Stage 2, two at Stage 3, and one approaching Stage 4 — is both more realistic and more interesting than a homogeneous group, because it allows the protocol to observe how formation dynamics play out across the full range of starting positions simultaneously.
+
+## 4b. Open Trail OT-6: Can a Group Move Through the Affective Taxonomy?
+
+Open Trail OT-6, identified in Volume 3, asks whether a community — a small group, a congregation — can be understood to move through the Affective Taxonomy as a collective entity. The individual Affective Taxonomy is well-grounded: it describes the progressive internalization of a value (in the LotS context, trust in scripture and alignment with the image of God) in a single person's affective life. But can something analogous happen at the group level? Can a group, as a group, move from Receiving to Responding to Valuing to Organization to Characterization?
+
+The working hypothesis proposed here is yes, with two important qualifications. The first qualification is that group-level stage progression is not the same as the average of individual progressions. A group of seven people, four of whom have moved from Stage 2 to Stage 3 over twelve months, has not simply achieved a higher average score. Something has happened to the group's culture, its shared language, its collective willingness to engage in the Word at personal cost. The quality of the group's life together has changed. That change is observable and meaningful, and it is not fully captured by aggregating individual scores.
+
+The second qualification is that the group's collective stage is disproportionately influenced by two factors: the facilitator's stage and the group's most advanced members. This is consistent with what we know about community formation dynamics from both social psychology and scripture: groups tend to be pulled upward toward their most formation-mature members, and facilitators set the ceiling for the depth of vulnerability and application that the group will risk. A Stage 4 facilitator creates a group culture in which Stage 3 behavior is normalized and Stage 4 behavior is modeled. A Stage 2 facilitator creates a group culture in which intellectual engagement is the ceiling.
+
+**Working Definition: Group Affective Taxonomy Stage**
+
+The Group Affective Taxonomy Stage (GATS) is defined as the highest stage at which consistent, habitual group-level behaviors are observed across the majority of sessions. It is not an average of individual stages. It reflects the stage that characterizes the group's shared culture — the level of engagement with the word, vulnerability in application, and willingness to be changed that has become normal in this group. A group at GATS Stage 3 is a group in which personal conviction, repentance, and costly application are normal parts of every session — not occasional dramatic events but the expected texture of the conversation.
+
+## 4c. The Group Spiritual Formation Profile (GSFP)
+
+The Group Spiritual Formation Profile is a visual mapping tool that shows the distribution of individual Affective Taxonomy stages within the group at any given assessment point. It is updated quarterly by the facilitator, based on their Stage assessment of each participant, and serves as the primary instrument for tracking the group's collective development over the twelve-month period.
+
+The GSFP is not a ranking of group members — it is never shared with the group in a way that identifies individuals by stage. Its purpose is to give the facilitator and research coordinator a picture of the group's composition and how it is evolving. A GSFP that shows, at Month 3, three participants at Stage 2 and two at Stage 3, and that shows, at Month 12, those same two at Stage 3 and three at Stage 3 with two approaching Stage 4, is telling a story about collective formation that no single participant's individual arc could tell alone.
+
+**Assessment Point Stage Distribution (example) Group Affective Taxonomy Stage** Baseline (Month 1) 2× Stage 1 | 3× Stage 2 | 1× Stage 3 | 1× Stage GATS: Stage 2
+
+Mid-point (Month 6) 0× Stage 1 | 2× Stage 2 | 3× Stage 3 | 1× Stage GATS: Stage 3 (emerging) Endpoint (Month 12) 0× Stage 1 | 1× Stage 2 | 2× Stage 3 | 3× Stage 4 | 1× Stage 5 GATS: Stage 3–4
+
+The example GSFP above illustrates the kind of movement the LotS protocol predicts: a net upward shift across the group, with the most advanced participants continuing to grow and the least advanced participants moving into genuine engagement (Stage 2 to Stage 3 transition) over the course of the year. It also illustrates a realistic complexity: not every participant moves at the same rate, and at Month 12, the group still has one participant at Stage 2. That participant's presence in the group is not a failure of the protocol. A Stage 2 participant embedded in a Stage 3 group culture is exposed, week after week, to the normalized behaviors of the next stage, which is exactly the formation environment the LotS framework predicts will eventually catalyze their own transition.
+
+**INSTRUMENT CROSS-REFERENCE — NCD’s 3 Colors of Community:** A specific external validity check is worth naming here as a concrete action item for the multi-site research design. Schwarz’s The 3 Colors of Community (ChurchSmart, 2012) includes an empirically-developed communal test instrument that assesses small group health across seven communal qualities — mapped, in Schwarz’s framework, against the seven deadly sins as their corresponding blockage counterparts. The overlap with Vol 2’s emotional knots framework is not incidental: where Vol 2 identifies the ways individual affective distortions obstruct formation, Schwarz’s seven communal qualities identify the collective-level analogs — the patterns of group dysfunction that prevent a community from becoming the formation environment it is meant to be.
+
+**VOL 2 CONNECTION — STANDING INTERIOR AGREEMENTS:** Vol 2 introduces V2.Exp2C (Standing Interior Agreements) as a sibling claim under V2.Exp2, naming the upstream binding agent that produces and re-produces emotional knots across multiple blockage-types over years and decades. The agreement is operationally distinct from a knot: a knot is what the participant is carrying; an agreement is what the participant has committed to carrying. A single standing agreement may produce grief knots, shame knots, fear knots, anger knots, and sin-channel behaviors all from the same underlying binding. For the Vol 4 testing program this matters in two specific ways. First, the GSFP and STI-A measurement scaffolding tracks knot-level patterns; the v5_6_0 framing suggests that the LotS protocol may need a complementary instrument for agreement- level patterns, since knot-level interventions may show transient effects (six-month or twelve-month re-formation of cleared patterns) when an upstream agreement is still in force. Second, the Schwarz communal-qualities instrument's identification of group- dysfunction patterns may map not only to Vol 2's knot framework (individual affective distortion) but also to V2.Exp2C's agreement framework (the collective standing agreements a group has entered about who they are, what they are permitted to be, how they are loyal to the group system). Group-level standing agreements are an open hypothesis the multi-site testing program could investigate. Administering both the GSFP and the NCD 3 Colors of Community communal instrument to the same groups in any multi-site study would allow the research team to assess convergent validity between the two instruments. If a group that the GSFP identifies as formation-blocked also scores low on the relevant NCD communal quality, that convergence would provide evidence that the two instruments are measuring related constructs from different angles. If they diverge, that divergence is equally informative — it would indicate that the GSFP is capturing something the NCD instrument misses, or vice versa. Either result advances the measurement program. This is a low-cost addition to the research design and a high-return one.
+
+## 4d. Group-Level Outcome Variables
+
+The small group testing protocol tracks five group-level outcome variables over the twelve- month period. These are distinct from the individual outcome variables described in Section 3, though they are correlated with them. They describe what is happening to the group as a unit — its shared culture, its collective behaviors, and its effectiveness as a formation community.
+
+**Group Outcome Variable 1: Net Stage Progression Across the Group** The primary group-level outcome variable is the net upward movement of Affective Taxonomy stages across all participants over the twelve-month period. This is calculated as the sum of all positive stage movements across the group, minus any negative movements (stage regression, which can occur during periods of significant trial or spiritual crisis). A group with seven
+
+participants, in which five show positive stage movement of at least one stage transition each, is performing strongly on this variable.
+
+This variable directly tests LotS-H3 and LotS-H4 at the group level: if reflective bible study in community produces the progressive heart formation the Affective Taxonomy describes, then PROAPT groups should show meaningfully greater net stage progression than comparable groups not engaged in structured reflective bible study. The multi-site research design proposed in Section 5 is built around this comparison.
+
+**Group Outcome Variable 2: Group Cohesion and Psychological Safety** Stage 3 formation — the transition from intellectual engagement to personal commitment — requires a specific quality of group environment: enough trust and safety for a participant to share a personal conviction, acknowledge a sin, or report a costly behavioral change without fear of judgment or embarrassment. A group that remains at a surface level of politeness — where no one ever takes a real personal risk — is not a Stage 3 group, regardless of what the participants' individual PSFA scores say.
+
+Group cohesion is assessed quarterly using an adapted Group Cohesion Scale (GCS), a brief validated instrument drawn from the group therapy literature and modified for a spiritual formation context. The GCS asks participants to rate the degree to which they feel genuinely known by the group, safe to share honestly, and supported in their formation journey. A rising GCS score over the twelve-month period is both an outcome of the formation process and a precondition for the deeper stages of formation — the two are mutually reinforcing.
+
+The cohesion variable also functions as an early warning system. A group whose GCS scores are declining or flat at Month 6 is unlikely to produce Stage 3-level formation in its remaining six months without a significant intervention. The facilitator's observation notes and the Session Observation Protocol data from this period should be examined carefully to identify what is preventing the development of the psychological safety that Stage 3 formation requires.
+
+**Group Outcome Variable 3: Epistemic Trust in the Group Process** The LotS framework proposes, drawing from Campbell et al.'s (2021) epistemic trust model, that the group itself becomes a trusted source of communal discernment over time — not just a context in which individuals hear scripture, but a community whose collective reading of scripture and life is trusted as a source of formation guidance. This is the communal dimension of the Romans 10 chain: sending, preaching, hearing, believing — and the hearing happens, in part, through the voices of trusted community members speaking the word into specific life situations.
+
+Epistemic trust in the group process is assessed through two items added to the quarterly GCS: one item asking whether the participant trusts the group's collective discernment as a source of guidance for their own life decisions, and one item asking whether they have acted on something the group discerned together in the past quarter. Movement on these two items over twelve months is a group-level indicator of the developing communal trust that the LotS framework predicts will emerge in a maturing PROAPT group.
+
+**Group Outcome Variable 4: The Tell Rate** The PROAPT model's final step — Tell — asks every participant to name who they will tell about what they heard from the word this week, and to report back the following week on whether they told them. The Tell step is both a formation practice and a research observable: it is the point at which the formation that happened in the group room crosses the threshold into the participant's ordinary life and begins to operate in the Romans 10 chain.
+
+The Tell Rate is defined as the percentage of participants, across all sessions, who complete the Tell step — both naming a person and reporting back on the conversation. A group with a high Tell Rate is a group in which the word is being carried outward from the formation community into the wider world. A group with a low Tell Rate is a group in which the formation is staying in the room. The Tell Rate is tracked by the facilitator in the Session Observation Protocol and reported monthly.
+
+The Tell Rate is also sensitive to the group stage. At Stage 2, participants are often reluctant to Tell — sharing their scripture engagement with someone outside the group feels vulnerable and potentially awkward. At Stage 3, participants begin to Tell naturally, because they are beginning to live from the Word rather than just engaging with it intellectually. At Stage 4 and 5, Tell is not a prompted exercise but a habit: these participants are continuously, without being asked, bringing the word to bear on the conversations of their daily lives. Rising Tell Rates over the twelve-month period are therefore a reasonable proxy for group-level stage progression.
+
+**Group Outcome Variable 5: Fruit Observed by External Witnesses** The final group-level outcome variable is the most demanding and the most interesting: evidence of the fruit of the Spirit (Gal. 5:22–23) visible to people outside the group. Love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, self-control — these are Stage 4 and Stage 5 indicators, and they are most reliably observed not by the person exhibiting them (who is often the last to notice) and not by the formation group (who may be too close to the person to see clearly), but by the people in the participant's ordinary life who have no stake in the research program and no reason to be generous in their assessment.
+
+The External Witness Interviews described in Section 3 aggregate across the group to produce a group-level picture. If, at Month 12, six of seven participants' external witnesses independently report observable character changes that they attribute to the participant's deepened spiritual engagement, that is a strong group-level indicator that the formation process is producing the outcomes the LotS framework predicts. If the external witnesses report that nothing has changed — or, more troublingly, that the participant has become more self-righteous or less relationally available since joining the group — that is a finding that demands honest examination.
+
+## 4e. The Facilitator as a Critical Variable
+
+**FORMATION DOCUMENT CONNECTION:** *This section’s central claim — that the facilitator is the single most important variable in whether a PROAPT small group produces genuine formation — is the operational premise of the Formation Companion paper (FC) in Vol 5. FC’s Companion I threshold names Affective Stage 3 as the minimum, corresponding to Section 4e’s first facilitator requirement. The six- month PROAPT practice and ongoing supervision requirements below go beyond FC’s stated Companion I threshold and should be read as Vol 4’s operational additions to FC’s baseline, not restatements of it.* I want to be direct about something that research designs often soften: the facilitator is probably the single most important variable in whether a PROAPT small group produces genuine formation. Not the curriculum, not the assessment instruments, not the group composition — the person in the room who holds the space, models what engagement with the word looks like from the inside, and creates the conditions in which the Stage 2-to-3 transition becomes possible. This is consistent with the Image of God framework from Volume 3. The facilitator is not just a discussion leader. They are an under-shepherd of God's kingdom in this particular formation context — responsible, as Kilner's Rulership dimension describes, to steward the spiritual growth of the people in their care in alignment with God's purposes. A facilitator who is
+
+themselves at Stage 2 of the Affective Taxonomy — for whom scripture is interesting but not yet personally binding — cannot facilitate Stage 3 formation in others, because they cannot model what it looks like to let the word cost something.
+
+**Facilitator Formation Requirements** The LotS testing protocol requires that all group facilitators meet three criteria before leading a research group. First, they must be assessed at Stage 3 or above on the Affective Taxonomy, confirmed by both self-report and an observer who knows them well. A Stage 3 facilitator can lead a group that includes Stage 4 participants — the Spirit's work is not limited by the facilitator's stage — but a facilitator below Stage 3 cannot reliably model the behaviors that the protocol is trying to produce.
+
+Second, they must have completed a minimum of six months of their own PROAPT practice before leading a research group. PROAPT facilitation requires a kind of dual attention — to the scripture text, to the group's dynamics, to the Spirit's movement in the room, to the individual needs of each participant — that only develops through sustained practice. A facilitator who is learning PROAPT at the same time as they are leading a research group is not testing the LotS protocol; they are running a pilot of an undertrained facilitator.
+
+Third, they must be receiving supervision from a more formation-mature practitioner throughout the research period — a spiritual director, a senior pastor, or a peer supervision group of facilitators who meet monthly to share observations and receive challenge and support. The supervision requirement is both a methodological safeguard (it catches facilitator drift and blind spots before they affect the group's formation) and a formation requirement: the facilitator's own journey does not pause while they are leading others.
+
+**The Facilitator's Own Affective Taxonomy Stage as an Independent Variable** The research protocol treats the facilitator's Affective Taxonomy stage as a formal independent variable. At the beginning of the study, each facilitator is assessed using the PSFA and the observer-report process described in Section 3. Their stage is documented and held constant as a variable in the analysis of group-level outcomes. The prediction — and this is an Open Trail worth testing formally — is that groups led by Stage 4 facilitators will show significantly greater net stage progression over twelve months than groups led by Stage 3 facilitators, even when all other variables (group composition, church context, PROAPT fidelity) are controlled.
+
+This prediction is not a criticism of Stage 3 facilitators. Stage 3 is a genuinely transformative stage of formation, and a Stage 3 facilitator brings real gifts to a group — the lived experience of what it costs to begin organizing life around biblical values, the fresh memory of the Stage 2-to- 3 transition that may be happening for participants around them. But Stage 4 brings something different: the stability and integration that comes from having organized the entire value system around scripture, from which a different quality of presence and patience is possible. The distinction is worth testing, not assuming.
+
+## 4f. The Session Observation Protocol
+
+The Session Observation Protocol (SOP) is a structured one-page checklist that the facilitator completes after every PROAPT session. It takes five to ten minutes and is designed to capture the formation-relevant dynamics of the session in a form that can be aggregated across sessions and analyzed over time.
+
+The SOP tracks six session-level variables: (1) the number of participants who engaged substantively in the Observe step — asking factual questions, making connections between the text and prior sessions; (2) the number who shared personal applications in the Apply step that
+
+reflected genuine personal cost or conviction; (3) the number who reported a Tell from the previous week; (4) the number who named a specific person for this week's Tell; (5) any significant emotional moment in the session — a moment of visible conviction, repentance, or breakthrough that the facilitator identifies as a potential stage transition indicator; and (6) the facilitator's overall rating of the session's depth of formation engagement on a five-point scale.
+
+The SOP data builds into a session-by-session formation record for each group. Plotted over twelve months, the SOP scores tell a story: groups that begin with low Apply and Tell scores and gradually develop richer personal engagement are tracking the Stage 2-to-3 movement that the LotS protocol predicts. Groups whose SOP scores are flat or declining after Month 3 are signaling that something in the group's formation environment is not working, and the qualitative data from the facilitator's supervision notes should be examined to understand what.
+
+## 4g. The Collective Spiritual Formation Assessment
+
+In addition to the individual PSFA scores and the facilitator's GSFP tracking, the testing protocol includes a brief Collective Spiritual Formation Assessment (CSFA) administered to the group as a whole at the three formal assessment points: baseline, Month 6, and Month 12. The CSFA asks participants to evaluate the group itself — not their own formation, but what they observe in the group's shared culture and collective life with scripture.
+
+The CSFA has twelve items organized into three domains. The first domain assesses the group's corporate engagement with scripture: do participants experience the group's reading and discussion of the word as qualitatively different from reading alone? Do they find that the group hears things they would not have heard individually? The second domain assesses the group's corporate trust and safety: do participants feel genuinely known, genuinely safe to share their formation journey, and genuinely accountable to the group's collective discernment? The third domain assesses the group's outward orientation: is the formation that happens in the room crossing the threshold into the participants' daily lives, relationships, and communities?
+
+The CSFA is administered anonymously, and results are shared with the group in aggregate at the Month 6 and Month 12 check-in sessions. This shared feedback is itself a formation practice: a group that can look honestly at its own CSFA scores — noting where its corporate life is strong and where it is thin — and discuss those results with humility and curiosity, is exhibiting Stage 3 behaviors at the group level. A group that receives CSFA feedback defensively, or that cannot discuss its collective weaknesses without becoming conflictual, is showing the facilitator exactly what formation work remains to be done.
+
+## 4h. The Testing Timeline for Small Groups
+
+The small-group testing timeline mirrors the individual timeline's three-phase structure while adding group-level assessment events and a layer of facilitator-side data collection that has no individual parallel.
+
+**Phase 1 — Group Formation and Baseline (Months 1–3)** The group's first three months are foundational in a double sense: both the individual participants are establishing their formation baselines (as described in Section 3), and the group itself is forming as a community. These two processes interact. The quality of the group's formation as a community — the degree to which psychological safety develops, the degree to which the Tell step becomes normal, the degree to which participants begin to trust the group's discernment — is both a precondition for and a product of the individual formation happening within it.
+
+The facilitator's primary task in Phase 1 is to model PROAPT discipline without over-controlling the group's responses, to establish the norms of honest sharing and genuine application that will define the group's culture for the next twelve months, and to notice — with as much accuracy as possible — where each participant is starting. The GSFP is first populated at the end of Month 1, updated at the end of Month 3.
+
+The CSFA baseline is administered at the end of Month 1, before the group has had time to develop much shared history. This early baseline captures each participant's initial experience of the group and serves as the reference point for measuring the group's collective development. Groups whose Month 1 CSFA scores already show high trust and safety have likely been formed by prior shared history — the participants may know each other well from other church contexts. This is a variable to document, because it affects the trajectory of the group's formation differently than a group of relative strangers finding their way toward trust for the first time.
+
+**Phase 2 — Group Deepening (Months 4–9)** By Month 4, the group should have moved past the initial politeness and orientation of Phase 1 into a rhythm of genuine engagement. The SOP data from Phase 2 is the richest seam of formation evidence in the entire protocol: session by session, the facilitator is documenting the specific moments of Apply and Tell, the specific emotional breakthroughs, the specific instances of personal risk-taking with the word.
+
+The Month 6 assessment point is a significant event for both the group and individuals. The GSFP is updated, the individual PSFAs and STI-As are administered, and the CSFA is administered to the group. The facilitator then prepares a brief Group Formation Review — a one-to-two-page narrative summary of the group's journey to date, identifying the most significant formation moments, the current Group Affective Taxonomy Stage, and the primary formation opportunities and obstacles for the remaining six months. This review is shared with the research coordinator and forms the basis for the facilitator's supervision conversation at Month 6.
+
+Open Trail OT-5 — the question of what precedes instantaneous or dramatic heart change — is most likely to yield data during Phase 2. If any participant in the group experiences a significant formation breakthrough during this period (a dramatic conviction, a sudden reorganization of values, an unexpected surge of Stage 3 or Stage 4 behavior), the protocol calls for a brief supplementary interview with that participant within two weeks of the event, documenting the conditions that preceded it: what had been happening in their PROAPT engagement, their personal circumstances, their prayer life, their relational context. This interview data is not part of the primary research protocol; it is flagged as supplementary qualitative data for the OT-5 Open Trail.
+
+**Phase 3 — Group Integration and Assessment (Months 10–12)** The final three months of the group's testing period have a different quality than the preceding nine. By Month 10, the group has a shared history: shared passages that have marked them, shared moments of vulnerability and breakthrough, shared language for describing the formation journey. The PROAPT sessions during this phase should be the deepest of the year — not because the group is trying harder, but because Stage 3 and Stage 4 formation behaviors have become habitual and the word is landing on ground that has been progressively prepared over nine months of consistent engagement.
+
+The Month 12 endpoint assessment completes all individual instruments (PSFA, STI-A, Image of God 4Rs) and adds the CSFA endpoint administration and the facilitator's final GSFP update.
+
+The facilitator also completes a Final Group Formation Report — a narrative document of three to five pages describing the group's twelve-month journey, the key formation events and transitions observed, the current Group Affective Taxonomy Stage, and the facilitator's assessment of which aspects of the PROAPT protocol were most and least effective in producing the outcomes the LotS framework predicted.
+
+The External Witness Interviews are conducted during Months 11 and 12. The research coordinator aggregates the EWI data across the group and presents the group-level summary (without individual identification) to the facilitator and, at the group's discretion, to the group itself. The aggregate EWI data — what the people who know these participants best observed in them over the year — is the most honest mirror the group will encounter of whether its formation produced the fruit it was aiming for.
+
+## 4i. The Claims This Protocol Tests
+
+The small group testing protocol tests several LotS claims that the individual protocol cannot reach on its own, as well as providing a community-level confirmation of the claims tested individually.
+
+**LotS-F4** — Community is essential to faith formation (the Romans 10 chain). The group protocol tests this directly: does PROAPT community produce formation outcomes that cannot be attributed to the individual's own discipline practice alone? The comparison between individual SDFL discipline frequency and group-level SOP Tell Rate scores should show that the group's communal engagement with the word adds something above and beyond what any participant would produce in private.
+
+**LotS-H2** — Unrepentant sin progressively hardens the heart. The group protocol tests this as a qualitative theme: do the NRP narratives and EWI interviews reveal patterns in which participants who are carrying unresolved sin show consistently slower stage progression? This is a sensitive and ethically demanding area of investigation, and the protocol handles it through aggregate qualitative coding rather than individual attribution.
+
+**OT-6 (Collective formation)** — The group protocol is specifically designed to test whether the Group Affective Taxonomy Stage construct is meaningful and useful: does it predict individual formation outcomes better than individual starting stages alone? Does the facilitator stage predict group GATS trajectory? Does the CSFA's corporate engagement domain correlate with the Tell Rate and net stage progression?
+
+**LotS-SF1 and LotS-SF2** — Spiritual force and energy. The group protocol contributes to these claims through the aggregate EWI data and the facilitator's Final Group Formation Report: do groups at higher average stages show qualitatively different levels of spiritual vitality — more Tell activity, more fruit observed by external witnesses, more evidence of the word operating in the participants' daily lives — than groups at lower stages? The spiritual force claims are the hardest in the LotS framework to operationalize, and the group protocol is where the most interesting qualitative data about them is likely to emerge.
+
+**Section 4 Discussion Questions**
+
+**1.** The section argues that the small group is not just a delivery mechanism for the Laws of the Spirit — it is the primary testing environment. What has been your experience of a small
+
+group that genuinely functioned as a testing community? What made it different from groups that were merely social or informational?
+
+**2.** The Group Affective Taxonomy Stage (GATS) concept proposes that a group has a collective formation stage that is distinct from the average of individual stages. Do you agree that groups have a collective spiritual culture that is more than the sum of their members? What examples from your experience would you use to argue for or against this?
+
+**3.** The section argues that the facilitator is probably the single most important variable in whether a PROAPT group produces genuine formation — more important than curriculum, instruments, or group composition. How does this land for you? What are the implications for how a church invests in developing formation-capable facilitators?
+
+**4.** The Tell Rate — the percentage of participants who complete the PROAPT Tell step — is proposed as a proxy for group-level stage progression. What has been your experience of the Tell step in small groups you have participated in? Has it felt like a natural completion of the formation loop, or an awkward add-on? What would it take for Tell to become habitual?
+
+**5.** The External Witness Interview — asking someone outside the group to describe what they have observed in participants — is described as "the most honest mirror the group will encounter of whether its formation produced the fruit it was aiming for." If you were to ask the most honest person in your life to describe the fruit of the Spirit they observe in you, what do you think they would say? What would you most want them to be able to say in a year's time?
+
+**Working Definition: Group Affective Taxonomy Stage**
+
+|  |  |  |
+| --- | --- | --- |
+|  | The Group Affective Taxonomy Stage (GATS) is defined as the highest stage at which |  |
+|  | consistent, habitual group-level behaviors are observed across the majority of sessions. |  |
+|  | It is not an average of individual stages. It reflects the stage that characterizes the |  |
+|  | group's shared culture — the level of engagement with the word, vulnerability in |  |
+|  | application, and willingness to be changed that has become normal in this group. |  |
+|  |  |  |
+|  | A group at GATS Stage 3 is a group in which personal conviction, repentance, and |  |
+|  | costly application are normal parts of every session — not occasional dramatic events |  |
+|  | but the expected texture of the conversation. |  |
+|  |  |  |
+
+|  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| Assessment Point | Stage Distribution (example) |  |  |  | Group Affective |  |
+|  |  |  |  |  | Taxonomy Stage |  |
+|  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+| Baseline (Month 1) |  | 2× Stage 1 \| 3× Stage 2 \| 1× Stage 3 \| 1× Stage |  | GATS: Stage 2 |  |  |
+|  |  | 4 |  |  |  |  |
+|  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+| Mid-point (Month 6) |  | 0× Stage 1 \| 2× Stage 2 \| 3× Stage 3 \| 1× Stage |  |  | GATS: Stage 3 |  |
+|  |  | 4 |  |  | (emerging) |  |
+|  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+| Endpoint (Month 12) |  | 0× Stage 1 \| 1× Stage 2 \| 2× Stage 3 \| 3× Stage |  | GATS: Stage 3–4 |  |  |
+|  |  | 4 \| 1× Stage 5 |  |  |  |  |
+|  |  |  |  |  |  |  |
+
+**Discussion Questions for Small Groups**

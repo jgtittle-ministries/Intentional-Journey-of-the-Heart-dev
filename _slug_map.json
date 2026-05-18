@@ -1,0 +1,705 @@
+{
+  "IJH_Intro_v5_6_1_1.pdf": [
+    {
+      "h1": "Founders’ Genesis: How This Work Came Together",
+      "slug": "founders-genesis-how-this-work-came-together",
+      "path": "introduction/founders-genesis-how-this-work-came-together.md",
+      "nav_label": "Founders’ Genesis: How This Work Came Together"
+    },
+    {
+      "h1": "Introduction: What I Am Trying to Do Here",
+      "slug": "introduction-what-i-am-trying-to-do",
+      "path": "introduction/introduction-what-i-am-trying-to-do.md",
+      "nav_label": "Introduction: What I Am Trying to Do Here"
+    },
+    {
+      "h1": "Overview of the Work",
+      "slug": "overview-of-the-work",
+      "path": "introduction/overview-of-the-work.md",
+      "nav_label": "Overview of the Work"
+    },
+    {
+      "h1": "The Four Foundational Principles",
+      "slug": "four-foundational-principles",
+      "path": "introduction/four-foundational-principles.md",
+      "nav_label": "The Four Foundational Principles"
+    },
+    {
+      "h1": "A Note on Two Kinds of Laws",
+      "slug": "note-on-two-kinds-of-laws",
+      "path": "introduction/note-on-two-kinds-of-laws.md",
+      "nav_label": "A Note on Two Kinds of Laws"
+    },
+    {
+      "h1": "A Note on Proof and Certainty",
+      "slug": "note-on-proof-and-certainty",
+      "path": "introduction/note-on-proof-and-certainty.md",
+      "nav_label": "A Note on Proof and Certainty"
+    },
+    {
+      "h1": "A Note on the use of Claude as an AI research assistant",
+      "slug": "note-on-use-of-claude-as-ai-research",
+      "path": "introduction/note-on-use-of-claude-as-ai-research.md",
+      "nav_label": "A Note on the use of Claude as an AI research assistant"
+    },
+    {
+      "h1": "Future Development",
+      "slug": "future-development",
+      "path": "introduction/future-development.md",
+      "nav_label": "Future Development"
+    }
+  ],
+  "IJH_Vol1_v5_6_1_1.pdf": [
+    {
+      "h1": "What We Are Being Formed For: The Kingdom of God Now",
+      "slug": "what-we-are-being-formed-for-the",
+      "path": "volume-1-laws-of-the-spirit/what-we-are-being-formed-for-the.md",
+      "nav_label": "What We Are Being Formed For: The Kingdom of God Now"
+    },
+    {
+      "h1": "Taxonomy Key: How This Volume Classifies Its Explorations",
+      "slug": "taxonomy-key-how-this-volume-classifies-its",
+      "path": "volume-1-laws-of-the-spirit/taxonomy-key-how-this-volume-classifies-its.md",
+      "nav_label": "Taxonomy Key: How This Volume Classifies Its Explorations"
+    },
+    {
+      "h1": "Opening Exploration: The Miracle Frame — The Natural World as a Subset",
+      "slug": "opening-miracle-frame",
+      "path": "volume-1-laws-of-the-spirit/opening-miracle-frame.md",
+      "nav_label": "Opening: The Miracle Frame"
+    },
+    {
+      "h1": "Foundational Laws: Thirteen Operational Laws of Wide Consent",
+      "slug": "foundational-laws-thirteen-operational-laws-of-wide",
+      "path": "volume-1-laws-of-the-spirit/foundational-laws-thirteen-operational-laws-of-wide.md",
+      "nav_label": "Foundational Laws: Thirteen Operational Laws of Wide Consent"
+    },
+    {
+      "h1": "Foundational Law I: The Sowing-and-Reaping Law",
+      "slug": "foundational-law-i-the-sowing-and-reaping",
+      "path": "volume-1-laws-of-the-spirit/foundational-law-i-the-sowing-and-reaping.md",
+      "nav_label": "Foundational Law I: The Sowing-and-Reaping Law"
+    },
+    {
+      "h1": "Foundational Law II: The Confession-Restoration Law",
+      "slug": "foundational-law-ii-the-confession-restoration-law",
+      "path": "volume-1-laws-of-the-spirit/foundational-law-ii-the-confession-restoration-law.md",
+      "nav_label": "Foundational Law II: The Confession-Restoration Law"
+    },
+    {
+      "h1": "Foundational Law III: The Heart-Throne Law",
+      "slug": "foundational-law-iii-the-heart-throne-law",
+      "path": "volume-1-laws-of-the-spirit/foundational-law-iii-the-heart-throne-law.md",
+      "nav_label": "Foundational Law III: The Heart-Throne Law"
+    },
+    {
+      "h1": "Foundational Law IV: The Humility-Exaltation Law",
+      "slug": "foundational-law-iv-the-humility-exaltation-law",
+      "path": "volume-1-laws-of-the-spirit/foundational-law-iv-the-humility-exaltation-law.md",
+      "nav_label": "Foundational Law IV: The Humility-Exaltation Law"
+    },
+    {
+      "h1": "Foundational Law V: The Reciprocal Forgiveness Law",
+      "slug": "foundational-law-v-the-reciprocal-forgiveness-law",
+      "path": "volume-1-laws-of-the-spirit/foundational-law-v-the-reciprocal-forgiveness-law.md",
+      "nav_label": "Foundational Law V: The Reciprocal Forgiveness Law"
+    },
+    {
+      "h1": "Foundational Law VI: The Hear-and-Obey Blessing Law",
+      "slug": "foundational-law-vi-the-hear-and-obey",
+      "path": "volume-1-laws-of-the-spirit/foundational-law-vi-the-hear-and-obey.md",
+      "nav_label": "Foundational Law VI: The Hear-and-Obey Blessing Law"
+    },
+    {
+      "h1": "Foundational Law VII: The Drawing-Near Reciprocity Law",
+      "slug": "foundational-law-vii-the-drawing-near-reciprocity",
+      "path": "volume-1-laws-of-the-spirit/foundational-law-vii-the-drawing-near-reciprocity.md",
+      "nav_label": "Foundational Law VII: The Drawing-Near Reciprocity Law"
+    },
+    {
+      "h1": "Foundational Law VIII: The Desire-for-God Law",
+      "slug": "foundational-law-viii-the-desire-for-god",
+      "path": "volume-1-laws-of-the-spirit/foundational-law-viii-the-desire-for-god.md",
+      "nav_label": "Foundational Law VIII: The Desire-for-God Law"
+    },
+    {
+      "h1": "Foundational Law IX: The Generosity-Provision Law",
+      "slug": "foundational-law-ix-the-generosity-provision-law",
+      "path": "volume-1-laws-of-the-spirit/foundational-law-ix-the-generosity-provision-law.md",
+      "nav_label": "Foundational Law IX: The Generosity-Provision Law"
+    },
+    {
+      "h1": "Foundational Law X: The Ask-Seek-Knock Law",
+      "slug": "foundational-law-x-the-ask-seek-knock",
+      "path": "volume-1-laws-of-the-spirit/foundational-law-x-the-ask-seek-knock.md",
+      "nav_label": "Foundational Law X: The Ask-Seek-Knock Law"
+    },
+    {
+      "h1": "Foundational Law XI: The Renewal-of-Mind Transformation Law",
+      "slug": "foundational-law-xi-the-renewal-of-mind",
+      "path": "volume-1-laws-of-the-spirit/foundational-law-xi-the-renewal-of-mind.md",
+      "nav_label": "Foundational Law XI: The Renewal-of-Mind Transformation Law"
+    },
+    {
+      "h1": "Foundational Law XII: The Honor-Authority Flourishing Law",
+      "slug": "foundational-law-xii-the-honor-authority-flourishing",
+      "path": "volume-1-laws-of-the-spirit/foundational-law-xii-the-honor-authority-flourishing.md",
+      "nav_label": "Foundational Law XII: The Honor-Authority Flourishing Law"
+    },
+    {
+      "h1": "Foundational Law XIII: The Pure-Heart Vision Law",
+      "slug": "foundational-law-xiii-the-pure-heart-vision",
+      "path": "volume-1-laws-of-the-spirit/foundational-law-xiii-the-pure-heart-vision.md",
+      "nav_label": "Foundational Law XIII: The Pure-Heart Vision Law"
+    },
+    {
+      "h1": "First Exploration: How to Get Faith",
+      "slug": "exploration-01-how-to-get-faith",
+      "path": "volume-1-laws-of-the-spirit/exploration-01-how-to-get-faith.md",
+      "nav_label": "1. How to Get Faith"
+    },
+    {
+      "h1": "Second Exploration: My Spirit, Heart, Soul, and Body",
+      "slug": "exploration-02-my-spirit-heart-soul-and",
+      "path": "volume-1-laws-of-the-spirit/exploration-02-my-spirit-heart-soul-and.md",
+      "nav_label": "2. My Spirit, Heart, Soul, and Body"
+    },
+    {
+      "h1": "Supplemental Exploration: The Three Desires — Design Specifications of the Human Heart",
+      "slug": "supplemental-three-desires",
+      "path": "volume-1-laws-of-the-spirit/supplemental-three-desires.md",
+      "nav_label": "Supplemental: The Three Desires"
+    },
+    {
+      "h1": "Third Exploration: The Relationship of Faith, Hope, and Love",
+      "slug": "exploration-03-relationship-of-faith-hope-and",
+      "path": "volume-1-laws-of-the-spirit/exploration-03-relationship-of-faith-hope-and.md",
+      "nav_label": "3. The Relationship of Faith, Hope, and Love"
+    },
+    {
+      "h1": "Fourth Exploration: Wisdom, Knowledge, Understanding, and Discernment",
+      "slug": "exploration-04-wisdom-knowledge-understanding-and-discernment",
+      "path": "volume-1-laws-of-the-spirit/exploration-04-wisdom-knowledge-understanding-and-discernment.md",
+      "nav_label": "4. Wisdom, Knowledge, Understanding, and Discernment"
+    },
+    {
+      "h1": "Fifth Exploration: The Gateway Condition — The Fear of the Lord",
+      "slug": "exploration-05-gateway-condition",
+      "path": "volume-1-laws-of-the-spirit/exploration-05-gateway-condition.md",
+      "nav_label": "5. The Gateway Condition"
+    },
+    {
+      "h1": "Sixth Exploration: The Obedience Channel — How Revelation Flows",
+      "slug": "exploration-06-obedience-channel",
+      "path": "volume-1-laws-of-the-spirit/exploration-06-obedience-channel.md",
+      "nav_label": "6. The Obedience Channel"
+    },
+    {
+      "h1": "Seventh Exploration: Spiritual Authority — The Force Multiplier",
+      "slug": "exploration-07-spiritual-authority",
+      "path": "volume-1-laws-of-the-spirit/exploration-07-spiritual-authority.md",
+      "nav_label": "7. Spiritual Authority"
+    },
+    {
+      "h1": "Eighth Exploration: Prayer as a Resonance Phenomenon",
+      "slug": "exploration-08-prayer-as-resonance-phenomenon",
+      "path": "volume-1-laws-of-the-spirit/exploration-08-prayer-as-resonance-phenomenon.md",
+      "nav_label": "8. Prayer as a Resonance Phenomenon"
+    },
+    {
+      "h1": "Spiritual Force, Energy, and Power",
+      "slug": "spiritual-force-energy-and-power",
+      "path": "volume-1-laws-of-the-spirit/spiritual-force-energy-and-power.md",
+      "nav_label": "Spiritual Force, Energy, and Power"
+    },
+    {
+      "h1": "Connecting the Dots: How the Eight Explorations Fit Together",
+      "slug": "connecting-the-dots-how-the-eight-explorations",
+      "path": "volume-1-laws-of-the-spirit/connecting-the-dots-how-the-eight-explorations.md",
+      "nav_label": "Connecting the Dots: How the Eight Explorations Fit Together"
+    },
+    {
+      "h1": "The Periodic Table — See Volume 5",
+      "slug": "periodic-table-see-volume-5",
+      "path": "volume-1-laws-of-the-spirit/periodic-table-see-volume-5.md",
+      "nav_label": "The Periodic Table"
+    },
+    {
+      "h1": "A Word to My Kids at the End of This Volume",
+      "slug": "word-to-my-kids-at-the-end",
+      "path": "volume-1-laws-of-the-spirit/word-to-my-kids-at-the-end.md",
+      "nav_label": "A Word to My Kids at the End of This Volume"
+    }
+  ],
+  "IJH_Vol2_v5_6_1_1.pdf": [
+    {
+      "h1": "The Larger Story: Where This Volume Sits",
+      "slug": "larger-story-where-this-volume-sits",
+      "path": "volume-2-knowing-to-doing/larger-story-where-this-volume-sits.md",
+      "nav_label": "The Larger Story: Where This Volume Sits"
+    },
+    {
+      "h1": "Introduction: The Bridge from Knowing to Doing",
+      "slug": "introduction-the-bridge-from-knowing-to-doing",
+      "path": "volume-2-knowing-to-doing/introduction-the-bridge-from-knowing-to-doing.md",
+      "nav_label": "Introduction: The Bridge from Knowing to Doing"
+    },
+    {
+      "h1": "Taxonomy Key: How This Volume Classifies Its Explorations",
+      "slug": "taxonomy-key-how-this-volume-classifies-its",
+      "path": "volume-2-knowing-to-doing/taxonomy-key-how-this-volume-classifies-its.md",
+      "nav_label": "Taxonomy Key: How This Volume Classifies Its Explorations"
+    },
+    {
+      "h1": "PART I",
+      "slug": "part-i",
+      "path": "volume-2-knowing-to-doing/part-i.md",
+      "nav_label": "PART I"
+    },
+    {
+      "h1": "Exploration O: The Christian Companion's Framework — Tool Import Discipline",
+      "slug": "exploration-o-the-christian-companions-framework-tool",
+      "path": "volume-2-knowing-to-doing/exploration-o-the-christian-companions-framework-tool.md",
+      "nav_label": "Exploration O: The Christian Companion's Framework"
+    },
+    {
+      "h1": "First Exploration: The Heart Soil — A Diagnostic Map",
+      "slug": "exploration-01-heart-soil",
+      "path": "volume-2-knowing-to-doing/exploration-01-heart-soil.md",
+      "nav_label": "1. The Heart Soil"
+    },
+    {
+      "h1": "First Exploration (B): Wound vs. Sin — The Structural Distinction",
+      "slug": "exploration-01b-wound-vs-sin",
+      "path": "volume-2-knowing-to-doing/exploration-01b-wound-vs-sin.md",
+      "nav_label": "1B. Wound vs. Sin"
+    },
+    {
+      "h1": "Second Exploration: Emotional Knots — The Energetic Blockage Law",
+      "slug": "exploration-02-emotional-knots",
+      "path": "volume-2-knowing-to-doing/exploration-02-emotional-knots.md",
+      "nav_label": "2. Emotional Knots"
+    },
+    {
+      "h1": "Second Exploration (A): The Wound and the False Self — The Identity Blockage Law",
+      "slug": "exploration-02a-wound-and-false-self",
+      "path": "volume-2-knowing-to-doing/exploration-02a-wound-and-false-self.md",
+      "nav_label": "2A. The Wound and the False Self"
+    },
+    {
+      "h1": "Second Exploration (B): The Adversary’s Role — Why the Knots Don’t Just Happen",
+      "slug": "exploration-02b-adversarys-role",
+      "path": "volume-2-knowing-to-doing/exploration-02b-adversarys-role.md",
+      "nav_label": "2B. The Adversary’s Role"
+    },
+    {
+      "h1": "Second Exploration (C): Standing Interior Agreements",
+      "slug": "exploration-02c-standing-interior-agreements",
+      "path": "volume-2-knowing-to-doing/exploration-02c-standing-interior-agreements.md",
+      "nav_label": "2C. Standing Interior Agreements"
+    },
+    {
+      "h1": "Third Exploration: Believing a Lie — The Cognitive Blockage Law",
+      "slug": "exploration-03-believing-lie",
+      "path": "volume-2-knowing-to-doing/exploration-03-believing-lie.md",
+      "nav_label": "3. Believing a Lie"
+    },
+    {
+      "h1": "Fourth Exploration: Confession and Restoration — Clearing the Sin Blockage",
+      "slug": "exploration-04-confession-and-restoration",
+      "path": "volume-2-knowing-to-doing/exploration-04-confession-and-restoration.md",
+      "nav_label": "4. Confession and Restoration"
+    },
+    {
+      "h1": "PART II",
+      "slug": "part-ii",
+      "path": "volume-2-knowing-to-doing/part-ii.md",
+      "nav_label": "PART II"
+    },
+    {
+      "h1": "Fifth Exploration: The Four Connects — A Causal Sequence",
+      "slug": "exploration-05-four-connects",
+      "path": "volume-2-knowing-to-doing/exploration-05-four-connects.md",
+      "nav_label": "5. The Four Connects"
+    },
+    {
+      "h1": "Sixth Exploration: The Tool Map — Matching the Right Tool to the Right Blockage",
+      "slug": "exploration-06-tool-map",
+      "path": "volume-2-knowing-to-doing/exploration-06-tool-map.md",
+      "nav_label": "6. The Tool Map"
+    },
+    {
+      "h1": "Sixth Exploration (A): The Image-Bearing Dignity of the Wronger",
+      "slug": "exploration-06a-image-bearing-dignity-of-wronger",
+      "path": "volume-2-knowing-to-doing/exploration-06a-image-bearing-dignity-of-wronger.md",
+      "nav_label": "6A. The Image-Bearing Dignity of the Wronger"
+    },
+    {
+      "h1": "Sixth Exploration (B): Forgiveness as Re-integration of the Wronger",
+      "slug": "exploration-06b-forgiveness-as-re-integration-of",
+      "path": "volume-2-knowing-to-doing/exploration-06b-forgiveness-as-re-integration-of.md",
+      "nav_label": "6B. Forgiveness as Re-integration of the Wronger"
+    },
+    {
+      "h1": "Sixth Exploration (C): The Discernment-from-Outside-the- Frame Law",
+      "slug": "exploration-06c-discernment-from-outside-frame-law",
+      "path": "volume-2-knowing-to-doing/exploration-06c-discernment-from-outside-frame-law.md",
+      "nav_label": "6C. The Discernment-from-Outside-the- Frame Law"
+    },
+    {
+      "h1": "Seventh Exploration: Hearing with Understanding — The Experiential Processes",
+      "slug": "exploration-07-hearing-with-understanding",
+      "path": "volume-2-knowing-to-doing/exploration-07-hearing-with-understanding.md",
+      "nav_label": "7. Hearing with Understanding"
+    },
+    {
+      "h1": "PART III",
+      "slug": "part-iii",
+      "path": "volume-2-knowing-to-doing/part-iii.md",
+      "nav_label": "PART III"
+    },
+    {
+      "h1": "Seventh Exploration (A): Discernment of Voices as Level II Companion Competency",
+      "slug": "exploration-07a-discernment-of-voices-as-level",
+      "path": "volume-2-knowing-to-doing/exploration-07a-discernment-of-voices-as-level.md",
+      "nav_label": "7A. Discernment of Voices as Level II Companion Competency"
+    },
+    {
+      "h1": "Eighth Exploration: The Container — Preparing the Conditions for Hearing in the Community",
+      "slug": "exploration-08-container",
+      "path": "volume-2-knowing-to-doing/exploration-08-container.md",
+      "nav_label": "8. The Container"
+    },
+    {
+      "h1": "Eighth Exploration (B): The Session Liturgy",
+      "slug": "exploration-08b-session-liturgy",
+      "path": "volume-2-knowing-to-doing/exploration-08b-session-liturgy.md",
+      "nav_label": "8B. The Session Liturgy"
+    },
+    {
+      "h1": "Ninth Exploration: Community as Amplifier — The Law and the Danger",
+      "slug": "exploration-09-community-as-amplifier",
+      "path": "volume-2-knowing-to-doing/exploration-09-community-as-amplifier.md",
+      "nav_label": "9. Community as Amplifier"
+    },
+    {
+      "h1": "Ninth Exploration (A): The Corporate Witness of Declared Identity",
+      "slug": "exploration-09a-corporate-witness-of-declared-identity",
+      "path": "volume-2-knowing-to-doing/exploration-09a-corporate-witness-of-declared-identity.md",
+      "nav_label": "9A. The Corporate Witness of Declared Identity"
+    },
+    {
+      "h1": "Tenth Exploration: The Training Plan — Operating in Faith as a Learnable Skill",
+      "slug": "exploration-10-training-plan",
+      "path": "volume-2-knowing-to-doing/exploration-10-training-plan.md",
+      "nav_label": "10. The Training Plan"
+    },
+    {
+      "h1": "Epilogue: The Invitation to Volume 3",
+      "slug": "epilogue-the-invitation-to-volume-3",
+      "path": "volume-2-knowing-to-doing/epilogue-the-invitation-to-volume-3.md",
+      "nav_label": "Epilogue: The Invitation to Volume 3"
+    }
+  ],
+  "IJH_Vol3_v5_6_1_1.pdf": [
+    {
+      "h1": "Taxonomy Key: How This Volume Classifies Its Explorations",
+      "slug": "taxonomy-key-how-this-volume-classifies-its",
+      "path": "volume-3-quantitative-framework/taxonomy-key-how-this-volume-classifies-its.md",
+      "nav_label": "Taxonomy Key: How This Volume Classifies Its Explorations"
+    },
+    {
+      "h1": "First Exploration: The Case for Quantification",
+      "slug": "exploration-01-case-for-quantification",
+      "path": "volume-3-quantitative-framework/exploration-01-case-for-quantification.md",
+      "nav_label": "1. The Case for Quantification"
+    },
+    {
+      "h1": "Second Exploration: Transcendental Field Theory as the Vol 3 Framework",
+      "slug": "exploration-02-transcendental-field-theory-as-vol",
+      "path": "volume-3-quantitative-framework/exploration-02-transcendental-field-theory-as-vol.md",
+      "nav_label": "2. Transcendental Field Theory as the Vol 3 Framework"
+    },
+    {
+      "h1": "Third Exploration: Spiritual Force — The Analytical Core",
+      "slug": "exploration-03-spiritual-force",
+      "path": "volume-3-quantitative-framework/exploration-03-spiritual-force.md",
+      "nav_label": "3. Spiritual Force"
+    },
+    {
+      "h1": "Fourth Exploration: Spiritual Distance — Kinematics Before Dynamics",
+      "slug": "exploration-04-spiritual-distance",
+      "path": "volume-3-quantitative-framework/exploration-04-spiritual-distance.md",
+      "nav_label": "4. Spiritual Distance"
+    },
+    {
+      "h1": "Fifth Exploration: Spiritual Energy and Power",
+      "slug": "exploration-05-spiritual-energy-and-power",
+      "path": "volume-3-quantitative-framework/exploration-05-spiritual-energy-and-power.md",
+      "nav_label": "5. Spiritual Energy and Power"
+    },
+    {
+      "h1": "Sixth Exploration: Conservation Laws — The Hardest Question in Vol 3",
+      "slug": "exploration-06-conservation-laws",
+      "path": "volume-3-quantitative-framework/exploration-06-conservation-laws.md",
+      "nav_label": "6. Conservation Laws"
+    },
+    {
+      "h1": "Seventh Exploration: Systems Dynamics as the Modeling Language",
+      "slug": "exploration-07-systems-dynamics-as-modeling-language",
+      "path": "volume-3-quantitative-framework/exploration-07-systems-dynamics-as-modeling-language.md",
+      "nav_label": "7. Systems Dynamics as the Modeling Language"
+    },
+    {
+      "h1": "Eighth Exploration: Miracles — Resonance Points in the Spiritual System",
+      "slug": "exploration-08-miracles",
+      "path": "volume-3-quantitative-framework/exploration-08-miracles.md",
+      "nav_label": "8. Miracles"
+    },
+    {
+      "h1": "Ninth Exploration: The Glory Attractor and the Sanctification Trajectory",
+      "slug": "exploration-09-glory-attractor-and-sanctification-trajectory",
+      "path": "volume-3-quantitative-framework/exploration-09-glory-attractor-and-sanctification-trajectory.md",
+      "nav_label": "9. The Glory Attractor and the Sanctification Trajectory"
+    },
+    {
+      "h1": "Open Trails: What Vol 3 Cannot Yet Answer",
+      "slug": "open-trails-what-vol-3-cannot-yet",
+      "path": "volume-3-quantitative-framework/open-trails-what-vol-3-cannot-yet.md",
+      "nav_label": "Open Trails: What Vol 3 Cannot Yet Answer"
+    },
+    {
+      "h1": "Epilogue: The Invitation Forward",
+      "slug": "epilogue-the-invitation-forward",
+      "path": "volume-3-quantitative-framework/epilogue-the-invitation-forward.md",
+      "nav_label": "Epilogue: The Invitation Forward"
+    },
+    {
+      "h1": "Appendix: Transcendental Field Theory Equations",
+      "slug": "appendix-transcendental-field-theory-equations",
+      "path": "volume-3-quantitative-framework/appendix-transcendental-field-theory-equations.md",
+      "nav_label": "Appendix: Transcendental Field Theory Equations"
+    },
+    {
+      "h1": "Appendix: TFT Interpreted Analogies",
+      "slug": "appendix-tft-interpreted-analogies",
+      "path": "volume-3-quantitative-framework/appendix-tft-interpreted-analogies.md",
+      "nav_label": "Appendix: TFT Interpreted Analogies"
+    },
+    {
+      "h1": "Appendix: TFT Explained",
+      "slug": "appendix-tft-explained",
+      "path": "volume-3-quantitative-framework/appendix-tft-explained.md",
+      "nav_label": "Appendix: TFT Explained"
+    },
+    {
+      "h1": "Appendix: TFT Challenged",
+      "slug": "appendix-tft-challenged",
+      "path": "volume-3-quantitative-framework/appendix-tft-challenged.md",
+      "nav_label": "Appendix: TFT Challenged"
+    },
+    {
+      "h1": "Appendix: Master Law Index",
+      "slug": "appendix-master-law-index",
+      "path": "volume-3-quantitative-framework/appendix-master-law-index.md",
+      "nav_label": "Appendix: Master Law Index"
+    }
+  ],
+  "IJH_Vol4_v5_6_0_1.pdf": [
+    {
+      "h1": "Section 1: Why Testing Matters for the Laws of the Spirit Project",
+      "slug": "section-1-why-testing-matters-for-laws",
+      "path": "volume-4-testing-framework/section-1-why-testing-matters-for-laws.md",
+      "nav_label": "1. Why Testing Matters for the Laws of the Spirit Project"
+    },
+    {
+      "h1": "Section 2: Testing Framework — Epistemological Foundations",
+      "slug": "section-2-testing-framework",
+      "path": "volume-4-testing-framework/section-2-testing-framework.md",
+      "nav_label": "2. Testing Framework"
+    },
+    {
+      "h1": "Section 3: Individual Spiritual Formation Testing Protocol",
+      "slug": "section-3-individual-spiritual-formation-testing-protocol",
+      "path": "volume-4-testing-framework/section-3-individual-spiritual-formation-testing-protocol.md",
+      "nav_label": "3. Individual Spiritual Formation Testing Protocol"
+    },
+    {
+      "h1": "Section 4: Small Group Spiritual Formation Testing Protocol",
+      "slug": "section-4-small-group-spiritual-formation-testing",
+      "path": "volume-4-testing-framework/section-4-small-group-spiritual-formation-testing.md",
+      "nav_label": "4. Small Group Spiritual Formation Testing Protocol"
+    },
+    {
+      "h1": "Section 5: Research Program Design for Spiritual Formation",
+      "slug": "section-5-research-program-design-for-spiritual",
+      "path": "volume-4-testing-framework/section-5-research-program-design-for-spiritual.md",
+      "nav_label": "5. Research Program Design for Spiritual Formation"
+    }
+  ],
+  "IJH_Vol5_v5_6_1_1.pdf": [
+    {
+      "h1": "Introduction",
+      "slug": "introduction",
+      "path": "volume-5-references/introduction.md",
+      "nav_label": "Introduction"
+    },
+    {
+      "h1": "Part I: Scholarly and Academic Sources",
+      "slug": "part-i-scholarly-and-academic-sources",
+      "path": "volume-5-references/part-i-scholarly-and-academic-sources.md",
+      "nav_label": "Part I: Scholarly and Academic Sources"
+    },
+    {
+      "h1": "Part II: Spiritual Formation and Theological Authors",
+      "slug": "part-ii-spiritual-formation-and-theological-authors",
+      "path": "volume-5-references/part-ii-spiritual-formation-and-theological-authors.md",
+      "nav_label": "Part II: Spiritual Formation and Theological Authors"
+    },
+    {
+      "h1": "Part III: Processes and Ministry Tools",
+      "slug": "part-iii-processes-and-ministry-tools",
+      "path": "volume-5-references/part-iii-processes-and-ministry-tools.md",
+      "nav_label": "Part III: Processes and Ministry Tools"
+    },
+    {
+      "h1": "Part VI: Tool Protocols",
+      "slug": "part-vi-tool-protocols",
+      "path": "volume-5-references/part-vi-tool-protocols.md",
+      "nav_label": "Part VI: Tool Protocols"
+    },
+    {
+      "h1": "B17 PIES Communication and Clearing Model",
+      "slug": "b17-pies-communication-and-clearing-model",
+      "path": "volume-5-references/b17-pies-communication-and-clearing-model.md",
+      "nav_label": "B17 PIES Communication and Clearing Model"
+    },
+    {
+      "h1": "B18 Heart Prayer Time",
+      "slug": "b18-heart-prayer-time",
+      "path": "volume-5-references/b18-heart-prayer-time.md",
+      "nav_label": "B18 Heart Prayer Time"
+    },
+    {
+      "h1": "A24 Blessing Receiving Protocol (with the God-Split for Shame Removal)",
+      "slug": "a24-blessing-receiving-protocol-with-the-god",
+      "path": "volume-5-references/a24-blessing-receiving-protocol-with-the-god.md",
+      "nav_label": "A24 Blessing Receiving Protocol (with the God-Split for Shame Removal)"
+    },
+    {
+      "h1": "A25 Breaking the Contracts Exercise",
+      "slug": "a25-breaking-the-contracts-exercise",
+      "path": "volume-5-references/a25-breaking-the-contracts-exercise.md",
+      "nav_label": "A25 Breaking the Contracts Exercise"
+    },
+    {
+      "h1": "A15 7×7 Process (Mortality Visualization) Protocol",
+      "slug": "a15-7-7-process-mortality-visualization-protocol",
+      "path": "volume-5-references/a15-7-7-process-mortality-visualization-protocol.md",
+      "nav_label": "A15 7×7 Process (Mortality Visualization) Protocol"
+    },
+    {
+      "h1": "A16 Group Mission of Service Protocol",
+      "slug": "a16-group-mission-of-service-protocol",
+      "path": "volume-5-references/a16-group-mission-of-service-protocol.md",
+      "nav_label": "A16 Group Mission of Service Protocol"
+    },
+    {
+      "h1": "A21 Say Your Mission / Mission Resonance Circle Protocol",
+      "slug": "a21-say-your-mission-mission-resonance-circle",
+      "path": "volume-5-references/a21-say-your-mission-mission-resonance-circle.md",
+      "nav_label": "A21 Say Your Mission / Mission Resonance Circle Protocol"
+    },
+    {
+      "h1": "A22 BoB Onboarding Protocol",
+      "slug": "a22-bob-onboarding-protocol",
+      "path": "volume-5-references/a22-bob-onboarding-protocol.md",
+      "nav_label": "A22 BoB Onboarding Protocol"
+    },
+    {
+      "h1": "A26 Tell Your Story Protocol",
+      "slug": "a26-tell-your-story-protocol",
+      "path": "volume-5-references/a26-tell-your-story-protocol.md",
+      "nav_label": "A26 Tell Your Story Protocol"
+    },
+    {
+      "h1": "A28 Heart Bible Study with PROAPT",
+      "slug": "a28-heart-bible-study-with-proapt",
+      "path": "volume-5-references/a28-heart-bible-study-with-proapt.md",
+      "nav_label": "A28 Heart Bible Study with PROAPT"
+    },
+    {
+      "h1": "A29 Any Doubts Process",
+      "slug": "a29-any-doubts-process",
+      "path": "volume-5-references/a29-any-doubts-process.md",
+      "nav_label": "A29 Any Doubts Process"
+    },
+    {
+      "h1": "A32 Hot Seat Protocol (with Mini Hot Seat as named variant)",
+      "slug": "a32-hot-seat-protocol-with-mini-hot",
+      "path": "volume-5-references/a32-hot-seat-protocol-with-mini-hot.md",
+      "nav_label": "A32 Hot Seat Protocol (with Mini Hot Seat as named variant)"
+    },
+    {
+      "h1": "A33 What's at Risk Protocol",
+      "slug": "a33-whats-at-risk-protocol",
+      "path": "volume-5-references/a33-whats-at-risk-protocol.md",
+      "nav_label": "A33 What's at Risk Protocol"
+    },
+    {
+      "h1": "Mission-Arc Family (A27 + A30 + A31)",
+      "slug": "mission-arc-family-a27-a30-a31",
+      "path": "volume-5-references/mission-arc-family-a27-a30-a31.md",
+      "nav_label": "Mission-Arc Family (A27 + A30 + A31)"
+    },
+    {
+      "h1": "B11 Ideal Support Figure",
+      "slug": "b11-ideal-support-figure",
+      "path": "volume-5-references/b11-ideal-support-figure.md",
+      "nav_label": "B11 Ideal Support Figure"
+    },
+    {
+      "h1": "B12 Process Work Recipe",
+      "slug": "b12-process-work-recipe",
+      "path": "volume-5-references/b12-process-work-recipe.md",
+      "nav_label": "B12 Process Work Recipe"
+    },
+    {
+      "h1": "B13 Front/Back Facilitator Team Structure",
+      "slug": "b13-front-back-facilitator-team-structure",
+      "path": "volume-5-references/b13-front-back-facilitator-team-structure.md",
+      "nav_label": "B13 Front/Back Facilitator Team Structure"
+    },
+    {
+      "h1": "B14 Kinesthetic Metaphor",
+      "slug": "b14-kinesthetic-metaphor",
+      "path": "volume-5-references/b14-kinesthetic-metaphor.md",
+      "nav_label": "B14 Kinesthetic Metaphor"
+    },
+    {
+      "h1": "B15 Pull-out Work",
+      "slug": "b15-pull-out-work",
+      "path": "volume-5-references/b15-pull-out-work.md",
+      "nav_label": "B15 Pull-out Work"
+    },
+    {
+      "h1": "The Periodic Table of Spiritual Laws — A Summing and Organizing Reference",
+      "slug": "periodic-table-of-spiritual-laws-a-summing",
+      "path": "volume-5-references/periodic-table-of-spiritual-laws-a-summing.md",
+      "nav_label": "The Periodic Table of Spiritual Laws"
+    },
+    {
+      "h1": "The Periodic Table of Spiritual Laws — Revised Working Draft",
+      "slug": "periodic-table-of-spiritual-laws-revised-working",
+      "path": "volume-5-references/periodic-table-of-spiritual-laws-revised-working.md",
+      "nav_label": "The Periodic Table of Spiritual Laws"
+    },
+    {
+      "h1": "Measuring Spiritual Formation at Scale",
+      "slug": "measuring-spiritual-formation-at-scale",
+      "path": "volume-5-references/measuring-spiritual-formation-at-scale.md",
+      "nav_label": "Measuring Spiritual Formation at Scale"
+    }
+  ],
+  "IJH_Vol6_v5_6_0_1.pdf": []
+}
