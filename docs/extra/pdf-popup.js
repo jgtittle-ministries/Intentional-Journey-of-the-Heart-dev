@@ -9,10 +9,11 @@
     modal.id = 'pdf-popup-modal';
     modal.setAttribute('aria-hidden', 'true');
     modal.innerHTML = `
-      <div class="pdf-popup-backdrop"></div>
+      <div class="pdf-popup-backdrop" title="Click to close"></div>
       <div class="pdf-popup-window" role="dialog" aria-modal="true" aria-label="PDF document">
         <div class="pdf-popup-bar">
           <span class="pdf-popup-title"></span>
+          <span class="pdf-popup-hint">Click outside or press Esc to close</span>
           <a class="pdf-popup-open" href="#" target="_blank" rel="noopener">Open in new tab ↗</a>
           <button class="pdf-popup-close" aria-label="Close" type="button">×</button>
         </div>
