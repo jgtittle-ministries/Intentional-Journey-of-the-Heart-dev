@@ -23,6 +23,26 @@ a.pdf-popup:focus {
   color: #90caf9;
 }
 
+/* Button-style popup link — used when the popup link is the primary
+   call-to-action on a page (e.g. Vol 3 TFT appendices). Combine with
+   Material's `.md-button` / `.md-button--primary` to render as a button. */
+a.pdf-popup.md-button {
+  margin-left: 0;
+  font-size: 0.9rem;
+  font-weight: 700;
+  text-decoration: none;
+  white-space: normal;
+  display: inline-block;
+  padding: 0.625em 1.25em;
+}
+a.pdf-popup.md-button:hover,
+a.pdf-popup.md-button:focus {
+  text-decoration: none;
+}
+[data-md-color-scheme="slate"] a.pdf-popup.md-button {
+  color: inherit;
+}
+
 /* Modal container */
 #pdf-popup-modal {
   position: fixed;

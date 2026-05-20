@@ -6,4 +6,4 @@ source: "IJH_Vol3_v5_6_1_1.pdf"
 
 # Appendix: TFT Challenged
 
-[(pdf)](source-pdfs/tft-challenged.pdf){: .pdf-popup data-pdf-label="TFT — Challenged" }
+[Open the TFT Challenged PDF ↗](source-pdfs/tft-challenged.pdf){: .md-button .md-button--primary .pdf-popup data-pdf-label="TFT — Challenged" }
