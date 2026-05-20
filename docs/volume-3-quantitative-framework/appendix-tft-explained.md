@@ -6,4 +6,4 @@ source: "IJH_Vol3_v5_6_1_1.pdf"
 
 # Appendix: TFT Explained
 
-AN ACCESSIBLE EXPLANATION OF THE TBG Theory.pdf
+[(pdf)](source-pdfs/tft-explained.pdf){: .pdf-popup data-pdf-label="TFT — Explained" }
