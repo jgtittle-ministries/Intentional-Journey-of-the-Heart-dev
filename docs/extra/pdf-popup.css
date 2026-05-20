@@ -57,13 +57,14 @@ a.pdf-popup.md-button:focus {
   position: absolute;
   inset: 0;
   background: rgba(0, 0, 0, 0.78);
+  cursor: pointer;
 }
 .pdf-popup-window {
   position: absolute;
-  top: 4%;
-  left: 4%;
-  width: 92%;
-  height: 92%;
+  top: 6%;
+  left: 8%;
+  width: 84%;
+  height: 88%;
   background: #ffffff;
   border-radius: 6px;
   box-shadow: 0 10px 40px rgba(0, 0, 0, 0.5);
@@ -87,6 +88,18 @@ a.pdf-popup.md-button:focus {
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
+}
+.pdf-popup-hint {
+  flex: 0 0 auto;
+  font-size: 0.8em;
+  font-style: italic;
+  opacity: 0.75;
+  white-space: nowrap;
+}
+@media (max-width: 600px) {
+  .pdf-popup-hint {
+    display: none;
+  }
 }
 .pdf-popup-open {
   color: #93c5fd;
