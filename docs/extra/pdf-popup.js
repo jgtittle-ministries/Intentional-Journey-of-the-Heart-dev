@@ -34,7 +34,11 @@
   function openModal(href, label) {
     ensureModal();
     const modal = document.getElementById('pdf-popup-modal');
-    modal.querySelector('.pdf-popup-frame').src = href;
+    // Force the browser's PDF viewer to open at 100% zoom via Adobe Open Parameters.
+    // Default Chrome/Edge behavior is 67% ("Page Fit Width"), too small to read math.
+    const sep = href.includes('#') ? '&' : '#';
+    const framedHref = href + sep + 'zoom=100';
+    modal.querySelector('.pdf-popup-frame').src = framedHref;
     modal.querySelector('.pdf-popup-open').href = href;
     modal.querySelector('.pdf-popup-title').textContent = label || '';
     modal.classList.add('is-open');
