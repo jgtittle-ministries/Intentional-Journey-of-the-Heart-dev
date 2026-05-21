@@ -1,0 +1,588 @@
+# ===========================================================================
+# IJH Volume 3 — Claim Registry (worked schema example)
+# ---------------------------------------------------------------------------
+# This file converts the claims in Volume 3 of the Intentional Journey of the
+# Heart into the structured governance schema. Volume 3 is the quantitative
+# volume — every claim here points back to specific qualitative claims in
+# Volumes 1 and 2, which makes this the volume where the dependency graph
+# does the most work.
+#
+# Volume 3 structure:
+#   - Exp 1: Governing premise (case for quantification)
+#   - Exp 2: Framework integration (TFT as landscape)
+#   - Exp 3: Analytical core (spiritual force equation) — THE central claim
+#   - Exp 4: Kinematics (spiritual distance)
+#   - Exp 5: Energy and Power
+#   - Exp 6: Conservation Laws — lowest confidence in the volume (35%)
+#   - Exp 7: Systems Dynamics as the modeling language
+#   - Exp 8: Miracles as threshold events
+#   - Exp 9: The Glory Attractor — highest confidence in the volume (85%)
+#
+# A critical taxonomy distinction the author imposes on every claim:
+#   * Illustrative analogy: the physical law has a similar shape, used for
+#     seeing
+#   * Load-bearing analogy: the spiritual law has the same mathematical
+#     form, precise enough to derive predictions
+# Every Vol 3 claim is tagged `analogy_class` to make this distinction
+# explicit. Most are illustrative; a few are proposed as load-bearing.
+#
+# Cross-volume alias resolution (for the Vol 1 file):
+#   V3.Eq1          → V3.Exp3 (spiritual force equation)
+#   V3.FieldLocal   → V3.Exp5 (knots as local minima in TFT manifold)
+#   V3.Frontier     → V3.Exp3 (lie-replacement mechanism as Vol 3 frontier)
+#   V3.Eq.Mustard   → V3.Exp3.Open1 (threshold-vs-proportionality question)
+#   V3.Exp4         → V3.Exp4 (Spiritual Distance, already aligned)
+#   V3.Exp7         → V3.Exp7 (Systems Dynamics, already aligned)
+# ===========================================================================
+
+project: IJH
+volume: 3
+schema_version: 0.1
+founder: John G. Tittle
+last_council_review: null
+source_document: IJH_Vol3_v5_4_1.docx
+
+volume_notes: >
+  Certainty ratings in this volume run lower than Vols 1 and 2. That is not
+  a defect; it is the author's accurate representation of the frontier. The
+  work in Vols 1 and 2 explicitly does not depend on Vol 3: "Even when I
+  draw connections to Vols 1 and 2, these are interesting possibilities and
+  supporting material, not evidence." The dependency arrows in this file
+  therefore run predominantly from Vol 3 into Vols 1–2, not the reverse.
+
+claims:
+
+# ---------------------------------------------------------------------------
+# Exp 1 — Governing Premise
+# ---------------------------------------------------------------------------
+
+  - id: V3.Exp1
+    type: governing_premise
+    title: "The Case for Quantification"
+    core_text: >
+      If the spiritual world is as orderly as the natural world — the
+      foundational claim of the entire LotS project — then its laws should
+      be expressible not only qualitatively (as in Vol 1) but
+      quantitatively: as measurable quantities, relational equations,
+      conservation laws, and dynamic models. This volume is a preliminary
+      attempt at that formalization. The program is correct in principle;
+      specific equation forms remain to be established.
+    status: core
+    confidence: 75
+    confidence_rationale: >
+      High confidence that the program is correct in principle. Medium
+      confidence in any specific proposed quantity or equation form. Low
+      confidence (30–40%) in specific numerical relationships until a
+      measurement protocol is established and community-tested.
+    scripture_refs:
+      - John 1:1-3     # Logos as rational structure of creation
+    external_sources:
+      - "Richard Feynman, The Character of Physical Laws (unreasonable effectiveness of mathematics)"
+      - "Johannes Kepler ('thinking God's thoughts after Him')"
+    upstream_dependencies:
+      - V1.Ax1         # Laws of the Spirit exist
+      - V1.Ax2         # and are knowable
+      - V1.OE          # natural world as subset of spiritual
+    downstream_dependents: [V3.All]
+    open_questions:
+      - "The measurement problem: proposed spiritual quantities (force, distance, energy, mass) are not directly measurable with any known instrument"
+      - "Whether indirect measurement through effects will be sufficient for testable predictions"
+    analogy_class: governing
+
+# ---------------------------------------------------------------------------
+# Exp 2 — Framework Integration
+# ---------------------------------------------------------------------------
+
+  - id: V3.Exp2
+    type: structural_law
+    title: "Transcendental Field Theory as the Vol 3 Framework"
+    core_text: >
+      The transcendental manifold — with Truth, Goodness, and Beauty as its
+      primary coordinate axes, Love as the meta-coupling that binds all
+      three, and Glory as the eschatological attractor — provides the
+      formal landscape within which the LotS operational laws describe
+      movement. TFT maps the terrain; the LotS laws describe what causes
+      and sustains movement through it.
+    status: core
+    confidence: 70
+    confidence_rationale: >
+      The structural mapping is compelling and internally consistent. The
+      specific mathematical forms (Lagrangian, coupling parameters) are
+      illustrative analogies, not load-bearing equations at this stage.
+      Confidence would increase with community testing and with the
+      development of the measurement protocol for spiritual distance.
+    scripture_refs: []
+    external_sources:
+      - "Transcendental Field Theory (TFT) — systematic investigation of classical and scriptural transcendentals"
+    upstream_dependencies:
+      - V1.Ax1
+      - V1.Exp3        # F/H/L triad now located in Truth-Goodness-Beauty space
+      - V3.Exp1        # governing premise authorizes the framework attempt
+    downstream_dependents:
+      - V3.Exp3        # force equation operates on this manifold
+      - V3.Exp4        # spiritual distance defined in this configuration space
+      - V3.Exp5        # energy defined relative to this manifold
+      - V3.Exp6        # conservation laws seek symmetries of this Lagrangian
+      - V3.Exp7        # systems dynamics model movement through this space
+      - V3.Exp9        # Glory attractor is defined within this manifold
+    analogy_class: illustrative
+    notes: >
+      Author explicitly adopts TFT's own hedge: "The field language is
+      analogical, not univocal. We use field theory's structural features —
+      coupling, curvature, dynamics — without claiming transcendentals are
+      literally physical fields." This posture governs the entire volume.
+    minority_positions: [V3.Exp2.Mn1]
+
+  - id: V3.Exp2.Mn1
+    type: minority_dissent
+    parent_claim: V3.Exp2
+    title: "Caution on TFT as load-bearing framework"
+    core_text: >
+      TFT's value as an organizing landscape is granted, but some Reformed
+      readers would resist adopting it as THE framework for Vol 3, on the
+      grounds that borrowing field-theoretic language — even as analogy —
+      risks importing metaphysical commitments (e.g., panentheistic
+      overtones in 'field' language, or philosophical commitments embedded
+      in the classical transcendentals tradition). A more minimal framework
+      grounded strictly in biblical categories might better serve the
+      project's cross-tradition aim.
+    status: minority
+    traditions_supporting: [Reformed-minimalist]
+    council_reply: >
+      Author's adoption of TFT is explicitly analogical rather than
+      univocal; the framework is admitted as illustrative (see claim's
+      analogy_class). The minority is preserved because the stronger
+      Reformed concern — that even illustrative adoption normalizes
+      categories that subsequent work may come to treat as load-bearing —
+      is a legitimate long-range worry the Council should track.
+    flip_conditions: >
+      If downstream Vol 3 work begins to treat TFT features (Lagrangian,
+      manifold curvature) as load-bearing rather than illustrative without
+      explicit Council approval, this minority elevates automatically.
+
+# ---------------------------------------------------------------------------
+# Exp 3 — The Analytical Core (the spiritual force equation)
+# ---------------------------------------------------------------------------
+
+  - id: V3.Exp3
+    type: analytical_equation
+    title: "Spiritual Force — The Analytical Core"
+    aliases: [V3.Eq1, V3.Frontier]
+    core_text: >
+      Effective spiritual force is a multiplicative function of four
+      factors, each of which corresponds to a specific upstream
+      exploration in Vols 1 and 2. All four factors are necessary; none is
+      sufficient on its own. Weakness in any one factor severely limits
+      the overall effective force regardless of the strength of the
+      others.
+    core_equation: |
+      F_s = f(trust threshold) × g(authority alignment) × h(resonance) × i(channel clarity)
+    factor_definitions:
+      f_trust_threshold:
+        source: V1.Exp1      # Faith generation (Word → Hearing → Faith)
+        meaning: "Minimum level of genuine trust above which force can operate"
+      g_authority_alignment:
+        source: V1.Exp7      # Spiritual Authority force multiplier
+        meaning: "Operating within delegated authority domain"
+      h_resonance:
+        source: V1.Exp8      # Prayer as Resonance
+        meaning: "Direction + timing + persistence alignment"
+      i_channel_clarity:
+        source: [V2.Exp1, V2.Exp2, V2.Exp2A, V2.Exp2B, V2.Exp3, V2.Exp4, V2.Exp6]
+        meaning: "Heart soil cleared, knots released, lies replaced, sin confessed"
+    status: core
+    confidence: 40
+    confidence_rationale: >
+      The four factors are well-supported by the scriptural data points
+      (centurion's authority; mustard seed faith; Elijah's sevenfold
+      prayer; woman with hemorrhage). The multiplicative structure is the
+      author's best current hypothesis. The specific functional forms of
+      f, g, h, and i are open trails. Community testing across many
+      observed miracle events would sharpen this considerably.
+    scripture_refs:
+      - Matthew 17:20      # mustard seed faith
+      - Matthew 8:8-10     # centurion's authority
+      - 1 Kings 18:43-44   # Elijah's sevenfold prayer
+      - James 5:16         # "prayer of a righteous person has great power as it is working"
+      - Mark 5:30          # woman with hemorrhage / Jesus' channel
+    upstream_dependencies:
+      - V1.Exp1            # f() input
+      - V1.Exp7            # g() input
+      - V1.Exp8            # h() input
+      - V2.Exp1            # i() input — soil
+      - V2.Exp2            # i() input — knots
+      - V2.Exp3            # i() input — lies
+      - V2.Exp4            # i() input — sin
+      - V2.Exp6            # i() input — tool application
+      - V3.Exp1
+      - V3.Exp2
+    downstream_dependents:
+      - V3.Exp5            # energy equation builds on force equation
+      - V3.Exp6            # conservation analysis references the factors
+      - V3.Exp7            # CLD models the force equation's dynamics
+      - V3.Exp8            # miracles as threshold events in the force system
+    open_sub_questions: [V3.Exp3.Open1]
+    analogy_class: load_bearing_proposed
+    council_flag: >
+      THIS IS THE CENTRAL CLAIM OF VOL 3. Four upstream dependencies
+      across two volumes plus six more specific Vol 2 dependencies — any
+      one of which, if revised, triggers review of this equation. A
+      revision to V1.Exp8 (Prayer Resonance, currently at 70%) would
+      materially propagate here through h(). A revision to V2.Exp6 (Tool
+      Map, currently at 70%) propagates through i(). Council should treat
+      this as the single highest-impact claim to watch during the first
+      testing cycles.
+
+  - id: V3.Exp3.Open1
+    type: open_question
+    parent_claim: V3.Exp3
+    aliases: [V3.Eq.Mustard]
+    title: "Threshold vs. Proportionality — The Mustard Seed Question"
+    core_text: >
+      Whether faith operates as a step function (threshold model: mustard
+      seed of genuine faith suffices for any miracle) or as a continuous
+      variable (proportionality model: more faith → more force). The
+      author's current synthesis is a resonance model: there is a
+      threshold of genuine trust below which force cannot operate, and
+      above that threshold the precision and alignment of faith with
+      God's specific will in the specific moment (not the quantity of
+      faith abstractly) determines the magnitude of the outcome.
+    status: open
+    confidence: null
+    confidence_rationale: >
+      The author explicitly states this question must be resolved for the
+      equation to take a specific functional form. The synthesis
+      (resonance model) is proposed but not yet established.
+    scripture_refs:
+      - Matthew 17:20
+      - Luke 17:5-6
+    upstream_dependencies: [V1.Exp8, V3.Exp3]
+    council_flag: >
+      This open question was flagged in V1.Exp8 (Prayer Resonance) as
+      "materially affecting downstream equations." V3.Exp3 is the
+      downstream equation. This is a rare case of a single open question
+      whose resolution has explicit load-bearing effect across two
+      volumes. Highest-priority question for community testing.
+
+# ---------------------------------------------------------------------------
+# Exp 4 — Kinematics (Spiritual Distance)
+# ---------------------------------------------------------------------------
+
+  - id: V3.Exp4
+    type: kinematic_law
+    title: "Spiritual Distance — Kinematics Before Dynamics"
+    core_text: >
+      Spiritual distance is a three-dimensional quantity in
+      Truth-Goodness-Beauty configuration space, not a single scalar.
+      Movement toward the Glory attractor requires simultaneous progress
+      on all three axes; movement along one axis alone, while temporarily
+      reducing distance in that dimension, does not reliably reduce
+      overall spiritual distance if the other two axes are neglected.
+    status: core
+    confidence: 65
+    confidence_rationale: >
+      The three-axis structure is consistent with TFT's framework and with
+      the Vol 1 structural law that Truth, Goodness, and Beauty are
+      distinct but coupled. The coupling between axes is less precisely
+      understood. This is a candidate for community testing using
+      instruments yet to be developed to distinguish the three dimensions.
+    scripture_refs:
+      - John 17:21         # "that they may be one"
+      - Romans 12:2        # "renewal of the mind" = Truth-axis
+    external_sources:
+      - "REVEAL framework ('Move' book) — operationalized spiritual distance continuum"
+    upstream_dependencies:
+      - V3.Exp2            # T/G/B configuration space from TFT
+      - V1.Exp3            # F/H/L triad maps onto the axes
+      - V2.Exp7            # Affective Taxonomy as proposed measurement protocol
+    downstream_dependents:
+      - V3.Exp5            # energy defined relative to distance
+      - V3.Exp7            # systems dynamics model movement through distance space
+      - V3.Exp9            # Glory attractor is the asymptotic endpoint of this space
+    open_questions:
+      - "Precise coupling functions between the three axes"
+      - "Measurement instruments that can distinguish the three dimensions in practice"
+    analogy_class: load_bearing_proposed
+    notes: >
+      The author proposes that the Affective Taxonomy (V2.Exp7) can
+      operationalize one axis (depth of trust in scripture) without
+      waiting for the full three-axis measure to be developed. This is the
+      bridge between Vol 3's theoretical ambition and near-term testable
+      research.
+
+# ---------------------------------------------------------------------------
+# Exp 5 — Energy and Power
+# ---------------------------------------------------------------------------
+
+  - id: V3.Exp5
+    type: dynamic_law
+    title: "Spiritual Energy and Power"
+    aliases: [V3.FieldLocal]
+    core_text: >
+      Spiritual energy is a finite resource within any given time frame,
+      replenished primarily through the Word, worship, and prayer (the
+      Vol 1 inflows into the faith stock), and depleted by active
+      spiritual operation and by the maintenance cost of unresolved
+      emotional knots. Emotional knots function as local minima in the
+      potential energy landscape of the transcendental manifold — they
+      hold spiritual capacity in a trapped configuration that cannot flow
+      until the knot is released. The practice of regular clearing (Vol
+      2's monthly practice) is therefore not optional but necessary for
+      sustained high-power spiritual operation.
+    status: core
+    confidence: 70
+    confidence_rationale: >
+      The finite bandwidth observation is consistently supported by
+      scripture and by the experience of extended spiritual ministry. The
+      specific depletion mechanism and replenishment rates are open
+      trails. The cost of maintaining emotional knots is the author's
+      inference from Vol 2's model, medium confidence.
+    scripture_refs:
+      - Acts 1:8           # "you will receive power when the Holy Spirit has come upon you"
+      - Hebrews 12:1       # "every weight" and the sin that clings closely
+    upstream_dependencies:
+      - V1.Exp1            # Word as primary inflow
+      - V2.Exp2            # emotional knots — maintenance cost
+      - V2.Exp4            # clearing practices restore capacity
+      - V3.Exp2            # TFT manifold defines potential-energy landscape
+      - V3.Exp3            # force equation implies energy budget
+    downstream_dependents:
+      - V3.Exp6            # conservation analysis asks what is conserved across clearing
+      - V3.Exp7            # systems dynamics includes energy stocks and flows
+    analogy_class: illustrative
+    open_questions:
+      - "Specific depletion and replenishment rates"
+      - "Whether spiritual energy admits a conservation-like law in the sense of physical energy (see V3.Exp6)"
+
+# ---------------------------------------------------------------------------
+# Exp 6 — Conservation Laws (THE MOST SPECULATIVE)
+# ---------------------------------------------------------------------------
+
+  - id: V3.Exp6
+    type: conservation_hypothesis
+    title: "Conservation Laws — The Hardest Question in Vol 3"
+    core_text: >
+      Three candidate conservation-type laws are proposed, each grounded
+      in specific scriptural data points but not yet unified as a single
+      framework. (1) Talents / anti-conservation when unused: spiritual
+      capacity is not merely conserved when unused but actively lost.
+      (2) Widow's Oil and Loaves / abundance exceeding conservation:
+      spiritual capacity in use can multiply rather than merely transfer.
+      (3) Confession-Restoration / blocked-capacity restoration:
+      underlying capacity is conserved across the confession cycle, with
+      blockage representing potential that cannot become kinetic until
+      cleared. Each is individually grounded; the unified framework is
+      hypothesis.
+    status: core
+    confidence: 35
+    confidence_rationale: >
+      These are the most speculative statements in the entire LotS
+      project. Each candidate is individually grounded in specific
+      scriptural data points. The unified framework is hypothesis.
+      Community testing and theological scrutiny are essential before any
+      of these are elevated from hypothesis to candidate law.
+    scripture_refs:
+      - Matthew 25:29      # Talents — "to the one who has, more will be given"
+      - 2 Kings 4:5-6      # Widow's oil
+      - Matthew 14:17-21   # Loaves and fishes
+      - 1 John 1:9         # Confession-restoration
+    external_sources:
+      - "Emmy Noether's theorem (conservation laws correspond to Lagrangian symmetries)"
+    upstream_dependencies:
+      - V1.Exp7            # authority / talents
+      - V2.Exp4            # confession-restoration cycle
+      - V3.Exp2            # TFT Lagrangian (if conservation is sought via Noether)
+      - V3.Exp3            # force equation — what is conserved across its operation
+    downstream_dependents:
+      - V3.Exp7            # systems dynamics depends on knowing what is conserved
+    open_sub_questions: [V3.Exp6.Open1]
+    analogy_class: illustrative
+    council_flag: >
+      LOWEST CONFIDENCE IN THE ENTIRE FIVE-VOLUME CORPUS (35%). Author
+      explicitly calls these "the most speculative statements in the
+      entire LotS project." Community testing and theological scrutiny
+      are prerequisite to any elevation. The Council should treat this
+      claim as an open research program rather than an established law.
+
+  - id: V3.Exp6.Open1
+    type: open_question
+    parent_claim: V3.Exp6
+    title: "Does Noether's theorem apply to the TFT Lagrangian in a useful form?"
+    core_text: >
+      Emmy Noether's theorem establishes that every conservation law
+      corresponds to a symmetry of the underlying Lagrangian. If TFT's
+      Lagrangian has symmetries, it has conservation laws. The question
+      is: which symmetries does it have, and what are the corresponding
+      conserved quantities?
+    status: open
+    confidence: null
+    upstream_dependencies: [V3.Exp2, V3.Exp6]
+    council_flag: >
+      Author identifies this as "the most mathematically demanding open
+      trail in the entire LotS project, likely requiring collaboration
+      with someone trained in mathematical physics." Explicit invitation
+      for technical contributor recruitment.
+
+# ---------------------------------------------------------------------------
+# Exp 7 — Systems Dynamics as the Modeling Language
+# ---------------------------------------------------------------------------
+
+  - id: V3.Exp7
+    type: modeling_law
+    title: "Systems Dynamics as the Modeling Language"
+    core_text: >
+      The qualitative Causal Loop Diagram (CLD) of the LotS system
+      contains at minimum three primary loops: a reinforcing
+      Faith-Obedience loop (the engine of spiritual growth), a balancing
+      Knot-Bandwidth trap (the primary obstacle), and a reinforcing
+      Community Amplification loop (the multiplier). Moving from
+      qualitative to quantitative requires operationalized measures of
+      stock variables, measured flow rates, identified time delays, and
+      model validation against longitudinal community data. This is a
+      multi-year research program, not a single study. The resulting
+      trajectory is spiral rather than linear — regression followed by
+      recovery at a higher level.
+    status: core
+    confidence: 65
+    confidence_rationale: >
+      The qualitative CLD structure is high-confidence: the feedback
+      loops are well-supported by scripture and consistent with systems
+      dynamics principles. The claim that these loops are the primary
+      ones is medium-confidence; there are likely additional loops not
+      yet identified. The spiral-not-linear trajectory is high-confidence
+      (supported by Brueggemann, John of the Cross, the MOVE research,
+      and Tedeschi & Calhoun's posttraumatic growth research). The
+      quantitative modeling program is the medium-to-low-confidence
+      portion of the claim.
+    scripture_refs: []
+    external_sources:
+      - "Walter Brueggemann — orientation/disorientation/new orientation"
+      - "Saint John of the Cross — Dark Night of the Soul"
+      - "REVEAL / MOVE research — longitudinal spiritual growth data"
+      - "Tedeschi & Calhoun — posttraumatic growth research"
+    upstream_dependencies:
+      - V1.Exp1            # Faith-Obedience loop is Word → Hearing → Faith closed
+      - V1.Exp6            # obedience channel is the loop's key mediator
+      - V2.Exp2            # Knot-Bandwidth trap = emotional knots formalized
+      - V2.Exp9            # Community Amplification loop = Vol 2 Exp 9 formalized
+      - V3.Exp2            # manifold provides the space through which loops move
+      - V3.Exp4            # distance is the coordinate the loops transit
+    downstream_dependents:
+      - V3.Exp8            # miracles as threshold events in the CLD system
+      - V3.Exp9            # sanctification trajectory runs through this CLD
+    open_questions:
+      - "Additional feedback loops beyond the identified three"
+      - "Flow rates and time delays for quantitative modeling"
+      - "Validation datasets sufficient to parameterize the model"
+    analogy_class: load_bearing_proposed
+
+# ---------------------------------------------------------------------------
+# Exp 8 — Miracles as Threshold Events
+# ---------------------------------------------------------------------------
+
+  - id: V3.Exp8
+    type: operational_law
+    title: "Miracles — Resonance Points in the Spiritual System"
+    core_text: >
+      Miracles are threshold events in the spiritual resonance system.
+      They occur when four conditions converge in a specific moment:
+      (1) the resonance condition — persistent aligned prayer has
+      accumulated spiritual force above the threshold; (2) the authority
+      condition — the person acting is within their delegated domain;
+      (3) the channel condition — heart soil is in good condition,
+      blockages cleared; (4) the perception condition — the actor has
+      noticed what is available and is responding in obedience rather
+      than presumption. The absence of any one of these four conditions
+      significantly reduces miracle frequency.
+    status: core
+    confidence: 55
+    confidence_rationale: >
+      The four-condition structure is consistent with the scriptural
+      data and with the Vol 1 and Vol 2 laws. The threshold-event model
+      (sudden onset rather than gradual proportional response) is
+      suggested by the data points — e.g., the cloud appeared at the
+      seventh prayer, not proportionally through the first six. The
+      specific mechanism of resonance accumulation is an illustrative
+      analogy, not a load-bearing equation, at this stage.
+    scripture_refs:
+      - Luke 18:1          # persistence in prayer
+      - Luke 18:7-8        # vindication of the elect
+      - 1 Kings 18:43-44   # sevenfold prayer → cloud
+    upstream_dependencies:
+      - V1.Exp7            # authority condition
+      - V1.Exp8            # resonance condition (prayer resonance model)
+      - V2.Exp1            # channel condition (heart soil)
+      - V2.Exp6            # channel condition (tool map)
+      - V3.Exp3            # four conditions map to the four factors of F_s
+      - V3.Exp7            # threshold model requires systems dynamics framing
+    downstream_dependents:
+      - V3.Exp9            # miracles as local previews of the Glory attractor
+    analogy_class: illustrative
+    notes: >
+      This is the operational payoff of the whole Vol 3 apparatus: if the
+      force equation and the systems dynamics framework are roughly
+      right, miracles are neither arbitrary nor universally available —
+      they are predictable thresholds crossed when four specific
+      conditions align. The claim at 55% is deliberately cautious.
+    open_questions:
+      - "Whether 'perception condition' is cleanly separable from the other three, or is implicit in them"
+      - "Quantitative threshold values for typical miracle categories"
+
+# ---------------------------------------------------------------------------
+# Exp 9 — Eschatology (HIGHEST CONFIDENCE IN VOL 3)
+# ---------------------------------------------------------------------------
+
+  - id: V3.Exp9
+    type: eschatological_law
+    title: "The Glory Attractor and the Sanctification Trajectory"
+    core_text: >
+      The entire spiritual dynamic — creation, individual sanctification,
+      communal formation, the work of the church, and the operations of
+      spiritual force — is structured by the Glory attractor. Every
+      genuine movement toward Truth, Goodness, and Beauty (in their
+      coupled form, not isolated) is a movement toward the attractor. The
+      attractor is real, approachable, and the destination that gives
+      meaning to the entire journey. Every miracle along the way is a
+      local preview of the final configuration: the natural world
+      momentarily aligned with the spiritual world.
+    status: core
+    confidence: 85
+    confidence_rationale: >
+      Among the highest-confidence statements in Vol 3. Scriptural
+      grounding is explicit and robust. The TFT formalization of Glory
+      as an attractor is a genuine clarification of what the scriptures
+      already describe. The mechanism of approach (the sanctification
+      trajectory) is medium-confidence. The consummation is
+      high-confidence theologically, though its specific dynamics are
+      beyond what any model can describe.
+    scripture_refs:
+      - 2 Corinthians 3:18    # "transformed into the same image from one degree of glory to another"
+      - Romans 8:18           # "the glory that is to be revealed to us"
+      - Revelation 21:23      # "the glory of God gives it light"
+    upstream_dependencies:
+      - V1.Ax1
+      - V1.OE                # Miracle Frame: natural as subset of spiritual
+      - V3.Exp2              # TFT manifold provides the attractor's formal home
+      - V3.Exp4              # movement through distance space trends toward attractor
+      - V3.Exp7              # sanctification trajectory runs through the CLD
+      - V3.Exp8              # miracles as local previews of final configuration
+    downstream_dependents: []  # eschatological endpoint — nothing downstream in the LotS corpus
+    analogy_class: load_bearing_proposed
+    notes: >
+      This is the eschatological anchor that, per the volume's taxonomy,
+      "makes all the other laws intelligible." Its position as the
+      highest-confidence claim in Vol 3 is not accidental: the volume
+      argues that the provisional equations and systems models are
+      attempts to describe motion toward this attractor, and the
+      attractor's reality does not depend on the accuracy of the models
+      describing the approach to it.
+    council_flag: >
+      The ONLY Vol 3 claim with confidence ≥ 80%. All other Vol 3 claims
+      are provisional at 70% or below. This claim's stability is what
+      gives the rest of the volume its orientation; a revision here
+      would force reconsideration of the volume's entire purpose, not
+      just specific equations.
+
+# ===========================================================================
+# End of Volume 3 claim registry
+# ===========================================================================

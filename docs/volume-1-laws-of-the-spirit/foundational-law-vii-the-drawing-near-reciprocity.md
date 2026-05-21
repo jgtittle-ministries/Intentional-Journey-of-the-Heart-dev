@@ -1,27 +1,35 @@
 ---
 title: "Foundational Law VII: The Drawing-Near Reciprocity Law"
 volume: 1
-source: "IJH_Vol1_v5_6_1_1.pdf"
+source: "IJH_Vol1_v5_6_1_1.docx"
 ---
 
 # Foundational Law VII: The Drawing-Near Reciprocity Law
 
-The seventh foundational law describes the structure of the Person—God relationship at its most basic level. Active movement toward God evokes God’s movement toward the person; turning away evokes withdrawal. The law is the cleanest example of the fourth periodicity (reciprocity-of- response): God responds in kind to the human posture.
+The seventh foundational law describes the structure of the Person—God relationship at its most basic level. Active movement toward God evokes God’s movement toward the person; turning away evokes withdrawal. The law is the cleanest example of the fourth periodicity (reciprocity-of-response): God responds in kind to the human posture.
 
 ## The Scriptural Ground
+***Jas. 4:8 (ESV)***
 
-***Jas. 4:8 (ESV)*** *“Draw near to God, and he will draw near to you.”*
+*“Draw near to God, and he will draw near to you.”*
 
-***2 Chron. 15:2 (ESV)*** *“The Lord is with you while you are with him. If you seek him, he will be found by you, but if you forsake him, he will forsake you.”*
+***2 Chron. 15:2 (ESV)***
 
-***Jer. 29:13 (ESV)*** *“You will seek me and find me, when you seek me with all your heart.”*
+*“The Lord is with you while you are with him. If you seek him, he will be found by you, but if you forsake him, he will forsake you.”*
 
-***Deut. 4:29 (ESV)*** *“But from there you will seek the Lord your God and you will find him, if you search after him with all your heart and with all your soul.”*
+***Jer. 29:13 (ESV)***
 
-***Heb. 11:6 (ESV)*** *“And without faith it is impossible to please him, for whoever would draw near to God must believe that he exists and that he rewards those who seek him.”*
+*“You will seek me and find me, when you seek me with all your heart.”*
+
+***Deut. 4:29 (ESV)***
+
+*“But from there you will seek the Lord your God and you will find him, if you search after him with all your heart and with all your soul.”*
+
+***Heb. 11:6 (ESV)***
+
+*“And without faith it is impossible to please him, for whoever would draw near to God must believe that he exists and that he rewards those who seek him.”*
 
 ## The Mechanism
-
 Three features. First, the reciprocity is symmetric in direction (drawing near is matched by being drawn near to) but asymmetric in source. God is always the prior actor; the human seeking is itself a response to a prior divine invitation. James can say “draw near to God” only because God has first made himself approachable. This asymmetry is what makes the Reformed emphasis on divine initiative compatible with the law as stated: the directional reciprocity is real, and the prior grace that makes the reciprocity possible is also real.
 
 Second, the negative direction (turning away — withdrawal) is stated as starkly as the positive in 2 Chronicles 15:2 and is at least implied throughout the prophetic literature when God describes himself as “hiding his face” from a faithless people. This is not punitive; it is the same reciprocal mechanism running in reverse.
@@ -29,11 +37,10 @@ Second, the negative direction (turning away — withdrawal) is stated as starkl
 Third, the “with all your heart” qualifier in Jer. 29:13 and Deut. 4:29 is operationally significant. The law is not a vending-machine promise; the seeking that finds is whole-hearted, not partial. This qualifier connects directly to the heart taxonomy in Vol 2 (the Hearing Development affective progression) and to the Vol 5 Heart Formation work — whole-hearted seeking is itself a developmental capacity that grows.
 
 ## Why This Is a Foundational Law
+Five scriptural witnesses across at least four authors (James, Chronicles, Jeremiah, Moses, Hebrews), spanning both testaments. The directional reciprocity is uncontested across mainstream Christian traditions. Reformed, Roman, Orthodox, Anabaptist, and Pentecostal traditions all affirm it, even where they differ on the precise account of prior divine initiative. Testability is high: every person who has gone through a long stretch of seeking and a long stretch of distance can testify to both directions of the law.
 
-Five scriptural witnesses across at least four authors (James, Chronicles, Jeremiah, Moses, Hebrews), spanning both testaments. The directional reciprocity is uncontested across mainstream Christian traditions. Reformed, Roman, Orthodox, Anabaptist, and Pentecostal traditions all affirm
+**Proposed Law (Operational, Wide Consent): Active movement toward God (seeking, drawing near, searching with whole heart) evokes God’s movement toward the person (being found, being drawn near to); turning away evokes withdrawal. The reciprocity is symmetric in direction, asymmetric in source: God is the prior actor****,**** and the human seeking is itself a response to a prior divine invitation. The law operates at the vertical scale (tag V) and is the clearest example in the catalog of reciprocity-of-response, the fourth periodicity.**
 
-it, even where they differ on the precise account of prior divine initiative. Testability is high: every person who has gone through a long stretch of seeking and a long stretch of distance can testify to both directions of the law.
+**Certainty: Clearly Taught  ***As high as any law in this volume. The remaining uncertainty is in the secondary question of how the “with all your heart” qualifier interacts with developmental stage: a person at an earlier affective level cannot seek with the wholeness available to a more developed heart, which raises the question of whether the law operates differently at different stages. Vol 2 and the SST Formation Document are the right places to take that up.*
 
-**Proposed Law (Operational, Wide Consent): Active movement toward God (seeking, drawing near, searching with whole heart) evokes God’s movement toward the person (being found, being drawn near to); turning away evokes withdrawal. The reciprocity is symmetric in direction, asymmetric in source: God is the prior actor, and the human seeking is itself a response to a prior divine invitation. The law operates at the vertical scale (tag V) and is the clearest example in the catalog of reciprocity-of-response, the fourth periodicity.**
-
-**Certainty: Clearly Taught** *As high as any law in this volume. The remaining uncertainty is in the secondary question of how the “with all your heart” qualifier interacts with developmental stage: a person at an earlier affective level cannot seek with the wholeness available to a more developed heart, which raises the question of whether the law operates differently at different stages. Vol 2 and the SST Formation Document are the right places to take that up.*
+**Foundational Law VIII — Mixed Structural-Operational Law of Wide Consent**

@@ -1,0 +1,450 @@
+# ===========================================================================
+# IJH Volume 1 — Claim Registry (worked schema example)
+# ---------------------------------------------------------------------------
+# This file converts the claims in Volume 1 of the Intentional Journey of the
+# Heart into the structured schema proposed in the governance model. It is
+# intended as a demonstration for the founding Council: proof that the schema
+# fits the existing material, and a template for converting Volumes 2–5.
+#
+# Scope of this file: the Four Foundational Principles, the Opening
+# Exploration, Explorations 1–8, the Supplemental Exploration, and one
+# preserved minority position from Exp 3 (the Hope → Love arrow).
+#
+# Conventions:
+#   - IDs: V{volume}.{type}{number}  (Ax = Axiom, OE = Opening Exp, Exp# =
+#     numbered exploration, Sup = supplemental, Mn = minority)
+#   - status: core | minority | open
+#   - confidence: integer 0–100 (matches the author's prose ratings)
+#   - dependencies are expressed as ID lists; the Council's tooling can
+#     validate and traverse them as a DAG (directed acyclic graph).
+# ===========================================================================
+
+project: IJH
+volume: 1
+schema_version: 0.1
+founder: John G. Tittle
+last_council_review: null    # Council not yet seated; founder-stewarded
+source_document: IJH_Vol1_v5_4_1.docx
+
+# ---------------------------------------------------------------------------
+# Four Foundational Principles (Axioms, held at ~90%)
+# ---------------------------------------------------------------------------
+
+claims:
+
+  - id: V1.Ax1
+    type: axiom
+    title: "Laws of the Spirit Exist"
+    core_text: >
+      The spiritual world operates according to regular, predictable, lawful
+      relationships — as orderly as the physical world — because the same God
+      created both.
+    status: core
+    confidence: 90
+    confidence_rationale: >
+      Held as working axiom. Grounded in Jesus' rebuke of Nicodemus (John 3)
+      — a teacher of Israel was expected to understand how the Spirit works —
+      and in the theological conviction that created reality reflects the
+      rational character of its Creator.
+    scripture_refs:
+      - John 3:1-12
+    traditions_supporting: [Reformed, Evangelical, Charismatic, Mystical]
+    traditions_dissenting: []
+    upstream_dependencies: []
+    downstream_dependents: [V1.All, V2.All, V3.All, V4.All]
+    flip_conditions: >
+      Would require demonstrating that spiritual phenomena are fundamentally
+      irregular or lawless. Some apophatic mystical traditions approach this
+      but stop short of asserting it; the axiom is named precisely to keep
+      that assertion outside the project's premises.
+
+  - id: V1.Ax2
+    type: axiom
+    title: "These Laws Are Knowable"
+    core_text: >
+      We will not see all the laws, but we should be able to see more than we
+      do today. The wind blows where it wishes, but we should be able to see
+      more than just the sound of it passing — we should be carried by it.
+    status: core
+    confidence: 90
+    scripture_refs:
+      - John 3:8
+    upstream_dependencies: [V1.Ax1]   # knowability presupposes existence
+    downstream_dependents: [V1.All, V2.All, V3.All, V4.All]
+    flip_conditions: >
+      Would require demonstrating that the laws, though real, are in principle
+      inaccessible to human investigation. This is a stronger negative claim
+      than the axiom's positive one and requires independent argument.
+
+  - id: V1.Ax3
+    type: axiom
+    title: "Knowable in All Three Worlds"
+    core_text: >
+      The laws are knowable simultaneously in spirit, in mind and emotions,
+      and in body and actions. If I have truly grasped a law of the Spirit,
+      my doing will change. If I am not changed by God's word, I have not yet
+      heard God's word.
+    status: core
+    confidence: 90
+    scripture_refs:
+      - James 1:22-25
+      - Matthew 7:24-27
+    upstream_dependencies: [V1.Ax1, V1.Ax2]
+    downstream_dependents:
+      - V1.Exp1   # feedback loop depends on embodied response
+      - V2.All    # the whole therapeutic framework depends on this axiom
+      - Formation.HFT
+      - Formation.SST
+      - Formation.MSFIG
+
+  - id: V1.Ax4
+    type: axiom
+    title: "We Can Operate in These Laws"
+    core_text: >
+      The goal is not intellectual mapping but lived alignment. Miracles are
+      not meant to be the exception but the expected fruit of operating in
+      alignment with how God's world and kingdom actually work.
+    status: core
+    confidence: 90
+    scripture_refs:
+      - John 14:12
+      - Mark 16:17-18
+    upstream_dependencies: [V1.Ax1, V1.Ax2, V1.Ax3]
+    downstream_dependents: [V1.OE, V1.All, V2.All, V3.All, V4.All]
+    notes: >
+      This axiom is the load-bearing warrant for the whole project's urgency.
+      The Opening Exploration (V1.OE) is its immediate downstream expression.
+
+# ---------------------------------------------------------------------------
+# Opening Exploration: The Miracle Frame
+# ---------------------------------------------------------------------------
+
+  - id: V1.OE
+    type: opening_exploration
+    title: "The Miracle Frame — The Natural World as a Subset"
+    core_text: >
+      The natural world is a proper subset of God's larger spiritual reality.
+      Miracles are not violations of natural law — they are instances of a
+      higher-order law operating on the natural world from a superset of
+      dimensions. The closer a person operates in alignment with the
+      higher-order laws, the more the natural world yields to them.
+    status: core
+    confidence: 75
+    confidence_rationale: >
+      The conceptual framework is strong and scripturally grounded. The
+      precise mathematical structure of the higher-order laws is the open
+      trail ahead.
+    author_note: >
+      "This is the load-bearing premise of the entire investigation. If I
+      can't establish it, everything else I am doing is just interesting
+      theology."
+    scripture_refs:
+      - Hebrews 11:3
+      - Colossians 1:15-17
+      - 2 Kings 6:15-17
+    external_sources:
+      - "C.S. Lewis, Miracles (self-defeating naturalism argument)"
+    upstream_dependencies: [V1.Ax1, V1.Ax2, V1.Ax4]
+    downstream_dependents: [V1.All, V2.All, V3.All, V4.All]
+    flip_conditions: >
+      A successful defense of ontological naturalism — i.e., that the natural
+      world is not a subset of anything — would collapse the project's
+      urgency claim even if the axioms held in some reduced form.
+
+# ---------------------------------------------------------------------------
+# Eight Numbered Explorations
+# ---------------------------------------------------------------------------
+
+  - id: V1.Exp1
+    type: operational_law
+    title: "How to Get Faith (Word → Hearing → Faith)"
+    core_text: >
+      Faith (trust, pistis) is generated by hearing the Word of Christ with
+      a genuine willingness to obey. The quality of hearing is modulated by
+      prior obedience. Obedience keeps the channel open and reinforces the
+      loop; disobedience degrades the channel and initiates a hardening
+      process.
+    status: core
+    confidence: 75
+    confidence_rationale: >
+      Strong scriptural grounding. The specific mechanism linking willingness-
+      to-obey with the logos-to-rhema conversion is experientially confirmed
+      but not yet directly anchored in a single ESV text. Community testing
+      needed.
+    scripture_refs:
+      - Romans 10:17
+      - "Parable of the Sower (Matt 13, Mark 4, Luke 8)"
+    external_sources:
+      - "Wayne Grudem, Systematic Theology (rhema/logos caution)"
+      - "Dmitri Bilgere (transformation as 'risking belief')"
+    upstream_dependencies: [V1.Ax1, V1.Ax3, V1.OE]
+    downstream_dependents:
+      - V1.Exp6    # Obedience Channel modulates this law's quality
+      - V2.Exp1    # Heart Soil diagnostic — why this chain fails
+      - V2.All     # entire Vol 2 is about unblocking this chain
+      - V3.Eq1     # Trust Stock model feeds spiritual force equation
+      - Formation.HFT  # Affective Taxonomy maps onto this chain
+    flip_conditions: >
+      If the willingness-to-obey mechanism were demonstrated to be
+      epiphenomenal rather than causal — e.g., if hearing could be shown to
+      produce faith irrespective of obedience posture — the entire Vol 2
+      therapeutic structure would need reconsideration.
+    open_questions:
+      - "Precise mechanism converting logos to rhema remains experiential rather than textually anchored"
+
+  - id: V1.Exp2
+    type: structural_law
+    title: "My Spirit, Heart, Soul, and Body (Nested Person Structure)"
+    core_text: >
+      The components of a person form a nested containment structure: spirit
+      (innermost) is a subset of my heart, while the heart, mind, and body
+      are subsets/components of the soul. Each outer layer contains and is
+      influenced by all inner layers. Transformation that does not reach the
+      innermost layer is surface change.
+    status: core
+    confidence: 75
+    confidence_rationale: >
+      Overall structure is well-grounded; the precise relationship between
+      heart, mind, and soul remains an open question requiring more work.
+    scripture_refs:
+      - Mark 12:29-30
+      - 1 Thessalonians 5:23
+    upstream_dependencies: [V1.Ax1, V1.Ax3]
+    downstream_dependents:
+      - V2.Exp1    # Heart Soil diagnostic depends directly on this structure
+      - V2.SinBlockage  # Sin blockage framed as identity misorganization within nested layers
+      - V3.Eq1     # Nested person structure is an input to spiritual force equation
+    flip_conditions: >
+      If scripture were shown to use 'heart' and 'soul' interchangeably in a
+      way that dissolves the nesting, the structural claim would weaken
+      significantly. Grudem and others argue dichotomy (body/soul) rather
+      than richer nesting; this is the strongest live challenge.
+    open_questions:
+      - "Precise boundary between heart and mind"
+      - "Whether the structure is strictly nested or partially overlapping"
+
+  - id: V1.Exp3
+    type: structural_and_operational_law
+    title: "Faith, Hope, and Love as a Mutually Reinforcing Triad"
+    core_text: >
+      Faith (present trust) generates Hope (future expectation); Hope enables
+      Love (freed from defensive self-protection); Love deepens Faith
+      (creates the relational environment for trust to grow). The triad is
+      self-reinforcing upward and self-degrading downward.
+    status: core
+    confidence: 80
+    confidence_rationale: >
+      Strong scriptural grounding across multiple texts. The directional
+      arrows are the author's interpretation of the relational language; they
+      need community testing and more rigorous diagram work.
+    scripture_refs:
+      - 1 Corinthians 13:13
+      - Romans 5:3-5
+      - "1 John 4:18 (see V1.Exp3.Mn1)"
+    external_sources:
+      - "Wayne Grudem, Systematic Theology"
+    upstream_dependencies: [V1.Ax1, V1.Ax3, V1.OE]
+    downstream_dependents:
+      - V2.TherapeuticSequence  # triad directionality shapes therapeutic order
+    minority_positions: [V1.Exp3.Mn1]
+    open_questions:
+      - "Specific direction of Hope → Love arrow is the most interpretive link"
+
+  - id: V1.Exp3.Mn1
+    type: minority_dissent
+    parent_claim: V1.Exp3
+    title: "Love → (removes fear) → faith-capacity, rather than Hope → Love"
+    core_text: >
+      The Hope → Love arrow may run in the opposite direction: perfect love
+      casts out fear (1 John 4:18), suggesting that love itself is the agent
+      that removes the defensive self-protection, rather than hope doing
+      that work so that love can flow.
+    status: minority
+    traditions_supporting: [Reformed, some Charismatic]
+    scripture_refs:
+      - 1 John 4:18
+    council_reply: >
+      Both texts (Rom 5:3-5 and 1 John 4:18) are true. Grudem's reading holds
+      that the triad is genuinely mutually reinforcing rather than strictly
+      sequential; all three arrows operate simultaneously in a mature
+      believer. The core position preserves the Rom 5 directional
+      reading because it provides a therapeutic sequence (hope-work before
+      love-practice) that has proven operational in community use. The
+      minority is preserved because the directional question is not fully
+      closed and may be revisited as testing accrues.
+    flip_conditions: >
+      Experiential evidence from therapeutic communities that a love-first
+      sequence opens faith-capacity more reliably than a hope-first sequence
+      would elevate this minority toward core status.
+
+  - id: V1.Exp4
+    type: structural_law
+    title: "Knowledge → Understanding → Wisdom → Discernment"
+    core_text: >
+      Knowledge leads to Understanding, which leads to Wisdom, which leads
+      to Discernment, with a feedback loop from Discernment back to
+      Knowledge. The entire cluster requires the Fear of the Lord as a
+      gateway condition. Without the Fear of the Lord, what looks like
+      wisdom is merely cleverness.
+    status: core
+    confidence: 70
+    confidence_rationale: >
+      The directionality is the author's interpretation and needs more
+      careful scriptural work, particularly the Understanding-Wisdom
+      relationship. The Fear of the Lord as gateway carries higher
+      confidence (see V1.Exp5).
+    scripture_refs:
+      - Proverbs 1:2
+      - Proverbs 9:10
+    upstream_dependencies: [V1.Ax1, V1.Exp5]   # gateway dependency — critical
+    downstream_dependents: []
+    open_questions:
+      - "Understanding → Wisdom directional relationship needs scriptural anchoring"
+
+  - id: V1.Exp5
+    type: gateway_law
+    title: "The Fear of the Lord — Gateway Condition"
+    core_text: >
+      The Fear of the Lord is the logically prior condition for the
+      operation of the Wisdom-Knowledge-Understanding-Discernment cluster.
+      It functions as the epistemic ground reference — the fixed point from
+      which all spiritual knowing can be accurately oriented. Without it,
+      the cluster fails to orient correctly.
+    status: core
+    confidence: 85
+    confidence_rationale: >
+      Among the highest-confidence laws in the volume. Scriptural repetition
+      is explicit and consistent across multiple wisdom texts. The mechanism
+      (correct orientation of the self) is coherent with both scripture and
+      experience.
+    scripture_refs:
+      - Proverbs 1:7
+      - Proverbs 9:10
+      - Isaiah 11:2-3
+      - Psalm 111:10
+    upstream_dependencies: [V1.Ax1]
+    downstream_dependents:
+      - V1.Exp4      # Wisdom cluster requires this gateway
+      - V1.Exp6      # Obedience channel draws on this as precondition
+      - V4.Researcher   # "fear of the Lord" named as load-bearing in Vol 4 formation
+    flip_conditions: >
+      Would require demonstrating that the wisdom cluster operates reliably
+      absent fear-of-the-Lord orientation. The author would flag this as a
+      high-stakes revision affecting multiple downstream claims.
+
+  - id: V1.Exp6
+    type: operational_law
+    title: "The Obedience Channel — How Revelation Flows"
+    core_text: >
+      Obedience to prior revelation is the causal condition for receiving
+      subsequent revelation. The quality of the hearing channel in the
+      Word → Hearing → Faith chain is modulated by obedience history.
+      Obedience keeps the channel open and increases its gain; disobedience
+      introduces a time-delayed hardening.
+    status: core
+    confidence: 85
+    confidence_rationale: >
+      High confidence. John 7:17 is explicit; the pattern is confirmed
+      across multiple texts and in personal experience. The time-delay
+      mechanism and its systems dynamics implications are still being
+      worked out.
+    scripture_refs:
+      - John 7:17
+      - John 14:21
+    upstream_dependencies: [V1.Ax1, V1.Ax3, V1.Exp5]
+    downstream_dependents:
+      - V1.Exp1      # modulates the quality of the hearing step
+      - V2.All       # obedience posture governs all therapeutic work
+    open_questions:
+      - "Time-delay mechanism between disobedience and hardening"
+      - "Systems dynamics of channel degradation and recovery"
+
+  - id: V1.Exp7
+    type: operational_law
+    title: "Spiritual Authority — The Force Multiplier"
+    core_text: >
+      Spiritual authority is delegated hierarchically from the Father through
+      the Son to believers. Operating within properly delegated authority
+      amplifies the effective spiritual force available — functioning as a
+      force multiplier. Operating outside of that delegation exposes the
+      would-be operator to counter-force with no cover.
+    status: core
+    confidence: 80
+    confidence_rationale: >
+      The centurion passage is unambiguous; the Acts 19 negative case is
+      stark. The precise mechanics of 'operating within authority' in
+      everyday spiritual life are still being worked out.
+    scripture_refs:
+      - Matthew 8:8-10
+      - Matthew 28:18
+      - Luke 10:19
+      - Ephesians 1:20-22
+      - Acts 19:13-16
+    upstream_dependencies: [V1.Ax1, V1.OE]
+    downstream_dependents:
+      - V3.Eq1       # Authority force-multiplier is a primary input to Vol 3 equation
+    open_questions:
+      - "How 'operating within delegated authority' is recognized in real time"
+
+  - id: V1.Exp8
+    type: operational_law
+    title: "Prayer as a Resonance Phenomenon"
+    core_text: >
+      Prayer produces maximum spiritual force when three conditions align —
+      direction (in harmony with God's will and character), timing
+      (discerned spiritual readiness in the situation), and persistence
+      (maintained over time as a waveform rather than a single pulse).
+    status: core
+    confidence: 70
+    confidence_rationale: >
+      The resonance analogy is compelling and consistent with multiple
+      scripture patterns. The mustard seed model question (threshold vs.
+      proportionality) is genuinely unresolved and materially affects the
+      downstream equations. This claim needs the most community testing of
+      any exploration in the volume.
+    scripture_refs:
+      - Luke 18:1
+      - James 5:16
+      - Matthew 17:20-21
+    upstream_dependencies: [V1.Ax1, V1.OE]
+    downstream_dependents:
+      - V3.Eq1       # Prayer Resonance is a primary input to Vol 3 equation
+      - V3.Eq.Mustard   # unresolved threshold/proportionality question propagates
+    open_questions:
+      - "Threshold vs. proportionality dynamics (mustard seed question)"
+      - "Whether the analogy is illustrative or load-bearing — author currently holds illustrative"
+    council_flag: >
+      Author has explicitly flagged this as needing the most community
+      testing in the volume. Downstream Vol 3 equations materially depend
+      on how the threshold/proportionality question resolves. A Council
+      priority for early testing cycles.
+
+# ---------------------------------------------------------------------------
+# Supplemental Exploration
+# ---------------------------------------------------------------------------
+
+  - id: V1.Sup1
+    type: structural_law
+    title: "The Three Desires — Design Specifications of the Human Heart"
+    core_text: >
+      The masculine heart, made in the image of God, carries three
+      design-level desires: a battle to fight, an adventure to live, and a
+      beauty to rescue. These are not personality variables but structural
+      features of image-bearing humanity.
+    status: core
+    confidence: null   # not explicitly rated in the source text
+    external_sources:
+      - "John Eldredge, Wild at Heart"
+    upstream_dependencies: [V1.Ax1, V1.Exp2]
+    downstream_dependents:
+      - V2.Eldredge    # Vol 2 therapeutic work leans on this
+    council_flag: >
+      Supplemental, not part of the main Eight Explorations. The author has
+      not assigned an explicit confidence rating. Council action needed: (a)
+      decide whether to incorporate into the numbered set, (b) assign a
+      confidence rating, or (c) reclassify as [O] open until the feminine-
+      heart parallel (mentioned as future work) is developed.
+
+# ===========================================================================
+# End of Volume 1 claim registry
+# ===========================================================================

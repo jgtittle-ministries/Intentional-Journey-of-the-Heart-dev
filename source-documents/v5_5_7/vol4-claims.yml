@@ -1,0 +1,930 @@
+# ===========================================================================
+# IJH Volume 4 — Claim Registry (worked schema example)
+# ---------------------------------------------------------------------------
+# This file converts the content of Volume 4 (Testing Protocol) into the
+# governance schema. Volume 4 is structurally different from Vols 1–3:
+# it contains methodological principles, operationalized testable
+# hypotheses, research questions, protocols, instruments, and open trails
+# rather than the "Proposed Law + Certainty %" structure of the earlier
+# volumes.
+#
+# The schema handles this by introducing new `type` values:
+#   - methodological_principle  (the epistemological axioms of testing)
+#   - testable_hypothesis       (operationalized re-statements of V1–V3 claims)
+#   - research_question         (specific empirical questions, RQ1–RQ5)
+#   - protocol                  (procedural designs for testing)
+#   - open_trail                (unresolved research questions, OT-1 through OT-10)
+#
+# Volume 4's "claims" inherit confidence from the Vol 1–3 claims they
+# operationalize. When a V1–V3 claim's confidence changes, its V4 testable
+# hypothesis inherits the shift, and the research questions that test it
+# become candidates for redesign. This is the bidirectional dependence
+# the author names explicitly in his governance discussion.
+#
+# Volume 4 instruments (PSFA, STI-A, Image of God 4Rs, SDFL, NRP, SOP,
+# GSFP, EWI, CSFA) are listed at the bottom as references rather than as
+# claims — they are measurement tools, not propositions the Council would
+# vote on.
+# ===========================================================================
+
+project: IJH
+volume: 4
+schema_version: 0.1
+founder: John G. Tittle
+last_council_review: null
+source_document: IJH_Vol4_v5_3_1.docx
+
+volume_notes: >
+  Volume 4 is the testing scaffolding for the rest of the LotS project.
+  Its authority over the other volumes is bidirectional: Vol 4 depends on
+  Vols 1–3 for the claims it tests, and Vols 1–3 depend on Vol 4 for the
+  evidence that adjusts their confidence levels. The author states this
+  explicitly: "[Vol 4] remains explicitly dependent on Volumes 1–3 and
+  should be revised if those volumes change significantly" — and
+  conversely, Vol 4's testing results are the primary evidentiary input
+  the Council will use to adjust Vol 1–3 confidence ratings over time.
+
+claims:
+
+# ===========================================================================
+# Part I — Methodological Principles (the epistemological axioms of testing)
+# ===========================================================================
+
+  - id: V4.M1
+    type: methodological_principle
+    title: "Four Sources — Scripture, Reason, Experience, Community"
+    core_text: >
+      Every proposed Law of the Spirit must be tested against four sources:
+      scripture (non-negotiable foundation), reason (interpretive and
+      analytical discipline), experience (where the rubber meets the road),
+      and community (interpersonal friction across multiple life
+      histories). This is the Wesleyan Quadrilateral with community
+      substituted for tradition — a deliberate choice, because the
+      community can show the spiritual life happening in the room tonight
+      in a way that tradition (across centuries) cannot.
+    status: core
+    confidence: 90
+    confidence_rationale: >
+      Axiom of the testing program. Held as foundational rather than
+      derived. The author explicitly flags the community-for-tradition
+      substitution as a known risk (Grudem's concern about charismatic
+      communities trusting their own Spirit-witness without tradition's
+      correction), addressed by V4.M5 (researcher's formation) and
+      V2.Exp9 (community openness conditions).
+    upstream_dependencies:
+      - V1.Ax1
+      - V1.Ax2
+    downstream_dependents: [V4.All]
+    minority_positions: [V4.M1.Mn1]
+    notes: >
+      The substitution of community for tradition is the single most
+      consequential methodological choice in Vol 4. It is what makes the
+      LotS project a testing program rather than a retrieval project.
+      It is also the point of greatest Reformed-tradition pushback.
+
+  - id: V4.M1.Mn1
+    type: minority_dissent
+    parent_claim: V4.M1
+    title: "Tradition should be a fifth source, not substituted for"
+    core_text: >
+      Tradition's particular value is that it cannot be captured by the
+      blind spots of a present community — it reaches across centuries
+      and carries correction that our particular time and context cannot
+      generate on its own. Substituting community for tradition creates a
+      blind spot the LotS framework is not obviously protected against.
+      The stronger design would include all five sources.
+    status: minority
+    traditions_supporting: [Reformed, Confessional_Lutheran]
+    council_reply: >
+      Author acknowledges this concern explicitly in the source text and
+      addresses it through V4.M5 (researcher's own formation informed by
+      tradition) and by the "openness to external correction" condition
+      in V2.Exp9. The minority is preserved because the structural
+      argument — that tradition belongs in the sources list on its own,
+      not as a dimension of one of them — has independent force.
+    flip_conditions: >
+      If testing over multiple cycles reveals blind spots that a tradition-
+      informed reading would have caught, this minority elevates.
+
+  - id: V4.M2
+    type: methodological_principle
+    title: "Three Kinds of Testing — All Three Needed"
+    core_text: >
+      The LotS project requires three distinct kinds of testing and cannot
+      substitute one for another: (1) personal experiential testing —
+      subjective, vulnerable to confirmation bias, but the irreducible
+      starting point; (2) small group communal testing — detects patterns
+      personal testing cannot, but limited in generalizability;
+      (3) formal academic research — slow and demanding, yields
+      generalizable findings, but cannot measure the movement of the Holy
+      Spirit directly. A claim that has been tested in only one of the
+      three modes is not yet tested.
+    status: core
+    confidence: 85
+    scripture_refs: []
+    upstream_dependencies:
+      - V1.Ax3         # knowable in all three worlds — implies three modes
+      - V2.Exp9        # community testing requires community conditions
+    downstream_dependents:
+      - V4.P1          # individual protocol
+      - V4.P2          # small group protocol
+      - V4.P3          # research program
+    notes: >
+      The workshop group's original discipline (2002–present) is the
+      prototype for kinds (1) and (2); the Liberty doctoral work is the
+      prototype for kind (3). All three are needed precisely because each
+      compensates for specific weaknesses in the others.
+
+  - id: V4.M3
+    type: methodological_principle
+    title: "The Disconfirmability Requirement"
+    core_text: >
+      A claim that cannot, even in principle, be shown to be false is not
+      a testable claim. It is a statement of faith. Some LotS claims are
+      closer to statements of faith than to testable propositions — and
+      this is appropriate for foundational axioms (the existence of God,
+      the reality of the Spirit, the trustworthiness of scripture). But
+      every operational claim must admit specific, concrete disconfirming
+      evidence. A testing protocol designed only to confirm what it
+      already believes is not a testing protocol; it is propaganda.
+    status: core
+    confidence: 95
+    confidence_rationale: >
+      Held as axiom. The author states this as a hard requirement for any
+      claim not explicitly flagged as foundational. Arguably the highest-
+      confidence methodological principle in Vol 4, because without it the
+      testing program has no integrity.
+    upstream_dependencies: []
+    downstream_dependents: [V4.All_Hypotheses, V4.All_RQs]
+    notes: >
+      Every testable hypothesis entry in this file must carry explicit
+      `disconfirming_evidence` — the author worked examples for LotS-H3,
+      LotS-H4, and LotS-F3 in the source text, establishing the template
+      the Council should apply to all others.
+
+  - id: V4.M4
+    type: methodological_principle
+    title: "Mixed-Methods Design by Necessity"
+    core_text: >
+      The testing program is a mixed-methods (quantitative + qualitative)
+      design by necessity, not methodological fashion. Some LotS claims
+      predict outcomes that are countable or rankable — stage transitions,
+      scripture engagement frequency, epistemic trust scores. Others
+      predict outcomes that resist quantification — deepening discernment,
+      clarity of the image of God, quality of relationship with God.
+      Neither alone is adequate; together they provide the multi-layered
+      picture the LotS claims require.
+    status: core
+    confidence: 85
+    upstream_dependencies:
+      - V1.Ax3
+    downstream_dependents:
+      - V4.P3          # research program design is mixed-methods
+      - V4.RQ1         # quantitative primary, qualitative supporting
+      - V4.RQ2
+      - V4.RQ3
+      - V4.RQ4
+      - V4.RQ5         # qualitative primary, quantitative supporting
+
+  - id: V4.M5
+    type: methodological_principle
+    title: "The Holy Spirit as Foundational Presupposition"
+    core_text: >
+      The agent of transformation in the LotS framework is the Holy
+      Spirit — active, personal, and uncontrollable (John 3:8). The
+      testing program does not attempt to explain the Spirit's role away
+      by attributing formation outcomes to psychological or social
+      mechanisms. Three handling rules: (1) acknowledge the Spirit as
+      foundational presupposition, not confounding variable;
+      (2) treat Spirit-prompted events as data rather than noise;
+      (3) use the researcher's own spiritual formation as a calibration
+      instrument.
+    status: core
+    confidence: 90
+    scripture_refs:
+      - John 3:8
+    upstream_dependencies:
+      - V1.Ax1
+      - V1.Ax4         # we can operate in these laws — implies Spirit as agent
+    downstream_dependents:
+      - V4.M6          # researcher's formation follows from rule (3)
+      - V4.RQ5         # OT-5 supplementary interviews treat Spirit events as data
+    notes: >
+      This is the distinctive methodological commitment of LotS research
+      relative to secular developmental psychology. It is also the point
+      of greatest methodological tension with secular academic norms.
+
+  - id: V4.M6
+    type: methodological_principle
+    title: "The Researcher's Own Formation as a Calibration Instrument"
+    core_text: >
+      You cannot study the spiritual life from the outside. Formed
+      researchers bring pattern recognition to the data that untrained
+      observers cannot. This creates both a methodological advantage
+      (pattern recognition) and an ethical responsibility (confirmation
+      bias and projection risk). The safeguard is not to remove the
+      researcher from their own formation journey — that would destroy
+      the methodological advantage — but to require that their formation
+      be itself under community accountability, scripture testing, and
+      external supervision. The researcher's formation is a load-bearing
+      part of the instrument, not a soft supplement to the methodology.
+    status: core
+    confidence: 85
+    upstream_dependencies:
+      - V1.Ax3         # knowable in all three worlds
+      - V1.Exp5        # fear of the Lord as gateway for discernment
+      - V4.M5
+    downstream_dependents:
+      - V4.P1
+      - V4.P2
+      - V4.P3
+    council_flag: >
+      This principle has unusual implications for the Council itself.
+      Council members responsible for adjudicating confidence levels on
+      V1–V3 claims should themselves be in active formation within the
+      framework. Not a requirement the initial Council can enforce
+      strictly, but one worth making explicit over time.
+
+  - id: V4.M7
+    type: methodological_principle
+    title: "Construct Validity Discipline"
+    core_text: >
+      A testing program is only as good as the clarity of its constructs.
+      Terms like "heart formation" and "trust in scripture" must be
+      defined precisely enough that two different researchers using the
+      same definition would make the same assessment of the same
+      participant. The LotS project has specific advantages here: the
+      Affective Taxonomy provides behavioral indicators for each stage;
+      the theological anthropology of Vols 1–3 defines the heart as the
+      affective center; and external research anchors (epistemic trust
+      research, STI, MOVE study, NCD, Hodge's framework) provide
+      validated construct reference points.
+    status: core
+    confidence: 85
+    external_sources:
+      - "Campbell et al. (2021) — epistemic trust research"
+      - "Hall (2017) — Spiritual Transformation Inventory (STI)"
+      - "Hawkins & Parkinson (2011) — MOVE study"
+      - "Schwarz (NCD Church Survey)"
+      - "Hodge (2005) — multidimensional spiritual assessment framework"
+    upstream_dependencies:
+      - V2.Exp7        # Affective Taxonomy provides behavioral indicators
+    downstream_dependents:
+      - V4.P1
+      - V4.P2
+      - V4.P3
+      - V4.Instruments
+
+# ===========================================================================
+# Part II — Testable Hypotheses (operationalized V1–V3 claims)
+# ===========================================================================
+# These entries inherit their confidence from the Vol 1–3 claims they
+# operationalize. Their disconfirming_evidence fields satisfy V4.M3.
+# ===========================================================================
+
+  - id: V4.LotS-H1
+    type: testable_hypothesis
+    title: "Heart as the Affective Center Through Which All Formation Passes"
+    core_text: >
+      All spiritual formation passes through the heart — the affective
+      center where emotions, will, and moral orientation are seated.
+      Cognitive formation without corresponding heart formation does not
+      produce the life changes the LotS framework predicts.
+    status: core
+    confidence_inherited_from: V1.Exp2   # nested person structure, Heart level
+    upstream_dependencies:
+      - V1.Exp2
+      - V2.Exp1        # heart soil diagnostic operates at this level
+      - V2.Exp7        # affective taxonomy measures heart formation
+    tested_by:
+      - V4.RQ2
+      - V4.RQ3
+    instruments:
+      - PSFA           # heart-dimension subscores
+      - STI-A          # scripture trust as a heart construct
+    disconfirming_evidence: >
+      Cognitive PSFA dimensions (knowledge, understanding) progressing
+      significantly ahead of heart dimensions (affect, will, desire)
+      across the sample. That pattern would invert the LotS claim that
+      affective change precedes cognitive change.
+
+  - id: V4.LotS-H2
+    type: testable_hypothesis
+    title: "Unrepentant Sin Progressively Hardens the Heart"
+    core_text: >
+      Unconfessed sin operates as a progressive load on the spiritual
+      circuit, reducing the effective flow of spiritual power and
+      eventually hardening the heart against hearing. Regular confession
+      restores the channel.
+    status: core
+    confidence_inherited_from: V2.Exp4   # Confession / Sin Blockage (90%)
+    upstream_dependencies:
+      - V1.Exp1        # degrades Word → Hearing → Faith chain
+      - V2.Exp4
+    tested_by:
+      - V4.OT8         # addressed as qualitative theme only
+    instruments:
+      - NRP            # narrative themes around sin patterns
+      - EWI            # external witnesses detect behavioral change
+    disconfirming_evidence: >
+      Longitudinal data showing participants with chronic unaddressed sin
+      patterns showing equal stage progression to participants without
+      such patterns, controlling for other formation variables.
+    council_flag: >
+      Author notes this is "a sensitive and ethically complex" test that
+      the Vol 4 research program addresses only partially (via OT-8).
+      Direct testing requires a different study design.
+
+  - id: V4.LotS-H3
+    type: testable_hypothesis
+    title: "Heart Formation is Progressive and Follows the Affective Taxonomy"
+    core_text: >
+      Heart formation follows a progressive developmental sequence
+      through the five stages of the Affective Taxonomy (Receiving,
+      Responding, Valuing, Organization, Characterization). The critical
+      transition is Stage 2 → Stage 3 (extrinsic to intrinsic motivation).
+    status: core
+    confidence_inherited_from: V2.Exp7   # Affective Taxonomy formal map (80%)
+    upstream_dependencies:
+      - V2.Exp7
+      - V1.Exp1        # hearing operationalized at each stage
+    tested_by:
+      - V4.RQ1         # primary research question
+    instruments:
+      - PSFA
+      - SOP            # Tell Rate per session
+      - GSFP
+    disconfirming_evidence: >
+      (1) Consistent failure to observe identifiable stage transitions in
+      PROAPT groups over time; (2) random distribution of observable
+      behaviors across stages with no directional pattern; (3) a pattern
+      showing that people who engage reflectively with scripture do NOT
+      show the predicted progression. Any of these would disconfirm.
+    notes: >
+      This is the most directly tested LotS claim in Vol 4. RQ1 is the
+      Primary research question of the whole program; its result moves
+      V2.Exp7's confidence meaningfully in either direction.
+
+  - id: V4.LotS-H4
+    type: testable_hypothesis
+    title: "Reflective Bible Study Advances Heart Formation at Every Stage"
+    core_text: >
+      Reflective bible study (PROAPT model) is the primary discipline
+      that advances heart formation at every stage and every transition.
+      This hypothesis extends the MOVE study's finding (Hawkins &
+      Parkinson, 2011) into the LotS framework.
+    status: core
+    confidence_inherited_from: V2.Exp7   # 80% — builds on Affective Taxonomy
+    upstream_dependencies:
+      - V1.Exp1        # Word → Hearing → Faith chain
+      - V2.Exp7
+      - V2.Exp10       # training plan
+    external_sources:
+      - "Hawkins & Parkinson (2011) — MOVE study"
+    tested_by:
+      - V4.RQ1
+    instruments:
+      - SDFL           # discipline frequency log
+      - PSFA
+    disconfirming_evidence: >
+      A comparison study showing that groups engaged in other spiritual
+      disciplines (worship alone, service alone, fellowship alone) produce
+      equivalent or greater stage progression than groups engaged in
+      reflective bible study.
+
+  - id: V4.LotS-F1
+    type: testable_hypothesis
+    title: "Faith Requires Scripture Trust as a Necessary Condition"
+    core_text: >
+      Scripture trust (operationalized via the STI-A) is a necessary
+      condition for the faith-generation chain of V1.Exp1 to operate.
+      A person with low scripture trust cannot generate the genuine
+      hearing that produces faith, regardless of how much scripture
+      they are exposed to.
+    status: core
+    confidence_inherited_from: V1.Exp1   # 75%
+    upstream_dependencies:
+      - V1.Exp1
+    tested_by:
+      - V4.RQ2
+    instruments:
+      - STI-A
+    disconfirming_evidence: >
+      Participants with persistently low STI-A scores showing normal
+      stage progression through the Affective Taxonomy; a zero or
+      negative correlation between STI-A and PSFA stage scores.
+
+  - id: V4.LotS-F2
+    type: testable_hypothesis
+    title: "Faith is Primarily Affective, Not Cognitive"
+    core_text: >
+      Faith is primarily located in the affective dimension of the heart
+      — a matter of trust, desire, and willing-to-obey orientation —
+      rather than in the cognitive dimension of belief-as-proposition.
+      Cognitive assent without affective trust is not yet genuine faith.
+    status: core
+    confidence_inherited_from: V1.Exp1   # 75%
+    upstream_dependencies:
+      - V1.Exp1
+      - V2.Exp7
+    tested_by:
+      - V4.RQ2
+    instruments:
+      - PSFA
+      - STI-A
+    disconfirming_evidence: >
+      Cognitive dimensions of PSFA (knowledge, understanding) rising
+      before affective dimensions (trust, desire, will), in the majority
+      of participants showing stage progression. The temporal ordering
+      is the key: the LotS framework predicts affective changes precede
+      cognitive changes; the null hypothesis predicts the reverse or
+      no ordering.
+
+  - id: V4.LotS-F3
+    type: testable_hypothesis
+    title: "Trials are the Primary Mechanism for Stage Transitions"
+    core_text: >
+      Trials (suffering, cost, testing circumstances) are not
+      interruptions to faith formation but the primary mechanism by
+      which stage transitions occur. Romans 5:3-5 and James 1:2-3 are
+      causal descriptions, not just consolations.
+    status: core
+    confidence_inherited_from: V2.Exp10   # 75% — training plan cites suffering-as-engine
+    scripture_refs:
+      - Romans 5:3-5
+      - James 1:2-3
+    upstream_dependencies:
+      - V2.Exp10
+    tested_by:
+      - V4.RQ5
+    instruments:
+      - NRP            # monthly narratives flag trials and their effects
+      - Supplementary_Interview  # for rapid-transition participants
+    disconfirming_evidence: >
+      (1) Longitudinal data showing people in stable, low-trial
+      circumstances showing equal or greater stage progression than
+      people experiencing significant trials; (2) narrative data in
+      which participants consistently describe their breakthroughs as
+      unconnected to trial events.
+
+  - id: V4.LotS-F4
+    type: testable_hypothesis
+    title: "Community is Essential to Faith Formation"
+    core_text: >
+      Spiritual formation in community produces outcomes that cannot be
+      attributed to individual discipline practice alone. The Romans 10
+      chain (Word → Hearing → Faith) runs through a communal hearing
+      context, not a solitary one.
+    status: core
+    confidence_inherited_from: V2.Exp9   # 80%
+    upstream_dependencies:
+      - V2.Exp8
+      - V2.Exp9
+    tested_by:
+      - V4.RQ1         # PROAPT group vs. comparison cohort
+    instruments:
+      - PSFA
+      - SDFL           # isolates individual discipline frequency as control
+    disconfirming_evidence: >
+      PROAPT group participants and comparison cohort members showing
+      equivalent stage progression when individual SDFL discipline
+      frequency is held constant.
+
+  - id: V4.LotS-I2
+    type: testable_hypothesis
+    title: "Spiritual Formation is Growth in Reflection of the Image of God"
+    core_text: >
+      Spiritual formation is measurable as growth in the four dimensions
+      of the image of God (4Rs): Reason, Rulership, Relationship, and
+      Righteousness. Stage progression through the Affective Taxonomy
+      correlates with measurable growth in at least two of the 4Rs.
+    status: core
+    confidence_inherited_from: V2.Exp7   # 80% — builds on Affective Taxonomy
+    upstream_dependencies:
+      - V1.Exp2        # nested person (image of God at the spirit layer)
+      - V2.Exp7
+    tested_by:
+      - V4.RQ3
+    instruments:
+      - Image_of_God_4Rs_Self_Assessment
+      - PSFA
+    disconfirming_evidence: >
+      No significant correlation between PSFA stage progression and
+      Image of God 4Rs profile shifts; or a pattern in which all four
+      4Rs move uniformly regardless of scriptural content, which would
+      break the content-to-4R specificity claim.
+
+  - id: V4.LotS-I3
+    type: testable_hypothesis
+    title: "4R Growth is Content-Specific to Scriptural Engagement"
+    core_text: >
+      Specific 4Rs grow in response to specific scriptural content
+      domains. A PROAPT group engaging primarily with wisdom literature
+      should show Reason growth; a group engaging primarily with Pauline
+      letters should show Righteousness growth; and so on.
+    status: core
+    confidence_inherited_from: V2.Exp7   # 80%
+    upstream_dependencies:
+      - V2.Exp7
+    tested_by:
+      - V4.RQ3
+    instruments:
+      - Image_of_God_4Rs_Self_Assessment
+      - SOP            # session notes document thematic content
+    disconfirming_evidence: >
+      4R growth profile unrelated to scriptural content engaged; or
+      uniform 4R growth across groups regardless of which biblical
+      material they engaged with.
+
+# ===========================================================================
+# Part III — Research Questions (RQ1–RQ5)
+# ===========================================================================
+
+  - id: V4.RQ1
+    type: research_question
+    title: "Does PROAPT produce movement through the Affective Taxonomy?"
+    core_text: >
+      RQ1 (Primary): Does consistent participation in PROAPT-based small
+      group bible study produce measurable movement through the
+      Affective Taxonomy stages over a 12-month period, compared to a
+      matched control group?
+    priority: primary
+    expected_finding: >
+      PROAPT participants will show significantly greater net stage
+      progression than control participants over 12 months.
+    tests_hypotheses: [V4.LotS-H3, V4.LotS-H4, V4.LotS-F4]
+    primary_instruments: [PSFA, SOP, GSFP]
+    statistical_method: >
+      Mixed ANOVA with time (baseline/M6/M12) as within-subjects factor
+      and group condition (PROAPT vs comparison) as between-subjects
+      factor.
+    upstream_dependencies:
+      - V4.LotS-H3
+      - V4.LotS-H4
+      - V4.LotS-F4
+      - V4.P3
+    council_flag: >
+      Primary research question. The strongest single test in the Vol 4
+      program. A null finding would move confidence on V2.Exp7
+      meaningfully downward; a strong positive finding would move it up.
+
+  - id: V4.RQ2
+    type: research_question
+    title: "Affective Taxonomy stage ↔ Scripture Trust correlation"
+    core_text: >
+      RQ2: Is there a significant positive correlation between Affective
+      Taxonomy stage and scripture trust level (STI-A score) at each
+      assessment point?
+    priority: secondary
+    expected_finding: >
+      STI-A scores will correlate positively with PSFA stage scores
+      (r ≥ 0.60) and will rise in parallel with stage progression, with
+      affective changes preceding cognitive changes.
+    tests_hypotheses: [V4.LotS-F1, V4.LotS-F2, V4.LotS-H1]
+    primary_instruments: [PSFA, STI-A, NRP]
+    upstream_dependencies:
+      - V4.LotS-F1
+      - V4.LotS-F2
+      - V4.LotS-H1
+
+  - id: V4.RQ3
+    type: research_question
+    title: "Stage progression ↔ Image of God 4Rs growth"
+    core_text: >
+      RQ3: Does Affective Taxonomy stage progression correlate with
+      measurable growth in one or more of the Image of God 4Rs
+      (Reason, Rulership, Relationship, Righteousness)?
+    priority: secondary
+    expected_finding: >
+      Participants progressing to Stage 3 and above will show significant
+      growth in at least two 4R dimensions; specific 4Rs will correspond
+      to the scriptural content engaged in their PROAPT group.
+    tests_hypotheses: [V4.LotS-I2, V4.LotS-I3]
+    primary_instruments: [PSFA, Image_of_God_4Rs, NRP]
+    upstream_dependencies:
+      - V4.LotS-I2
+      - V4.LotS-I3
+
+  - id: V4.RQ4
+    type: research_question
+    title: "Facilitator stage predicts group progression"
+    core_text: >
+      RQ4: Does the facilitator's own Affective Taxonomy stage predict
+      the group's net stage progression rate and Group Affective
+      Taxonomy Stage (GATS) trajectory?
+    priority: secondary
+    expected_finding: >
+      Groups led by Stage 4 facilitators will show significantly greater
+      net stage progression than groups led by Stage 3 facilitators,
+      controlling for group composition and church context.
+    tests_hypotheses: [V4.OT6]
+    primary_instruments: [Facilitator_PSFA, GSFP, Final_Group_Formation_Report]
+    statistical_method: >
+      Two-sample t-test on net PSFA change scores. Given small group
+      count (10), primarily descriptive and effect-size-based.
+    upstream_dependencies:
+      - V4.OT6
+      - V4.M6          # researcher's/facilitator's formation as instrument
+
+  - id: V4.RQ5
+    type: research_question
+    title: "Preconditions for rapid/dramatic stage transitions"
+    core_text: >
+      RQ5: Are there identifiable preconditions — in PROAPT engagement,
+      personal circumstances, or relational context — that reliably
+      precede dramatic or rapid stage transitions?
+    priority: qualitative_exploratory
+    expected_finding: >
+      Rapid stage transitions will be consistently preceded by a period
+      of heightened PROAPT engagement combined with a significant trial
+      or cost, confirming James 1:2-3 as a mechanism rather than a
+      coincidence.
+    tests_hypotheses: [V4.LotS-F3, V4.OT5]
+    primary_instruments: [NRP, OT5_Supplementary_Interview, SOP]
+    upstream_dependencies:
+      - V4.LotS-F3
+      - V4.OT5
+    notes: >
+      The only research question primarily qualitative in method. The
+      OT-5 supplementary interview protocol is unique to this RQ.
+
+# ===========================================================================
+# Part IV — Protocols
+# ===========================================================================
+
+  - id: V4.P1
+    type: protocol
+    title: "Individual Spiritual Formation Testing Protocol"
+    core_text: >
+      A 12-month individual formation testing protocol in three phases:
+      Phase 1 (Orientation and Baseline, Months 1–3); Phase 2 (Active
+      Formation, Months 4–9); Phase 3 (Integration and Assessment,
+      Months 10–12). Uses four instruments (PSFA, STI-A, NRP, SDFL)
+      administered at defined intervals. The testing unit is the
+      individual in spiritual direction relationship with a facilitator.
+    status: core
+    confidence: 80
+    phases:
+      - number: 1
+        name: "Orientation and Baseline"
+        months: "1-3"
+      - number: 2
+        name: "Active Formation"
+        months: "4-9"
+      - number: 3
+        name: "Integration and Assessment"
+        months: "10-12"
+    instruments: [PSFA, STI-A, NRP, SDFL]
+    upstream_dependencies:
+      - V4.M2
+      - V4.M6
+      - V4.M7
+      - V2.Exp7        # Affective Taxonomy is the developmental scaffold
+      - V2.Exp10       # training plan
+    downstream_dependents: [V4.P2, V4.P3]
+
+  - id: V4.P2
+    type: protocol
+    title: "Small Group Spiritual Formation Testing Protocol"
+    core_text: >
+      A 12-month small group formation testing protocol mirroring the
+      individual protocol in three phases, with additional group-level
+      instruments (SOP, GSFP) tracking collective formation via the
+      Group Affective Taxonomy Stage (GATS) construct. Tests
+      community-level claims (V4.LotS-F4) alongside individual-level
+      claims.
+    status: core
+    confidence: 80
+    phases:
+      - number: 1
+        name: "Group Formation and Baseline"
+        months: "1-3"
+      - number: 2
+        name: "Group Deepening"
+        months: "4-9"
+      - number: 3
+        name: "Group Integration and Assessment"
+        months: "10-12"
+    instruments: [PSFA, STI-A, NRP, SDFL, SOP, GSFP]
+    upstream_dependencies:
+      - V4.P1
+      - V4.M2
+      - V2.Exp8        # container conditions
+      - V2.Exp9        # community amplification
+    downstream_dependents: [V4.P3]
+
+  - id: V4.P3
+    type: protocol
+    title: "Research Program Design"
+    core_text: >
+      A longitudinal mixed-methods design with quasi-experimental
+      comparison. Five sites, two PROAPT research groups per site (one
+      Stage 3 facilitator, one Stage 4 facilitator) paired within site,
+      plus comparison cohort drawn from the same church. 60 active
+      participants plus 50–75 comparison cohort. External witnesses
+      (1 per participant) provide independent behavioral observation.
+      Addresses RQ1–RQ4 quantitatively, RQ5 qualitatively, and six of
+      the ten Open Trails directly or partially.
+    status: core
+    confidence: 75
+    confidence_rationale: >
+      The design is well-specified; the primary uncertainty is whether
+      five willing sites with Stage 3 and Stage 4 facilitators can be
+      recruited and sustained over 12 months. This is an execution risk,
+      not a design flaw.
+    scope:
+      sites: 5
+      groups_per_site: 2
+      participants_per_group: 6
+      total_participants: 60
+      comparison_cohort: "50-75"
+    tests_hypotheses:
+      - V4.LotS-H1
+      - V4.LotS-H3
+      - V4.LotS-H4
+      - V4.LotS-F1
+      - V4.LotS-F2
+      - V4.LotS-F3
+      - V4.LotS-F4
+      - V4.LotS-I2
+      - V4.LotS-I3
+    addresses_open_trails: [V4.OT1, V4.OT5, V4.OT6, V4.OT7]
+    partially_addresses: [V4.OT2, V4.OT4, V4.OT8, V4.OT9]
+    upstream_dependencies:
+      - V4.P1
+      - V4.P2
+      - V4.M3
+      - V4.M4
+      - V4.M7
+    ethical_considerations:
+      - "Informed consent in pastoral context"
+      - "Protecting vulnerable participants (three named categories)"
+      - "Sensitive handling of OT-8 sin-pattern data"
+
+# ===========================================================================
+# Part V — Open Trails (OT-1 through OT-10)
+# ===========================================================================
+# These are research questions inherited from earlier volumes that Vol 4
+# addresses in varying degrees. They are not themselves claims to vote on,
+# but they ARE governance-tracked items: the Council will want to know
+# which trails are addressed, which remain open, and which require separate
+# studies.
+# ===========================================================================
+
+  - id: V4.OT1
+    type: open_trail
+    title: "Test PROAPT-Taxonomy model in real small group"
+    status_in_v4: directly_addressed
+    addressed_by: [V4.P1, V4.P2, V4.RQ1]
+    notes: "Core of Sections 3 and 4 — the program's central task."
+
+  - id: V4.OT2
+    type: open_trail
+    title: "Extend Affective Taxonomy to full agape triad"
+    description: >
+      Extend the Affective Taxonomy to love of God and neighbor, and to
+      the fruits of the Spirit.
+    status_in_v4: partially_addressed
+    addressed_by: [V4.Instruments_EWI, V4.Instruments_NRP]
+    notes: "Agape-adjacent outcomes captured; full extension requires a second study."
+
+  - id: V4.OT3
+    type: open_trail
+    title: "Complete the taxonomy trilogy — spirit and soul taxonomies"
+    description: >
+      Extend the Affective Taxonomy with parallel taxonomies for the
+      spirit and soul layers of the nested person structure.
+    status_in_v4: not_addressed
+    upstream_dependencies: [V1.Exp2]
+    notes: "Requires a prior theological anthropology study; flagged for future work."
+
+  - id: V4.OT4
+    type: open_trail
+    title: "Map LotS explorations to discipleship curriculum"
+    description: >
+      Map the LotS explorations to a discipleship curriculum using the
+      Affective Taxonomy as scaffolding.
+    status_in_v4: partially_addressed
+    notes: "PROAPT functions as the curriculum scaffold; formal curriculum mapping is a separate project."
+
+  - id: V4.OT5
+    type: open_trail
+    title: "Precursors of instantaneous heart change"
+    status_in_v4: directly_addressed
+    addressed_by: [V4.RQ5, V4.OT5_Supplementary_Interview]
+    related_claims: [V4.LotS-F3]
+
+  - id: V4.OT6
+    type: open_trail
+    title: "Collective spiritual formation — how a community moves through the Affective Taxonomy"
+    status_in_v4: directly_addressed
+    addressed_by: [V4.RQ4, V4.P2]
+    upstream_dependencies: [V2.Exp9]
+    notes: "GATS, GSFP, CSFA, and Group outcome variables in Section 4."
+
+  - id: V4.OT7
+    type: open_trail
+    title: "Image of God renewal as a structured process"
+    description: >
+      Treat the 4Rs as developmental milestones that progress in
+      measurable ways.
+    status_in_v4: directly_addressed
+    addressed_by: [V4.RQ3, V4.LotS-I2, V4.LotS-I3]
+
+  - id: V4.OT8
+    type: open_trail
+    title: "Sin's impact on trust development"
+    description: >
+      How unrepentant sin interferes with Affective Taxonomy progression.
+    status_in_v4: partially_addressed
+    addressed_by: [V4.LotS-H2]
+    notes: >
+      NRP qualitative coding includes sin-pattern themes; direct testing
+      requires a different study design because of ethical complexity.
+
+  - id: V4.OT9
+    type: open_trail
+    title: "Leadership formation through Image of God lens"
+    description: >
+      3D framework integrating 4Rs, Affective Taxonomy, and Cognitive
+      Taxonomy for leadership development.
+    status_in_v4: partially_addressed
+    addressed_by: [V4.RQ4]
+    notes: "Full leadership formation study is a separate project."
+
+  - id: V4.OT10
+    type: open_trail
+    title: "Doctrine testing through fruit analysis"
+    description: >
+      Evaluating doctrines by their observable fruit — a meta-level
+      research question that builds on the findings of this program.
+    status_in_v4: not_directly_addressed
+    notes: "Meta-level question; builds on findings rather than being tested within them."
+
+# ===========================================================================
+# Part VI — Instruments (reference material, not claims)
+# ===========================================================================
+
+instruments:
+  PSFA:
+    name: "Personal Spiritual Formation Assessment"
+    measures: "Affective Taxonomy stage; Image of God 4Rs"
+    type: quantitative
+    frequency: "Baseline, Month 6, Month 12"
+    tests_hypotheses: [V4.LotS-H3, V4.LotS-H4, V4.LotS-I2, V4.LotS-I3, V4.LotS-F2]
+  STI-A:
+    name: "Scripture Trust Index — Adapted"
+    measures: "Scripture trust level"
+    type: quantitative
+    frequency: "Baseline, Month 6, Month 12"
+    tests_hypotheses: [V4.LotS-F1, V4.LotS-F2, V4.LotS-H1]
+    source: "Adapted from Hall (2017) and epistemic trust research"
+  Image_of_God_4Rs:
+    name: "Image of God 4Rs Self-Assessment"
+    measures: "4R profile — Reason, Rulership, Relationship, Righteousness"
+    type: quantitative
+    frequency: "Baseline, Month 12"
+    tests_hypotheses: [V4.LotS-I2, V4.LotS-I3]
+  SDFL:
+    name: "Spiritual Disciplines Frequency Log"
+    measures: "Discipline practice frequency per week"
+    type: quantitative
+    frequency: "Weekly"
+    tests_hypotheses: [V4.LotS-H4]
+  NRP:
+    name: "Narrative Reflection Protocol"
+    measures: "Formation narrative; trial response; heart change; 4R growth"
+    type: qualitative
+    frequency: "Monthly"
+    tests_hypotheses: [V4.LotS-F3, V4.LotS-H1, V4.LotS-H3, V4.LotS-I2]
+  SOP:
+    name: "Session Observation Protocol"
+    measures: "Session engagement; Tell Rate; stage-transition events"
+    type: mixed
+    frequency: "Every session"
+    tests_hypotheses: [V4.LotS-F4, V4.LotS-H4]
+  GSFP:
+    name: "Group Stage Formation Profile"
+    measures: "Group stage distribution; GATS trajectory"
+    type: qualitative_visual
+    frequency: "Quarterly"
+    tests_hypotheses: [V4.LotS-H3]
+  EWI:
+    name: "External Witness Interview"
+    measures: "Observable behavioral change reported by non-participant witnesses"
+    type: qualitative
+    frequency: "Baseline, Month 12"
+  CSFA:
+    name: "Community Spiritual Formation Assessment"
+    measures: "Community-level formation indicators"
+    type: quantitative
+    frequency: "Quarterly"
+  OT5_Supplementary_Interview:
+    name: "OT-5 Supplementary Interview"
+    measures: "Precursor narrative for rapid stage transitions"
+    type: qualitative
+    frequency: "Triggered by rapid transition events"
+
+# ===========================================================================
+# End of Volume 4 claim registry
+# ===========================================================================

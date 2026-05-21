@@ -1,29 +1,30 @@
 ---
 title: "Spiritual Force, Energy, and Power"
 volume: 1
-source: "IJH_Vol1_v5_6_1_1.pdf"
+source: "IJH_Vol1_v5_6_1_1.docx"
 ---
 
 # Spiritual Force, Energy, and Power
 
 ## The Developing Dynamics
-
 My goal in this section is to begin developing the quantitative language for the spiritual laws I have identified — to move from "there is a relationship" to "here is how to describe the relationship with more precision." This is visionary work. This brief discussion is a starter and a connector for the more complete discussion in Vol 3.
 
-**Force, Work, and Trust** My working definitions: Spiritual force is the capacity to produce spiritual work — to move things in the spiritual domain, which then manifests in the natural. Trust (faith, pistis) is the primary stock that determines how much spiritual force is available. The more genuine trust I have, not intellectual assent but operational trust, the kind that changes my actions, the more force is available.
+### Force, Work, and Trust
+My working definitions: Spiritual force is the capacity to produce spiritual work — to move things in the spiritual domain, which then manifests in the natural. Trust (faith, pistis) is the primary stock that determines how much spiritual force is available. The more genuine trust I have, not intellectual assent but operational trust, the kind that changes my actions, the more force is available.
 
 The mustard seed passages establish the threshold condition: a small amount of genuine trust is sufficient to produce results that appear impossible from the natural frame. But I want to be precise about this — I think the mustard seed is at least a threshold statement (is the trust genuine, above zero?) rather than a proportionality statement (is there enough trust?), but a mixed model is open for investigation. This matters for the equations.
 
-**The Trust-as-Stock Model** In systems dynamics language, trust is a stock — it accumulates over time, it can be depleted, and it can be replenished. The inflow to the trust stock is hearing the Word (about Christ) with willingness to obey (Exploration 1 chain). The outflow from the trust stock includes acting on faith (which can either replenish the stock if the action confirms the truth or deplete it if I am operating presumptuously) and the corrosive effect of environments and voices that introduce unbelief.
+### The Trust-as-Stock Model
+In systems dynamics language, trust is a stock — it accumulates over time, it can be depleted, and it can be replenished. The inflow to the trust stock is hearing the Word (about Christ) with willingness to obey (Exploration 1 chain). The outflow from the trust stock includes acting on faith (which can either replenish the stock if the action confirms the truth or deplete it if I am operating presumptuously) and the corrosive effect of environments and voices that introduce unbelief.
 
 The feedback loop is: more trust → more action in faith → more confirmation → more trust. The negative version: less trust → less action → less confirmation → less trust. The reinforcing loop runs in both directions. This is consistent with Jesus’ statement that "to the one who has, more will be given; and from the one who has not, even what he has will be taken away" (Matt. 13:12 ESV). That is a description of a reinforcing feedback loop.
 
-**The Resonance Connection** From the Eighth Exploration: prayer operates as a waveform. The frequency, direction, and persistence of the waveform determine whether resonance builds. From the Authority Exploration: authority structure is a force multiplier — it is the transmission architecture that directs the force where it needs to go. These two factors operate on top of the base force available from the trust stock.
+### The Resonance Connection
+From the Eighth Exploration: prayer operates as a waveform. The frequency, direction, and persistence of the waveform determine whether resonance builds. From the Authority Exploration: authority structure is a force multiplier — it is the transmission architecture that directs the force where it needs to go. These two factors operate on top of the base force available from the trust stock.
 
 A provisional equation structure (at very low confidence, offered as a working hypothesis for the community to test): Effective spiritual force = f(trust stock) × g(authority alignment) × h(prayer resonance). Where f, g, and h are functions I cannot yet specify, and where h operates over time rather than at a single point. This is the beginning of the calculus, not the end. I am holding this at about Speculative certainty on the specific structure, Reasonably Inferred on the general idea that these factors interact multiplicatively rather than additively.
 
 ## Open Questions
-
 The most important open questions in the spiritual calculus at this point:
 
 - What are the conservation laws? If spiritual energy can be applied to do spiritual work, is there a principle of conservation that governs how it transforms?
@@ -33,8 +34,7 @@ The most important open questions in the spiritual calculus at this point:
 Please see Vol 3 for the extensions of these questions.
 
 ## Speculative Laws for consideration and further development
-
-These have not been investigated in any depth and really are just notes for future work. I actually always have such a set of notes. I have more ideas than solutions, one of the exciting things about this work. I expect the Lord will call me home before it's all done. I also hope my kids, grandkids, and maybe others will find it interesting and take it further.
+These have not been investigated in any depth and really are just notes for future work.  I actually always have such a set of notes. I have more ideas than solutions, one of the exciting things about this work. I expect the Lord will call me home before it's all done. I also hope my kids, grandkids, and maybe others will find it interesting and take it further.
 
 **The Attention Economy of the Soul**
 
@@ -62,12 +62,8 @@ This one comes from the Prophets and is almost entirely uncharted in the current
 
 **The Generational Transmission Law**
 
-This is perhaps the most unsettling possible law in the list. The Old Testament is explicit that certain things — blessings and curses both — transmit across generations in ways that go beyond genetics and culture (Exod. 20:5-6, Deuteronomy 28-30, and the entire Deuteronomic narrative). The New Testament doesn't repudiate this; it reframes it: Christ breaks the curse transmission (Gal. 3:13) and the blessing transmission is through faith (Romans 4). The possible law: *spiritual formation and spiritual damage both have transmission mechanisms that operate across generations, and the clearing work for an individual may require addressing not only their own*
-
-*knots but the generational patterns that created the conditions for those knots to form.* This would give a structural account of why some inner healing work is faster than others, why certain sin patterns recur with unusual persistence, and why the blessing language in the Abrahamic covenant is taken seriously across the New Testament as something that belongs to believers now. Confidence: Speculative on the structural claim; the mechanism is deeply contested and the practice implications are theologically charged enough to require significant caution.
+This is perhaps the most unsettling possible law in the list. The Old Testament is explicit that certain things — blessings and curses both — transmit across generations in ways that go beyond genetics and culture (Exod. 20:5-6, Deuteronomy 28-30, and the entire Deuteronomic narrative). The New Testament doesn't repudiate this; it reframes it: Christ breaks the curse transmission (Gal. 3:13) and the blessing transmission is through faith (Romans 4). The possible law: *spiritual formation and spiritual damage both have transmission mechanisms that operate across generations, and the clearing work for an individual may require addressing not only their own **knots but the generational patterns that created the conditions for those knots to form.* This would give a structural account of why some inner healing work is faster than others, why certain sin patterns recur with unusual persistence, and why the blessing language in the Abrahamic covenant is taken seriously across the New Testament as something that belongs to believers now. Confidence: Speculative on the structural claim; the mechanism is deeply contested and the practice implications are theologically charged enough to require significant caution.
 
 A few observations about this list as a whole. Most of these laws share a structural feature: they describe *mechanisms* that are already widely assumed in Christian practice but rarely articulated as laws with causal arrows and feedback loops. The attention economy, the gratitude amplifier, the forgiveness-debt transfer — these are taught as virtues or commands, but the IJH project is asking whether they are better understood as descriptions of how the system actually works, independent of whether anyone obeys them. That reframing changes what it means to "apply" them: you aren't just obeying a command; you are either working with or against a mechanism that operates whether or not you understand it.
 
 That's where the low confidence is most important. These are proposed mechanisms, not confirmed ones. The community testing the project calls for — which the Formation Documents make more specific, and the Governance Model (Vol 6) implements as an open source model — is precisely what these need before they can be elevated.
-
-![](images/image-012.jpeg)
