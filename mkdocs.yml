@@ -1,5 +1,5 @@
-site_name: IJH — PDF-Pipeline Preview
-site_description: Notes to My Kids (and Grandkids) — On My Personal Exploration of the Laws of God's Love
+site_name: "Intentional Journey of the Heart — DEV PREVIEW"
+site_description: "[DEV PREVIEW] Notes to My Kids (and Grandkids) — On My Personal Exploration of the Laws of God's Love"
 site_author: John G. Tittle
 site_url: https://jgtittle-ministries.github.io/Intentional-Journey-of-the-Heart-dev/
 repo_url: https://github.com/jgtittle-ministries/Intentional-Journey-of-the-Heart-dev
@@ -8,6 +8,7 @@ edit_uri: edit/main/docs/
 
 theme:
   name: material
+  custom_dir: overrides
   features:
     - navigation.instant
     - navigation.tracking
@@ -80,9 +81,9 @@ validation:
     not_found: warn
   links:
     not_found: warn
+
 nav:
   - Home: index.md
-  - "Read Me First": read-me-first.md
   - "Introduction":
     - introduction/index.md
     - "Founders’ Genesis: How This Work Came Together": introduction/founders-genesis-how-this-work-came-together.md
@@ -93,7 +94,7 @@ nav:
     - "A Note on Proof and Certainty": introduction/note-on-proof-and-certainty.md
     - "A Note on the use of Claude as an AI research assistant": introduction/note-on-use-of-claude-as-ai-research.md
     - "Future Development": introduction/future-development.md
-  - "Vol 1: Laws of the Spirit":
+  - "Volume 1: Laws of the Spirit":
     - volume-1-laws-of-the-spirit/index.md
     - "What We Are Being Formed For: The Kingdom of God Now": volume-1-laws-of-the-spirit/what-we-are-being-formed-for-the.md
     - "Taxonomy Key: How This Volume Classifies Its Explorations": volume-1-laws-of-the-spirit/taxonomy-key-how-this-volume-classifies-its.md
@@ -125,12 +126,11 @@ nav:
     - "Connecting the Dots: How the Eight Explorations Fit Together": volume-1-laws-of-the-spirit/connecting-the-dots-how-the-eight-explorations.md
     - "The Periodic Table": volume-1-laws-of-the-spirit/periodic-table-see-volume-5.md
     - "A Word to My Kids at the End of This Volume": volume-1-laws-of-the-spirit/word-to-my-kids-at-the-end.md
-  - "Vol 2: Knowing to Doing":
+  - "Volume 2: Knowing to Doing":
     - volume-2-knowing-to-doing/index.md
     - "The Larger Story: Where This Volume Sits": volume-2-knowing-to-doing/larger-story-where-this-volume-sits.md
     - "Introduction: The Bridge from Knowing to Doing": volume-2-knowing-to-doing/introduction-the-bridge-from-knowing-to-doing.md
     - "Taxonomy Key: How This Volume Classifies Its Explorations": volume-2-knowing-to-doing/taxonomy-key-how-this-volume-classifies-its.md
-    - "PART I": volume-2-knowing-to-doing/part-i.md
     - "Exploration O: The Christian Companion's Framework": volume-2-knowing-to-doing/exploration-o-the-christian-companions-framework-tool.md
     - "1. The Heart Soil": volume-2-knowing-to-doing/exploration-01-heart-soil.md
     - "1B. Wound vs. Sin": volume-2-knowing-to-doing/exploration-01b-wound-vs-sin.md
@@ -140,14 +140,12 @@ nav:
     - "2C. Standing Interior Agreements": volume-2-knowing-to-doing/exploration-02c-standing-interior-agreements.md
     - "3. Believing a Lie": volume-2-knowing-to-doing/exploration-03-believing-lie.md
     - "4. Confession and Restoration": volume-2-knowing-to-doing/exploration-04-confession-and-restoration.md
-    - "PART II": volume-2-knowing-to-doing/part-ii.md
     - "5. The Four Connects": volume-2-knowing-to-doing/exploration-05-four-connects.md
     - "6. The Tool Map": volume-2-knowing-to-doing/exploration-06-tool-map.md
     - "6A. The Image-Bearing Dignity of the Wronger": volume-2-knowing-to-doing/exploration-06a-image-bearing-dignity-of-wronger.md
     - "6B. Forgiveness as Re-integration of the Wronger": volume-2-knowing-to-doing/exploration-06b-forgiveness-as-re-integration-of.md
-    - "6C. The Discernment-from-Outside-the- Frame Law": volume-2-knowing-to-doing/exploration-06c-discernment-from-outside-frame-law.md
+    - "6C. The Discernment-from-Outside-the-Frame Law": volume-2-knowing-to-doing/exploration-06c-discernment-from-outside-frame-law.md
     - "7. Hearing with Understanding": volume-2-knowing-to-doing/exploration-07-hearing-with-understanding.md
-    - "PART III": volume-2-knowing-to-doing/part-iii.md
     - "7A. Discernment of Voices as Level II Companion Competency": volume-2-knowing-to-doing/exploration-07a-discernment-of-voices-as-level.md
     - "8. The Container": volume-2-knowing-to-doing/exploration-08-container.md
     - "8B. The Session Liturgy": volume-2-knowing-to-doing/exploration-08b-session-liturgy.md
@@ -155,8 +153,9 @@ nav:
     - "9A. The Corporate Witness of Declared Identity": volume-2-knowing-to-doing/exploration-09a-corporate-witness-of-declared-identity.md
     - "10. The Training Plan": volume-2-knowing-to-doing/exploration-10-training-plan.md
     - "Epilogue: The Invitation to Volume 3": volume-2-knowing-to-doing/epilogue-the-invitation-to-volume-3.md
-  - "Vol 3: Quantitative Framework":
+  - "Volume 3: Quantitative Framework":
     - volume-3-quantitative-framework/index.md
+    - "A Note Before We Begin: What This Volume Is and Is Not": volume-3-quantitative-framework/note-before-we-begin.md
     - "Taxonomy Key: How This Volume Classifies Its Explorations": volume-3-quantitative-framework/taxonomy-key-how-this-volume-classifies-its.md
     - "1. The Case for Quantification": volume-3-quantitative-framework/exploration-01-case-for-quantification.md
     - "2. Transcendental Field Theory as the Vol 3 Framework": volume-3-quantitative-framework/exploration-02-transcendental-field-theory-as-vol.md
@@ -174,14 +173,14 @@ nav:
     - "Appendix: TFT Explained": volume-3-quantitative-framework/appendix-tft-explained.md
     - "Appendix: TFT Challenged": volume-3-quantitative-framework/appendix-tft-challenged.md
     - "Appendix: Master Law Index": volume-3-quantitative-framework/appendix-master-law-index.md
-  - "Vol 4: Testing Framework":
+  - "Volume 4: Testing Framework":
     - volume-4-testing-framework/index.md
     - "1. Why Testing Matters for the Laws of the Spirit Project": volume-4-testing-framework/section-1-why-testing-matters-for-laws.md
     - "2. Testing Framework": volume-4-testing-framework/section-2-testing-framework.md
     - "3. Individual Spiritual Formation Testing Protocol": volume-4-testing-framework/section-3-individual-spiritual-formation-testing-protocol.md
     - "4. Small Group Spiritual Formation Testing Protocol": volume-4-testing-framework/section-4-small-group-spiritual-formation-testing.md
     - "5. Research Program Design for Spiritual Formation": volume-4-testing-framework/section-5-research-program-design-for-spiritual.md
-  - "Vol 5: References":
+  - "Volume 5: References":
     - volume-5-references/index.md
     - "Introduction": volume-5-references/introduction.md
     - "Part I: Scholarly and Academic Sources": volume-5-references/part-i-scholarly-and-academic-sources.md
@@ -208,7 +207,6 @@ nav:
     - "B14 Kinesthetic Metaphor": volume-5-references/b14-kinesthetic-metaphor.md
     - "B15 Pull-out Work": volume-5-references/b15-pull-out-work.md
     - "The Periodic Table of Spiritual Laws": volume-5-references/periodic-table-of-spiritual-laws-a-summing.md
-    - "The Periodic Table of Spiritual Laws": volume-5-references/periodic-table-of-spiritual-laws-revised-working.md
     - "Measuring Spiritual Formation at Scale": volume-5-references/measuring-spiritual-formation-at-scale.md
   - "Vol 6: Governance":
     - volume-6-governance/index.md
@@ -224,4 +222,3 @@ extra_javascript:
   - extra/pdf-popup.js
 
 copyright: Copyright &copy; John G. Tittle — Licensed under CC BY 4.0
-

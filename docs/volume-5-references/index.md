@@ -1,7 +1,7 @@
 ---
 title: "Volume 5: References — Overview"
 volume: 5
-source: "IJH_Vol5_v5_6_1_1.pdf"
+source: "IJH_Vol5_v5_6_1_1.docx"
 ---
 
 
@@ -34,5 +34,4 @@ Contents of Volume 5: References. Each entry below opens that section of the vol
 - [B14 Kinesthetic Metaphor](b14-kinesthetic-metaphor.md) — B14 Kinesthetic Metaphor
 - [B15 Pull-out Work](b15-pull-out-work.md) — B15 Pull-out Work
 - [The Periodic Table of Spiritual Laws](periodic-table-of-spiritual-laws-a-summing.md) — The Periodic Table of Spiritual Laws — A Summing and Organizing Reference
-- [The Periodic Table of Spiritual Laws](periodic-table-of-spiritual-laws-revised-working.md) — The Periodic Table of Spiritual Laws — Revised Working Draft
 - [Measuring Spiritual Formation at Scale](measuring-spiritual-formation-at-scale.md) — Measuring Spiritual Formation at Scale

@@ -1,7 +1,7 @@
 ---
 title: "Introduction: The Bridge from Knowing to Doing"
 volume: 2
-source: "IJH_Vol2_v5_6_1_1.pdf"
+source: "IJH_Vol2_v5_6_1_1.docx"
 ---
 
 # Introduction: The Bridge from Knowing to Doing
@@ -18,6 +18,8 @@ I want to add one dimension to this framing that Eldredge consistently presses a
 
 Volume 2 is about getting the pipe clear and keeping it that way.
 
+![](images/image-014.jpeg)
+
 This is organized into three parts. Part I is diagnostic — what are the conditions that block hearing and faith? Part II is therapeutic — what tools, processes, and encounters with the Holy Spirit clear those blockages? Part III is developmental — what practices and community structures sustain and deepen the channel once it has been cleared?
 
 Each exploration follows the same format as Volume 1: a clear causal law stated up front, scripture grounding, connection to the Volume 1 laws it enables or expresses, and the practical process that makes it experiential rather than merely conceptual. I stand on Principle 3 from Volume 1: these laws are knowable in all three worlds — spirit, mind, and body. If I only know them in my head, I have not yet known them.
@@ -30,9 +32,9 @@ Before I dive in, let me acknowledge two debts that deserve fuller recognition t
 
 The first is to Dave Smith. Dave and I have walked through much of the experiential work described in this volume together. We have been a Band of Brothers for many years, using protocols derived from multiple sources and adapting what we could align faithfully with scripture. Dave has recently published a book documenting some of the processes we worked with: “Relational Discipleship: Transformation Through a Band of Brothers” (Dorrance Publishing). I recommend it without reservation to anyone who wants to follow the Band of Brothers trail more fully. His book is an important supplement to the discussion here.
 
-Here is the link to the publisher of Dave’s book:
+![](images/image-012.jpeg)
 
-https://bookstore.dorrancepublishing.com/products/relational-discipleship
+Here is the link to the publisher of Dave’s book:
 
 I highly recommend getting to know this book and Dave.
 
@@ -40,8 +42,4 @@ The second is John Eldredge. His books, particularly Wild at Heart (2001) and Wa
 
 I want to be clear about what I am claiming when I reference Eldredge’s work in what follows. I am not claiming that Eldredge is the source of the laws I am proposing. The laws are drawn from scripture and confirmed through experience. Eldredge’s contribution is to have named certain dynamics in the masculine heart: the wound, the false self, the three core desires, and the enemy’s strategy against the heart with a clarity and accessibility that I have found repeatedly useful in both my own interior work and in working with other men. Where I reference him, I am saying: if you want more on this dynamic, and want it in a form that is grounded, accessible, and personally challenging, read Eldredge. He will get you there a different way than I will, and that is worth something.
 
-**A Note on the Registry and Governance.** The explorations in this volume are encoded in vol2- claims.yml, with confidence ratings and dependencies on Volume 1 claims explicitly tracked. Most of the claims in this volume are Tier 2 working claims (Reasonably Inferred confidence) under the Volume 6 governance, which is appropriate for material that is both genuinely practical and genuinely open to refinement as the testing program in Volume 4 and the Followship of the Heart refines the processes and returns results. The Heart Soil diagnostic and the Sin Blockage law are the Tier 1 anchor claims in this volume; the rest move by the normal governance rhythm of contribution, comment, and Council consent.
-
-![](images/image-002.jpeg)
-
-![](images/image-003.jpeg)
+**A Note on ****the Registry**** and Governance.** The explorations in this volume are encoded in vol2-claims.yml, with confidence ratings and dependencies on Volume 1 claims explicitly tracked. Most of the claims in this volume are Tier 2 working claims (Reasonably Inferred confidence) under the Volume 6 governance, which is appropriate for material that is both genuinely practical and genuinely open to refinement as the testing program in Volume 4 and the Followship of the Heart refines the processes and returns results. The Heart Soil diagnostic and the Sin Blockage law are the Tier 1 anchor claims in this volume; the rest move by the normal governance rhythm of contribution, comment, and Council consent.

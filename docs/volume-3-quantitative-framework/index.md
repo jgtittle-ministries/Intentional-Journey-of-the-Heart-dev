@@ -1,7 +1,7 @@
 ---
 title: "Volume 3: Quantitative Framework — Overview"
 volume: 3
-source: "IJH_Vol3_v5_6_1_1.pdf"
+source: "IJH_Vol3_v5_6_1_1.docx"
 ---
 
 
@@ -9,6 +9,7 @@ source: "IJH_Vol3_v5_6_1_1.pdf"
 
 Contents of Volume 3: Quantitative Framework. Each entry below opens that section of the volume.
 
+- [A Note Before We Begin: What This Volume Is and Is Not](note-before-we-begin.md) — A Note Before We Begin: What This Volume Is and Is Not
 - [Taxonomy Key: How This Volume Classifies Its Explorations](taxonomy-key-how-this-volume-classifies-its.md) — Taxonomy Key: How This Volume Classifies Its Explorations
 - [1. The Case for Quantification](exploration-01-case-for-quantification.md) — First Exploration: The Case for Quantification
 - [2. Transcendental Field Theory as the Vol 3 Framework](exploration-02-transcendental-field-theory-as-vol.md) — Second Exploration: Transcendental Field Theory as the Vol 3 Framework

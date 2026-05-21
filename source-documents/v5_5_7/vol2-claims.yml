@@ -1,0 +1,570 @@
+# ===========================================================================
+# IJH Volume 2 — Claim Registry (worked schema example)
+# ---------------------------------------------------------------------------
+# This file converts the claims in Volume 2 of the Intentional Journey of the
+# Heart into the structured governance schema. It mirrors the Volume 1 file
+# (vol1-claims.yml) and together they demonstrate how the two-volume
+# dependency graph holds together.
+#
+# Volume 2 structure:
+#   - Part I (Diagnostic):    Exp 1, 2, 2A, 2B, 3, 4
+#   - Part II (Therapeutic):  Exp 5, 6, 7
+#   - Part III (Developmental): Exp 8, 9, 10
+#
+# Scope of this file: all twelve Explorations with their prose-stated
+# confidence ratings, plus one preserved open sub-question (the prophetic
+# exception standard in Exp 9, flagged by the author at 65%).
+#
+# Cross-volume ID conventions (retroactively aligning with vol1-claims.yml):
+#   V2.Exp4 is the "Sin Blockage Law" referenced in V1 Intro at 90%
+#   V2.Exp5 is the causal sequence referenced as V2.TherapeuticSequence
+#   V2.Exp2A is the Wound/False Self material referenced as V2.Eldredge
+# ===========================================================================
+
+project: IJH
+volume: 2
+schema_version: 0.1
+founder: John G. Tittle
+last_council_review: null
+source_document: IJH_Vol2_v5_4_1.docx
+
+claims:
+
+# ---------------------------------------------------------------------------
+# Part I — Diagnostic (Exp 1, 2, 2A, 2B, 3, 4)
+# ---------------------------------------------------------------------------
+
+  - id: V2.Exp1
+    type: diagnostic_law
+    title: "The Heart Soil — A Diagnostic Map"
+    part: I_Diagnostic
+    core_text: >
+      The four soil types in the parable of the sower describe four
+      conditions of the human heart, not four categories of people. Most
+      hearts contain all four conditions simultaneously in different
+      regions. The diagnostic work of Vol 2 is to identify the specific
+      soil condition in specific areas of my interior life — and to match
+      the right clearing tool to the right soil problem.
+    status: core
+    confidence: 90
+    confidence_rationale: >
+      High confidence. Jesus' own interpretation of the parable in
+      Mark 4:14-20 supports the soil-as-heart-condition reading. The
+      Affective Taxonomy mapping is new but internally consistent. The
+      multi-region interpretation of a single heart is an inference but
+      one supported by Jeremiah 17:9 and the general witness of anyone who
+      has tried to live the spiritual life honestly.
+    scripture_refs:
+      - Mark 4:14-20
+      - Jeremiah 17:9
+    upstream_dependencies:
+      - V1.Ax1
+      - V1.Exp1       # Word → Hearing → Faith is the chain this diagnoses
+      - V1.Exp2       # nested person structure is where the soil conditions sit
+    downstream_dependents:
+      - V2.Exp2       # emotional knots as a specific soil-condition mechanism
+      - V2.Exp3       # lie-at-the-root mechanism as cognitive soil
+      - V2.Exp4       # sin blockage as a soil-specific clearing mechanism
+      - V2.Exp5       # four-connects sequence builds on diagnostic work
+      - V2.Exp6       # tool map matches tools to these diagnostic categories
+      - V2.Exp7       # hearing processes target these soil conditions
+    flip_conditions: >
+      Would require demonstrating either (a) that the sower parable maps
+      people rather than heart regions, or (b) that the four types are not
+      exhaustive of soil conditions. A new soil category discovered by
+      community testing would require schema revision but not repudiation.
+    open_questions:
+      - "Whether additional soil conditions exist beyond the four"
+      - "How soil regions interact within a single heart"
+
+  - id: V2.Exp2
+    type: operational_law
+    title: "Emotional Knots — The Energetic Blockage Law"
+    part: I_Diagnostic
+    core_text: >
+      An emotional knot is a sustained energetic load on the heart created
+      by unresolved loss, a believed lie, experienced injustice, unconfessed
+      sin, or incomplete communication. It operates as a self-sustaining
+      feedback loop that drains the bandwidth of attention and will
+      required for genuine hearing. The release mechanism in every case is
+      a revelation of truth delivered by the Holy Spirit to the specific
+      part of the heart holding the knot. No tool releases a knot absent
+      this Spirit-delivered truth.
+    status: core
+    confidence: 85
+    confidence_rationale: >
+      Mechanism experientially confirmed over multiple decades and across
+      many people. The four-type taxonomy (loss, lie, injustice, sin) is a
+      working hypothesis; the categories may overlap. The weight-vs-sin
+      distinction (Heb 12:1) is high-confidence; the specific release
+      mechanism is high-confidence; the tool-to-type matching is
+      medium-confidence.
+    scripture_refs:
+      - Hebrews 12:1
+      - John 8:32
+      - Proverbs 4:23
+    upstream_dependencies:
+      - V1.Ax1
+      - V1.Ax3         # knots manifest in all three worlds
+      - V2.Exp1        # knots are a specific soil-condition mechanism
+    downstream_dependents:
+      - V2.Exp2A       # wound/false-self is a specific knot-type pattern
+      - V2.Exp2B       # adversary targets knots
+      - V2.Exp3        # lie-at-the-root is the cognitive sub-mechanism
+      - V2.Exp6        # tool map operates on knot types
+      - V3.FieldLocal  # emotional knots formalized as local minima in Vol 3 TFT manifold
+    flip_conditions: >
+      Would require a case where a knot releases absent Spirit-delivered
+      truth, demonstrating the mechanism is incidental rather than
+      essential. Forty-plus years of observation have not produced such a
+      case, but the Council should hold the claim open to challenge.
+
+  - id: V2.Exp2A
+    type: diagnostic_law
+    title: "The Wound and the False Self — The Identity Blockage Law"
+    part: I_Diagnostic
+    core_text: >
+      Every unaddressed wound installs a verdict about the self, and a self
+      organized around that verdict develops a false self as a management
+      structure. The false self is not sin in the simple sense — it is a
+      survival identity that gradually replaces the Spirit-led self as the
+      operating center of a person's life. The release mechanism is not
+      behavioral reform; it is the Father speaking a specific true answer
+      to the specific question the wound lodged.
+    status: core
+    confidence: 80
+    confidence_rationale: >
+      The wound-false-self structure is observationally consistent across
+      decades of work with men and in the author's interior experience.
+      Eldredge's framing in Wild at Heart is the clearest articulation
+      encountered, though the underlying dynamics are present in Payne and
+      Bennett. The specificity of the question is a working hypothesis;
+      the precise form varies by person and wound.
+    scripture_refs:
+      - Proverbs 4:23
+      - Ephesians 4:22-24
+      - Isaiah 43:1
+    external_sources:
+      - "John Eldredge, Wild at Heart (wound/false-self dynamics)"
+      - "Leanne Payne and Rita Bennett (inner healing foundations)"
+    upstream_dependencies:
+      - V1.Ax1
+      - V1.Exp2        # nested person — false self operates at Heart level redirecting Spirit
+      - V2.Exp2        # false self is a sustained identity-level knot
+    downstream_dependents:
+      - V2.Exp6        # tool map includes identity/shame-knot pathway
+      - V2.Exp7        # hearing processes target false-self questions
+      - V1.Sup1        # Three Desires described from this wound/identity frame
+    notes: >
+      Author's prose makes the V1 dependency explicit: "If the nested
+      person (Vol 1, Exp. 2) is designed for the Spirit to dwell in and
+      govern from, and the enemy can keep my identity organized around the
+      wound rather than around the Spirit's indwelling, then the Vol 1
+      operational laws will continue to underperform."
+
+  - id: V2.Exp2B
+    type: diagnostic_law
+    title: "The Adversary's Role — Why the Knots Don't Just Happen"
+    part: I_Diagnostic
+    core_text: >
+      Emotional and cognitive knots do not form in a neutral environment.
+      The enemy of the soul targets moments of vulnerability to instill
+      specific lies and then works through isolation, discouragement, and
+      misdirection to keep those lies in place. The clearing work of Part
+      II is therefore not purely psychological — it is a recovery of
+      ground that is being actively contested. Spiritual warfare prayer,
+      honest and specific, is a legitimate and often necessary component
+      of the clearing work.
+    status: core
+    confidence: 80
+    confidence_rationale: >
+      The scriptural case is clear. The practical observation — that
+      clearing work done with explicit spiritual warfare prayer is more
+      durable — is consistent across the author's experience but has not
+      been formally tested. The author errs toward understatement rather
+      than theatrical misuse.
+    scripture_refs:
+      - 1 Peter 5:8
+      - John 10:10
+      - Ephesians 6:12
+      - Mark 4:15
+    upstream_dependencies:
+      - V1.Ax1
+      - V1.Exp1        # adversary strategy targets the hearing channel directly
+      - V2.Exp2        # knots are what the adversary works to preserve
+    downstream_dependents:
+      - V2.Exp6        # tool map includes spiritual warfare integration
+    council_flag: >
+      Author flags this as consistent with experience but not formally
+      tested. Community testing of whether warfare-integrated clearing
+      produces more durable results than clearing alone would meaningfully
+      move this confidence level. Early Council testing priority.
+
+  - id: V2.Exp3
+    type: operational_law
+    title: "Believing a Lie — The Cognitive Blockage Law"
+    part: I_Diagnostic
+    core_text: >
+      Every emotional knot has a cognitive root — a specific lie accepted
+      about God, self, or others during a moment of vulnerability. The lie
+      sustains the knot beneath conscious awareness. Release requires the
+      Holy Spirit to speak specific truth into the exact memory where the
+      lie was accepted. This is not information transfer; it is
+      Spirit-to-spirit revelation that bypasses the cognitive defenses the
+      lie has built around itself.
+    status: core
+    confidence: 80
+    confidence_rationale: >
+      The lie-at-the-root mechanism is consistent with TPM theory and with
+      the author's direct observation. The specific mechanism by which the
+      Spirit accesses and replaces the lie is not fully understood — this
+      is the frontier of the spiritual calculus and will be extended in
+      Vol 3.
+    scripture_refs:
+      - John 8:44
+      - Ephesians 4:22-24
+    external_sources:
+      - "Transformation Prayer Ministry (TPM) methodology"
+    upstream_dependencies:
+      - V1.Ax1
+      - V2.Exp2        # lie-at-the-root is the cognitive sub-mechanism of knots
+      - V2.Exp2A       # wounds install the verdicts that become lies
+    downstream_dependents:
+      - V2.Exp6        # tool map includes lie-replacement pathway (TPM)
+      - V3.Frontier    # "frontier of the spiritual calculus" — Vol 3 extension
+    open_questions:
+      - "Specific mechanism by which Spirit accesses and replaces the lie"
+
+  - id: V2.Exp4
+    type: operational_law
+    title: "Confession and Restoration — Clearing the Sin Blockage"
+    aliases: [V2.SinBlockage]
+    part: I_Diagnostic
+    core_text: >
+      Unconfessed sin functions as a load on the spiritual circuit,
+      increasing resistance in the hearing channel and suppressing the
+      effectiveness of prayer. Genuine confession — specific, owned,
+      without self-justification, and releasing the sin rather than merely
+      acknowledging it — clears this load and restores the channel. The
+      diagnostic question is always: is this blockage primarily sin
+      (requiring confession) or primarily weight (requiring a different
+      tool)?
+    status: core
+    confidence: 90
+    confidence_rationale: >
+      Among the highest-confidence laws in the entire LotS project.
+      Scriptural grounding is explicit and bidirectional — positive and
+      negative cases both stated. The practical diagnostic question
+      (sin vs. weight) is the more nuanced piece and is medium-confidence
+      in application to specific situations.
+    scripture_refs:
+      - 1 John 1:9
+      - Psalm 66:18
+      - James 5:16
+      - Hebrews 12:1
+    upstream_dependencies:
+      - V1.Ax1
+      - V1.Exp1        # sin degrades the hearing channel this restores
+      - V1.Exp6        # obedience channel interaction
+      - V2.Exp2        # sin is one of the five knot-causing categories
+    downstream_dependents:
+      - V2.Exp5        # confession precedes Connect-with-God in the sequence
+      - V2.Exp6        # tool map routes sin-knots to confession
+      - V3.Eq1         # explicitly referenced in governance docs as high-confidence anchor
+    notes: >
+      This is the claim referenced in the Intro as the highest-confidence
+      anchor for the confidence-rating methodology: "bidirectional
+      confirmation, millennia of consistent theological tradition, and
+      direct experiential confirmation." It serves as a reference case for
+      calibrating other confidence ratings across the project.
+
+# ---------------------------------------------------------------------------
+# Part II — Therapeutic (Exp 5, 6, 7)
+# ---------------------------------------------------------------------------
+
+  - id: V2.Exp5
+    type: structural_law
+    title: "The Four Connects — A Causal Sequence"
+    aliases: [V2.TherapeuticSequence]
+    part: II_Therapeutic
+    core_text: >
+      Connecting with Self, Others, God, and Mission is a causal sequence
+      with directional dependencies. Each layer creates the conditions for
+      the next. Attempts to connect with God while bypassing honest
+      self-examination and genuine community tend to produce performance
+      rather than transformation. Attempts to find and live a mission
+      without the first three connections tend to produce activity without
+      fruit.
+    status: core
+    confidence: 80
+    confidence_rationale: >
+      The sequence and its dependencies are confirmed by observation over
+      many years of working with men. The specific mechanisms are still
+      being developed — this is the area where the community dimension of
+      LotS testing will be most valuable.
+    scripture_refs:
+      - Psalm 139:23-24
+      - Ephesians 2:10
+    upstream_dependencies:
+      - V1.Ax1
+      - V1.Exp3        # F/H/L triad — directionality of Connect-with-God step
+      - V2.Exp1        # heart-soil diagnostic precedes therapeutic sequence
+      - V2.Exp4        # confession clears sin blockage in sequence
+    downstream_dependents:
+      - V2.Exp6        # tool map follows the four-connect sequence
+      - V2.Exp10       # training plan operationalizes the sequence
+    council_flag: >
+      Directional dependency on V1.Exp3 (F/H/L triad) means this sequence
+      is sensitive to the Hope → Love arrow dissent preserved as
+      V1.Exp3.Mn1. If that minority were elevated, the therapeutic order
+      in this claim would need review.
+    open_questions:
+      - "Specific mechanisms of each directional dependency"
+      - "Whether the sequence admits any exceptions (e.g., conversion-type events)"
+
+  - id: V2.Exp6
+    type: tool_application_law
+    title: "The Tool Map — Matching the Right Tool to the Right Blockage"
+    part: II_Therapeutic
+    core_text: >
+      Matching the right tool to the right blockage type is itself a skill
+      requiring discernment. The general principle: grief knots respond to
+      naming and completing (GRH → TPM); shame knots respond to shadow
+      recovery and identity truth (Gold/Shadow → Inner Healing); fear
+      knots respond to somatic entry followed by specific truth
+      (Relaxation → TPM); anger knots respond to full naming before
+      release (Psychodrama/Voice Dialogue → Forgiveness prayer); sin knots
+      respond to confession (Vol 2 Exp 4).
+    status: core
+    confidence: 70
+    confidence_rationale: >
+      The tool-to-type mapping is the author's current best working
+      hypothesis, based on observation. The boundaries are not clean — most
+      knots have multiple types mixed together, and the right entry point
+      for a given person in a given moment requires discernment that
+      cannot be fully systematized. This is where the community of
+      practitioners does its most important testing work.
+    scripture_refs: []
+    external_sources:
+      - "Grief Recovery Handbook (GRH)"
+      - "Transformation Prayer Ministry (TPM)"
+      - "Leanne Payne, Inner Healing"
+      - "Psychodrama / Voice Dialogue"
+    upstream_dependencies:
+      - V1.Ax1
+      - V2.Exp1
+      - V2.Exp2
+      - V2.Exp2A
+      - V2.Exp2B
+      - V2.Exp3
+      - V2.Exp4        # all diagnostic laws feed into the tool-matching
+    downstream_dependents:
+      - V2.Exp7        # hearing processes use these tools
+      - V2.Exp10       # training plan teaches tool application
+    council_flag: >
+      Lowest-confidence claim in Part II (70%). Author explicitly identifies
+      this as needing community-of-practitioners testing. Early Council
+      priority — the tool map is where the therapeutic framework meets
+      pastoral practice.
+
+  - id: V2.Exp7
+    type: operational_law
+    title: "Hearing with Understanding — The Experiential Processes"
+    part: II_Therapeutic
+    core_text: >
+      The hearing faculty develops through intentional practice according
+      to a five-stage affective progression (Receiving → Responding →
+      Valuing → Organization → Characterization). The critical transition
+      is from Level 2 to Level 3 — from extrinsic to intrinsic motivation.
+      This progression applies to small groups as collectives, not just to
+      individuals. The practices in this exploration (Any Doubts?, Garden
+      of Your Heart, PROAPT) are specifically targeted at supporting
+      movement through the levels.
+    status: core
+    confidence: 80
+    confidence_rationale: >
+      The developmental claim (hearing improves with practice) is confirmed
+      by observation and consistent with the Vol 1 obedience channel law.
+      The specific effectiveness of each exercise varies by person and
+      context; Any Doubts? and Garden of Your Heart are the
+      highest-confidence tools from direct observation. The five-level
+      taxonomy is adapted from doctoral research and draws on Krathwohl,
+      Bloom, and Masia.
+    scripture_refs:
+      - Mark 9:24
+    external_sources:
+      - "Krathwohl, Bloom, and Masia — Affective Taxonomy"
+      - "Dmitri Bilgere — Any Doubts? exercise"
+    upstream_dependencies:
+      - V1.Ax1
+      - V1.Ax3
+      - V1.Exp1        # this operationalizes the Word → Hearing → Faith chain
+      - V1.Exp6        # obedience channel is the developmental foundation
+      - V2.Exp1        # heart-soil diagnosis precedes hearing practice
+      - V2.Exp6        # uses the tool map
+    downstream_dependents:
+      - V2.Exp8        # container conditions support hearing practice
+      - V2.Exp9        # community amplifies hearing
+      - V2.Exp10       # training plan operationalizes the progression
+      - V3.Exp4        # Vol 3 measurement protocol for spiritual distance
+      - Formation.HFT  # Heart Formation Theology taxonomy
+      - Formation.MSFIG
+    notes: >
+      This is the V2 claim most cited as a measurement protocol for
+      downstream work. The Affective Taxonomy formal map is the primary
+      operationalization device for the entire LotS project's empirical
+      testing program (Vol 4).
+
+# ---------------------------------------------------------------------------
+# Part III — Developmental (Exp 8, 9, 10)
+# ---------------------------------------------------------------------------
+
+  - id: V2.Exp8
+    type: structural_law
+    title: "The Container — Preparing the Conditions for Hearing in Community"
+    part: III_Developmental
+    core_text: >
+      The container — the set of relational conditions (Safe, Present,
+      Clear, Intentional) established before community spiritual work — is
+      the practical implementation of the Vol 1 hearing channel law in a
+      group context. Each condition removes a specific class of
+      interference: Safety removes the fear of exposure; Presence removes
+      the distraction of past and future; Clarity removes the degrading
+      effect of unacknowledged judgment; Intentionality opens the
+      obedience channel in group form.
+    status: core
+    confidence: 80
+    confidence_rationale: >
+      The four conditions are well-established from practice. The claim
+      that collective hearing exceeds the sum of individual hearing is
+      consistent with the NT model of communal discernment (Acts 13,
+      1 Cor 14) and with direct observation in groups that have genuinely
+      achieved all four conditions.
+    scripture_refs:
+      - Romans 14:3-4
+      - Revelation 1:8
+      - Matthew 7:5
+      - John 5:19
+    upstream_dependencies:
+      - V1.Ax1
+      - V1.Exp1        # container implements hearing-channel at group level
+      - V1.Exp6        # intentionality = obedience channel in group form
+    downstream_dependents:
+      - V2.Exp9        # community amplification requires all four container conditions
+
+  - id: V2.Exp9
+    type: structural_and_operational_law
+    title: "Community as Amplifier — The Law and the Danger"
+    part: III_Developmental
+    core_text: >
+      Genuine spiritual community amplifies hearing, multiplies faith, and
+      provides the correction mechanism that keeps individual discernment
+      honest. The amplification effect requires all four container
+      conditions (Exploration 8) plus three openness conditions: submission
+      to the written Word, genuine openness to external correction, and
+      observable fruit as the final test. A community that closes its
+      feedback loop by treating internal consensus as self-validating
+      becomes a gnostic community and ceases to amplify.
+    status: core
+    confidence: 80
+    confidence_rationale: >
+      The positive case for community amplification is strong (Acts 13,
+      1 Cor 14, consistent with experience). The gnostic community
+      mechanism is well-documented in church history. The prophetic
+      exception standard is the author's working formulation — held at
+      about 65% — and preserved separately as V2.Exp9.Open1.
+    scripture_refs:
+      - Acts 13:2
+      - 1 Corinthians 14:29
+      - Jeremiah 1:17-19
+    upstream_dependencies:
+      - V1.Ax1
+      - V1.Exp1
+      - V2.Exp8        # all four container conditions required
+    downstream_dependents:
+      - V2.Exp10       # training plan operates in community context
+      - V3.Exp7        # Community Amplification formalized as Vol 3 feedback loop
+      - Formation.MSFIG
+    open_sub_questions: [V2.Exp9.Open1]
+
+  - id: V2.Exp9.Open1
+    type: open_question
+    parent_claim: V2.Exp9
+    title: "The Prophetic Exception — Standard for Standing Alone"
+    core_text: >
+      The working standard for standing alone against community consensus:
+      a specific, verifiable, scripturally-grounded word, held up for
+      testing (not asserted against testing), and patient enough to wait
+      for the natural vindicating event.
+    status: open
+    confidence: 65
+    confidence_rationale: >
+      Author's working formulation, explicitly flagged as "needs broader
+      community input." The core examples (Jeremiah, Noah) are clear;
+      the test for distinguishing a genuine prophetic stand from simple
+      stubbornness is the hard case. The difficulty is that the standard
+      cannot be applied in real time from inside the situation — it is
+      mostly a retrospective test.
+    scripture_refs:
+      - Jeremiah 1:17-19
+    upstream_dependencies: [V2.Exp9]
+    council_flag: >
+      Preserved as [O] Open rather than elevated to core or demoted
+      to minority. The question has durable importance for any community
+      working the LotS framework — anyone coming to believe they have seen
+      something the community has not will encounter it. But the standard
+      resists systematization, and the Council should not close it
+      prematurely.
+
+  - id: V2.Exp10
+    type: developmental_law
+    title: "The Training Plan — Operating in Faith as a Learnable Skill"
+    part: III_Developmental
+    core_text: >
+      Operating in the Laws of the Spirit is a learnable skill that
+      develops through intentional, progressive practice across three
+      domains that must all be engaged: cognitive (understanding what is
+      true), affective (developing genuine desire for what is true), and
+      action (habitually doing what has been understood and desired).
+      Preaching primarily develops the cognitive domain; worship develops
+      the affective domain; they are most effective in sequence. The
+      training requires suffering as its engine — not sought, but
+      received when it comes.
+    status: core
+    confidence: 75
+    confidence_rationale: >
+      The three-domain framework (cognitive, affective, action) is supported
+      by doctoral research applying all three of Bloom's taxonomy families
+      to spiritual formation. The preaching-worship sequencing insight is
+      from doctoral research in Christian education (Smith, 2009) and is
+      consistent with the hearing-first principle of Exp 1. The
+      suffering-as-engine insight is consistent with Romans 5:3-5 and
+      John of the Cross but has not been formally tested.
+    scripture_refs:
+      - 1 Timothy 4:7-8
+      - John 5:19
+      - Romans 5:3-5
+    external_sources:
+      - "Krathwohl, Bloom, Masia — three taxonomy families"
+      - "Smith (2009) — doctoral research on preaching-worship sequencing"
+      - "Saint John of the Cross — Dark Night of the Soul"
+    upstream_dependencies:
+      - V1.Ax1
+      - V1.Ax3         # three-domain framework directly expresses this axiom
+      - V1.Exp1
+      - V1.Exp6        # obedience channel is the action-domain mechanism
+      - V2.Exp5        # training operationalizes the four-connects sequence
+      - V2.Exp7        # training uses the Affective Taxonomy progression
+      - V2.Exp9        # training happens in community
+    downstream_dependents:
+      - V3.Exp4        # Vol 3 measurement depends on this developmental framework
+      - Formation.HFT
+      - Formation.MSFIG
+    notes: >
+      Terminal developmental claim of Vol 2. Integrates essentially every
+      preceding Exploration into a single learnable-skill framework. The
+      three-domain structure is a direct expression of axiom V1.Ax3.
+
+# ===========================================================================
+# End of Volume 2 claim registry
+# ===========================================================================
