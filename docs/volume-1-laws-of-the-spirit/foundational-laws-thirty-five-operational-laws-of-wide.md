@@ -1,10 +1,10 @@
-# Foundational Laws: Thirty-Four Operational Laws of Wide Consent
+# Foundational Laws: Thirty-Five Operational Laws of Wide Consent
 
-Before I begin the personal explorations that make up the body of this volume, I want to set out thirty-four operational laws that are already broadly accepted across mainstream Christian tradition. These are not my discoveries. They are the floor I am building on.
+Before I begin the personal explorations that make up the body of this volume, I want to set out thirty-five operational laws that are already broadly accepted across mainstream Christian tradition. These are not my discoveries. They are the floor I am building on.
 
 The Explorations that follow this section are my own investigations into territory I have found less well mapped. Those are propositional claims in the Reasonably Inferred to Clearly Taught tiers. They need testing. The community has not yet weighed in.
 
-But these thirty-four are different. Each one has been recognized as foundational across nearly the entire breadth of Christian thought — from the patristic period through the medieval doctors, through the magisterial Reformation, through the modern theological recovery, and into contemporary pastoral practice. They are the operational grammar within which the church's various traditions hold their disagreements about other matters.
+But these thirty-five are different. Each one has been recognized as foundational across nearly the entire breadth of Christian thought — from the patristic period through the medieval doctors, through the magisterial Reformation, through the modern theological recovery, and into contemporary pastoral practice. They are the operational grammar within which the church's various traditions hold their disagreements about other matters.
 
 I will state each one in a single sentence. The single-sentence statement is deliberate: it forces the law into its most operational form, the form in which the cause-and-effect relationship is plainly named and the principle-level operation is plainly visible.
 
@@ -14,9 +14,9 @@ A law qualifies as Foundational only if it clears four criteria. First, *multi-a
 
 The catalog's Group designations (Spirit, Heart, Soul, Mind & Will, Body & Action, Structural Frame) are scripturally grounded at both the individual and corporate scales. The corporate-scale grounding is held in the Vol 5 Periodic Table chapter's body-of-Christ master-frame sub-section at v5_6_0_11. The Group designations operate consistently across the catalog's full scale range.
 
-## The Thirty-Four Laws
+## The Thirty-Five Laws
 
-The thirty-four Foundational Laws are summarized below in numerical order, with the Period/Group placement, the directionality tag, and the single-sentence operational statement. Each law has its own chapter in this volume.
+The thirty-five Foundational Laws are summarized below in numerical order, with the Period/Group placement, the directionality tag, and the single-sentence operational statement. Each law has its own chapter in this volume.
 
 **FL.I — The Sowing-and-Reaping Law (P0/GV, V).** What is sown is what is reaped (Gal. 6:7–9; Hos. 10:12; 2 Cor. 9:6).
 
@@ -86,14 +86,15 @@ The thirty-four Foundational Laws are summarized below in numerical order, with 
 
 **FL.XXXIV — The Marriage Covenant Architecture Law (P2/GVI, V; Band 2).** The marriage covenant operates as the architectural framework conditioning the operations within the marital dyad; the scripturally-specified operational pathway is the leave-and-cleave-and-one-flesh pattern with covenant-monogamy between man and woman, exclusivity at the conjugal level, structural durability through divine joining-together, openness to procreation, and eschatological reflective dimension as the Christ-and-Church relationship (Gen. 1:27–28; Gen. 2:18–25; Mal. 2:13–16; Matt. 19:3–9; Mark 10:2–12; Eph. 5:22–33; Heb. 13:4; 1 Pet. 3:1–7; 1 Cor. 7; Prov. 5; Song of Songs; Rev. 19:6–9). *New at v5_6_0_27.*
 
+
+**FL.XXXV — The Trust-Substrate Law (P0/GII, V).** The heart's experienced trust in God's reliable character and faithful presence operates as the substrate condition under which the obedience-of-faith operations become structurally available in their God-ward form; absent the substrate, the operations substitute either performance-as-obedience or self-protection-as-prudence (Prov. 3:5–6; Isa. 30:15; Ps. 9:10; Jer. 17:5–8; Hab. 2:4; Heb. 11:6; Rom. 4:20–21; 1 Pet. 5:6–7; 1 John 4:18). *New at v5_6_0_28.*
+
 ## The Floor and the Building
 
-These thirty-four laws are the floor. The Explorations that follow build on this floor. The rest of the corpus is the building.
+These thirty-five laws are the floor. The Explorations that follow build on this floor. The rest of the corpus is the building.
 
-## Closing Note on v5_6_0_27
+## Closing Note on v5_6_0_28
 
-The present revision adds one new Foundational Law (FL.XXXIV Marriage Covenant Architecture Law) as the v5_6_0_13 focused single-admission pass at Band 2 articulation. The admission addresses the dyadic pair-bond architecture at P2/GVI per the v5_6_0_11 Q3 ratification and v5_6_0_12 Q1 ratification. The chapter's title moves from "Thirty-Three" to "Thirty-Four" with this revision. The Foundational tier now stands at thirty-four laws.
+The present revision adds one new Foundational Law (FL.XXXV Trust-Substrate Law at P0/GII) as the v5_6_0_14 attachment-theory exploratory pass admission. The pass closed the catalog's principal previously-unaddressed scale-invariant cell at P0/GII. The chapter's title moves from "Thirty-Four" to "Thirty-Five" with this revision. The Foundational tier now stands at thirty-five laws.
 
-The Group VI architectural-framework work at the major scales is now substantially complete: FL.XXIII Sabbath Rest at P0/GVI (Band 3), FL.XXXIV Marriage Covenant Architecture at P2/GVI (Band 2), FL.XXXIII Community Polity Structure at P3/GVI (Band 3), FL.XXVIII Generational Nested Structure at P4/GVI (Band 1). Period 1 / Group VI and Period 5 / Group VI remain without Foundational entries and may be addressed in subsequent revisions if appropriate candidate articulation surfaces.
-
-The next revision (v5_6_0_14) is anticipated to begin Period 5 cosmic-eschatological territory work per the v5_6_0_11 Q4 and v5_6_0_12 Q4 ratifications. The architecture established at v5_6_0_5 remains stable through the v5_6_0_13 admission; the Band 2 articulation operates within the existing band-of-closeness structure between Band 1 and Band 3.
+The next revision (v5_6_0_15) is anticipated to resume the Period 5 cosmic-eschatological territory work originally anticipated for v5_6_0_14 before the present pass's scope-redirection ratification.
