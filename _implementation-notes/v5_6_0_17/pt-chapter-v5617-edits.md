@@ -109,3 +109,4 @@ The expansion arc's cumulative achievement across v5_6_0_5 through v5_6_0_17 —
 The next revision (v5_6_0_18) is anticipated to address the residual key questions documented in Section E, with the working judgments providing initial steering for ratification at v5_6_0_18 setup. The carried-forward questions from v5_6_0_15 and v5_6_0_16 remain in their working judgments (Q3, Q5, Q6, Q7, Q8, Q9, Q10); the present v5_6_0_17 pass surfaces one additional structural question (Q11 — Period 0 row's substrate-to-operation systematic articulation as fifth structural-relationship pattern) for subsequent revision consideration. The Q2 working judgment is fully resolved by the v5_6_0_17 admission.
 
 ---
+

@@ -187,3 +187,4 @@ The expansion arc's cumulative achievement across v5_6_0_5 through v5_6_0_15 —
 The next revision (v5_6_0_16) is anticipated to address the residual key questions the v5_6_0_15 pass preserves (Section E of the implementation bundle); the working judgments are documented in that section for ratification or counter-proposal at v5_6_0_16 setup. Subsequent revisions' direction depends on which questions are ratified for v5_6_0_16 attention and which are held for later passes.
 
 ---
+

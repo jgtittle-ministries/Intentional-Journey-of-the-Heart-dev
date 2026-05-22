@@ -181,3 +181,4 @@ The expansion arc's cumulative achievement across v5_6_0_5 through v5_6_0_16 —
 The next revision (v5_6_0_17) is anticipated to address the residual key questions documented in Section E, with the working judgments providing initial steering for ratification at v5_6_0_17 setup. The most substantive Q-questions for v5_6_0_17 attention (per the working judgments) are Q2 (P0/GIII exploratory pre-pass — the only remaining empty cell in the Period 0 row warrants investigation now that the row is otherwise substantially complete) and the additional questions surfaced by the v5_6_0_16 pass (Q9 — scale-invariance methodology pre-pass applied to existing scale-specific entries; Q10 — two-Foundational-Laws-at-one-cell pattern as structural-relationship articulation).
 
 ---
+

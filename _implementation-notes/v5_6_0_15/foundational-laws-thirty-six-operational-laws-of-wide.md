@@ -1,10 +1,10 @@
-# Foundational Laws: Thirty-Eight Operational Laws of Wide Consent
+# Foundational Laws: Thirty-Six Operational Laws of Wide Consent
 
-Before I begin the personal explorations that make up the body of this volume, I want to set out thirty-eight operational laws that are already broadly accepted across mainstream Christian tradition. These are not my discoveries. They are the floor I am building on.
+Before I begin the personal explorations that make up the body of this volume, I want to set out thirty-six operational laws that are already broadly accepted across mainstream Christian tradition. These are not my discoveries. They are the floor I am building on.
 
 The Explorations that follow this section are my own investigations into territory I have found less well mapped. Those are propositional claims in the Reasonably Inferred to Clearly Taught tiers. They need testing. The community has not yet weighed in.
 
-But these thirty-eight are different. Each one has been recognized as foundational across nearly the entire breadth of Christian thought — from the patristic period through the medieval doctors, through the magisterial Reformation, through the modern theological recovery, and into contemporary pastoral practice. They are the operational grammar within which the church's various traditions hold their disagreements about other matters.
+But these thirty-six are different. Each one has been recognized as foundational across nearly the entire breadth of Christian thought — from the patristic period through the medieval doctors, through the magisterial Reformation, through the modern theological recovery, and into contemporary pastoral practice. They are the operational grammar within which the church's various traditions hold their disagreements about other matters.
 
 I will state each one in a single sentence. The single-sentence statement is deliberate: it forces the law into its most operational form, the form in which the cause-and-effect relationship is plainly named and the principle-level operation is plainly visible.
 
@@ -14,9 +14,9 @@ A law qualifies as Foundational only if it clears four criteria. First, *multi-a
 
 The catalog's Group designations (Spirit, Heart, Soul, Mind & Will, Body & Action, Structural Frame) are scripturally grounded at both the individual and corporate scales. The corporate-scale grounding is held in the Vol 5 Periodic Table chapter's body-of-Christ master-frame sub-section at v5_6_0_11. The Group designations operate consistently across the catalog's full scale range.
 
-## The Thirty-Eight Laws
+## The Thirty-Six Laws
 
-The thirty-eight Foundational Laws are summarized below in numerical order, with the Period/Group placement, the directionality tag, and the single-sentence operational statement. Each law has its own chapter in this volume.
+The thirty-six Foundational Laws are summarized below in numerical order, with the Period/Group placement, the directionality tag, and the single-sentence operational statement. Each law has its own chapter in this volume.
 
 **FL.I — The Sowing-and-Reaping Law (P0/GV, V).** What is sown is what is reaped (Gal. 6:7–9; Hos. 10:12; 2 Cor. 9:6).
 
@@ -88,22 +88,16 @@ The thirty-eight Foundational Laws are summarized below in numerical order, with
 
 **FL.XXXV — The Trust-Substrate Law (P0/GII, V).** The heart's experienced trust in God's reliable character and faithful presence operates as the substrate condition under which the obedience-of-faith operations become structurally available in their God-ward form; absent the substrate, the operations substitute either performance-as-obedience or self-protection-as-prudence (Prov. 3:5–6; Isa. 30:15; Ps. 9:10; Jer. 17:5–8; Hab. 2:4; Heb. 11:6; Rom. 4:20–21; 1 Pet. 5:6–7; 1 John 4:18).
 
-**FL.XXXVI — The Eschatological Glory Law (P5/GII, V).** The eschatological completion — God's glory revealed at the consummation, the marriage supper of the Lamb, the new heavens and new earth — operates as the forward direction of pursuit toward which the heart of the people of God is drawn through the present life, producing sustained hope under trial, sacrificial choice in service of what is coming, purifying-of-self in anticipation of seeing Him as He is, and orientation toward "things above" rather than "things on the earth"; absent eschatological orientation, the heart over-invests in what is passing away (Rom. 8:18–25; 2 Cor. 4:16–18; Phil. 3:13–14, 3:20–21; Col. 3:1–4; 1 Thess. 4:13–18; 2 Tim. 4:7–8; Heb. 11:13–16; Heb. 12:1–2; Heb. 13:14; 1 John 3:2–3; 1 Pet. 1:3–9, 1:13; 2 Pet. 3:11–13; Rev. 21–22).
-
-**FL.XXXVII — The Worship Alignment Law (P0/GII, V).** Sustained worship of a worshiped Object recalibrates the worshiper's perception of reality, affection, and conduct toward the worshiped Object's nature; the directional correctness of the recalibration depends on whether the worshiped Object is the One Who Is (producing progressive conformity to Christ) or any of the substitute Objects the heart may worship instead (producing progressive conformity to the substitute's structural emptiness); the substrate operates scale-invariantly across all the catalog's analyzed scales (Ps. 115:4–8; Ps. 135:15–18; 2 Cor. 3:18; Rom. 1:18–25; Hos. 9:10; 2 Kings 17:15; Isa. 44:9–20; Jer. 2:5).
-
-**FL.XXXVIII — The Soul-Restoration Law (P0/GIII, V).** The soul — under the pressures of life and the operations of the world that operate against soul-integration — is restored to and maintained in its integrated state through God's sustained restorative operation on the soul, with the restoration operating through multiple operational forms (the Shepherd's restoring; Christ's giving of rest; the anchor of hope; the steadfast-love-and-mercies that are new every morning; the inner-self-being-renewed) and multiple operational pathways (sustained scripture-engagement; prayer; worship; community; rest; suffering received under God's hand); the substrate operates scale-invariantly across all the catalog's analyzed scales (Ps. 19:7; Ps. 23:3; Ps. 42:5/11; Ps. 43:5; Matt. 11:28–29; Heb. 4:9–11; Heb. 6:18–19; 1 Pet. 2:25; 3 John 1:2; 1 Thess. 5:23; Lam. 3:19–26; Isa. 40:31; Jer. 6:16; Num. 6:24–26; 2 Cor. 4:16–18; Col. 3:15; Rom. 15:13). *New at v5_6_0_31.*
+**FL.XXXVI — The Eschatological Glory Law (P5/GII, V).** The eschatological completion — God's glory revealed at the consummation, the marriage supper of the Lamb, the new heavens and new earth — operates as the forward direction of pursuit toward which the heart of the people of God is drawn through the present life, producing sustained hope under trial, sacrificial choice in service of what is coming, purifying-of-self in anticipation of seeing Him as He is, and orientation toward "things above" rather than "things on the earth"; absent eschatological orientation, the heart over-invests in what is passing away (Rom. 8:18–25; 2 Cor. 4:16–18; Phil. 3:13–14, 3:20–21; Col. 3:1–4; 1 Thess. 4:13–18; 2 Tim. 4:7–8; Heb. 11:13–16; Heb. 12:1–2; Heb. 13:14; 1 John 3:2–3; 1 Pet. 1:3–9, 1:13; 2 Pet. 3:11–13; Rev. 21–22). *New at v5_6_0_29.*
 
 ## The Floor and the Building
 
-These thirty-eight laws are the floor. The Explorations that follow build on this floor. The rest of the corpus is the building.
+These thirty-six laws are the floor. The Explorations that follow build on this floor. The rest of the corpus is the building.
 
-## Closing Note on v5_6_0_31
+## Closing Note on v5_6_0_29
 
-The present revision adds one new Foundational Law (FL.XXXVIII The Soul-Restoration Law) as the v5_6_0_17 P0/GIII exploratory pre-pass's substantive admission at Band 1 articulation. The admission addresses the soul-integration substrate at the scale-invariant scale and closes the only remaining empty cell in the Period 0 row; the row now holds Foundational entries at all six Groups for the first time in the catalog's expansion arc. The chapter's title moves from "Thirty-Seven" to "Thirty-Eight" with this revision. The Foundational tier now stands at thirty-eight laws.
+The present revision adds one new Foundational Law (FL.XXXVI Eschatological Glory Law) as the v5_6_0_15 Vol 3 Forward-References Review and Resolution pass's substantive admission at Band 1 articulation. The admission addresses the cosmic-eschatological heart-orientation dimension at P5/GII per the Vol 3 Review's ratified recommendation to admit the Glory Attractor forward-reference as pastorally-named Foundational Law. The pass simultaneously resolved the Vol 3 forward-reference count from six to zero through four absorptions (Spiritual Force Equation, Miracle Threshold Events, TFT Structural Law, Spiritual Distance Metric) and one removal (Quantification Program). The chapter's title moves from "Thirty-Five" to "Thirty-Six" with this revision. The Foundational tier now stands at thirty-six laws.
 
-The pass was conducted under an exploratory lens internal to the catalog's scriptural framing — the scriptural anthropology of the soul itself (Hebrew *nephesh*; Greek *psyche*) — rather than imported from a psychological or therapeutic framework. The pre-pass surfaced nine candidates; the stress-test confirmed one finalist with three moderate candidates (Shalom Substrate; Hope-Anchor Substrate; Soul-Rest Substrate) absorbed as substrate-content articulations within the finalist's chapter rather than as separate admissions. The single-admission outcome was the rigorous stress-test's verdict on operational distinctness rather than a default to single admission.
+The Heart column (Group II) cross-scale articulation now operates across five of six scales (P0 FL.XXXV; P1 FL.III/FL.VIII/FL.XIII/FL.XIV cluster; P3 FL.XXXII; P4 FL.XVII/FL.XXI; P5 FL.XXXVI new). The Period 2 / Group II cell remains the only empty cell in the Heart column.
 
-The catalog's affirmation of the five-part biblical anthropology underlying V1.Exp2 Nested Person Structure is operationally substantial at the scale-invariant scale: each interior dimension of the person now holds its own scale-invariant substrate or architectural Foundational Law (Spirit at FL.XV; Heart at FL.XXXV and FL.XXXVII; Soul at FL.XXXVIII new; Mind & Will at FL.X). The Period 0 row's complete-at-all-six-Groups state at v5_6_0_17 is the most significant structural milestone in the expansion arc's history.
-
-The next revision (v5_6_0_18) is anticipated to address the residual key questions carried forward from prior revisions, with the working judgments providing initial steering. The architecture established at v5_6_0_5 remains stable through the present admission.
+The next revision (v5_6_0_16) is anticipated to address the residual key questions surfaced by v5_6_0_15, particularly Q1 (Miracle Frame relocation under the scale-invariance criterion) and Q4 (Worship Alignment Law re-examination under FL.XXXVI's clarifying articulation). The architecture established at v5_6_0_5 remains stable through the present admission.

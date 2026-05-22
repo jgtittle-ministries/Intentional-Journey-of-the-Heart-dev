@@ -1,10 +1,10 @@
-# Foundational Laws: Thirty-Eight Operational Laws of Wide Consent
+# Foundational Laws: Thirty-Seven Operational Laws of Wide Consent
 
-Before I begin the personal explorations that make up the body of this volume, I want to set out thirty-eight operational laws that are already broadly accepted across mainstream Christian tradition. These are not my discoveries. They are the floor I am building on.
+Before I begin the personal explorations that make up the body of this volume, I want to set out thirty-seven operational laws that are already broadly accepted across mainstream Christian tradition. These are not my discoveries. They are the floor I am building on.
 
 The Explorations that follow this section are my own investigations into territory I have found less well mapped. Those are propositional claims in the Reasonably Inferred to Clearly Taught tiers. They need testing. The community has not yet weighed in.
 
-But these thirty-eight are different. Each one has been recognized as foundational across nearly the entire breadth of Christian thought — from the patristic period through the medieval doctors, through the magisterial Reformation, through the modern theological recovery, and into contemporary pastoral practice. They are the operational grammar within which the church's various traditions hold their disagreements about other matters.
+But these thirty-seven are different. Each one has been recognized as foundational across nearly the entire breadth of Christian thought — from the patristic period through the medieval doctors, through the magisterial Reformation, through the modern theological recovery, and into contemporary pastoral practice. They are the operational grammar within which the church's various traditions hold their disagreements about other matters.
 
 I will state each one in a single sentence. The single-sentence statement is deliberate: it forces the law into its most operational form, the form in which the cause-and-effect relationship is plainly named and the principle-level operation is plainly visible.
 
@@ -14,9 +14,9 @@ A law qualifies as Foundational only if it clears four criteria. First, *multi-a
 
 The catalog's Group designations (Spirit, Heart, Soul, Mind & Will, Body & Action, Structural Frame) are scripturally grounded at both the individual and corporate scales. The corporate-scale grounding is held in the Vol 5 Periodic Table chapter's body-of-Christ master-frame sub-section at v5_6_0_11. The Group designations operate consistently across the catalog's full scale range.
 
-## The Thirty-Eight Laws
+## The Thirty-Seven Laws
 
-The thirty-eight Foundational Laws are summarized below in numerical order, with the Period/Group placement, the directionality tag, and the single-sentence operational statement. Each law has its own chapter in this volume.
+The thirty-seven Foundational Laws are summarized below in numerical order, with the Period/Group placement, the directionality tag, and the single-sentence operational statement. Each law has its own chapter in this volume.
 
 **FL.I — The Sowing-and-Reaping Law (P0/GV, V).** What is sown is what is reaped (Gal. 6:7–9; Hos. 10:12; 2 Cor. 9:6).
 
@@ -90,20 +90,16 @@ The thirty-eight Foundational Laws are summarized below in numerical order, with
 
 **FL.XXXVI — The Eschatological Glory Law (P5/GII, V).** The eschatological completion — God's glory revealed at the consummation, the marriage supper of the Lamb, the new heavens and new earth — operates as the forward direction of pursuit toward which the heart of the people of God is drawn through the present life, producing sustained hope under trial, sacrificial choice in service of what is coming, purifying-of-self in anticipation of seeing Him as He is, and orientation toward "things above" rather than "things on the earth"; absent eschatological orientation, the heart over-invests in what is passing away (Rom. 8:18–25; 2 Cor. 4:16–18; Phil. 3:13–14, 3:20–21; Col. 3:1–4; 1 Thess. 4:13–18; 2 Tim. 4:7–8; Heb. 11:13–16; Heb. 12:1–2; Heb. 13:14; 1 John 3:2–3; 1 Pet. 1:3–9, 1:13; 2 Pet. 3:11–13; Rev. 21–22).
 
-**FL.XXXVII — The Worship Alignment Law (P0/GII, V).** Sustained worship of a worshiped Object recalibrates the worshiper's perception of reality, affection, and conduct toward the worshiped Object's nature; the directional correctness of the recalibration depends on whether the worshiped Object is the One Who Is (producing progressive conformity to Christ) or any of the substitute Objects the heart may worship instead (producing progressive conformity to the substitute's structural emptiness); the substrate operates scale-invariantly across all the catalog's analyzed scales (Ps. 115:4–8; Ps. 135:15–18; 2 Cor. 3:18; Rom. 1:18–25; Hos. 9:10; 2 Kings 17:15; Isa. 44:9–20; Jer. 2:5).
-
-**FL.XXXVIII — The Soul-Restoration Law (P0/GIII, V).** The soul — under the pressures of life and the operations of the world that operate against soul-integration — is restored to and maintained in its integrated state through God's sustained restorative operation on the soul, with the restoration operating through multiple operational forms (the Shepherd's restoring; Christ's giving of rest; the anchor of hope; the steadfast-love-and-mercies that are new every morning; the inner-self-being-renewed) and multiple operational pathways (sustained scripture-engagement; prayer; worship; community; rest; suffering received under God's hand); the substrate operates scale-invariantly across all the catalog's analyzed scales (Ps. 19:7; Ps. 23:3; Ps. 42:5/11; Ps. 43:5; Matt. 11:28–29; Heb. 4:9–11; Heb. 6:18–19; 1 Pet. 2:25; 3 John 1:2; 1 Thess. 5:23; Lam. 3:19–26; Isa. 40:31; Jer. 6:16; Num. 6:24–26; 2 Cor. 4:16–18; Col. 3:15; Rom. 15:13). *New at v5_6_0_31.*
+**FL.XXXVII — The Worship Alignment Law (P0/GII, V).** Sustained worship of a worshiped Object recalibrates the worshiper's perception of reality, affection, and conduct toward the worshiped Object's nature; the directional correctness of the recalibration depends on whether the worshiped Object is the One Who Is (producing progressive conformity to Christ) or any of the substitute Objects the heart may worship instead (producing progressive conformity to the substitute's structural emptiness); the substrate operates scale-invariantly across all the catalog's analyzed scales (Ps. 115:4–8; Ps. 135:15–18; 2 Cor. 3:18; Rom. 1:18–25; Hos. 9:10; 2 Kings 17:15; Isa. 44:9–20; Jer. 2:5). *Promoted from Speculative ◆ to Foundational and relocated from P5/GII to P0/GII at v5_6_0_30 / Vol 5 v5_6_0_16.*
 
 ## The Floor and the Building
 
-These thirty-eight laws are the floor. The Explorations that follow build on this floor. The rest of the corpus is the building.
+These thirty-seven laws are the floor. The Explorations that follow build on this floor. The rest of the corpus is the building.
 
-## Closing Note on v5_6_0_31
+## Closing Note on v5_6_0_30
 
-The present revision adds one new Foundational Law (FL.XXXVIII The Soul-Restoration Law) as the v5_6_0_17 P0/GIII exploratory pre-pass's substantive admission at Band 1 articulation. The admission addresses the soul-integration substrate at the scale-invariant scale and closes the only remaining empty cell in the Period 0 row; the row now holds Foundational entries at all six Groups for the first time in the catalog's expansion arc. The chapter's title moves from "Thirty-Seven" to "Thirty-Eight" with this revision. The Foundational tier now stands at thirty-eight laws.
+The present revision promotes one entry from the Speculative ◆ tier to the Foundational tier as the v5_6_0_16 focused Q1 and Q4 resolution pass per the v5_6_0_15 closing-note working judgments. The Worship Alignment Law is promoted from Speculative ◆ at P5/GII to Foundational tier as FL.XXXVII and relocated to P0/GII under the scale-invariance criterion; the same scale-invariance criterion is applied to V1.Open Miracle Frame, which is relocated from P5/GI to P0/GI without tier change. The chapter's title moves from "Thirty-Six" to "Thirty-Seven" with this revision. The Foundational tier now stands at thirty-seven laws; the Speculative tier moves from nine to eight entries.
 
-The pass was conducted under an exploratory lens internal to the catalog's scriptural framing — the scriptural anthropology of the soul itself (Hebrew *nephesh*; Greek *psyche*) — rather than imported from a psychological or therapeutic framework. The pre-pass surfaced nine candidates; the stress-test confirmed one finalist with three moderate candidates (Shalom Substrate; Hope-Anchor Substrate; Soul-Rest Substrate) absorbed as substrate-content articulations within the finalist's chapter rather than as separate admissions. The single-admission outcome was the rigorous stress-test's verdict on operational distinctness rather than a default to single admission.
+The Period 0 row at v5_6_0_16 is substantially complete at the Foundational tier across all six Groups except P0/GIII (Soul): Spirit holds Miracle Frame and FL.XV; Heart holds FL.XXXV and FL.XXXVII; Mind & Will holds FL.X; Body & Action holds FL.VI, FL.IX, FL.XVI; Structural Frame holds FL.I and FL.XXIII. The P0/GII cell now holds two co-located substrate-level Foundational Laws (FL.XXXV Trust-Substrate and FL.XXXVII Worship Alignment) operating in mutual reinforcement at the Heart dimension.
 
-The catalog's affirmation of the five-part biblical anthropology underlying V1.Exp2 Nested Person Structure is operationally substantial at the scale-invariant scale: each interior dimension of the person now holds its own scale-invariant substrate or architectural Foundational Law (Spirit at FL.XV; Heart at FL.XXXV and FL.XXXVII; Soul at FL.XXXVIII new; Mind & Will at FL.X). The Period 0 row's complete-at-all-six-Groups state at v5_6_0_17 is the most significant structural milestone in the expansion arc's history.
-
-The next revision (v5_6_0_18) is anticipated to address the residual key questions carried forward from prior revisions, with the working judgments providing initial steering. The architecture established at v5_6_0_5 remains stable through the present admission.
+The next revision (v5_6_0_17) is anticipated to address the P0/GIII exploratory pre-pass per the carried-forward Q2 working judgment, with the empty Soul cell as the only remaining structural gap in the Period 0 row. The architecture established at v5_6_0_5 remains stable through the present admission.
