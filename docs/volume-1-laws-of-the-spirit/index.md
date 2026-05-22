@@ -12,7 +12,7 @@ Contents of Volume 1: Laws of the Spirit. Each entry below opens that section of
 - [What We Are Being Formed For: The Kingdom of God Now](what-we-are-being-formed-for-the.md) — What We Are Being Formed For: The Kingdom of God Now
 - [Taxonomy Key: How This Volume Classifies Its Explorations](taxonomy-key-how-this-volume-classifies-its.md) — Taxonomy Key: How This Volume Classifies Its Explorations
 - [Opening: The Miracle Frame](opening-miracle-frame.md) — Opening Exploration: The Miracle Frame — The Natural World as a Subset
-- [Foundational Laws: Thirteen Operational Laws of Wide Consent](foundational-laws-thirteen-operational-laws-of-wide.md) — Foundational Laws: Thirteen Operational Laws of Wide Consent
+- [Foundational Laws: Thirty-Eight Operational Laws of Wide Consent](foundational-laws-thirty-eight-operational-laws-of-wide.md) — Foundational Laws: Thirty-Eight Operational Laws of Wide Consent
 - [Foundational Law I: The Sowing-and-Reaping Law](foundational-law-i-the-sowing-and-reaping.md) — Foundational Law I: The Sowing-and-Reaping Law
 - [Foundational Law II: The Confession-Restoration Law](foundational-law-ii-the-confession-restoration-law.md) — Foundational Law II: The Confession-Restoration Law
 - [Foundational Law III: The Heart-Throne Law](foundational-law-iii-the-heart-throne-law.md) — Foundational Law III: The Heart-Throne Law
@@ -26,6 +26,31 @@ Contents of Volume 1: Laws of the Spirit. Each entry below opens that section of
 - [Foundational Law XI: The Renewal-of-Mind Transformation Law](foundational-law-xi-the-renewal-of-mind.md) — Foundational Law XI: The Renewal-of-Mind Transformation Law
 - [Foundational Law XII: The Honor-Authority Flourishing Law](foundational-law-xii-the-honor-authority-flourishing.md) — Foundational Law XII: The Honor-Authority Flourishing Law
 - [Foundational Law XIII: The Pure-Heart Vision Law](foundational-law-xiii-the-pure-heart-vision.md) — Foundational Law XIII: The Pure-Heart Vision Law
+- [Foundational Law XIV: The Vanity-of-Substitutes Law](foundational-law-xiv-the-vanity-of-substitutes-law.md) — Foundational Law XIV: The Vanity-of-Substitutes Law
+- [Foundational Law XV: The Hardening Law](foundational-law-xv-the-hardening-law.md) — Foundational Law XV: The Hardening Law
+- [Foundational Law XVI: The Bondage Law](foundational-law-xvi-the-bondage-law.md) — Foundational Law XVI: The Bondage Law
+- [Foundational Law XVII: The Substitution-Cascade Law](foundational-law-xvii-the-substitution-cascade-law.md) — Foundational Law XVII: The Substitution-Cascade Law
+- [Foundational Law XVIII: The Bitter-Root Community Law](foundational-law-xviii-the-bitter-root-community-law.md) — Foundational Law XVIII: The Bitter-Root Community Law
+- [Foundational Law XIX: The Spirit Anointing Transmission Law](foundational-law-xix-the-spirit-anointing-transmission-law.md) — Foundational Law XIX: The Spirit Anointing Transmission Law
+- [Foundational Law XX: The Gathered-Body Discernment Law](foundational-law-xx-the-gathered-body-discernment-law.md) — Foundational Law XX: The Gathered-Body Discernment Law
+- [Foundational Law XXI: The Household Formation Law](foundational-law-xxi-the-household-formation-law.md) — Foundational Law XXI: The Household Formation Law
+- [Foundational Law XXII: The Endurance-Hope Law](foundational-law-xxii-the-endurance-hope-law.md) — Foundational Law XXII: The Endurance-Hope Law
+- [Foundational Law XXIII: The Sabbath Rest Law](foundational-law-xxiii-the-sabbath-rest-law.md) — Foundational Law XXIII: The Sabbath Rest Law
+- [Foundational Law XXIV: The Confession-in-Community Law](foundational-law-xxiv-the-confession-in-community-law.md) — Foundational Law XXIV: The Confession-in-Community Law
+- [Foundational Law XXV: The Restoration-of-the-Erring Law](foundational-law-xxv-the-restoration-of-the-erring-law.md) — Foundational Law XXV: The Restoration-of-the-Erring Law
+- [Foundational Law XXVI: The Doctrinal Calcification Law](foundational-law-xxvi-the-doctrinal-calcification-law.md) — Foundational Law XXVI: The Doctrinal Calcification Law
+- [Foundational Law XXVII: The Thick Practice Transmission Law](foundational-law-xxvii-the-thick-practice-transmission-law.md) — Foundational Law XXVII: The Thick Practice Transmission Law
+- [Foundational Law XXVIII: The Generational Nested Structure Law](foundational-law-xxviii-the-generational-nested-structure-law.md) — Foundational Law XXVIII: The Generational Nested Structure Law
+- [Foundational Law XXIX: The Corporate Emotional Integration Law](foundational-law-xxix-corporate-emotional-integration-law.md) — Foundational Law XXIX: The Corporate Emotional Integration Law
+- [Foundational Law XXX: The Communal Soul-Care for the Wounded Law](foundational-law-xxx-communal-soul-care-for-the-wounded-law.md) — Foundational Law XXX: The Communal Soul-Care for the Wounded Law
+- [Foundational Law XXXI: The Corporate Scriptural Reception Law](foundational-law-xxxi-corporate-scriptural-reception-law.md) — Foundational Law XXXI: The Corporate Scriptural Reception Law
+- [Foundational Law XXXII: The Communal Worship Heart-Alignment Law](foundational-law-xxxii-communal-worship-heart-alignment-law.md) — Foundational Law XXXII: The Communal Worship Heart-Alignment Law
+- [Foundational Law XXXIII: The Community Polity-Structure Law](foundational-law-xxxiii-community-polity-structure-law.md) — Foundational Law XXXIII: The Community Polity-Structure Law
+- [Foundational Law XXXIV: The Marriage Covenant Architecture Law](foundational-law-xxxiv-marriage-covenant-architecture-law.md) — Foundational Law XXXIV: The Marriage Covenant Architecture Law
+- [Foundational Law XXXV: The Trust-Substrate Law](foundational-law-xxxv-the-trust-substrate-law.md) — Foundational Law XXXV: The Trust-Substrate Law
+- [Foundational Law XXXVI: The Eschatological Glory Law](foundational-law-xxxvi-the-eschatological-glory-law.md) — Foundational Law XXXVI: The Eschatological Glory Law
+- [Foundational Law XXXVII: The Worship Alignment Law](foundational-law-xxxvii-the-worship-alignment-law.md) — Foundational Law XXXVII: The Worship Alignment Law
+- [Foundational Law XXXVIII: The Soul-Restoration Law](foundational-law-xxxviii-the-soul-restoration-law.md) — Foundational Law XXXVIII: The Soul-Restoration Law
 - [1. How to Get Faith](exploration-01-how-to-get-faith.md) — First Exploration: How to Get Faith
 - [2. My Spirit, Heart, Soul, and Body](exploration-02-my-spirit-heart-soul-and.md) — Second Exploration: My Spirit, Heart, Soul, and Body
 - [Supplemental: The Three Desires](supplemental-three-desires.md) — Supplemental Exploration: The Three Desires — Design Specifications of the Human Heart
