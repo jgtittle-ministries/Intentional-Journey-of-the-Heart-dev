@@ -1,10 +1,10 @@
-# Foundational Laws: Thirty-Six Operational Laws of Wide Consent
+# Foundational Laws: Thirty-Seven Operational Laws of Wide Consent
 
-Before I begin the personal explorations that make up the body of this volume, I want to set out thirty-six operational laws that are already broadly accepted across mainstream Christian tradition. These are not my discoveries. They are the floor I am building on.
+Before I begin the personal explorations that make up the body of this volume, I want to set out thirty-seven operational laws that are already broadly accepted across mainstream Christian tradition. These are not my discoveries. They are the floor I am building on.
 
 The Explorations that follow this section are my own investigations into territory I have found less well mapped. Those are propositional claims in the Reasonably Inferred to Clearly Taught tiers. They need testing. The community has not yet weighed in.
 
-But these thirty-six are different. Each one has been recognized as foundational across nearly the entire breadth of Christian thought — from the patristic period through the medieval doctors, through the magisterial Reformation, through the modern theological recovery, and into contemporary pastoral practice. They are the operational grammar within which the church's various traditions hold their disagreements about other matters.
+But these thirty-seven are different. Each one has been recognized as foundational across nearly the entire breadth of Christian thought — from the patristic period through the medieval doctors, through the magisterial Reformation, through the modern theological recovery, and into contemporary pastoral practice. They are the operational grammar within which the church's various traditions hold their disagreements about other matters.
 
 I will state each one in a single sentence. The single-sentence statement is deliberate: it forces the law into its most operational form, the form in which the cause-and-effect relationship is plainly named and the principle-level operation is plainly visible.
 
@@ -14,9 +14,9 @@ A law qualifies as Foundational only if it clears four criteria. First, *multi-a
 
 The catalog's Group designations (Spirit, Heart, Soul, Mind & Will, Body & Action, Structural Frame) are scripturally grounded at both the individual and corporate scales. The corporate-scale grounding is held in the Vol 5 Periodic Table chapter's body-of-Christ master-frame sub-section at v5_6_0_11. The Group designations operate consistently across the catalog's full scale range.
 
-## The Thirty-Six Laws
+## The Thirty-Seven Laws
 
-The thirty-six Foundational Laws are summarized below in numerical order, with the Period/Group placement, the directionality tag, and the single-sentence operational statement. Each law has its own chapter in this volume.
+The thirty-seven Foundational Laws are summarized below in numerical order, with the Period/Group placement, the directionality tag, and the single-sentence operational statement. Each law has its own chapter in this volume.
 
 **FL.I — The Sowing-and-Reaping Law (P0/GV, V).** What is sown is what is reaped (Gal. 6:7–9; Hos. 10:12; 2 Cor. 9:6).
 
@@ -92,12 +92,17 @@ The thirty-six Foundational Laws are summarized below in numerical order, with t
 
 **FL.XXXVI — The Eschatological Glory Law (P5/GII, V).** The eschatological completion — God's glory revealed at the consummation, the marriage supper of the Lamb, the new heavens and new earth — operates as the forward direction of pursuit toward which the heart of the people of God is drawn through the present life, producing sustained hope under trial, sacrificial choice in service of what is coming, purifying-of-self in anticipation of seeing Him as He is, and orientation toward "things above" rather than "things on the earth"; absent eschatological orientation, the heart over-invests in what is passing away (Rom. 8:18–25; 2 Cor. 4:16–18; Phil. 3:13–14, 3:20–21; Col. 3:1–4; 1 Thess. 4:13–18; 2 Tim. 4:7–8; Heb. 11:13–16; Heb. 12:1–2; Heb. 13:14; 1 John 3:2–3; 1 Pet. 1:3–9, 1:13; 2 Pet. 3:11–13; Rev. 21–22). *New at v5_6_0_29.*
 
+
+**FL.XXXVII — The Worship Alignment Law (P0/GII, V).** Sustained worship of a worshiped Object recalibrates the worshiper's perception of reality, affection, and conduct toward the worshiped Object's nature; the directional correctness of the recalibration depends on whether the worshiped Object is the One Who Is (producing progressive conformity to Christ) or any of the substitute Objects the heart may worship instead (producing progressive conformity to the substitute's structural emptiness); the substrate operates scale-invariantly across all the catalog's analyzed scales (Ps. 115:4–8; Ps. 135:15–18; 2 Cor. 3:18; Rom. 1:18–25; Hos. 9:10; 2 Kings 17:15; Isa. 44:9–20; Jer. 2:5). *Promoted from Speculative ◆ to Foundational and relocated from P5/GII to P0/GII at v5_6_0_30 / Vol 5 v5_6_0_16.*
+
 ## The Floor and the Building
 
-These thirty-six laws are the floor. The Explorations that follow build on this floor. The rest of the corpus is the building.
+These thirty-seven laws are the floor. The Explorations that follow build on this floor. The rest of the corpus is the building.
 
-## Closing Note on v5_6_0_29
+## Closing Note on v5_6_0_30
 
-The present revision adds one new Foundational Law (FL.XXXVI Eschatological Glory Law at P5/GII) and resolves all six of the Vol 3 forward-references in the Periodic Table chapter (four absorptions, one removal, one admission). The chapter's title moves from "Thirty-Five" to "Thirty-Six" with this revision. The Foundational tier now stands at thirty-six laws; the Vol 3 forward-reference count drops from six to zero.
+The present revision adds one new Foundational Law (FL.XXXVII Worship Alignment Law) through a combined Q1+Q4 promotion-and-relocation pass: the Worship Alignment Law is promoted from Speculative ◆ to Foundational and relocated from P5/GII to P0/GII under the scale-invariance criterion; Miracle Frame is relocated from P5/GI to P0/GI under the same criterion. The chapter's title moves from "Thirty-Six" to "Thirty-Seven" with this revision. The Foundational tier now stands at thirty-seven laws.
 
-The next revision (v5_6_0_16) is anticipated to address Q1 (Miracle Frame relocation) and Q4 (Worship Alignment promotion-and-relocation) per the v5_6_0_15 residual-key-questions ratification.
+The Period 0 row is now substantially complete: P0/GI Miracle Frame (Speculative, relocated), P0/GII FL.XXXVII Worship Alignment (Foundational, promoted+relocated), P0/GIV FL.X Faith-Sight, P0/GV FL.VI Hear-and-Obey, FL.IX Generosity-Provision, FL.XVI Bondage, P0/GVI FL.I Sowing-and-Reaping, FL.XXIII Sabbath Rest. Only P0/GIII remains without a Foundational entry.
+
+The next revision (v5_6_0_17) is anticipated to address the P0/GIII soul-substrate cell.
