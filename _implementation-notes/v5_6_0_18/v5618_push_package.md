@@ -1,3 +1,58 @@
+# Vol 5 Periodic Table Chapter Consolidated Rewrite — v5_6_0_18 Push Package
+
+This push package implements the v5_6_0_18 consistency-edit pass on the Vol 5 Periodic Table chapter (`periodic-table-of-spiritual-laws-a-summing.md`). The production version of the chapter is at v5_6_0_3 state and is missing all cumulative content from v5_6_0_4 through v5_6_0_17 (the v5_6_0_4 — Reading Through Classical Doctrine; v5_6_0_5 — Third-Axis Test; v5_6_0_6 — four new Foundational Laws plus four structural edits; v5_6_0_7 through v5_6_0_17 — twenty-one additional Foundational Laws, multiple sub-sections, slim-format table updates, reference list expansion, Vol 3 forward-references resolution, scale-invariance relocations, and closing-note updates).
+
+This package replaces the production chapter with a consolidated rewrite at v5_6_0_17 state. The approach is a hybrid consolidated rewrite: authored overlay language is preserved verbatim from the v5_6_0_4 base file plus the eleven edit overlays (pt-chapter-v567-edits.md through pt-chapter-v5617-edits.md), with the slim-format table, reference list, and Six Group Families section integrated into their cumulative v5_6_0_17 state.
+
+## Operation
+
+**REPLACE** the file `periodic-table-of-spiritual-laws-a-summing.md` in its entirety with the content provided under "File 1" below.
+
+## Summary of changes
+
+The consolidated rewrite incorporates the following cumulative content:
+
+- **v5_6_0_4 additions:** Reading Through Classical Doctrine sub-section
+- **v5_6_0_5 additions:** Third-Axis Test and Mirror Discipline sub-section; Mirror field as required attribute on every entry
+- **v5_6_0_6 additions:** FL.XVIII Bitter-Root Community Law (P3/GV); FL.XIX Spirit Anointing Transmission Law (P4/GI); FL.XX Gathered-Body Discernment Law (P3/GI); FL.XXI Household Formation Law (P4/GII); V2.Exp1 Heart Soil Diagnostic relocation from P3/GV to P1/GII; Suffering-as-Formation Loop promotion from Speculative ◆ to Reasonably Inferred at P5/GIII; principle-vs-command band-of-closeness clarification; Group V Column Structural Density sub-section
+- **v5_6_0_7 additions:** FL.XXII Endurance-Hope Law (P1/GIII); Endurance-Hope and Suffering-as-Formation Parent-Child Relationship sub-section
+- **v5_6_0_8 additions:** FL.XXIII Sabbath Rest Law (P0/GVI Band 3); FL.XXIV Confession-in-Community Law (P3/GV); FL.XXV Restoration-of-the-Erring Law (P3/GV); FL.XXVI Doctrinal Calcification Law (P4/GIV); Community-Relational Substrate at P3/GV sub-section
+- **v5_6_0_9 additions:** FL.XXVII Thick Practice Transmission Law (P4/GV)
+- **v5_6_0_10 additions:** FL.XXVIII Generational Nested Structure Law (P4/GVI); What the Completed Period 4 Row Reveals sub-section; Group V Placement Revisit at v5_6_0_10 sub-section
+- **v5_6_0_11 additions:** FL.XXIX Corporate Emotional Integration Law (P3/GIII); FL.XXX Communal Soul-Care for the Wounded Law (P3/GIII); FL.XXXI Corporate Scriptural Reception Law (P3/GIV); FL.XXXII Communal Worship Heart-Alignment Law (P3/GII); Body of Christ Master-Frame sub-section; v5_6_0_11 Expansion Pass Stress-Test Outcomes Summary sub-section
+- **v5_6_0_12 additions:** FL.XXXIII Community Polity Structure / Ecclesial Architecture Law (P3/GVI Band 3); Period 3 Row's Structural-Completion Milestone sub-section
+- **v5_6_0_13 additions:** FL.XXXIV Marriage Covenant Architecture Law (P2/GVI Band 2); Group VI Architectural-Framework Across Scales sub-section
+- **v5_6_0_14 additions:** FL.XXXV Trust-Substrate Law (P0/GII Band 1); What the Attachment-Theory Pass Revealed sub-section
+- **v5_6_0_15 additions:** FL.XXXVI Eschatological Glory Law (P5/GII Band 1); Vol 3 Forward-References Review and Resolution sub-section (four forward-references absorbed, one removed, one admitted); Period 0 Row's Proportionality Pattern sub-section; Threshold/Gateway Pattern sub-section; Cross-Group Cross-Scale Nearness-or-Distance Articulation sub-section
+- **v5_6_0_16 additions:** FL.XXXVII Worship Alignment Law (P0/GII Band 1, promoted from Speculative ◆ and relocated from P5/GII); Miracle Frame relocation from P5/GI to P0/GI; Q1 and Q4 Resolution at v5_6_0_16 sub-section; Period 0 Row's Substantial Completion at v5_6_0_16 sub-section
+- **v5_6_0_17 additions:** FL.XXXVIII The Soul-Restoration Law (P0/GIII Band 1); Period 0 Row's Substrate-and-Operation Architecture at v5_6_0_17 sub-section
+- **Cumulative structural updates:** Headline counts paragraph at v5_6_0_17 state (46 analyzed entries, 38 FLs, 8 Speculative, 0 Open Unknowns, 1 anomaly, 0 Vol 3 forward-references); slim-format table rebuilt for v5_6_0_17 state; reference list expanded to include all 38 FLs plus the V1/V2 Exp entries plus the Speculative entries plus the V1.Open Miracle Frame entry; Six Group Families section updated for v5_6_0_17 state; "Six Priority Open Unknowns" section replaced with "Open Questions and Residual Trails at v5_6_0_17" reflecting zero Open Unknowns; Reading the Table Through Classical Doctrine section extended to FL.XVIII–XXXVIII; Third-Axis Test and Mirror Discipline section extended through v5_6_0_17; Closing Note updated to v5_6_0_17; Four Connects Workshop chapter reference held intact (chapter content unchanged from production)
+
+## FL.X discrepancy resolution
+
+The v5616 and v5617 push package sub-sections contained references to "FL.X Faith-Sight" at P0/GIV that contradict the canonical FL.X = Ask-Seek-Knock at P1/GI established across the production page, Vol 1 overview, and the v5_6_0_6 base file. Per user resolution (Option A), the v5616/v5617 "FL.X Faith-Sight" references are treated as authorial drift; canonical FL.X = Ask-Seek-Knock at P1/GI is preserved; the P0/GIV cell is noted as empty at v5_6_0_17 (whether the cognitive-instrumental dimension warrants a distinct scale-invariant substrate articulation is a question for subsequent revision); the sub-section narratives in "Period 0 Row's Substantial Completion at v5_6_0_16" and "Period 0 Row's Substrate-and-Operation Architecture at v5_6_0_17" are adjusted to describe the row as substantially complete at FIVE of six Groups (not six of six, as the v5617 sub-section's original title implied).
+
+## Verification checklist
+
+After the file is replaced:
+
+1. **File loads:** The PT chapter file loads without markdown syntax errors.
+2. **Headline counts:** "46 analyzed laws · 38 foundational laws (FL.I–XXXVIII) · 8 speculative extensions (◆) · 0 open unknowns · 1 anomaly · 0 Vol 3 forward-references" appears in the headline counts paragraph and in the Slim Format section header.
+3. **All 38 FL reference entries present:** The reference list includes Foundational Law entries for FL.I through FL.XXXVIII; spot-check that FL.XXXV, FL.XXXVI, FL.XXXVII, and FL.XXXVIII (the v5_6_0_14 through v5_6_0_17 admissions) appear in Period 0 (P0/GII for FL.XXXV and FL.XXXVII; P0/GIII for FL.XXXVIII) and Period 5 (P5/GII for FL.XXXVI).
+4. **All cumulative sub-sections present:** Verify the seventeen "What the Shape Reveals" sub-sections (Group V Column Density; Endurance-Hope Parent-Child; Community-Relational Substrate; Completed Period 4 Row; Group V Placement Revisit; Body of Christ Master-Frame; v5_6_0_11 Stress-Test Outcomes; Period 3 Row Structural-Completion Milestone; Group VI Architectural-Framework Across Scales; What the Attachment-Theory Pass Revealed; Vol 3 Forward-References Review and Resolution; Period 0 Row's Proportionality Pattern; Threshold/Gateway Pattern; Cross-Group Nearness-or-Distance Articulation; Q1 and Q4 Resolution at v5_6_0_16; Period 0 Row's Substantial Completion at v5_6_0_16; Period 0 Row's Substrate-and-Operation Architecture at v5_6_0_17) all appear in sequence.
+5. **Slim format table integrity:** Verify the slim-format table contains entries at P0/GI (Miracle Frame, FL.XV), P0/GII (FL.XXXV, FL.XXXVII), P0/GIII (FL.XXXVIII), P0/GIV (empty), P0/GV (FL.VI, FL.IX, FL.XVI), P0/GVI (FL.I, FL.XXIII); P1 row densely populated; P2/GVI holds FL.XXXIV; P3 row holds entries across all six Groups including FL.XX, FL.XXXII, FL.XXIX, FL.XXX, FL.XXXI, the FL.XVIII/XXIV/XXV triplet, V2.Exp10 anomaly, and FL.XXXIII; P4 row holds FL.XIX, FL.XVII, FL.XXI, FL.XXVI, FL.XXVII, FL.XXVIII; P5 row holds FL.XXXVI and Suffering-as-Formation Loop with GI and GV and GVI empty.
+6. **No "FL.X Faith-Sight" references:** Search the file for "Faith-Sight" — should return zero matches. Search for "FL.X" — matches should appear only in the context of Ask-Seek-Knock Law at P1/GI.
+7. **No remaining Vol 3 forward-references in operational table:** Search for "→ See Vol 3 Preview appendix" — should return zero matches (all six resolved at v5_6_0_15).
+8. **Closing note updated:** The closing note section header reads "Closing Note on v5_6_0_17" (not "Closing Note on v5_6_0_3" or any earlier version).
+9. **MkDocs nav unaffected:** No mkdocs.yml changes required by this pass; the chapter file replacement does not affect nav structure.
+10. **Production publish:** The replaced chapter renders correctly on the GitHub Pages live site after the next mkdocs build.
+
+## File 1: `periodic-table-of-spiritual-laws-a-summing.md`
+
+The content below replaces the existing production chapter in its entirety.
+
+### BEGIN FILE: periodic-table-of-spiritual-laws-a-summing.md
+
 # The Periodic Table of Spiritual Laws — A Summing and Organizing Reference
 
 This chapter is the consolidated Periodic Table reference for the entire Laws-of-the-Spirit investigation. It was originally drafted as the closing chapter of Volume 1 and now lives here in Volume 5, alongside the Tool Inventory and the Companion-formation chapters, because the table's primary function is reference-and-orientation across the whole corpus rather than further argument within any single volume. Volume 1 introduces the Foundational Laws as a tier ahead of its eight Explorations; Volume 2 maps the Diagnostic, Tool-Application, and Developmental laws that operate downstream of the Vol 1 framework; Volume 3 reframes both sets in field-theoretic terms; and this table is the consolidated organizer that holds all three views in one frame so a Companion in training or in formation work can find any specific law by its place in the structure.
@@ -878,3 +933,23 @@ The matured catalog at v5_6_0_17 stands at substantial structural completion. Th
 
 *The Four Connects Workshop chapter that closes Volume 5 — operating as the introduction-and-invitation to the IJH formation work for newcomers to the corpus — is held intact at its present production form. The chapter is integrated within Volume 5 as the operational entry-point to the corpus, providing the pastoral and practical orientation to the formation work that the Periodic Table organizes. See the Four Connects Workshop chapter for the full content.*
 
+### END FILE
+
+---
+
+## Manifest entry
+
+Append the following line to the implementation manifest (e.g., `IMPLEMENTATION_MANIFEST.md` or equivalent):
+
+```
+v5_6_0_18 | 2026-05-22 | Vol 5 PT chapter consolidated rewrite to v5_6_0_17 state | Replaces periodic-table-of-spiritual-laws-a-summing.md applying cumulative content from pt-chapter-v567-edits.md through pt-chapter-v5617-edits.md plus v5_6_0_4 base content | 46 analyzed entries · 38 FLs · 8 Speculative · 0 Open Unknowns · 1 Anomaly · 0 Vol 3 forward-refs
+```
+
+## End of v5_6_0_18 Push Package
+
+After this file is saved to the repository, the push is complete. Commit the changes with a message referencing v5_6_0_18 and the principal change (Vol 5 PT chapter consolidated rewrite to v5_6_0_17 state, addressing the consistency-edit-pass finding that the production chapter was stale at v5_6_0_3 state). Production publish at user's discretion after mkdocs build verification.
+
+## Next push packages (sequential)
+
+- **v5_6_0_19:** Vol 3 refresh — Master Law Index rebuild with all 38 FL entries; disposition closing notes on Vol 3 Exp 3, 4, 8, 9 to reflect their stale state; Vol 3 Forward-References Resolution work referenced
+- **v5_6_0_20:** Repository hygiene — deletion of 9 orphan Vol 1 overview files (seventeen/twenty-one/twenty-two/twenty-six/twenty-seven/twenty-eight/thirty-two/thirty-three/thirty-four operational laws files); mkdocs.yml nav verification; force clean rebuild
