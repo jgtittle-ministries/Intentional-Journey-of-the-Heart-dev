@@ -140,8 +140,4 @@ A critical observation: a leader cannot help a group grow to Level 3/4/5 unless 
 
 **The architectural move this section makes — mapping the hearing journey onto a formal five-stage taxonomy — is the operationalization of a proposal first laid down in the Theological Anthropology paper (TA). TA argues that because the heart, soul, and spirit are scripturally distinct faculties with different developmental logics, Bloom’s Taxonomy (which covers only the mind) needs parallel taxonomies for each of the other three. TA calls this a natural next step and leaves the work to follow-up research; HFT, SST, and what is done in this Exploration are that follow-up. Read in TA’s light, the five levels named here are not just a convenient scaffold for hearing — they are one of the three missing parallel taxonomies TA proposed, with a specific scriptural test case (trust in scripture under the Parable of the Sower). The practical implication: a facilitator using this five-level map is also, whether they know it or not, using the tool TA argued the field needed but did not yet have. TA sits first among the five Formation Documents in Vol 5 because it is where that need was first articulated.**
 
-**PART III**
-
-*Sustaining: Community, Practice, and the Long Game*
-
 **Vol 2 — Exploration 7A — Companion Competency Law**

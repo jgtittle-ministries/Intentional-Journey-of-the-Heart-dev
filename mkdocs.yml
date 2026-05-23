@@ -160,26 +160,29 @@ nav:
     - "Introduction: The Bridge from Knowing to Doing": volume-2-knowing-to-doing/introduction-the-bridge-from-knowing-to-doing.md
     - "Taxonomy Key: How This Volume Classifies Its Explorations": volume-2-knowing-to-doing/taxonomy-key-how-this-volume-classifies-its.md
     - "Exploration O: The Christian Companion's Framework": volume-2-knowing-to-doing/exploration-o-the-christian-companions-framework-tool.md
-    - "1. The Heart Soil": volume-2-knowing-to-doing/exploration-01-heart-soil.md
-    - "1B. Wound vs. Sin": volume-2-knowing-to-doing/exploration-01b-wound-vs-sin.md
-    - "2. Emotional Knots": volume-2-knowing-to-doing/exploration-02-emotional-knots.md
-    - "2A. The Wound and the False Self": volume-2-knowing-to-doing/exploration-02a-wound-and-false-self.md
-    - "2B. The Adversary’s Role": volume-2-knowing-to-doing/exploration-02b-adversarys-role.md
-    - "2C. Standing Interior Agreements": volume-2-knowing-to-doing/exploration-02c-standing-interior-agreements.md
-    - "3. Believing a Lie": volume-2-knowing-to-doing/exploration-03-believing-lie.md
-    - "4. Confession and Restoration": volume-2-knowing-to-doing/exploration-04-confession-and-restoration.md
-    - "5. The Four Connects": volume-2-knowing-to-doing/exploration-05-four-connects.md
-    - "6. The Tool Map": volume-2-knowing-to-doing/exploration-06-tool-map.md
-    - "6A. The Image-Bearing Dignity of the Wronger": volume-2-knowing-to-doing/exploration-06a-image-bearing-dignity-of-wronger.md
-    - "6B. Forgiveness as Re-integration of the Wronger": volume-2-knowing-to-doing/exploration-06b-forgiveness-as-re-integration-of.md
-    - "6C. The Discernment-from-Outside-the-Frame Law": volume-2-knowing-to-doing/exploration-06c-discernment-from-outside-frame-law.md
-    - "7. Hearing with Understanding": volume-2-knowing-to-doing/exploration-07-hearing-with-understanding.md
-    - "7A. Discernment of Voices as Level II Companion Competency": volume-2-knowing-to-doing/exploration-07a-discernment-of-voices-as-level.md
-    - "8. The Container": volume-2-knowing-to-doing/exploration-08-container.md
-    - "8B. The Session Liturgy": volume-2-knowing-to-doing/exploration-08b-session-liturgy.md
-    - "9. Community as Amplifier": volume-2-knowing-to-doing/exploration-09-community-as-amplifier.md
-    - "9A. The Corporate Witness of Declared Identity": volume-2-knowing-to-doing/exploration-09a-corporate-witness-of-declared-identity.md
-    - "10. The Training Plan": volume-2-knowing-to-doing/exploration-10-training-plan.md
+    - "Part I":
+      - "1. The Heart Soil": volume-2-knowing-to-doing/exploration-01-heart-soil.md
+      - "1B. Wound vs. Sin": volume-2-knowing-to-doing/exploration-01b-wound-vs-sin.md
+      - "2. Emotional Knots": volume-2-knowing-to-doing/exploration-02-emotional-knots.md
+      - "2A. The Wound and the False Self": volume-2-knowing-to-doing/exploration-02a-wound-and-false-self.md
+      - "2B. The Adversary’s Role": volume-2-knowing-to-doing/exploration-02b-adversarys-role.md
+      - "2C. Standing Interior Agreements": volume-2-knowing-to-doing/exploration-02c-standing-interior-agreements.md
+      - "3. Believing a Lie": volume-2-knowing-to-doing/exploration-03-believing-lie.md
+      - "4. Confession and Restoration": volume-2-knowing-to-doing/exploration-04-confession-and-restoration.md
+    - "Part II":
+      - "5. The Four Connects": volume-2-knowing-to-doing/exploration-05-four-connects.md
+      - "6. The Tool Map": volume-2-knowing-to-doing/exploration-06-tool-map.md
+      - "6A. The Image-Bearing Dignity of the Wronger": volume-2-knowing-to-doing/exploration-06a-image-bearing-dignity-of-wronger.md
+      - "6B. Forgiveness as Re-integration of the Wronger": volume-2-knowing-to-doing/exploration-06b-forgiveness-as-re-integration-of.md
+      - "6C. The Discernment-from-Outside-the-Frame Law": volume-2-knowing-to-doing/exploration-06c-discernment-from-outside-frame-law.md
+      - "7. Hearing with Understanding": volume-2-knowing-to-doing/exploration-07-hearing-with-understanding.md
+    - "Part III":
+      - "7A. Discernment of Voices as Level II Companion Competency": volume-2-knowing-to-doing/exploration-07a-discernment-of-voices-as-level.md
+      - "8. The Container": volume-2-knowing-to-doing/exploration-08-container.md
+      - "8B. The Session Liturgy": volume-2-knowing-to-doing/exploration-08b-session-liturgy.md
+      - "9. Community as Amplifier": volume-2-knowing-to-doing/exploration-09-community-as-amplifier.md
+      - "9A. The Corporate Witness of Declared Identity": volume-2-knowing-to-doing/exploration-09a-corporate-witness-of-declared-identity.md
+      - "10. The Training Plan": volume-2-knowing-to-doing/exploration-10-training-plan.md
     - "Epilogue: The Invitation to Volume 3": volume-2-knowing-to-doing/epilogue-the-invitation-to-volume-3.md
   - "Vol 3: Quantitative":
     - volume-3-quantitative-framework/index.md

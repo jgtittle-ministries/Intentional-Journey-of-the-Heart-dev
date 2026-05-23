@@ -44,8 +44,4 @@ The last sentence connects confession directly to the Prayer as Resonance law fr
 
 **FORMATION DOCUMENT CONNECTION: The central question in this law — is this blockage primarily sin (requiring confession) or primarily weight (requiring a different tool****)? —**** ****exemplifies the broader discernment challenge MSFIG addresses in its section on the Willard-Friesen debate and throughout. MSFIG’s main argument is that practicing the right steps at the wrong level leads to the wrong outcome: a  Level 2 compliance pattern (attending confession regularly, performing the ritual correctly) is not the same as the Level 3–4 confession this law envisions — specific, owned, free of self-justification, and genuinely releasing the sin rather than just acknowledging it. The Pharisee counterexample in MSFIG clearly illustrates this: perfect Level 2 compliance (attendance, tithing, scripture knowledge, public righteousness) mistaken for Level 5 transformation. Genuine confession, as described in this law, is an affective Level 3–4 event, not merely a behavioral Level 2 action.**
 
-**PART II**
-
-*Clearing: Heart Tools and How They Work*
-
 **Vol 2 — Exploration 5 — Structural Law**
