@@ -29,7 +29,7 @@ A caution I want to register about my own title before you read further. C. S. L
 
 ## Four foundational principles
 
-Before any of the specific explorations, four principles are laid out as working axioms. I borrow the axiom language from mathematics—a small set of starting assumptions from which the rest of the work proceeds. I hold each at roughly 90 percent confidence. They are working axioms, not dogma, and further work may refine them.
+Before any of the specific explorations, four principles are laid out as working axioms. I borrow the axiom language from mathematics—a small set of starting assumptions from which the rest of the work proceeds. Each is held at the Clearly Taught tier — the highest of the three qualitative confidence tiers the project uses (see "A note on confidence and posture" below). They are working axioms, not dogma, and further work may refine them.
 
 **1. Laws of the Spirit exist. **The spiritual world operates according to regular, predictable, lawful relationships, as orderly as the physical world, because the same God created both.
 
@@ -102,11 +102,19 @@ Read this introduction, then read the preface and overview of any one of the vol
 
 ## A note on confidence and posture
 
-Throughout the volumes I assign a confidence percentage to each major claim. This is not false modesty, and it is not pseudo-scientific precision either. It is intellectual honesty about the fact that I am exploring terrain that has not been fully mapped, and I would rather tell you I am at 70 percent than pretend I am at 100 percent when I am not. The early scientists who first discovered the natural laws held them provisionally too, and they were right to do so.
+Throughout the volumes I assign a confidence tier to each major claim. This is not false modesty, and it is not pseudo-scientific precision either. It is intellectual honesty about the fact that I am exploring terrain that has not been fully mapped, and I would rather tell you a claim is reasonably inferred than pretend it is clearly taught when it is not. The early scientists who first discovered the natural laws held them provisionally too, and they were right to do so.
 
-Roughly translated: 85–90 percent means “clearly taught in scripture or directly confirmed in lived practice over many years.” 70–80 percent means “reasonably inferred, needs community testing.” Below 70 percent means “speculative—interesting enough to pursue, not yet solid enough to build on.” Wayne Grudem in his *Systematic Theology* uses a similar three-tier qualitative structure rather than numbers, and the qualitative version is probably more honest than the numerical version. I have kept the numbers because they are useful as relative signals, but the qualitative translation is what they actually mean.
+The project uses three qualitative confidence tiers throughout:
 
-What this means for how you read the project: the things I assert at high confidence are things I operate in, and when disconfirming evidence appears, I look for alternative explanations before revising my certainty. The things I assert at moderate confidence I hold loosely. The things I assert at low confidence are open exploration—I think there is something there, but I would not bet anyone’s life on it. Where the project is most certain is in Volumes 1 and 2; where it is most speculative is in parts of Volume 3.
+- **Clearly Taught** — clearly taught in scripture (typically with multi-author, multi-Testament support) and broadly accepted across mainstream Christian traditions. These are claims I operate in, and when disconfirming evidence appears, I look for alternative explanations before revising my certainty.
+
+- **Reasonably Inferred** — derivable from scripture by sound reasoning and consistent with experience, but not stated explicitly enough or supported widely enough to clear the highest tier. Held loosely; needs further community testing.
+
+- **Speculative** — interesting enough to pursue, not yet solid enough to build on. I think there is something there, but I would not bet anyone's life on it.
+
+Wayne Grudem in his *Systematic Theology* uses a similar three-tier qualitative structure, and the qualitative tiers are the project's canonical confidence vocabulary. The machine-readable claim registry that accompanies Volume 6 (`vol1-claims.yml` through `vol4-claims.yml`) preserves a numerical confidence value alongside each tier — useful as a relative signal for tooling — but the qualitative tier is what the value actually means. Earlier drafts of the project used numerical percentages as the primary vocabulary; the qualitative tiers replaced them as the project matured.
+
+Where the project is most certain is in Volumes 1 and 2; where it is most speculative is in parts of Volume 3.
 
 I want this posture to govern how the project is received as much as how it is written. I am not asking anyone to accept any of this on my authority. I am asking interested practitioners to test it—in their own lives, in their own small groups, in conversation with other practitioners and with their own pastors—and to bring back what they find. The contributor process exists to receive what comes back. If a particular claim is wrong, I want to know. If a particular claim is right but stated badly, I want to know. If a particular law has been seen by others before me and stated more clearly elsewhere, I want to know that too.
 
