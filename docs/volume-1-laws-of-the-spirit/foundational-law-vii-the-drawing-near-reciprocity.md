@@ -6,7 +6,7 @@ source: "IJH_Vol1_v5_6_1_1.docx"
 
 # Foundational Law VII: The Drawing-Near Reciprocity Law
 
-The seventh foundational law describes the structure of the Person—God relationship at its most basic level. Active movement toward God evokes God’s movement toward the person; turning away evokes withdrawal. The law is the cleanest example of the fourth periodicity (reciprocity-of-response): God responds in kind to the human posture.
+The Drawing-Near Reciprocity Law describes the structure of the Person—God relationship at its most basic level. Active movement toward God evokes God’s movement toward the person; turning away evokes withdrawal. The law is the cleanest scriptural example of reciprocity-of-response: God responds in kind to the human posture.
 
 ## The Scriptural Ground
 ***Jas. 4:8 (ESV)***
@@ -39,7 +39,7 @@ Third, the “with all your heart” qualifier in Jer. 29:13 and Deut. 4:29 is o
 ## Why This Is a Foundational Law
 Five scriptural witnesses across at least four authors (James, Chronicles, Jeremiah, Moses, Hebrews), spanning both testaments. The directional reciprocity is uncontested across mainstream Christian traditions. Reformed, Roman, Orthodox, Anabaptist, and Pentecostal traditions all affirm it, even where they differ on the precise account of prior divine initiative. Testability is high: every person who has gone through a long stretch of seeking and a long stretch of distance can testify to both directions of the law.
 
-**Proposed Law (Operational, Wide Consent): Active movement toward God (seeking, drawing near, searching with whole heart) evokes God’s movement toward the person (being found, being drawn near to); turning away evokes withdrawal. The reciprocity is symmetric in direction, asymmetric in source: God is the prior actor****,**** and the human seeking is itself a response to a prior divine invitation. The law operates at the vertical scale (tag V) and is the clearest example in the catalog of reciprocity-of-response, the fourth periodicity.**
+**Proposed Law (Operational, Wide Consent): Active movement toward God (seeking, drawing near, searching with whole heart) evokes God’s movement toward the person (being found, being drawn near to); turning away evokes withdrawal. The reciprocity is symmetric in direction, asymmetric in source: God is the prior actor****,**** and the human seeking is itself a response to a prior divine invitation. The law operates at the vertical scale (tag V) and is the clearest scriptural example of reciprocity-of-response.**
 
 **Certainty: Clearly Taught  ***As high as any law in this volume. The remaining uncertainty is in the secondary question of how the “with all your heart” qualifier interacts with developmental stage: a person at an earlier affective level cannot seek with the wholeness available to a more developed heart, which raises the question of whether the law operates differently at different stages. Vol 2 and the SST Formation Document are the right places to take that up.*
 

@@ -6,9 +6,9 @@ source: "IJH_Vol1_v5_6_1_1.docx"
 
 # Foundational Law V: The Reciprocal Forgiveness Law
 
-The fifth foundational law sits inside the Lord’s Prayer and is repeated by Jesus more often than perhaps any other operational claim he makes about the spiritual world. The forgiveness a person extends to others is the channel through which forgiveness from God flows to that person. Withholding forgiveness reinstates the debt structure that forgiveness had dissolved. The law is bidirectional and operates simultaneously vertically (Person—God) and horizontally (Person—Person).
+The Reciprocal Forgiveness Law sits inside the Lord’s Prayer and is repeated by Jesus more often than perhaps any other operational claim he makes about the spiritual world. The forgiveness a person extends to others is the channel through which forgiveness from God flows to that person. Withholding forgiveness reinstates the debt structure that forgiveness had dissolved. The law is bidirectional and operates simultaneously vertically (Person—God) and horizontally (Person—Person).
 
-This law is the positive direction of the mechanism that the existing speculative Forgiveness-Debt Transfer Law (Vol 1, P2/GV) captures from the negative side. Bringing both halves into the Periodic Table as named laws gives the channel-opening mechanism at the moral-failure level a complete account: Sin Blockage and Confession-Restoration form the vertical pair; Forgiveness-Debt Transfer and Reciprocal Forgiveness form the horizontal-and-vertical pair.
+This law is the positive direction of the Forgiveness-Debt Transfer mechanism. Together with FL.II Confession-Restoration and the Sin Blockage Law (V2.Exp4), the four form a complete account of channel-opening at the moral-failure level.
 
 ## The Scriptural Ground
 ***Matt. 6:14–15 (ESV)***
@@ -38,9 +38,9 @@ This law is the positive direction of the mechanism that the existing speculativ
 ## The Mechanism
 Three features. First, the order of operations in Matt. 6:14–15 is that human forgiveness comes first in the operational sense and divine forgiveness comes second — not because human action earns divine forgiveness (the cross is the ground of forgiveness, not human merit), but because the refusal to participate in the economy of forgiveness blocks the channel through which forgiveness flows to the refuser. The same point made structurally by the parable of the unforgiving servant: the servant’s forgiven debt is reinstated, not on the basis of a new transgression, but on the basis of his refusal to live inside the economy that had forgiven him in the first place.
 
-Second, the law is bidirectional in the strict sense Foundational Laws I and III are: the positive direction (forgive — be forgiven) and the negative mirror (withhold forgiveness — have forgiveness withheld) are both stated as law, in the same sentence in Matt. 6:14–15. The Mirror field of the Periodic Table is designed to carry exactly this kind of structure.
+Second, the law is bidirectional in the strict sense FL.I and FL.III are: the positive direction (forgive — be forgiven) and the negative mirror (withhold forgiveness — have forgiveness withheld) are both stated as law, in the same sentence in Matt. 6:14–15.
 
-Third, the law operates at both the vertical and horizontal scales by the same mechanism, which is what gives it the B tag in the table. Paul’s version (Eph. 4:32; Col. 3:13) frames human forgiveness as participation in the prior divine forgiveness — a single mechanism appearing in two scales.
+Third, the law operates at both the vertical and horizontal scales by the same mechanism. Paul’s version (Eph. 4:32; Col. 3:13) frames human forgiveness as participation in the prior divine forgiveness — a single mechanism appearing in two scales.
 
 ## Why This Is a Foundational Law
 Six scriptural witnesses across at least four authors (Matthew, Mark, Luke, Paul). The directional relationship is uncontested across mainstream Christian traditions. Traditions differ on how to read the severity of Matt. 6:15 — from the Reformed emphasis that the unforgiving heart reveals the absence of true grace, to the more sacramental traditions that emphasize the ongoing operational character of the law, to the Anabaptist readings that emphasize the parable as ethical instruction — but every tradition affirms the directional law itself. Testability in the natural is high: every long-held resentment, every reconciliation, every family-system unforgiveness pattern testifies to it.

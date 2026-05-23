@@ -6,7 +6,7 @@ source: "IJH_Vol1_v5_6_1_1.docx"
 
 # Foundational Law VI: The Hear-and-Obey Blessing Law
 
-The sixth foundational law states the link between hearing-and-doing and flourishing. It is the broadest in scriptural sweep of the thirteen, spanning Moses’ Deuteronomic covenant, the Gospels, and the General Epistles. Hearing the word of God and doing it produces blessedness and flourishing; hearing without doing forfeits the blessing. The law operates at every social scale, which places it in the new Period 0 (Scale-Invariant) row of the Periodic Table.
+The Hear-and-Obey Blessing Law states the link between hearing-and-doing and flourishing. It is among the broadest in scriptural sweep, spanning Moses’ Deuteronomic covenant, the Gospels, and the General Epistles. Hearing the word of God and doing it produces blessedness and flourishing; hearing without doing forfeits the blessing. The law operates at every social scale.
 
 This law is distinct from the existing Obedience Channel (Vol 1, Exp. 6) by its output. The Obedience Channel describes how obedience opens the channel for more revelation. This law describes how obedience produces flourishing — a different consequent from the same antecedent. The two are sibling laws and operate together: obedience opens more revelation, which in turn enables more obedience, which produces flourishing. The Hear-and-Obey Blessing Law captures the second arrow of that compound effect.
 
@@ -28,9 +28,9 @@ This law is distinct from the existing Obedience Channel (Vol 1, Exp. 6) by its 
 *“But be doers of the word, and not hearers only, deceiving yourselves. For if anyone is a hearer of the word and not a doer, he is like a man who looks intently at his natural face in a mirror. For he looks at himself and goes away and at once forgets what he was like. But the one who looks into the perfect law, the law of liberty, and perseveres, being no hearer who forgets but a doer who acts, he will be blessed in his doing.”*
 
 ## The Mechanism
-Three features. First, the law is scale-invariant. Deut. 28 applies it to the nation of Israel; Luke 11:28 applies it to an individual in a crowd around Jesus; James 1:25 applies it to the individual reader of the New Testament epistle. The same mechanism in all three cases: hearing + doing = blessing. This is the structural feature that places the law in Period 0 of the Periodic Table.
+Three features. First, the law is scale-invariant. Deut. 28 applies it to the nation of Israel; Luke 11:28 applies it to an individual in a crowd around Jesus; James 1:25 applies it to the individual reader of the New Testament epistle. The same mechanism in all three cases: hearing + doing = blessing.
 
-Second, the law is bidirectional but in an asymmetric way. The positive direction (hear and do — blessing) is everywhere; the negative direction (hear without doing — forfeit) is named explicitly in James 1:22–24 with the “mirror” image James himself uses: the hearer who does not do is like one who looks in a mirror and forgets what he saw. The Mirror field in the Periodic Table lets this asymmetry be carried cleanly: the positive is the principal direction; the explicit James 1 forfeiture is its mirror.
+Second, the law is bidirectional but in an asymmetric way. The positive direction (hear and do — blessing) is everywhere; the negative direction (hear without doing — forfeit) is named explicitly in James 1:22–24 with the “mirror” image James himself uses: the hearer who does not do is like one who looks in a mirror and forgets what he saw.
 
 Third, the law’s output term — “blessing” or “blessedness” — is broader than the “revelation” output of the Obedience Channel and broader than mere material prosperity. The Deut. 28 catalog includes children, harvest, peace, defense, and standing among the nations; James 1:25 names a more interior “blessed in his doing.” The law does not promise a single shape of flourishing; it promises flourishing of the form proper to the unit operating in the law.
 
@@ -39,6 +39,6 @@ Four scriptural witnesses across four authors (Moses, Luke, John, James), spanni
 
 **Proposed Law (Operational, Wide Consent): Hearing the word of God and doing it produces blessedness and flourishing of the form proper to the unit operating in the law; hearing without doing forfeits the blessing. The law is scale-invariant (Period 0): it operates identically at the individual, household, congregational, national, and generational scales. Its output is flourishing rather than further revelation, which distinguishes it from the sibling Obedience Channel Law (V1.Exp6) without contradicting it.**
 
-**Certainty: Clearly Taught  ***As high as any law in this volume. The James 1 statement of both directions in a single passage is unusually clean. The remaining uncertainty is in the secondary question of the timing and shape of the “blessing” output at different scales, which scripture **catalogs** but does not formalize. The scale-invariance places it in the Period 0 row of the Periodic Table at Group V (Body/Action), parallel to the Sowing-and-Reaping Law’s placement in P0/GVI (Structural Frame).*
+**Certainty: Clearly Taught  ***As high as any law in this volume. The James 1 statement of both directions in a single passage is unusually clean. The remaining uncertainty is in the secondary question of the timing and shape of the “blessing” output at different scales, which scripture **catalogs** but does not formalize.*
 
 **Foundational Law VII — Operational Law of Wide Consent**
