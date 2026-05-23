@@ -18,6 +18,7 @@ I wrote Volume 6 in a more institutional voice on purpose. It is meant to outlas
 - **[Part 2: The Council — A Fellowship of the Heart](part-2-council-fellowship.md)** — why the Council is a Fellowship of the Heart and not a board; what membership asks; how the Council works; what it owes the community it serves; on its own end; and a Rule of Life for the Council.
 - **[Part 3: Succession Letter](part-3-succession-letter.md)** — my wishes for the stewardship of the work should I become unable to continue stewarding it personally, naming a Literary Executor and a Theological Successor.
 - **[Proposal Template](proposal-template.md)** — the template every proposed refinement uses, structured to enforce the four-factor confidence test at the platform level.
+- **[Appendix: Catalog History](appendix-catalog-history.md)** — a simplified briefing for the Council on how the Foundational Law catalog reached its present shape, with the major architectural decisions, disposition patterns with precedent, and a coverage maturity snapshot.
 
 ## Related repository documents
 

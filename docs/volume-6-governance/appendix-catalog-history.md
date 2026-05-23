@@ -1,0 +1,115 @@
+# Appendix: Catalog History — A Briefing for the Council
+
+*A simplified history of how the Foundational Law catalog reached its present shape, intended for the Council of Stewards as background for understanding future revision decisions.*
+
+---
+
+## What this appendix is, and is not
+
+This appendix is a briefing, not an archive. The Council inherits a Foundational Law catalog whose present shape — thirty-eight Foundational Laws arrayed in a Periodic Table with two structural axes — is the result of an extended expansion arc that began with thirteen Foundational Laws and progressed through several substantive architectural decisions to reach the configuration the catalog now holds. The Council does not need the per-revision narrative of that arc; the granular history lives in the project's git log and in the working artifacts held under `_implementation-notes/` outside the published documentation tree. What the Council does need is a curated summary of the major architectural decisions, the patterns by which laws have been admitted, absorbed, removed, or relocated, and a snapshot of where the catalog stands now — enough to recognize the shape of future cases when they arrive.
+
+The aim throughout is operational. When a future candidate law is proposed, when a future forward-reference is reviewed, when a future structural question arises, the Council should be able to look at this appendix and find the precedents and patterns it needs without having to reconstruct them from the revision history.
+
+Note that this appendix concerns the Foundational Law catalog organized in the Periodic Table chapter (Vol 5). It is distinct from the claim registry described in Part 1 §2, which encodes the broader corpus of seventy-six claims across Volumes 1 through 4 in machine-readable YAML form. The catalog and the registry are parallel governance artifacts that overlap in content but serve different functions; the appendix here addresses only the catalog.
+
+## Scale of the arc
+
+The Foundational Law tier grew from thirteen laws — the original Vol 1 articulation — to thirty-eight (FL.I through FL.XXXVIII) across the expansion arc. The full table of analyzed laws, which includes forward-references to Vol 2, speculative extensions, and Open Trails alongside the Foundational tier, grew correspondingly to forty-seven analyzed laws at the present revision. Several rows of the Periodic Table that began substantially empty — Period 0 (scale-invariant), Period 3 (community/congregation), and Period 4 (generational/historical) — reached substantial or complete Foundational coverage during the arc. The Vol 3 forward-reference count went from six placeholder entries at the cosmic/eschatological scale to zero through the resolution methodology described below.
+
+The arc is a deliberate, conservative expansion pattern. Laws are admitted only when the operational territory they hold is not adequately covered by existing combinations of laws, and the catalog has practiced restraint in admission throughout. The arc is not finished; subsequent revisions are anticipated to address residual under-populations, refine existing entries' articulations, and continue the same pattern of conservative admission. The Council inherits a catalog at structural maturity, not at terminal completion.
+
+## Major architectural decisions
+
+Six structural decisions during the expansion arc shaped the catalog's present configuration. Each is summarized here in the form most useful to the Council: what the decision was, what motivated it, what it enabled.
+
+### The Periodic Table organization with Two Axes
+
+The catalog is organized as a periodic table with two structural axes: Period 0–5 for scale of operation (scale-invariant → individual → dyadic / small group → community / congregation → generational / historical → cosmic / eschatological), and Group I–VI for the dimension of the person primarily addressed (Spirit → Heart → Soul → Mind / Will → Body / Action → Structural Frame). The decision to organize by these two axes — rather than by directionality of causation, by law type, or by some other arrangement — was made because Scale and Dimension produce the most operationally interesting gaps and the most legible family resemblances. The choice of these axes is itself a hypothesis the catalog tests; should subsequent revision surface a more illuminating arrangement, the Council retains authority to reorganize.
+
+### The Two-Axis instrument and the Third-Axis Test
+
+A third candidate axis — orientation of pursuit (God-ward vs. idol-ward) — was tested at length and found to be real and operationally important, but not the right kind of structural feature to warrant promotion to a third axis. Mirror Discipline at the entry level (see below) was adopted as the right integration of the orientation dimension instead. The Two-Axis instrument therefore stands as the catalog's structural backbone. A future proposal to add a third axis will need to address why Mirror Discipline does not adequately hold the dimension in question.
+
+### Mirror Discipline at the entry level
+
+Every entry in the catalog carries a Mirror field as a required attribute, in one of three forms: a Mirror statement (the idol-ward face named explicitly with its own scriptural support), a Constitutive marker (the law's content is itself the orientation dimension), or an Orientation-neutral marker (the mechanism does not carry orientation). The discipline was adopted to make the orientation-of-pursuit dimension consistently visible at the entry level without collapsing it into the relational-directionality tag (Vertical / Horizontal / Both / Intra-personal) that operates on a different axis. The discipline functions as the structural integration of the third-dimension concern that the Third-Axis Test surfaced. The Council inherits the discipline of marking each new admission with a Mirror field and applying the discipline retroactively when an existing entry's Mirror articulation is clarified by subsequent work.
+
+### Band-of-Closeness articulation
+
+Foundational admissions are tagged with their band — Band 1, Band 2, or Band 3 — where the principle-vs-command distinction is articulated. Band 1 admissions hold a distinguishable principle on multi-author scriptural footing. Band 2 admissions hold the principle together with a scripturally-specified operational pathway. Band 3 admissions hold the principle while leaving specific operational forms to tradition-by-tradition theological work. The articulation was developed during the Group VI Structural Frame admissions and has demonstrated its full range across the Group VI cells. The Council inherits the discipline of marking each new admission with its band and revisiting band-status when subsequent work clarifies an existing entry's band placement.
+
+### The Period 0 (Scale-Invariant) row's substrate-and-operation architecture
+
+The Periodic Table includes a Period 0 row above the scale-specific rows, holding laws whose mechanism operates at all scales by the same mechanism. The row was introduced during the expansion arc as the catalog accumulated laws whose scale-invariant character became operationally evident — FL.I Sowing-and-Reaping, FL.VI Hear-and-Obey, FL.XV Hardening, and during later admissions FL.XXXV Trust-Substrate and FL.XXXVII Worship Alignment. The row has reached substantial completion at five of six Groups, with an articulated substrate-and-operation architecture: the inner Groups (Spirit, Heart, Soul) hold substrate-level mechanisms and the outer Groups (Body / Action, Structural Frame) hold operational mechanisms, with substrates conditioning operations across the row. The Mind / Will cell at Period 0 remains open; subsequent revision may surface a Foundational candidate there, or may conclude that the cognitive-instrumental dimension at the scale-invariant scale is substantially held distributively by other entries without requiring a distinct scale-invariant substrate articulation.
+
+### The Forward-Reference resolution methodology
+
+Forward-references — placeholder entries at one volume that defer their substantive articulation to another — are a structural feature the catalog has used and continues to use. The Vol 3 forward-references resolution established the methodology for reviewing them when the matured catalog has overtaken the placeholder. The methodology operates under a pastoral-language principle: the underlying operational claim is re-articulated in pastoral language without the field-theoretic or other technical vocabulary the placeholder relied on, and the re-articulated claim is tested against the existing catalog's coverage. Where the matured catalog holds the territory in full, the forward-reference is absorbed. Where the catalog holds the core but the forward-reference still uniquely holds distinctive operational content, the forward-reference is admitted as a new pastorally-named Foundational Law on its own scriptural footing. Where the forward-reference is methodological rather than operational, it is removed from the operational table entirely. This methodology generalizes to future forward-reference reviews and may be applied to forward-references that have not yet been opened for resolution.
+
+## Disposition patterns with precedent
+
+When the Council reviews a candidate law or an existing entry under reconsideration, the disposition falls into one of five patterns. Each pattern is described here with one or two example cases from the expansion arc, sufficient for the Council to recognize the shape of similar future cases. The examples are illustrative rather than exhaustive; the working artifacts under `_implementation-notes/` contain the full set of dispositions if a Council member needs to consult precedent in depth.
+
+### Admission as a new Foundational Law
+
+A candidate is admitted when its operational territory is not adequately held by any existing combination of Foundational Laws. The candidate must come with multi-author scriptural footing, articulate operational content distinct from the existing catalog, and clear the catalog's standing inclusion bar — which the Council should treat as conservative, since restraint in admission is itself a discipline the catalog has practiced throughout the arc.
+
+*Example.* FL.XXXVI Eschatological Glory Law was admitted from the Vol 3 Glory Attractor forward-reference because the operational territory it articulated (the entire spiritual dynamic structured by the Glory attractor; every genuine movement toward Truth, Goodness, and Beauty as movement toward it) was not fully held by any existing combination of catalog laws. The admission rests on its own scriptural footing across Paul, the Hebrews writer, John, Peter, and substantial Old Testament background in Isaiah and the Psalter. Placement was set at P5/GII (cosmic-eschatological scale, Heart dimension) under the heart-orientation criterion — the heart's sustained anticipation of the not-yet-completed glory producing operational consequences in the present life — rather than at the structural-frame dimension the original forward-reference had suggested.
+
+### Absorption into existing law articulations
+
+A forward-reference or candidate is absorbed when the matured catalog already holds the operational territory through an existing combination of laws. The absorption preserves the operational claim while integrating it into the catalog's existing structure. The forward-reference dissolves into the combination; no new admission is added to the Foundational tier.
+
+*Example.* The Vol 3 Spiritual Force Equation forward-reference articulated a proportionality dynamic at a single cell (P5/GV). The matured catalog had been articulating the same proportionality dynamic across five distinct Period 0 entries operating across distinct Groups — FL.I at P0/GVI, FL.VI and FL.IX and FL.XVI at P0/GV, FL.XV at P0/GI, and FL.XXXV at P0/GII. The forward-reference was absorbed into the existing combination. The operational claim is preserved across the distributed articulation while the field-theoretic vocabulary is left to the Vol 3 appendix where it originally lived.
+
+### Removal as methodological rather than operational
+
+A candidate or existing entry is removed from the operational table when it is methodological — a commitment about how a volume articulates its content — rather than operational. The operational table catalogs operational laws. Methodological commitments are appropriately held within volume introductions and not as placeholder entries in the operational table.
+
+*Example.* The Vol 3 Quantification Program forward-reference is a methodological commitment about how Vol 3 articulates its operational content (in field-theoretic-and-equation form), not an operational claim about a spiritual law. The forward-reference was removed from the operational table and the methodological commitment is now held within the Vol 3 introduction where it functions appropriately.
+
+### Relocation under scale-invariance or orientation criteria
+
+An existing entry is relocated when subsequent analysis surfaces that its placement is operationally inconsistent with its content. Two relocation criteria have been applied during the expansion arc: the scale-invariance criterion (does the law's mechanism operate at all scales by the same mechanism, warranting relocation to Period 0?) and the orientation criterion (does the law operate at the heart-orientation dimension rather than the structural-frame dimension that an original placement may have suggested, or at a different Group than the one originally chosen?).
+
+*Example.* V1.Open Miracle Frame was originally placed at P5/GI (cosmic / eschatological scale, Spirit dimension). The scale-invariance examination found that the spiritual-permeates-natural relationship operates at all scales by the same mechanism — at the individual scale (the individual's encounter with the spiritual-permeated material world), at the gathered-body scale, at the generational scale, and at the cosmic-eschatological consummation. The entry was relocated from P5/GI to P0/GI under the scale-invariance criterion.
+
+### Promotion from Speculative to Foundational
+
+A Speculative entry — marked with the ◆ glyph — is promoted to Foundational when its scriptural canvas meets the Foundational-tier inclusion bar and its operational consistency has been demonstrated. A promotion may be combined with relocation if subsequent analysis surfaces that the entry's placement also requires revision.
+
+*Example.* FL.XXXVII Worship Alignment Law was held as Speculative at P5/GII before being tested for both promotion and placement. The promotion question's answer was yes: the scriptural canvas (multiple Old Testament prophetic articulations of true worship vs. false worship; the Psalter's worship-as-perceptual-recalibration material; the Pauline articulation at Romans 12:1–2; the Johannine articulation at John 4:23–24) meets the Foundational inclusion bar. The placement question's answer was that worship operates as the heart's perceptual-recalibration substrate at all scales, warranting relocation to P0/GII. The entry was both promoted to Foundational and relocated from P5/GII to P0/GII in a single combined disposition.
+
+## Coverage maturity snapshot
+
+The Council inherits a catalog whose coverage is uneven across the Periodic Table's cells. Some territories have reached substantial structural completion; others remain genuinely under-populated. This snapshot is forward-looking: it names which territories the Council should expect to see future candidates appear in, and which territories are currently saturated such that future candidates should be reviewed with particular care.
+
+**Substantially complete territories.** The Council should expect future candidates in these territories to require strong justification, because the operational territory is well-articulated by existing entries.
+
+- Period 0 (Scale-Invariant) holds Foundational entries at five of six Groups. The row has reached its substrate-and-operation architecture; P0/GIV (Mind / Will) is the row's only open cell.
+- Period 1 (Individual) is densely populated with the working scale's principal Foundational Laws — the Faith-Hope-Love triad's individual articulation, the Heart-column cluster, the Spirit-column gateway entries, and the Body / Action operational entries.
+- Period 3 (Community / Congregation) and Period 4 (Generational / Historical) hold complete Foundational coverage across all six Groups, with the single exception of P4/GIII (empty by structural design at the generational scale's Soul dimension).
+- Group V (Body / Action) is the densest column, with entries across Periods 0, 1, 2, 3, and 4.
+- Group VI (Structural Frame) holds architectural Foundational Laws at four major scales (Period 0, Period 2, Period 3, Period 4) with the band-of-closeness articulation's full range demonstrated across the Group VI cells.
+
+**Under-populated territories.** The Council should expect future candidates in these territories, and the working judgment is that further admissions in these cells are appropriate where the operational case is sound.
+
+- Period 2 (Dyadic / Small Group) is under-populated relative to Periods 1 and 3. The dyadic scale's operational laws may warrant further articulation as the catalog matures.
+- Period 5 (Cosmic / Eschatological) is under-populated since the Vol 3 forward-references resolution moved most of its content to other rows. Only FL.XXXVI Eschatological Glory Law remains at Period 5.
+- P0/GIV (Scale-Invariant Mind / Will) is the open cell in the Period 0 row.
+
+**Specific question for subsequent revision.** Whether P0/GIV warrants a distinct scale-invariant Foundational entry, or whether the cognitive-instrumental dimension at the scale-invariant scale is substantially held distributively within FL.X Ask-Seek-Knock, FL.XI Renewal-of-Mind Transformation, and the wisdom-cluster's gateway structure — without requiring a distinct scale-invariant substrate articulation — is the principal open structural question the catalog hands to the Council at the present revision.
+
+## What this appendix is not
+
+This appendix does not contain the granular per-revision history of the expansion arc. The per-revision detail — which revision admitted which law, which revision relocated which entry, which revision articulated which structural pattern — lives in the project's git log and in working artifacts held under `_implementation-notes/` outside the published documentation tree. A Council member who needs that level of detail can:
+
+- read the git log for the Periodic Table chapter (`docs/volume-5-references/periodic-table-of-spiritual-laws-a-summing.md`) and for the Vol 1 chapter holding each Foundational Law's full articulation, to see the per-revision diff;
+- consult the working artifacts in `_implementation-notes/` for the staged construction documents that supported each admission, where those artifacts have been retained;
+- consult the founder, while he is still actively stewarding the work, on the rationale behind specific decisions whose written record is otherwise sparse.
+
+This appendix is the curated summary that holds what the Council actually needs: the major architectural decisions, the disposition patterns with precedent, and the coverage maturity snapshot. It is intentionally short so that every Council member can read it in full and revisit it as needed.
+
+---
+
+*This appendix is a draft, intended for revision by the first seated Council as actual practice clarifies which patterns the catalog will see most often and what additional precedents should be recorded here. Like the rest of Volume 6, it is meant to be lived in and corrected, not held as final.*

@@ -246,6 +246,7 @@ nav:
     - "Part 2: The Council": volume-6-governance/part-2-council-fellowship.md
     - "Part 3: Succession Letter": volume-6-governance/part-3-succession-letter.md
     - "Proposal Template": volume-6-governance/proposal-template.md
+    - "Appendix: Catalog History": volume-6-governance/appendix-catalog-history.md
 
 extra_css:
   - extra/pdf-popup.css
