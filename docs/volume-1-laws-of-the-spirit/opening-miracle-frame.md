@@ -54,5 +54,3 @@ This reframing has a practical implication that I find deeply exciting: if mirac
 **Connections**
 
 **Formation Documents. ***The natural-as-subset-of-spiritual frame is the metaphysical presupposition behind SST and MSFIG: regeneration is the Spirit’s sovereign threshold act, not a human developmental achievement. The open question this surfaces for Vol 3 is whether the quantitative program can eventually describe the bandwidth difference between a person at Spirit Stage 1 and Stage 5.*
-
-**Foundational Laws — The Floor We Are Building On**
