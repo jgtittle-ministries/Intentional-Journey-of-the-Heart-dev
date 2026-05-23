@@ -18,39 +18,39 @@ The catalog's Group designations (Spirit, Heart, Soul, Mind & Will, Body & Actio
 
 The thirty-eight Foundational Laws are summarized below in numerical order, with the Period/Group placement, the directionality tag, and the single-sentence operational statement. Each law has its own chapter in this volume.
 
-**FL.I — The Sowing-and-Reaping Law (P0/GV, V).** What is sown is what is reaped (Gal. 6:7–9; Hos. 10:12; 2 Cor. 9:6).
+**FL.I — The Sowing-and-Reaping Law (P0/GVI, B).** What is sown is what is reaped (Gal. 6:7–9; Hos. 10:12; 2 Cor. 9:6).
 
 **FL.II — The Confession-Restoration Law (P1/GV, V).** Spoken confession of sin to God produces forgiveness; concealment produces compounding interior load (1 John 1:9; Prov. 28:13; Ps. 32:3–5).
 
 **FL.III — The Heart-Throne Law (P1/GII, B).** What the heart enthrones becomes the structuring center of formation (Matt. 6:21, 6:24; Exod. 20:3).
 
-**FL.IV — The Humility-Exaltation Law (P1/GIII, B).** Humbling before God precedes exaltation; self-exaltation precedes humbling (Jas. 4:10; 1 Pet. 5:6; Luke 14:11; Prov. 3:34).
+**FL.IV — The Humility-Exaltation Law (P1/GIII, V).** Humbling before God precedes exaltation; self-exaltation precedes humbling (Jas. 4:10; 1 Pet. 5:6; Luke 14:11; Prov. 3:34).
 
-**FL.V — The Reciprocal Forgiveness Law (P2/GV, H).** Forgiveness extended to others is the condition for forgiveness received from God (Matt. 6:14–15; Matt. 18:21–35; Mark 11:25).
+**FL.V — The Reciprocal Forgiveness Law (P2/GV, B).** Forgiveness extended to others is the condition for forgiveness received from God (Matt. 6:14–15; Matt. 18:21–35; Mark 11:25).
 
 **FL.VI — The Hear-and-Obey Law (P0/GV, V).** Hearing the word produces operational benefit only where the hearing issues in doing (Jas. 1:22–25; Matt. 7:24–27; Luke 11:28).
 
-**FL.VII — The Drawing-Near Reciprocity Law (P1/GI, B).** Drawing near to God produces God's drawing near (Jas. 4:8; Heb. 10:22; Zech. 1:3).
+**FL.VII — The Drawing-Near Reciprocity Law (P1/GI, V).** Drawing near to God produces God's drawing near (Jas. 4:8; Heb. 10:22; Zech. 1:3).
 
 **FL.VIII — The Desire-for-God Law (P1/GII, V).** Sustained desire for God produces increased capacity to receive God (Ps. 42:1–2; Ps. 63:1; Matt. 5:6).
 
-**FL.IX — The Generosity-Provision Law (P1/GV, V).** Generosity produces proportional provision; stinginess produces proportional withholding (Luke 6:38; 2 Cor. 9:6–11; Prov. 11:24–25).
+**FL.IX — The Generosity-Provision Law (P0/GV, B).** Generosity produces proportional provision; stinginess produces proportional withholding (Luke 6:38; 2 Cor. 9:6–11; Prov. 11:24–25).
 
-**FL.X — The Faith-Sight Law (P0/GIV, V).** Faith is the operational substance of things hoped for, evidence of things unseen (Heb. 11:1, 6; 2 Cor. 5:7; Rom. 1:17).
+**FL.X — The Ask-Seek-Knock Law (P1/GI, V).** Persistent, faith-filled asking in alignment with God's character produces receiving; asking from wrong motive does not (Matt. 7:7–8; Luke 11:9–10; John 14:13–14; Jas. 1:5; Jas. 4:2–3).
 
 **FL.XI — The Renewal-of-Mind Transformation Law (P1/GIV, V).** Renewal of the mind produces transformation of pattern-of-life (Rom. 12:2; Eph. 4:23; Col. 3:10).
 
-**FL.XII — The Honor-Authority Flourishing Law (P2/GV, H).** Honor of legitimate authority produces flourishing in the relational unit (Exod. 20:12; Eph. 6:1–3; Rom. 13:1–7).
+**FL.XII — The Honor-Authority Flourishing Law (P2/GV, B).** Honor of legitimate authority produces flourishing in the relational unit (Exod. 20:12; Eph. 6:1–3; Rom. 13:1–7).
 
-**FL.XIII — The Pure-Heart Vision Law (P1/GII, B).** Purity of heart produces operational seeing of God (Matt. 5:8; Ps. 24:3–4; 2 Tim. 2:21–22).
+**FL.XIII — The Pure-Heart Vision Law (P1/GII, V).** Purity of heart produces operational seeing of God (Matt. 5:8; Ps. 24:3–4; 2 Tim. 2:21–22).
 
-**FL.XIV — The Vanity-of-Substitutes Law (P1/GII, B).** Substitutes for God produce the structural emptiness their idol-status guarantees (Eccl. 1:2; Jer. 2:13; Ps. 115:4–8).
+**FL.XIV — The Vanity-of-Substitutes Law (P1/GII, V).** Substitutes for God produce the structural emptiness their idol-status guarantees (Eccl. 1:2; Jer. 2:13; Ps. 115:4–8).
 
 **FL.XV — The Hardening Law (P0/GI, V).** Sustained refusal of God's address produces the heart's operational hardening (Heb. 3:7–15; Rom. 1:18–28; Pharaoh narrative).
 
-**FL.XVI — The Bondage Law (P0/GV, V).** Sustained sin produces operational bondage to the sin (John 8:34; Rom. 6:16; 2 Pet. 2:19).
+**FL.XVI — The Bondage Law (P0/GV, B).** Sustained sin produces operational bondage to the sin (John 8:34; Rom. 6:16; 2 Pet. 2:19).
 
-**FL.XVII — The Substitution-Cascade Law (P4/GII, V, paired bidirectional with FL.XXI).** Idolatry transmits across generations through the household's implicit-learning channel by default (Exod. 20:5–6; Deut. 5:9–10; 2 Kings 17:41).
+**FL.XVII — The Substitution-Cascade Law (P4/GII, H, paired bidirectional with FL.XXI).** Idolatry transmits across generations through the household's implicit-learning channel by default (Exod. 20:5–6; Deut. 5:9–10; 2 Kings 17:41).
 
 **FL.XVIII — The Bitter-Root Community Law (P3/GV, H, bidirectional).** Unresolved offense calcifies into a defiling root; Matt. 18 pathway is the corrective (Heb. 12:14–15; Matt. 18:15–20; Eph. 4:26–27).
 
@@ -64,7 +64,7 @@ The thirty-eight Foundational Laws are summarized below in numerical order, with
 
 **FL.XXIII — The Sabbath Rest Law (P0/GVI, V; Band 3).** Structured cessation in trust-of-provision produces flourishing; absence produces compounding diminishment (Gen. 2:2–3; Exod. 20:8–11; Mark 2:23–28; Heb. 4:1–11).
 
-**FL.XXIV — The Confession-in-Community Law (P3/GV, B).** Spoken confession in trusted community produces healing solitary confession does not produce (Jas. 5:16; Prov. 28:13; 1 John 1:9).
+**FL.XXIV — The Confession-in-Community Law (P3/GV, H).** Spoken confession in trusted community produces healing solitary confession does not produce (Jas. 5:16; Prov. 28:13; 1 John 1:9).
 
 **FL.XXV — The Restoration-of-the-Erring Law (P3/GV, H).** Active pursuit of the wanderer in gentleness restores to communion (Gal. 6:1; Jas. 5:19–20; Matt. 18:12–14; Luke 15).
 
