@@ -6,7 +6,7 @@ source: "IJH_Vol1_v5_6_1_1.docx"
 
 # Foundational Law I: The Sowing-and-Reaping Law
 
-The first foundational law is the law of the harvest. It is stated most directly in Paul, repeated by Hosea, echoed in Solomon, and assumed by Job. What a person sows, that the person reaps — in kind, in degree, and with a characteristic time delay.
+Sowing-and-Reaping is the law of the harvest. It is stated most directly in Paul, repeated by Hosea, echoed in Solomon, and assumed by Job. What a person sows, that the person reaps — in kind, in degree, and with a characteristic time delay.
 
 ## The Scriptural Ground
 ***Gal. 6:7–9 (ESV)***
@@ -36,7 +36,7 @@ The first foundational law is the law of the harvest. It is stated most directly
 ## The Mechanism
 Three features of the law are worth marking. First, kind. What is sown determines what is reaped. Flesh-sowing reaps from the flesh; Spirit-sowing reaps from the Spirit. The harvest mirrors the planting. Second, degree. Sparing yields sparing, bountiful yields bountiful. The proportionality is explicit in 2 Corinthians and implicit throughout Proverbs. Third, time delay. The harvest comes “in due season” (Gal. 6:9). This is the same systems-dynamics observation the Obedience Channel exploration develops — the feedback is delayed, which makes the causal connection easy to miss in real time and easy to deny in retrospect.
 
-Two things this law is also worth observing about are its directional structure. It is scale-invariant: Paul applies it to a person, Hosea to a nation, the Deuteronomic narrative to a generational arc, all with the same mechanism. It is bidirectional: the positive direction (sow good, reap good) and the negative direction (sow evil, reap evil) are both stated as law, not derived one from the other. These are the two observations that motivate the structural edits to the Periodic Table (Period 0 row; Mirror field). The law itself is older than the table; the table is being reshaped to hold the law more cleanly.
+Two further features of the law are worth marking. It is scale-invariant: Paul applies it to a person, Hosea to a nation, the Deuteronomic narrative to a generational arc, all with the same mechanism. It is bidirectional: the positive direction (sow good, reap good) and the negative direction (sow evil, reap evil) are both stated as law, not derived one from the other.
 
 ## Why This Is a Foundational Law
 Sowing-and-Reaping clears every inclusion criterion at the highest bar. Scripture: six explicit witnesses across four authors, both testaments. Spirit-witness: it is the most direct conscience-language law in the New Testament. Community recognition: there is no mainstream Christian tradition I am aware of that contests the directional relationship. Prosperity-gospel readings overstate the material-return component, and reformed traditions emphasize the prior work of grace, but the law itself is uncontested. Testable in the natural: every farmer, every parent, every long marriage testifies to it.

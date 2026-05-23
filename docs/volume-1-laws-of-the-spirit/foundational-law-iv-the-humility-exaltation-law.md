@@ -6,7 +6,7 @@ source: "IJH_Vol1_v5_6_1_1.docx"
 
 # Foundational Law IV: The Humility-Exaltation Law
 
-The fourth foundational law is stated bidirectionally more explicitly than almost any other in scripture. James and Peter speak in the positive direction; Jesus speaks both halves in the same sentence. Proverbs reinforces both; Isaiah grounds it in the very dwelling place of God.
+The Humility-Exaltation Law is stated bidirectionally more explicitly than almost any other in scripture. James and Peter speak in the positive direction; Jesus speaks both halves in the same sentence. Proverbs reinforces both; Isaiah grounds it in the very dwelling place of God.
 
 ## The Scriptural Ground
 ***Jas. 4:10 (ESV)***

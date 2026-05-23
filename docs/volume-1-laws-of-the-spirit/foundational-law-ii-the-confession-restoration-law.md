@@ -6,7 +6,7 @@ source: "IJH_Vol1_v5_6_1_1.docx"
 
 # Foundational Law II: The Confession-Restoration Law
 
-The second foundational law describes how broken fellowship with God is restored. Honest, owned confession of sin clears the channel; concealment maintains the breach. The law is stated most clearly in 1 John but reaches back through Proverbs, the Psalms, and across to James.
+The Confession-Restoration Law describes how broken fellowship with God is restored. Honest, owned confession of sin clears the channel; concealment maintains the breach. The law is stated most clearly in 1 John but reaches back through Proverbs, the Psalms, and across to James.
 
 This law completes a mechanism the existing Sin Blockage Law (Vol 2, Exploration 4) describes from the opposite side. Sin Blockage names how unconfessed sin functions as a load on the spiritual circuit, increasing resistance in the hearing channel. The Confession-Restoration Law names how that load is cleared. The two are the same mechanism viewed from two angles.
 
@@ -36,7 +36,7 @@ The law has two scales: vertical (Person to God, 1 John 1:9; Ps. 32; Prov. 28:13
 
 Two structural observations from David's testimony in Ps. 32 are worth marking. First, the felt cost of concealment is somatic: “my bones wasted away” is not a metaphor for spiritual discomfort but a description of an embodied condition. The Sin Blockage Law's electrical-circuit analogy and David's bone-wasting language are pointing at the same phenomenon at different layers of description. Second, the relief is reported as immediate upon the confession itself: “I said, ‘I will confess,’ and you forgave. (Psalms 32:5) The forgiveness in the text comes at the moment of the resolution to confess, not at the completion of the act. The mechanism is faster than a transactional reading would predict.
 
-Prov. 28:13 gives the negative mirror in proverbial form: concealment does not produce prospering; confession does. This is the same bidirectional pattern Sowing-and-Reaping shows. The Mirror field of the Periodic Table is designed in part to carry exactly this kind of explicit positive-and-negative pairing.
+Prov. 28:13 gives the negative mirror in proverbial form: concealment does not produce prospering; confession does. This is the same bidirectional pattern Sowing-and-Reaping shows.
 
 ## Why This Is a Foundational Law
 Five scriptural witnesses across four authors (John, Solomon, David, James) span both testaments. The directional relationship between confession and restoration is uncontested across mainstream traditions. Traditions differ on whether confession to another person is necessary, useful, or sacramental — from the Reformed emphasis on confession to God alone, to the Roman and Orthodox sacramental practice, to the Anabaptist and Pentecostal traditions of mutual confession — but every tradition affirms the directional law itself. Testability in the natural is high: anyone who has cherished a hidden sin and then named it into the light has experienced the law.
