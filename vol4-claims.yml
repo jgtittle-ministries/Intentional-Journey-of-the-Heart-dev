@@ -29,10 +29,21 @@
 
 project: IJH
 volume: 4
-schema_version: 0.1
+schema_version: 0.2
 founder: John G. Tittle
 last_council_review: null
 source_document: IJH_Vol4_v5_3_1.docx
+
+# Schema change log:
+#   v0.2 (2026-05-23) — Aligned with vol1-claims.yml v0.2 schema. Promoted
+#         from source-documents/v5_5_7/ to repo root. No content changes —
+#         the Vol 1 catalog expansion (FL.I-FL.XXXVIII) did not materially
+#         affect Vol 4's testing scaffolding. The V4 testable hypotheses
+#         (V4.LotS-H1 through V4.LotS-I3) continue to inherit their
+#         confidence from specific V1/V2 claims via the
+#         `confidence_inherited_from` field; subsequent revisions may extend
+#         the testing program to address the 38 Foundational Laws.
+#   v0.1 (initial) — Original encoding sourced from IJH_Vol4_v5_3_1.docx.
 
 volume_notes: >
   Volume 4 is the testing scaffolding for the rest of the LotS project.

@@ -1,0 +1,2382 @@
+# ===========================================================================
+# IJH Volume 1 — Claim Registry
+# ---------------------------------------------------------------------------
+# This file is the authoritative machine-readable record of Volume 1's claims
+# for the Intentional Journey of the Heart project. Schema and conventions
+# are documented in Volume 6 (Governance Model, Part 1, §2-§3) and in the
+# accompanying SCHEMA.md (to be drafted as an early Council priority).
+#
+# Scope of this file:
+#   - Four Foundational Principles (axioms, V1.Ax1-Ax4)
+#   - Opening Exploration (V1.OE — The Miracle Frame)
+#   - Eight Numbered Explorations (V1.Exp1-Exp8)
+#   - Supplemental Exploration (V1.Sup1)
+#   - Thirty-Eight Foundational Laws (FL.I-FL.XXXVIII)
+#   - One preserved minority position (V1.Exp3.Mn1)
+#
+# Conventions:
+#   - IDs: V{volume}.{type}{number} for axioms, OE, explorations, supplemental,
+#     minorities; FL.{Roman numeral} for Foundational Laws
+#   - status: core | minority | open
+#   - confidence: integer 0-100 mapping to the qualitative tier:
+#       Clearly Taught     → 85-95 (default 85)
+#       Reasonably Inferred → 65-80 (default 75)
+#       Speculative         → 30-55 (default 40)
+#       Axioms              → 90 (working-axiom tier)
+#   - pt_period / pt_group: Periodic Table cell placement per Vol 5 PT chapter
+#       pt_period ∈ {P0, P1, P2, P3, P4, P5}
+#       pt_group  ∈ {GI, GII, GIII, GIV, GV, GVI}
+#   - directionality: V (Vertical Person↔God) | H (Horizontal Person↔Person) |
+#     B (Both V and H) | I (Intra-personal)
+#   - band: 1 (Band 1, principle on multi-author scriptural footing) |
+#           2 (Band 2, principle + scripturally-specified operational pathway) |
+#           3 (Band 3, principle with tradition-arbitrated operational form) |
+#           null (not band-tagged)
+#   - mirror_type: statement (idol-ward face named explicitly) |
+#                  constitutive (the law's content is itself the orientation) |
+#                  constitutive_bidirectional (both faces in one structure) |
+#                  orientation_neutral (mechanism does not carry orientation)
+#   - gateway: true when designated as a structural-threshold Gateway entry
+#   - Dependencies are expressed as ID lists; tooling validates them as a DAG.
+# ===========================================================================
+
+project: IJH
+volume: 1
+schema_version: 0.2
+founder: John G. Tittle
+last_council_review: null    # Council not yet seated; founder-stewarded
+source_documents:
+  - IJH_Vol1_v5_6_1_1.docx
+  - docs/volume-1-laws-of-the-spirit/foundational-law-*.md (38 chapters)
+  - docs/volume-5-references/periodic-table-of-spiritual-laws-a-summing.md
+
+# Schema change log:
+#   v0.2 (2026-05-23) — Added pt_period, pt_group, directionality, band,
+#         mirror_type, mirror_text, gateway fields capturing the matured
+#         catalog's Periodic Table structural metadata. Added 38 Foundational
+#         Law entries (FL.I-FL.XXXVIII) drawn from the matured Vol 1
+#         Foundational Law tier. Total claims: 15 prior + 38 FL = 53.
+#   v0.1 (initial)  — Demonstration encoding of the 15 V1.Ax/OE/Exp/Sup/Mn
+#         entries sourced from IJH_Vol1_v5_4_1.docx as proof of schema fit.
+
+claims:
+
+# ===========================================================================
+# Four Foundational Principles (Axioms, held at ~90%)
+# ===========================================================================
+
+  - id: V1.Ax1
+    type: axiom
+    title: "Laws of the Spirit Exist"
+    core_text: >
+      The spiritual world operates according to regular, predictable, lawful
+      relationships — as orderly as the physical world — because the same God
+      created both.
+    status: core
+    confidence: 90
+    confidence_rationale: >
+      Held as working axiom. Grounded in Jesus' rebuke of Nicodemus (John 3)
+      — a teacher of Israel was expected to understand how the Spirit works —
+      and in the theological conviction that created reality reflects the
+      rational character of its Creator.
+    scripture_refs:
+      - John 3:1-12
+    traditions_supporting: [Reformed, Evangelical, Charismatic, Mystical]
+    traditions_dissenting: []
+    upstream_dependencies: []
+    downstream_dependents: [V1.All, V2.All, V3.All, V4.All]
+    flip_conditions: >
+      Would require demonstrating that spiritual phenomena are fundamentally
+      irregular or lawless. Some apophatic mystical traditions approach this
+      but stop short of asserting it; the axiom is named precisely to keep
+      that assertion outside the project's premises.
+
+  - id: V1.Ax2
+    type: axiom
+    title: "These Laws Are Knowable"
+    core_text: >
+      We will not see all the laws, but we should be able to see more than we
+      do today. The wind blows where it wishes, but we should be able to see
+      more than just the sound of it passing — we should be carried by it.
+    status: core
+    confidence: 90
+    scripture_refs:
+      - John 3:8
+    traditions_supporting: [Reformed, Evangelical, Charismatic, Mystical]
+    traditions_dissenting: []
+    upstream_dependencies: [V1.Ax1]   # knowability presupposes existence
+    downstream_dependents: [V1.All, V2.All, V3.All, V4.All]
+    flip_conditions: >
+      Would require demonstrating that the laws, though real, are in principle
+      inaccessible to human investigation. This is a stronger negative claim
+      than the axiom's positive one and requires independent argument.
+
+  - id: V1.Ax3
+    type: axiom
+    title: "Knowable in All Three Worlds"
+    core_text: >
+      The laws are knowable simultaneously in spirit, in mind and emotions,
+      and in body and actions. If I have truly grasped a law of the Spirit,
+      my doing will change. If I am not changed by God's word, I have not yet
+      heard God's word.
+    status: core
+    confidence: 90
+    scripture_refs:
+      - James 1:22-25
+      - Matthew 7:24-27
+    traditions_supporting: [Reformed, Evangelical, Charismatic, Mystical]
+    traditions_dissenting: []
+    upstream_dependencies: [V1.Ax1, V1.Ax2]
+    downstream_dependents:
+      - V1.Exp1   # feedback loop depends on embodied response
+      - V2.All
+      - Formation.HFT
+      - Formation.SST
+      - Formation.MSFIG
+
+  - id: V1.Ax4
+    type: axiom
+    title: "We Can Operate in These Laws"
+    core_text: >
+      The goal is not intellectual mapping but lived alignment. Miracles are
+      not meant to be the exception but the expected fruit of operating in
+      alignment with how God's world and kingdom actually work.
+    status: core
+    confidence: 90
+    scripture_refs:
+      - John 14:12
+      - Mark 16:17-18
+    traditions_supporting: [Reformed, Evangelical, Charismatic, Mystical]
+    traditions_dissenting: []
+    upstream_dependencies: [V1.Ax1, V1.Ax2, V1.Ax3]
+    downstream_dependents: [V1.OE, V1.All, V2.All, V3.All, V4.All]
+    notes: >
+      This axiom is the load-bearing warrant for the whole project's urgency.
+      The Opening Exploration (V1.OE) is its immediate downstream expression.
+
+# ===========================================================================
+# Opening Exploration: The Miracle Frame
+# (Periodic Table cell: P0/GI — relocated from P5/GI under scale-invariance)
+# ===========================================================================
+
+  - id: V1.OE
+    type: opening_exploration
+    title: "The Miracle Frame — The Natural World as a Subset"
+    core_text: >
+      The natural world is a proper subset of God's larger spiritual reality.
+      Miracles are not violations of natural law — they are instances of a
+      higher-order law operating on the natural world from a superset of
+      dimensions. The closer a person operates in alignment with the
+      higher-order laws, the more the natural world yields to them.
+    status: core
+    confidence: 75
+    confidence_rationale: >
+      The conceptual framework is strong and scripturally grounded. The
+      precise mathematical structure of the higher-order laws is the open
+      trail ahead.
+    author_note: >
+      "This is the load-bearing premise of the entire investigation. If I
+      can't establish it, everything else I am doing is just interesting
+      theology."
+    scripture_refs:
+      - Hebrews 11:3
+      - Colossians 1:15-17
+      - 2 Kings 6:15-17
+    external_sources:
+      - "C.S. Lewis, Miracles (self-defeating naturalism argument)"
+    traditions_supporting: [Reformed, Evangelical, Charismatic, Mystical]
+    traditions_dissenting: []
+    upstream_dependencies: [V1.Ax1, V1.Ax2, V1.Ax4]
+    downstream_dependents: [V1.All, V2.All, V3.All, V4.All]
+    pt_period: P0
+    pt_group: GI
+    directionality: V
+    band: null
+    mirror_type: orientation_neutral
+    mirror_text: >
+      The Miracle Frame's architectural character does not carry orientation;
+      the architectural relationship of the spiritual to the natural is
+      structural rather than orientation-shaped.
+    notes: >
+      Relocated from P5/GI to P0/GI under the scale-invariance criterion: the
+      spiritual-permeates-natural relationship operates at all scales by the
+      same mechanism. Absorbed the Vol 3 TFT Structural Law forward-reference.
+    flip_conditions: >
+      A successful defense of ontological naturalism would collapse the
+      project's urgency claim even if the axioms held in some reduced form.
+
+# ===========================================================================
+# Eight Numbered Explorations
+# ===========================================================================
+
+  - id: V1.Exp1
+    type: operational_law
+    title: "How to Get Faith (Word → Hearing → Faith)"
+    core_text: >
+      Faith (trust, pistis) is generated by hearing the Word of Christ with
+      a genuine willingness to obey. The quality of hearing is modulated by
+      prior obedience. Obedience keeps the channel open and reinforces the
+      loop; disobedience degrades the channel and initiates a hardening
+      process.
+    status: core
+    confidence: 75
+    confidence_rationale: >
+      Strong scriptural grounding. The specific mechanism linking
+      willingness-to-obey with the logos-to-rhema conversion is experientially
+      confirmed but not yet directly anchored in a single ESV text. Community
+      testing needed.
+    scripture_refs:
+      - Romans 10:17
+      - "Parable of the Sower (Matt 13, Mark 4, Luke 8)"
+    external_sources:
+      - "Wayne Grudem, Systematic Theology (rhema/logos caution)"
+      - "Dmitri Bilgere (transformation as 'risking belief')"
+    traditions_supporting: [Reformed, Evangelical, Charismatic]
+    traditions_dissenting: []
+    upstream_dependencies: [V1.Ax1, V1.Ax3, V1.OE]
+    downstream_dependents:
+      - V1.Exp6
+      - V2.Exp1
+      - V2.All
+      - V3.Eq1
+      - Formation.HFT
+    pt_period: P1
+    pt_group: GII
+    directionality: V
+    band: null
+    mirror_type: statement
+    mirror_text: >
+      The same chain operates wherever sustained attention to a source
+      produces faith in what the source says. Hearing chains directed toward
+      false gospels produce faith in falsehood (2 Tim. 4:3-4).
+    notes: >
+      Also operates at the community scale (P3/GII) through corporate
+      scriptural reception; cross-referenced with V2.Exp9 Community
+      Amplification and FL.XXXI Corporate Scriptural Reception Law.
+    flip_conditions: >
+      If the willingness-to-obey mechanism were demonstrated to be
+      epiphenomenal rather than causal, the entire Vol 2 therapeutic
+      structure would need reconsideration.
+    open_questions:
+      - "Precise mechanism converting logos to rhema remains experiential rather than textually anchored"
+
+  - id: V1.Exp2
+    type: structural_law
+    title: "My Spirit, Heart, Soul, and Body (Nested Person Structure)"
+    core_text: >
+      The components of a person form a nested containment structure: spirit
+      (innermost) is a subset of my heart, while the heart, mind, and body
+      are subsets/components of the soul. Each outer layer contains and is
+      influenced by all inner layers. Transformation that does not reach the
+      innermost layer is surface change.
+    status: core
+    confidence: 75
+    confidence_rationale: >
+      Overall structure is well-grounded; the precise relationship between
+      heart, mind, and soul remains an open question requiring more work.
+    scripture_refs:
+      - Mark 12:29-30
+      - 1 Thessalonians 5:23
+    traditions_supporting: [Reformed, Evangelical, Charismatic, Mystical]
+    traditions_dissenting: [Reformed-Dichotomist]
+    upstream_dependencies: [V1.Ax1, V1.Ax3]
+    downstream_dependents:
+      - V2.Exp1
+      - V2.SinBlockage
+      - V3.Eq1
+    pt_period: P1
+    pt_group: GVI
+    directionality: I
+    band: null
+    mirror_type: orientation_neutral
+    mirror_text: >
+      The Nested Person Structure is architectural rather than
+      orientation-shaped.
+    flip_conditions: >
+      If scripture were shown to use 'heart' and 'soul' interchangeably in a
+      way that dissolves the nesting, the structural claim would weaken
+      significantly. Grudem and others argue dichotomy (body/soul) rather
+      than richer nesting; this is the strongest live challenge.
+    open_questions:
+      - "Precise boundary between heart and mind"
+      - "Whether the structure is strictly nested or partially overlapping"
+
+  - id: V1.Exp3
+    type: structural_and_operational_law
+    title: "Faith, Hope, and Love as a Mutually Reinforcing Triad"
+    core_text: >
+      Faith (present trust) generates Hope (future expectation); Hope enables
+      Love (freed from defensive self-protection); Love deepens Faith
+      (creates the relational environment for trust to grow). The triad is
+      self-reinforcing upward and self-degrading downward.
+    status: core
+    confidence: 80
+    confidence_rationale: >
+      Strong scriptural grounding across multiple texts. The directional
+      arrows are the author's interpretation of the relational language; they
+      need community testing and more rigorous diagram work.
+    scripture_refs:
+      - 1 Corinthians 13:13
+      - Romans 5:3-5
+      - "1 John 4:18 (see V1.Exp3.Mn1)"
+    external_sources:
+      - "Wayne Grudem, Systematic Theology"
+    traditions_supporting: [Evangelical, Charismatic, Mystical]
+    traditions_dissenting: []
+    upstream_dependencies: [V1.Ax1, V1.Ax3, V1.OE]
+    downstream_dependents:
+      - V2.TherapeuticSequence
+    pt_period: P1
+    pt_group: GII
+    directionality: V
+    band: null
+    mirror_type: statement
+    mirror_text: >
+      Misplaced trust corrupts hope; corrupted hope deforms love; deformed
+      love undermines further trust. Jer. 17:5-8 names both directions in a
+      single oracle.
+    minority_positions: [V1.Exp3.Mn1]
+    open_questions:
+      - "Specific direction of Hope → Love arrow is the most interpretive link"
+
+  - id: V1.Exp3.Mn1
+    type: minority_dissent
+    parent_claim: V1.Exp3
+    title: "Love → (removes fear) → faith-capacity, rather than Hope → Love"
+    core_text: >
+      The Hope → Love arrow may run in the opposite direction: perfect love
+      casts out fear (1 John 4:18), suggesting that love itself is the agent
+      that removes the defensive self-protection, rather than hope doing that
+      work so that love can flow.
+    status: minority
+    traditions_supporting: [Reformed, some Charismatic]
+    scripture_refs:
+      - 1 John 4:18
+    council_reply: >
+      Both texts (Rom 5:3-5 and 1 John 4:18) are true. Grudem's reading holds
+      that the triad is genuinely mutually reinforcing rather than strictly
+      sequential; all three arrows operate simultaneously in a mature
+      believer. The core position preserves the Rom 5 directional reading
+      because it provides a therapeutic sequence (hope-work before
+      love-practice) that has proven operational in community use. The
+      minority is preserved because the directional question is not fully
+      closed and may be revisited as testing accrues.
+    flip_conditions: >
+      Experiential evidence from therapeutic communities that a love-first
+      sequence opens faith-capacity more reliably than a hope-first sequence
+      would elevate this minority toward core status.
+
+  - id: V1.Exp4
+    type: structural_law
+    title: "Knowledge → Understanding → Wisdom → Discernment"
+    core_text: >
+      Knowledge leads to Understanding, which leads to Wisdom, which leads to
+      Discernment, with a feedback loop from Discernment back to Knowledge.
+      The entire cluster requires the Fear of the Lord as a gateway
+      condition. Without the Fear of the Lord, what looks like wisdom is
+      merely cleverness.
+    status: core
+    confidence: 70
+    confidence_rationale: >
+      The directionality is the author's interpretation and needs more
+      careful scriptural work, particularly the Understanding-Wisdom
+      relationship. The Fear of the Lord as gateway carries higher confidence
+      (see V1.Exp5).
+    scripture_refs:
+      - Proverbs 1:2
+      - Proverbs 9:10
+    traditions_supporting: [Reformed, Evangelical]
+    upstream_dependencies: [V1.Ax1, V1.Exp5]
+    downstream_dependents: []
+    pt_period: P1
+    pt_group: GIV
+    directionality: I
+    band: null
+    mirror_type: statement
+    mirror_text: >
+      Without the gateway, the same faculties produce cleverness from a
+      distorted reference point (Rom. 1:22; 1 Cor. 1:20).
+    open_questions:
+      - "Understanding → Wisdom directional relationship needs scriptural anchoring"
+
+  - id: V1.Exp5
+    type: gateway_law
+    title: "The Fear of the Lord — Gateway Condition"
+    core_text: >
+      The Fear of the Lord is the logically prior condition for the operation
+      of the Wisdom-Knowledge-Understanding-Discernment cluster. It functions
+      as the epistemic ground reference — the fixed point from which all
+      spiritual knowing can be accurately oriented. Without it, the cluster
+      fails to orient correctly.
+    status: core
+    confidence: 85
+    confidence_rationale: >
+      Among the highest-confidence laws in the volume. Scriptural repetition
+      is explicit and consistent across multiple wisdom texts. The mechanism
+      (correct orientation of the self) is coherent with both scripture and
+      experience.
+    scripture_refs:
+      - Proverbs 1:7
+      - Proverbs 9:10
+      - Isaiah 11:2-3
+      - Psalm 111:10
+    traditions_supporting: [Reformed, Evangelical, Charismatic, Mystical]
+    upstream_dependencies: [V1.Ax1]
+    downstream_dependents:
+      - V1.Exp4
+      - V1.Exp6
+      - V4.Researcher
+    pt_period: P1
+    pt_group: GI
+    directionality: V
+    band: null
+    gateway: true
+    mirror_type: statement
+    mirror_text: >
+      "Fools despise wisdom and instruction" (Prov. 1:7b). The orientation
+      reading: fear of the Lord vs. fear of man (Prov. 29:25; Isa. 8:12-13).
+    flip_conditions: >
+      Would require demonstrating that the wisdom cluster operates reliably
+      absent fear-of-the-Lord orientation. The author would flag this as a
+      high-stakes revision affecting multiple downstream claims.
+
+  - id: V1.Exp6
+    type: operational_law
+    title: "The Obedience Channel — How Revelation Flows"
+    core_text: >
+      Obedience to prior revelation is the causal condition for receiving
+      subsequent revelation. The quality of the hearing channel in the
+      Word → Hearing → Faith chain is modulated by obedience history.
+      Obedience keeps the channel open and increases its gain; disobedience
+      introduces a time-delayed hardening.
+    status: core
+    confidence: 85
+    confidence_rationale: >
+      High confidence. John 7:17 is explicit; the pattern is confirmed across
+      multiple texts and in personal experience. The time-delay mechanism and
+      its systems dynamics implications are still being worked out.
+    scripture_refs:
+      - John 7:17
+      - John 14:21
+    traditions_supporting: [Reformed, Evangelical, Charismatic, Mystical]
+    upstream_dependencies: [V1.Ax1, V1.Ax3, V1.Exp5]
+    downstream_dependents:
+      - V1.Exp1
+      - V2.All
+      - FL.XV   # wider law in the same family
+    pt_period: P1
+    pt_group: GV
+    directionality: V
+    band: null
+    mirror_type: statement
+    mirror_text: >
+      Compounded disobedience progressively closes the channel (Heb. 3:13;
+      1 Sam. 15:22-23). The FL.XV Hardening Law is the wider-scope law in
+      the same family.
+    open_questions:
+      - "Time-delay mechanism between disobedience and hardening"
+      - "Systems dynamics of channel degradation and recovery"
+
+  - id: V1.Exp7
+    type: operational_law
+    title: "Spiritual Authority — The Force Multiplier"
+    core_text: >
+      Spiritual authority is delegated hierarchically from the Father through
+      the Son to believers. Operating within properly delegated authority
+      amplifies the effective spiritual force available — functioning as a
+      force multiplier. Operating outside of that delegation exposes the
+      would-be operator to counter-force with no cover.
+    status: core
+    confidence: 80
+    confidence_rationale: >
+      The centurion passage is unambiguous; the Acts 19 negative case is
+      stark. The precise mechanics of 'operating within authority' in
+      everyday spiritual life are still being worked out.
+    scripture_refs:
+      - Matthew 8:8-10
+      - Matthew 28:18
+      - Luke 10:19
+      - Ephesians 1:20-22
+      - Acts 19:13-16
+    traditions_supporting: [Reformed, Evangelical, Charismatic]
+    upstream_dependencies: [V1.Ax1, V1.OE]
+    downstream_dependents:
+      - V3.Eq1
+      - FL.XIX   # generational-scale transmission of anointing/authority
+    pt_period: P1
+    pt_group: GV
+    directionality: B
+    band: null
+    mirror_type: statement
+    mirror_text: >
+      The idol-ward face is usurped authority — Korah's rebellion (Num. 16)
+      names the canonical biblical pattern.
+    open_questions:
+      - "How 'operating within delegated authority' is recognized in real time"
+
+  - id: V1.Exp8
+    type: operational_law
+    title: "Prayer as a Resonance Phenomenon"
+    core_text: >
+      Prayer produces maximum spiritual force when three conditions align —
+      direction (in harmony with God's will and character), timing (discerned
+      spiritual readiness in the situation), and persistence (maintained over
+      time as a waveform rather than a single pulse).
+    status: core
+    confidence: 70
+    confidence_rationale: >
+      The resonance analogy is compelling and consistent with multiple
+      scripture patterns. The mustard seed model question (threshold vs.
+      proportionality) is genuinely unresolved and materially affects the
+      downstream equations. This claim needs the most community testing of
+      any exploration in the volume.
+    scripture_refs:
+      - Luke 18:1
+      - James 5:16
+      - Matthew 17:20-21
+    traditions_supporting: [Evangelical, Charismatic, Mystical]
+    upstream_dependencies: [V1.Ax1, V1.OE]
+    downstream_dependents:
+      - V3.Eq1
+      - V3.Eq.Mustard
+    pt_period: P2
+    pt_group: GI
+    directionality: V
+    band: null
+    mirror_type: statement
+    mirror_text: >
+      Prayer offered in the service of a competing Object does not produce
+      resonance (Jas. 4:3). The Counter-Resonance Law at the same cell is
+      the dyadic-scale operation of the same dynamic.
+    open_questions:
+      - "Threshold vs. proportionality dynamics (mustard seed question)"
+      - "Whether the analogy is illustrative or load-bearing — author currently holds illustrative"
+    council_flag: >
+      Author has explicitly flagged this as needing the most community
+      testing in the volume. Downstream Vol 3 equations materially depend on
+      how the threshold/proportionality question resolves. A Council priority
+      for early testing cycles.
+
+# ===========================================================================
+# Supplemental Exploration
+# ===========================================================================
+
+  - id: V1.Sup1
+    type: structural_law
+    title: "The Three Desires — Design Specifications of the Human Heart"
+    core_text: >
+      The masculine heart, made in the image of God, carries three
+      design-level desires: a battle to fight, an adventure to live, and a
+      beauty to rescue. These are not personality variables but structural
+      features of image-bearing humanity.
+    status: core
+    confidence: null   # not explicitly rated in the source text
+    external_sources:
+      - "John Eldredge, Wild at Heart"
+    traditions_supporting: [Evangelical, Charismatic]
+    upstream_dependencies: [V1.Ax1, V1.Exp2]
+    downstream_dependents:
+      - V2.Eldredge
+    pt_period: null
+    pt_group: null
+    directionality: null
+    band: null
+    mirror_type: null
+    council_flag: >
+      Supplemental, not part of the main Eight Explorations. The author has
+      not assigned an explicit confidence rating. Council action needed: (a)
+      decide whether to incorporate into the numbered set, (b) assign a
+      confidence rating, or (c) reclassify as [O] open until the feminine-
+      heart parallel (mentioned as future work) is developed.
+
+# ===========================================================================
+# Foundational Laws (FL.I-FL.XXXVIII)
+# The 38 Foundational Laws of wide consent. Each entry encodes the canonical
+# Proposed Law text, scriptural anchors, Periodic Table placement, Mirror
+# Discipline field, and (where applicable) band-of-closeness designation.
+# ===========================================================================
+
+  - id: FL.I
+    type: foundational_law
+    title: "The Sowing-and-Reaping Law"
+    core_text: >
+      What a person, household, community, or generation sows, that unit
+      reaps — in kind, in degree, and with characteristic time delay. The
+      mechanism operates identically at every social scale (Period 0,
+      Scale-Invariant in the Periodic Table) and runs bidirectionally:
+      sowing toward life yields the harvest of life; sowing toward
+      corruption yields the harvest of corruption. The time delay between
+      sowing and harvest is the feature that most often obscures the
+      causation in practice.
+    status: core
+    confidence: 90
+    confidence_rationale: >
+      As high as any law in this volume. Multi-author, multi-testament,
+      broadly accepted across mainstream Christian tradition. Remaining
+      uncertainty is in secondary specifications (what 'in kind' means at
+      community and generational scales; characteristic time constants).
+    scripture_refs:
+      - Gal. 6:7-9
+      - 2 Cor. 9:6
+      - Hos. 8:7
+      - Hos. 10:12
+      - Prov. 22:8
+      - Job 4:8
+    traditions_supporting: [Reformed, Evangelical, Charismatic, Mystical]
+    traditions_dissenting: []
+    upstream_dependencies: [V1.Ax1, V1.OE]
+    downstream_dependents: [FL.IX, FL.XVII, FL.XXVII]
+    pt_period: P0
+    pt_group: GVI
+    directionality: B
+    band: 1
+    mirror_type: statement
+    mirror_text: >
+      Sowing to the Spirit (Gal. 6:8b) reaps eternal life; sowing to the
+      flesh (Gal. 6:8a) reaps corruption. Same mechanism, two directions of
+      pursuit, two characteristic outputs.
+
+  - id: FL.II
+    type: foundational_law
+    title: "The Confession-Restoration Law"
+    core_text: >
+      Honest, owned confession of sin restores fellowship and clears the
+      channel through which spiritual reality flows; concealment maintains
+      the breach and accumulates an increasing somatic and spiritual load.
+      The law operates vertically (Person to God, where it is logically
+      prior) and horizontally (Person to community, where it is its applied
+      form). It is the positive-direction complement to the existing Sin
+      Blockage Law (V2.Exp4), and the two together form a complete account
+      of the channel-opening / channel-blocking mechanism at the
+      moral-failure level.
+    status: core
+    confidence: 90
+    confidence_rationale: >
+      As high as any law in this volume. Remaining uncertainty is
+      principally on the secondary question of what counts as 'owned'
+      confession versus performative acknowledgment.
+    scripture_refs:
+      - 1 John 1:9
+      - Prov. 28:13
+      - Ps. 32:3-5
+      - Ps. 66:18
+      - Jas. 5:16
+    traditions_supporting: [Reformed, Evangelical, Charismatic, Mystical]
+    upstream_dependencies: [V1.Ax1, FL.III]
+    downstream_dependents: [V2.Exp4, FL.XXIV]
+    pt_period: P1
+    pt_group: GV
+    directionality: V
+    band: null
+    mirror_type: statement
+    mirror_text: >
+      Concealment of sin is structurally an idol-ward operation. Prov. 28:13
+      names both directions in a single sentence.
+
+  - id: FL.III
+    type: foundational_law
+    title: "The Heart-Throne Law"
+    core_text: >
+      Whatever the heart looks to as its primary source of security,
+      meaning, or identity functions as its functional throne-holder. When
+      Christ is enthroned in that central place, the heart is reordered, and
+      the dysfunctions sourced from competing thrones unwind; when something
+      other than Christ is enthroned, anxious dependence, distorted desire,
+      and moral-relational dysfunction follow. The mechanism is bidirectional
+      and explicit in scripture: Christ-enthronement → flourishing of the
+      heart (Col. 3:1-4); idolatry → dysfunction (Rom. 1:21-25). The law sits
+      at Period 1 / Group II (Heart) with a B (Both) directionality tag —
+      primarily vertical in its Person↔God dimension, with strong horizontal
+      expression in the created persons and things that compete for the
+      throne. It is the structural pair of the Confession-Restoration Law:
+      confession clears the sin act; the Heart-Throne Law dethrones the
+      idol the sin was serving.
+    status: core
+    confidence: 90
+    confidence_rationale: >
+      As high as the Confession-Restoration Law. Remaining uncertainty is
+      principally on the operational secondary question of how the
+      dethroning actually happens.
+    scripture_refs:
+      - Exod. 20:3-6
+      - Deut. 6:4-5
+      - Jer. 2:13
+      - Ezek. 14:3
+      - Matt. 6:24
+      - Rom. 1:21-25
+      - Col. 3:1-5
+      - 1 John 5:21
+    traditions_supporting: [Reformed, Evangelical, Charismatic, Mystical]
+    upstream_dependencies: [V1.Ax1, V1.OE]
+    downstream_dependents: [FL.II, FL.VIII, FL.XIV, FL.XVII, FL.XXI]
+    pt_period: P1
+    pt_group: GII
+    directionality: B
+    band: null
+    mirror_type: constitutive
+    mirror_text: >
+      FL.III's content is itself the orientation-of-pursuit dimension. Pairs
+      upward with FL.XIV Vanity-of-Substitutes and downward with FL.XVII
+      Substitution-Cascade and FL.XXI Household Formation Law.
+
+  - id: FL.IV
+    type: foundational_law
+    title: "The Humility-Exaltation Law"
+    core_text: >
+      Self-humbling before God leads to being exalted by God in due time;
+      self-exaltation leads to being brought low. The law is bidirectional
+      in the source texts, not derived in one direction from the other. It
+      operates vertically (Person to God, where the time-delay clause
+      applies) and reflects horizontally in human honor dynamics. The
+      mechanism is structural rather than transactional: God dwells with the
+      humble (Isa. 57:15), so humility is the condition for proximity, and
+      pride is the condition for distance.
+    status: core
+    confidence: 90
+    confidence_rationale: >
+      As high as any law in this volume. Remaining uncertainty is in the
+      secondary question of what scale and form the exaltation takes.
+    scripture_refs:
+      - Jas. 4:10
+      - 1 Pet. 5:6
+      - Luke 14:11
+      - Matt. 23:12
+      - Prov. 3:34
+      - Prov. 29:23
+      - Isa. 57:15
+    traditions_supporting: [Reformed, Evangelical, Charismatic, Mystical]
+    upstream_dependencies: [V1.Ax1, V1.OE]
+    downstream_dependents: []
+    pt_period: P1
+    pt_group: GIII
+    directionality: V
+    band: null
+    mirror_type: statement
+    mirror_text: >
+      Self-exaltation is structurally an idol-ward operation: the self
+      enthrones the self in God's place. Luke 14:11 and Matt. 23:12 name
+      both directions in a single sentence.
+
+  - id: FL.V
+    type: foundational_law
+    title: "The Reciprocal Forgiveness Law"
+    core_text: >
+      The forgiveness a person extends to others is the channel through
+      which forgiveness from God flows to that person; withholding
+      forgiveness reinstates the debt structure that forgiveness had
+      dissolved. The law operates by the same mechanism at the vertical
+      (Person—God) and horizontal (Person—Person) scales. Bidirectional in
+      the source texts: the positive and negative directions are stated
+      together, not derived one from the other.
+    status: core
+    confidence: 90
+    confidence_rationale: >
+      As high as any law in this volume. Remaining uncertainty is in the
+      secondary question of what 'forgiveness from the heart' (Matt. 18:35)
+      requires operationally.
+    scripture_refs:
+      - Matt. 6:14-15
+      - Mark 11:25
+      - Luke 6:37
+      - Matt. 18:32-35
+      - Eph. 4:32
+      - Col. 3:13
+    traditions_supporting: [Reformed, Evangelical, Charismatic, Mystical]
+    upstream_dependencies: [V1.Ax1, FL.II]
+    downstream_dependents: [FL.XVIII, FL.XXIV, FL.XXV]
+    pt_period: P2
+    pt_group: GV
+    directionality: B
+    band: null
+    mirror_type: statement
+    mirror_text: >
+      Unforgiveness is structurally an idol-ward operation — the offended
+      party enthrones the offense as the operational center, with the
+      offender's relationship to the offended party operating as the
+      substitute for the offended party's relationship to God.
+
+  - id: FL.VI
+    type: foundational_law
+    title: "The Hear-and-Obey Blessing Law"
+    core_text: >
+      Hearing the word of God and doing it produces blessedness and
+      flourishing of the form proper to the unit operating in the law;
+      hearing without doing forfeits the blessing. The law is scale-invariant
+      (Period 0): it operates identically at the individual, household,
+      congregational, national, and generational scales. Its output is
+      flourishing rather than further revelation, which distinguishes it
+      from the sibling Obedience Channel Law (V1.Exp6) without contradicting
+      it.
+    status: core
+    confidence: 90
+    confidence_rationale: >
+      As high as any law in this volume. Remaining uncertainty is in the
+      secondary question of the timing and shape of the 'blessing' output
+      at different scales.
+    scripture_refs:
+      - Deut. 28:1-2
+      - Luke 11:28
+      - John 13:17
+      - Jas. 1:22-25
+    traditions_supporting: [Reformed, Evangelical, Charismatic, Mystical]
+    upstream_dependencies: [V1.Ax1, V1.Ax3, V1.Exp6]
+    downstream_dependents: [FL.XVI]
+    pt_period: P0
+    pt_group: GV
+    directionality: V
+    band: null
+    mirror_type: statement
+    mirror_text: >
+      FL.XVI Bondage Law at P0/GV is the structural counterpart of FL.VI in
+      the same scale-invariant location: the same obedience-constitutes-state
+      mechanism viewed from the other direction of pursuit.
+
+  - id: FL.VII
+    type: foundational_law
+    title: "The Drawing-Near Reciprocity Law"
+    core_text: >
+      Active movement toward God (seeking, drawing near, searching with
+      whole heart) evokes God's movement toward the person (being found,
+      being drawn near to); turning away evokes withdrawal. The reciprocity
+      is symmetric in direction, asymmetric in source: God is the prior
+      actor, and the human seeking is itself a response to a prior divine
+      invitation. The law operates at the vertical scale and is the clearest
+      scriptural example of reciprocity-of-response.
+    status: core
+    confidence: 90
+    confidence_rationale: >
+      As high as any law in this volume. Remaining uncertainty is in the
+      secondary question of how the 'with all your heart' qualifier interacts
+      with developmental stage.
+    scripture_refs:
+      - Jas. 4:8
+      - 2 Chron. 15:2
+      - Jer. 29:13
+      - Deut. 4:29
+      - Heb. 11:6
+    traditions_supporting: [Reformed, Evangelical, Charismatic, Mystical]
+    upstream_dependencies: [V1.Ax1, V1.OE]
+    downstream_dependents: [FL.X, FL.XIII, FL.XV, FL.XXXV]
+    pt_period: P1
+    pt_group: GI
+    directionality: V
+    band: null
+    mirror_type: statement
+    mirror_text: >
+      Turning away from God produces God's withdrawal (2 Chron. 15:2's
+      negative direction).
+
+  - id: FL.VIII
+    type: foundational_law
+    title: "The Desire-for-God Law"
+    core_text: >
+      The human heart, made for God, generates a longing for him as a
+      structural feature of its design (Eccl. 3:11). This longing precedes
+      the participant's awareness of its true Object, survives every
+      substitutional attempt to fill it with something else, and operates as
+      the inward signal that the participant was created for communion with
+      God in Christ. The longing's recognition and orientation toward its
+      true Object is a developmental movement. Operationally: the
+      participant who attends to her longing and orients it toward its true
+      Object finds the other Foundational Laws doing their proper work; the
+      participant whose longing has been suppressed, substituted, or numbed
+      finds the same laws functionally inert.
+    status: core
+    confidence: 90
+    confidence_rationale: >
+      Multi-author scriptural support is extremely strong (nine authors
+      across both Testaments). Remaining uncertainty is principally on the
+      precise relationship between the longing-as-structural-feature claim
+      and the imago-Dei doctrine.
+    scripture_refs:
+      - Eccl. 3:11
+      - Ps. 42:1-2
+      - Ps. 63:1
+      - Isa. 26:9
+      - Matt. 5:6
+      - Phil. 3:8
+      - Phil. 3:14
+      - Heb. 11:13-16
+      - 1 John 3:2-3
+      - Rev. 22:17
+    traditions_supporting: [Reformed, Evangelical, Charismatic, Mystical]
+    upstream_dependencies: [V1.Ax1, V1.OE]
+    downstream_dependents: [FL.XIV]
+    pt_period: P1
+    pt_group: GII
+    directionality: V
+    band: null
+    mirror_type: constitutive
+    mirror_text: >
+      FL.VIII's idol-ward face is named in full by FL.XIV Vanity-of-Substitutes
+      Law.
+
+  - id: FL.IX
+    type: foundational_law
+    title: "The Generosity-Provision Law"
+    core_text: >
+      Generous giving — of money, time, mercy, attention, anything a person
+      can give — evokes provision toward the giver, in varied forms, at the
+      scale and shape proper to the situation, with characteristic time
+      delay. Withholding evokes the inverse. The law is a domain
+      specialization of the Sowing-and-Reaping Law (FL.I) applied to the
+      substrate of material and relational generosity, and inherits
+      Sowing-and-Reaping's scale-invariance and bidirectional structure.
+    status: core
+    confidence: 90
+    confidence_rationale: >
+      Remaining uncertainty is in the secondary question of how to state the
+      'provision' output term without overstating into prosperity-gospel
+      territory; the structural law itself is uncontested.
+    scripture_refs:
+      - Luke 6:38
+      - Prov. 11:24-25
+      - Prov. 19:17
+      - 2 Cor. 9:6-11
+      - Mal. 3:10
+    traditions_supporting: [Reformed, Evangelical, Charismatic, Mystical]
+    upstream_dependencies: [V1.Ax1, FL.I]
+    downstream_dependents: []
+    pt_period: P0
+    pt_group: GV
+    directionality: B
+    band: null
+    mirror_type: statement
+    mirror_text: >
+      The idol-ward face of FL.IX is mammon-as-throne — the love of money
+      operating as a competing sovereignty (Matt. 6:24; 1 Tim. 6:10).
+
+  - id: FL.X
+    type: foundational_law
+    title: "The Ask-Seek-Knock Law"
+    core_text: >
+      Persistent, faith-filled asking in alignment with God's character
+      produces receiving; asking from wrong motive (James 4:3) does not. The
+      law is the threshold form of the prayer mechanism: the gate that must
+      be crossed before the proportional dynamics of the Prayer Resonance
+      Law (V1.Exp8) come into play. It operates at the vertical scale.
+    status: core
+    confidence: 90
+    confidence_rationale: >
+      As high as any law in this volume. Remaining uncertainty is in the
+      secondary question of how the James 4:3 wrong-motive condition is to
+      be understood operationally.
+    scripture_refs:
+      - Matt. 7:7-8
+      - Luke 11:9-10
+      - John 14:13-14
+      - John 16:24
+      - Jas. 1:5
+      - Jas. 4:2-3
+    traditions_supporting: [Reformed, Evangelical, Charismatic, Mystical]
+    upstream_dependencies: [V1.Ax1, FL.VII]
+    downstream_dependents: [V1.Exp8]
+    pt_period: P1
+    pt_group: GI
+    directionality: V
+    band: null
+    mirror_type: statement
+    mirror_text: >
+      Asking from wrong motive (Jas. 4:3) is the idol-ward face the law
+      itself names.
+
+  - id: FL.XI
+    type: foundational_law
+    title: "The Renewal-of-Mind Transformation Law"
+    core_text: >
+      Sustained renewal of the mind through engagement with God's truth
+      produces transformation of the whole person; sustained conformity to
+      the pattern of the surrounding age produces deformation by the same
+      mechanism pointed at a different source. The mechanism is the
+      cumulative effect of ongoing attention to truth, not the result of
+      episodic insight. The law operates at the vertical scale (the truth
+      and the Spirit being the agents to which the mind is opened) and is
+      the high-confidence individual-scale anchor for the same dynamic the
+      speculative Attention Economy of the Soul describes at cosmic scale.
+    status: core
+    confidence: 90
+    confidence_rationale: >
+      As high as any law in this volume. The Rom. 12:2 statement of both
+      directions in a single sentence and the 2 Cor. 3:18 present-continuous
+      'being transformed' together give the law unusual structural clarity.
+    scripture_refs:
+      - Rom. 12:2
+      - 2 Cor. 3:18
+      - Eph. 4:22-24
+      - Col. 3:9-10
+      - Heb. 8:10
+      - John 8:32
+    traditions_supporting: [Reformed, Evangelical, Charismatic, Mystical]
+    upstream_dependencies: [V1.Ax1, V1.Ax3]
+    downstream_dependents: [FL.XXVI]
+    pt_period: P1
+    pt_group: GIV
+    directionality: V
+    band: null
+    mirror_type: statement
+    mirror_text: >
+      Conformity to the pattern of the age (Rom. 12:2a) is the negative
+      direction.
+
+  - id: FL.XII
+    type: foundational_law
+    title: "The Honor-Authority Flourishing Law"
+    core_text: >
+      Honor of rightly-ordered authority — parental in the originating
+      context, generalized to civil and ecclesial authority by the witness
+      of Paul and Peter — produces flourishing of the honorer, with
+      characteristic time delay; dishonor produces the inverse by the same
+      mechanism. The law has an explicit promise structure (Exod. 20:12;
+      named as such in Eph. 6:2) and operates at multiple scales: parent-
+      child dyad, civic structure, and generational reach via the long-life
+      clause.
+    status: core
+    confidence: 85
+    confidence_rationale: >
+      The structural strength is high: explicit promise, multi-author
+      confirmation, scale generalization. Remaining uncertainty is in the
+      secondary question of how 'rightly-ordered' is to be discerned in
+      practice.
+    scripture_refs:
+      - Exod. 20:12
+      - Deut. 5:16
+      - Eph. 6:1-3
+      - Rom. 13:1-4
+      - 1 Pet. 2:17
+    traditions_supporting: [Reformed, Evangelical, Charismatic, Mystical]
+    upstream_dependencies: [V1.Ax1, V1.Exp7]
+    downstream_dependents: [FL.XVI, FL.XXI, FL.XXVIII, FL.XXXIII]
+    pt_period: P2
+    pt_group: GV
+    directionality: B
+    band: null
+    mirror_type: statement
+    mirror_text: >
+      The idol-ward face is dishonor toward legitimate authority — the
+      canonical scriptural articulation operates through the fifth
+      commandment (Ex. 20:12; Eph. 6:1-3) and through the Pauline
+      submission-to-governing-authorities passage (Rom. 13:1-7).
+
+  - id: FL.XIII
+    type: foundational_law
+    title: "The Pure-Heart Vision Law"
+    core_text: >
+      Purity of heart — single-mindedness, undivided love for God, freedom
+      from cherished sin, ongoing self-purification — is the prior condition
+      for the seeing of God, in both the present-perception and
+      eschatological-vision senses. Impurity blocks the seeing entirely, not
+      partially. The law has a gateway structure parallel to Fear of the
+      Lord (V1.Exp5): the seeing follows the purity, not the other way
+      around.
+    status: core
+    confidence: 90
+    confidence_rationale: >
+      Strong multi-author multi-Testament base. The seeing of God has both
+      a present-perception dimension (Matt. 5:8; Ps. 24) and an
+      eschatological-vision dimension (1 John 3:2-3; Heb. 12:14).
+    scripture_refs:
+      - Matt. 5:8
+      - Heb. 12:14
+      - Ps. 24:3-4
+      - 1 John 3:2-3
+    traditions_supporting: [Reformed, Evangelical, Charismatic, Mystical]
+    upstream_dependencies: [V1.Ax1, FL.VII]
+    downstream_dependents: []
+    pt_period: P1
+    pt_group: GII
+    directionality: V
+    band: null
+    gateway: true
+    mirror_type: constitutive
+    mirror_text: >
+      Pure heart = single-Object orientation toward God; impure heart =
+      divided pursuit (Jas. 4:8 "purify your hearts, you double-minded").
+
+  - id: FL.XIV
+    type: foundational_law
+    title: "The Vanity-of-Substitutes Law"
+    core_text: >
+      Every substitutional attempt to fill the FL.VIII Desire-for-God
+      longing with an Object other than God fails to produce the
+      satisfaction it promises, and the failure is structural to the
+      substitutional attempt — not contingent on which substitute is chosen
+      (Eccl. 2:1-11), not remediable by intensifying the pursuit, and not
+      surprised by a better substitute waiting to be found. The substitute
+      satisfies briefly and the thirst returns (John 4:13); the genuine
+      Object satisfies and deepens (John 4:14). The failure of one
+      substitute naturally recruits the pursuit of the next (Rom. 1:21-25
+      exchange cascade) rather than naturally producing reorientation
+      toward the original Object; reorientation toward God requires
+      revelation, sustained recognition of the cascade's structural nature,
+      or both. The inward signature of substitutional pursuit — satisfaction
+      that promises and does not deliver — is itself the law's diagnostic
+      signal to the participant.
+    status: core
+    confidence: 90
+    confidence_rationale: >
+      Multi-author scriptural support is strong (four biblical authors
+      across both Testaments, multiple genres). Broad acceptance is
+      uncontested across mainstream Christian traditions.
+    scripture_refs:
+      - Eccl. 1:2
+      - Eccl. 2:1-11
+      - Jer. 2:13
+      - Rom. 1:21-25
+      - John 4:13-14
+      - Phil. 3:7-8
+      - Isa. 55:1-2
+    traditions_supporting: [Reformed, Evangelical, Charismatic, Mystical]
+    upstream_dependencies: [V1.Ax1, FL.III, FL.VIII]
+    downstream_dependents: [FL.XVII]
+    pt_period: P1
+    pt_group: GII
+    directionality: V
+    band: null
+    mirror_type: constitutive
+    mirror_text: >
+      FL.XIV is itself the idol-ward face of FL.VIII Desire-for-God.
+
+  - id: FL.XV
+    type: foundational_law
+    title: "The Hardening Law"
+    core_text: >
+      Sustained refusal of God-ward orientation progressively reduces the
+      heart's responsiveness to truth, eventually closing the channel; the
+      closure is incremental, cumulative, and reaches a point past which
+      external intervention is required because the internal capacity to
+      receive has been impaired (Heb. 3:7-15; Prov. 29:1). The dynamic is
+      asymmetric in time — reduction follows from sustained refusal, while
+      restoration requires external intervention or a punctuating event
+      that breaks the trajectory — and operates without conscious
+      recognition by the participant in the middle of it ("the deceitfulness
+      of sin," Heb. 3:13). Scripture names both human-agency (the
+      participant's self-hardening) and divine-agency (the Lord's hardening
+      or giving-up) features of the dynamic. Scale-invariant: operates at
+      the individual, community, and arguably generational scales.
+    status: core
+    confidence: 90
+    confidence_rationale: >
+      Multi-author scriptural support is strong (five biblical authors
+      across both Testaments, multiple genres). Broad acceptance is
+      uncontested across mainstream Christian traditions on the dynamic
+      itself.
+    scripture_refs:
+      - Exod. 7:13
+      - Exod. 8:15
+      - Exod. 8:19
+      - Exod. 8:32
+      - Exod. 9:7
+      - Exod. 9:12
+      - Exod. 9:34-35
+      - Exod. 10:1
+      - Exod. 10:20
+      - Exod. 10:27
+      - Exod. 11:10
+      - Exod. 14:8
+      - Heb. 3:7-15
+      - Rom. 1:21-28
+      - Mark 6:52
+      - Mark 8:17
+      - Eph. 4:18-19
+      - Prov. 29:1
+    traditions_supporting: [Reformed, Evangelical, Charismatic, Mystical]
+    upstream_dependencies: [V1.Ax1, V1.Exp6]
+    downstream_dependents: [FL.XVI, FL.XVII]
+    pt_period: P0
+    pt_group: GI
+    directionality: V
+    band: null
+    mirror_type: statement
+    mirror_text: >
+      The Hardening Law has no Mirror in the orientation-of-pursuit sense;
+      it is itself the idol-ward face of the responsiveness-growth dynamic
+      that V1.Exp6 Obedience Channel and FL.VII Drawing-Near Reciprocity
+      name from the God-ward side. Same mechanism, two directions of
+      pursuit.
+
+  - id: FL.XVI
+    type: foundational_law
+    title: "The Bondage Law"
+    core_text: >
+      Sustained obedience to sin constitutes the obeyer as the slave of sin
+      (Rom. 6:16; John 8:34); the obeyer becomes the slave of whatever the
+      obeyer obeys, with the slavery growing in proportion to the duration
+      and intensity of the obedience. The dynamic operates at the level of
+      the action's intrinsic structure rather than at the level of
+      accumulated consequence: to obey X is to be the slave of X by
+      definition, not after. The mechanism applies wherever the dynamic
+      operates — to sin in the theological sense, to addiction, to ideology,
+      to fear, to any content whose sustained obedience can establish over
+      the obedient (2 Pet. 2:19). The bondage is asymmetric with respect to
+      its inverse: sustained refusal does not by itself establish freedom;
+      freedom from a master to whom one has been enslaved requires
+      deliverance, transferred obedience to another master, or both.
+      Scale-invariant.
+    status: core
+    confidence: 90
+    confidence_rationale: >
+      Multi-author scriptural support is strong (four biblical authors
+      across both Testaments, with the most direct statement at Rom. 6:16
+      carrying explicit categorical-disjunction form).
+    scripture_refs:
+      - Rom. 6:16
+      - Rom. 6:19-22
+      - John 8:34
+      - 2 Pet. 2:19
+      - Prov. 5:22
+      - Heb. 12:1
+      - Titus 3:3
+    traditions_supporting: [Reformed, Evangelical, Charismatic, Mystical]
+    upstream_dependencies: [V1.Ax1, FL.VI, FL.XV]
+    downstream_dependents: []
+    pt_period: P0
+    pt_group: GV
+    directionality: B
+    band: null
+    mirror_type: statement
+    mirror_text: >
+      FL.VI Hear-and-Obey Blessing is the God-ward face of FL.XVI's
+      idol-ward bondage.
+
+  - id: FL.XVII
+    type: foundational_law
+    title: "The Substitution-Cascade Law"
+    core_text: >
+      Household idolatry transmits across generations through the
+      implicit-learning channel of family culture, in such a way that what
+      one generation enthrones becomes the default the next generation
+      absorbs as part of the family's operating reality. The transmission
+      operates asymmetrically with respect to its inverse (FL.XXI Household
+      Formation): the God-ward transmission requires deliberate teaching,
+      sustained modeling, and explicit naming, while the idol-ward
+      transmission operates by implicit-learning default. The cascade
+      compounds across generations under normal conditions and is broken by
+      external intervention — the reformer's tearing-down, the prophet's
+      specific address, the conscious dethroning of the inherited pattern
+      in a particular household — rather than by natural exhaustion.
+      Constitutive bidirectional pair with FL.XXI at P4/GII.
+    status: core
+    confidence: 85
+    confidence_rationale: >
+      Clearly Taught at the operational level; Reasonably Inferred at the
+      substrate level. Multi-author scriptural support is strong (four
+      biblical authors across both Testaments).
+    scripture_refs:
+      - Exod. 20:5-6
+      - Judges 2:10-13
+      - 1 Kings 11:1-8
+      - 1 Kings 12:25-33
+      - Jer. 9:13-14
+      - Jer. 16:11
+      - Ezek. 20:18
+      - 2 Tim. 1:5
+    traditions_supporting: [Reformed, Evangelical, Charismatic, Mystical]
+    upstream_dependencies: [V1.Ax1, FL.I, FL.III, FL.XIV]
+    downstream_dependents: [FL.XXI]
+    pt_period: P4
+    pt_group: GII
+    directionality: H
+    band: null
+    mirror_type: constitutive_bidirectional
+    mirror_text: >
+      FL.XVII names the idol-ward direction at the generational scale;
+      FL.XXI names the God-ward direction. The two laws articulate the two
+      faces of the generational transmission dynamic. Ex. 20:5-6's
+      third-and-fourth-generation iniquity and thousand-generation
+      steadfast-love clauses name both directions in a single passage.
+
+  - id: FL.XVIII
+    type: foundational_law
+    title: "The Bitter-Root Community Law"
+    core_text: >
+      Unresolved offense between community members, held over time without
+      the reconciliation work, calcifies into a root of bitterness that
+      spreads through the relational life of the community and defiles many
+      (Heb. 12:14-15). The metastasis from a private offense to a
+      community-defiling root is the natural trajectory of refused
+      reconciliation; the Matt. 18:15-20 pathway is the prescribed corrective
+      that interrupts the trajectory at each of its escalation points
+      (private address, witnessed address, gathered-body address). The
+      defilement operates by the same amplification mechanism V2.Exp9
+      Community Amplification names in its general form, here specialized
+      for offense and forgiveness. The law is time-sensitive in the manner
+      of Eph. 4:26-27 — early intervention is cheap; late intervention at
+      the community-defiled scale is expensive.
+    status: core
+    confidence: 90
+    confidence_rationale: >
+      Multi-author scriptural support is strong: five biblical authors
+      across both Testaments, with the most direct statement at Heb. 12:14-15
+      carrying the bidirectional construction explicitly.
+    scripture_refs:
+      - Heb. 12:14-15
+      - Matt. 18:15-20
+      - Matt. 18:21-35
+      - Gen. 27
+      - Gen. 33
+      - Eph. 4:26-27
+      - Eph. 4:31-32
+      - Col. 3:12-13
+      - 1 Cor. 5:6-8
+      - Jas. 3:14-16
+    traditions_supporting: [Reformed, Evangelical, Charismatic, Mystical]
+    upstream_dependencies: [V1.Ax1, FL.V]
+    downstream_dependents: [FL.XXIV, FL.XXV]
+    pt_period: P3
+    pt_group: GV
+    directionality: H
+    band: null
+    mirror_type: constitutive_bidirectional
+    mirror_text: >
+      The pursuit of peace and the root of bitterness are named together in
+      Heb. 12:14-15 as constitutive bidirectional dynamic. Pairs with
+      FL.XXIV Confession-in-Community Law and FL.XXV Restoration-of-the-Erring
+      Law at the same cell as the community-relational substrate triplet.
+
+  - id: FL.XIX
+    type: foundational_law
+    title: "The Spirit Anointing Transmission Law"
+    core_text: >
+      The Spirit's anointing for ministry passes across generations through
+      deliberate impartation and proximity-based formation, in such a way
+      that the receiving generation operates with anointing of the same kind
+      as the transmitting generation and arguably with increased magnitude
+      where the operational conditions of impartation are properly observed
+      (Num. 27:18-23; Deut. 34:9; 2 Kings 2:9-15; 2 Tim. 1:6; 2 Tim. 2:2).
+      The transmission requires both the transmitting party's deliberate
+      intent (the laying-on-of-hands as the operational form) and the
+      receiving party's positioned readiness; the absence of either
+      condition produces an outcome that bears the formal appearance of
+      impartation without the operational substance. The transmission's
+      magnitude depends on the receiving party's posture at the moment of
+      impartation (Elisha's double-portion asking) and on the sustained
+      development of the gift in the post-impartation period.
+    status: core
+    confidence: 90
+    confidence_rationale: >
+      Multi-author scriptural support is strong (four biblical authors
+      across both Testaments, with three canonical case-studies operating
+      as distinct demonstrations of the same structural pattern).
+    scripture_refs:
+      - Num. 27:18-23
+      - Deut. 34:9
+      - 2 Kings 2:9-15
+      - 1 Sam. 19:20-24
+      - 2 Tim. 1:5-7
+      - 2 Tim. 2:2
+      - Acts 6:5-6
+      - Acts 13:2-3
+    traditions_supporting: [Reformed, Evangelical, Charismatic, Mystical]
+    upstream_dependencies: [V1.Ax1, V1.Exp7]
+    downstream_dependents: [FL.XX, FL.XXVII]
+    pt_period: P4
+    pt_group: GI
+    directionality: V
+    band: null
+    mirror_type: statement
+    mirror_text: >
+      Idol-ward face is false-authority succession — the deliberate
+      transmission of authority forms without the Spirit's anointing
+      substance. 1 Tim. 4:1 and 2 Tim. 3:13 name the canonical NT
+      articulation of false-anointing succession dynamics.
+
+  - id: FL.XX
+    type: foundational_law
+    title: "The Gathered-Body Discernment Law"
+    core_text: >
+      The Holy Spirit speaks distinctively through a gathered body operating
+      in unity, sustained seeking, and openness to correction, in such a
+      way that the discernment available to the gathered body exceeds what
+      is available to any individual member alone. The gathered-body
+      discernment operates as a distinct mode of the Spirit's address, with
+      its own conditions (unity, sustained seeking, openness to correction),
+      its own characteristic outputs (corporate decision, prophetic clarity,
+      joined commission, binding-and-loosing authority), and its own
+      mechanism (the Spirit's address through the body in its gathered
+      character, with the discernment not reducible to the aggregation of
+      individual discernments). The promise of Christ's presence in the
+      gathered body (Matt. 18:20) names the mechanism.
+    status: core
+    confidence: 90
+    confidence_rationale: >
+      Multi-author scriptural support is strong (four biblical authors
+      across both Testaments, with three distinct canonical case-studies —
+      Antioch, Jerusalem council, Pentecost preparation — operating as
+      distinct demonstrations of the same structural pattern).
+    scripture_refs:
+      - Acts 13:1-3
+      - Acts 15:1-29
+      - Matt. 18:18-20
+      - 1 Cor. 12:4-11
+      - 1 Cor. 14:26-33
+      - 2 Chron. 20:1-17
+      - Acts 1:14
+      - Acts 2:1
+    traditions_supporting: [Reformed, Evangelical, Charismatic, Mystical]
+    upstream_dependencies: [V1.Ax1, V1.Exp7]
+    downstream_dependents: [V2.Exp9, FL.XXXI, FL.XXXIII]
+    pt_period: P3
+    pt_group: GI
+    directionality: V
+    band: null
+    mirror_type: statement
+    mirror_text: >
+      The idol-ward face is gathered-body corporate self-deception — the
+      canonical NT articulation is the seven letters of Rev. 2-3 to the
+      gathered bodies that had drifted from their first love or had received
+      false teaching or had grown lukewarm.
+
+  - id: FL.XXI
+    type: foundational_law
+    title: "The Household Formation Law"
+    core_text: >
+      Faithful covenant-keeping in one generation transmits blessing
+      forward to subsequent generations through the structural transmission
+      mechanisms of family, household formation, and covenant succession
+      (Gen. 12:1-3; Gen. 17:7; Deut. 6:4-9; Deut. 7:9; 2 Tim. 1:5;
+      Heb. 11:8-22). The inheriting generation receives both the operational
+      benefits of the prior generation's faithfulness and the call to
+      participate in the same covenant trajectory. The transmission operates
+      asymmetrically with respect to its inverse (FL.XVII): the God-ward
+      transmission requires deliberate teaching, sustained modeling, and
+      explicit naming. The asymmetric-temporal-reach feature the second
+      commandment names explicitly (Exod. 20:5-6's third-and-fourth-generation
+      iniquity clause versus Deut. 7:9's thousand-generation steadfast-love
+      clause) is the structural consequence of the asymmetric-deliberate-work
+      requirement.
+    status: core
+    confidence: 90
+    confidence_rationale: >
+      Multi-author scriptural support is strong across both Testaments with
+      four biblical authors. Broad acceptance uncontested across mainstream
+      Christian traditions. Observable testability well-documented across
+      pastoral, family-systems, developmental-psychology, and counseling
+      literatures.
+    scripture_refs:
+      - Gen. 12:1-3
+      - Gen. 15:5
+      - Gen. 17:7
+      - Exod. 20:5-6
+      - Deut. 6:4-9
+      - Deut. 7:9
+      - Ps. 78:1-8
+      - Rom. 4:13-25
+      - 2 Tim. 1:5
+      - 2 Tim. 3:14-15
+      - Heb. 11:8-22
+    traditions_supporting: [Reformed, Evangelical, Charismatic, Mystical]
+    upstream_dependencies: [V1.Ax1, FL.III]
+    downstream_dependents: [FL.XXVII, FL.XXVIII]
+    pt_period: P4
+    pt_group: GII
+    directionality: V
+    band: null
+    mirror_type: constitutive_bidirectional
+    mirror_text: >
+      FL.XXI names the God-ward direction at the generational scale;
+      FL.XVII Substitution-Cascade names the idol-ward direction. The two
+      laws articulate the two faces of the generational transmission
+      dynamic.
+
+  - id: FL.XXII
+    type: foundational_law
+    title: "The Endurance-Hope Law"
+    core_text: >
+      Sustained endurance through trial, when the participant's orientation
+      is sustained-God-ward through the trial and the participant remains in
+      the trust-and-receive posture toward the trial as formation material,
+      produces character that is itself the foundation of hope; the
+      trajectory operates as a causal sequence in which each stage is
+      causally prior to the next — suffering produces endurance, endurance
+      produces character, character produces hope — and the hope produced
+      does not put the participant to shame because its ground is the soul's
+      history with God under the trial just survived rather than the soul's
+      own resources.
+    status: core
+    confidence: 90
+    confidence_rationale: >
+      Four-biblical-author support at individual scale (Paul, James, Peter,
+      Hebrews writer) with cross-Testament Old Testament lament-and-renewal
+      tradition. Uncontested broad acceptance across mainstream Christian
+      traditions.
+    scripture_refs:
+      - Rom. 5:3-5
+      - Jas. 1:2-4
+      - 1 Pet. 1:6-7
+      - 2 Cor. 4:16-18
+      - Heb. 12:1-11
+      - Heb. 12:15
+      - Ps. 30:5
+      - Ps. 126:5-6
+      - Isa. 61:1-3
+      - Lam. 3:19-33
+      - Job 2:9
+    traditions_supporting: [Reformed, Evangelical, Charismatic, Mystical]
+    upstream_dependencies: [V1.Ax1, FL.XVIII]
+    downstream_dependents: []
+    pt_period: P1
+    pt_group: GIII
+    directionality: V
+    band: null
+    mirror_type: constitutive_bidirectional
+    mirror_text: >
+      The same input (suffering) produces opposite outputs (formation under
+      God-ward orientation; root of bitterness under idol-ward orientation),
+      with the orientation as the operational pivot. Heb. 12:14-15 names
+      both directions in a single passage. Operates as the individual-scale
+      child of the Suffering-as-Formation Loop at P5/GIII.
+    notes: >
+      Operates as the individual-scale child of the Suffering-as-Formation
+      Loop at P5/GIII (cosmic-scale parent, Reasonably Inferred). The
+      parent-child relationship inverts the catalog's typical confidence-tier
+      pattern (the cosmic-scale parent is Reasonably Inferred while the
+      individual-scale child is Clearly Taught).
+
+  - id: FL.XXIII
+    type: foundational_law
+    title: "The Sabbath Rest Law"
+    core_text: >
+      Structured cessation from production-work in regular rhythm, oriented
+      toward trust in God's provision and the receiving of formation
+      material that productive activity displaces, produces sustainability
+      and flourishing in the worker and the relational unit the worker
+      belongs to; the absence of structured cessation produces compounding
+      diminishment in the same units, with the diminishment operating at
+      multiple scales (individual exhaustion, family fragmentation,
+      community erosion, ecological-agricultural depletion, and the
+      eschatological forfeiture of the sabbath-rest that remains).
+    status: core
+    confidence: 90
+    confidence_rationale: >
+      Five-or-more-biblical-author cross-Testament support with exceptional
+      resonance across Genesis writer, Moses, Mark, Hebrews writer, Isaiah.
+      Uncontested broad acceptance across mainstream Christian traditions on
+      operational claim with tradition-differences on specific operational
+      form under New Covenant.
+    scripture_refs:
+      - Gen. 2:2-3
+      - Exod. 16:22-30
+      - Exod. 20:8-11
+      - Exod. 31:12-17
+      - Deut. 5:12-15
+      - Lev. 25:1-7
+      - Mark 2:27-28
+      - Isa. 58:13-14
+      - Heb. 4:1-11
+      - Col. 2:16-17
+      - Rom. 14:5-6
+    traditions_supporting: [Reformed, Evangelical, Charismatic, Mystical]
+    upstream_dependencies: [V1.Ax1]
+    downstream_dependents: []
+    pt_period: P0
+    pt_group: GVI
+    directionality: V
+    band: 3
+    mirror_type: statement
+    mirror_text: >
+      The Sabbath Rest Law's idol-ward face is the productivity-as-identity
+      dynamic — sustained work without structured cessation operating as
+      identity-construction-through-output, with the productivity functioning
+      as the substitute provision-source and as the substitute meaning-anchor.
+      Recovery requires structured re-engagement of cessation in trust.
+
+  - id: FL.XXIV
+    type: foundational_law
+    title: "The Confession-in-Community Law"
+    core_text: >
+      Spoken confession of sin and brokenness in the presence of trusted
+      community members produces healing of the inward-and-outward kinds
+      that solitary confession does not produce; the presence-of-witnesses
+      functions as the operational mechanism by which the participant's
+      secret interior reality becomes integrated into her external account,
+      and the witnessing party's continuing relational presence at the level
+      of the truth received is the operational completion of the law's
+      formation work.
+    status: core
+    confidence: 90
+    confidence_rationale: >
+      Five-biblical-author cross-Testament support (James, Solomon, John,
+      David, Luke). Uncontested broad acceptance across mainstream Christian
+      traditions on operational claim with to-whom varying across traditions.
+    scripture_refs:
+      - Jas. 5:16
+      - Prov. 28:13
+      - 1 John 1:9
+      - Ps. 32:3-5
+      - Acts 19:18-20
+      - Neh. 9:1-3
+      - Josh. 7
+    traditions_supporting: [Reformed, Evangelical, Charismatic, Mystical]
+    upstream_dependencies: [V1.Ax1, FL.II]
+    downstream_dependents: []
+    pt_period: P3
+    pt_group: GV
+    directionality: H
+    band: null
+    mirror_type: statement
+    mirror_text: >
+      Idol-ward face is the concealment dynamic — the secret held over time
+      operating as substitute interior architecture, with the concealment
+      functioning as substitute integration.
+
+  - id: FL.XXV
+    type: foundational_law
+    title: "The Restoration-of-the-Erring Law"
+    core_text: >
+      Active pursuit of the wandering or erring brother or sister by
+      spiritually mature members of the community, conducted in a spirit of
+      gentleness and with attentiveness to the pursuer's own susceptibility,
+      restores the erring participant to communion and saves the participant
+      from the trajectory the wandering had set; the disposition (gentleness
+      and joy-in-restoration) is constitutive of the law's mechanism, and
+      the watchfulness on the pursuer's own susceptibility is the law's
+      structural recognition that the pursuer is herself within the same
+      operational substrate as the wanderer.
+    status: core
+    confidence: 90
+    confidence_rationale: >
+      Four-biblical-author support (Paul, James, Matthew, Luke) with 2
+      Corinthians articulation of restoration's completion and
+      Nathan-and-David case. Uncontested broad acceptance across mainstream
+      Christian traditions.
+    scripture_refs:
+      - Gal. 6:1
+      - Jas. 5:19-20
+      - Matt. 18:12-14
+      - Luke 15:1-32
+      - 2 Cor. 2:5-11
+      - 1 Pet. 4:8
+      - 2 Sam. 12:1-14
+    traditions_supporting: [Reformed, Evangelical, Charismatic, Mystical]
+    upstream_dependencies: [V1.Ax1, FL.V, FL.XVIII]
+    downstream_dependents: []
+    pt_period: P3
+    pt_group: GV
+    directionality: H
+    band: null
+    mirror_type: statement
+    mirror_text: >
+      Idol-ward face is the passive abandonment of the wanderer — community's
+      withholding of the pursuit, with the wanderer left to her own course.
+
+  - id: FL.XXVI
+    type: foundational_law
+    title: "The Doctrinal Calcification Law"
+    core_text: >
+      Doctrinal traditions transmitted across generations without the
+      disciplines of return-to-scripture and active community testing
+      calcify into operational substitutes for the truth they were originally
+      intended to preserve; the calcified tradition continues to operate
+      within the community as authoritative, but its operational content has
+      drifted from the scriptural witness the tradition was originally
+      derived from, and the community's operational reception of God's
+      address is now structured by the calcified tradition rather than by
+      the scriptural witness itself.
+    status: core
+    confidence: 90
+    confidence_rationale: >
+      Five-or-more-biblical-author cross-Testament support (Jesus/Mark, Paul,
+      Jude, John/Revelation, Isaiah) with supplementary Pastoral Epistles.
+      Uncontested broad acceptance across mainstream Christian traditions.
+    scripture_refs:
+      - Mark 7:8-13
+      - Isa. 29:13
+      - Col. 2:8
+      - 2 Tim. 4:3-4
+      - 2 Cor. 11:3-4
+      - Jude 3
+      - Rev. 2-3
+      - 2 Tim. 1:13-14
+      - 2 Tim. 2:2
+      - Acts 17:11
+    traditions_supporting: [Reformed, Evangelical, Charismatic, Mystical]
+    upstream_dependencies: [V1.Ax1, FL.XI]
+    downstream_dependents: []
+    pt_period: P4
+    pt_group: GIV
+    directionality: V
+    band: null
+    mirror_type: statement
+    mirror_text: >
+      The Doctrinal Calcification Law's God-ward face operates through
+      deliberate scriptural-and-pastoral re-engagement of the tradition's
+      substance, with the tradition's form retained intact as the operational
+      vehicle within which the recovered substance operates.
+
+  - id: FL.XXVII
+    type: foundational_law
+    title: "The Thick Practice Transmission Law"
+    core_text: >
+      Embedded practices conducted in regular rhythm across generations —
+      sabbath observance, passover and the seder, baptism and its
+      rememberings, the eucharist and the Lord's table, sustained corporate
+      prayer, sustained corporate Scripture reading, the catechetical cycles,
+      the seasonal liturgical observances — operate as transmission vehicles
+      for the substance of the faith that deliberate teaching alone cannot
+      convey; the practices encode the substance in embodied form, the
+      substance is received across generations through the participant's
+      repeated participation in the practice's structural form across the
+      formative years, and the practice's regular rhythm is constitutive of
+      the mechanism.
+    status: core
+    confidence: 90
+    confidence_rationale: >
+      Five-or-more-biblical-author cross-Testament support (Moses, Joshua
+      writer, Paul, Luke, Psalmist) with broader OT cultic-feast cycle and NT
+      instituted practices establishing operational scope.
+    scripture_refs:
+      - Deut. 6:4-9
+      - Exod. 12
+      - Josh. 4
+      - 1 Cor. 11:23-26
+      - Acts 2:42-47
+      - 2 Tim. 3:14-17
+      - Ps. 78
+      - Matt. 28:19-20
+      - Lev. 23
+      - Lev. 25
+      - 1 Tim. 4:13
+      - 1 Cor. 11:2
+      - 2 Thess. 2:15
+      - 2 Tim. 3:5
+    traditions_supporting: [Reformed, Evangelical, Charismatic, Mystical]
+    upstream_dependencies: [V1.Ax1, FL.XXI]
+    downstream_dependents: []
+    pt_period: P4
+    pt_group: GV
+    directionality: V
+    band: null
+    mirror_type: statement
+    mirror_text: >
+      The Thick Practice Transmission Law's idol-ward face is the
+      form-without-power dynamic — the continued performance of the practice
+      with the substance hollowed out. 2 Tim. 3:5 names the canonical
+      scriptural articulation. Recovery requires the recovery of the
+      substance the practice encodes.
+
+  - id: FL.XXVIII
+    type: foundational_law
+    title: "The Generational Nested Structure Law"
+    core_text: >
+      The participant is formed within a nested architecture — the individual
+      within the household, the household within the community, the
+      community within the generation, the generation within the tradition,
+      the tradition within the eschatological people of God — whose
+      integrity is an operational condition for the transmission mechanisms
+      the other Period 4 laws name; the nesting's intactness at each scale
+      produces the architectural enabling-condition the mechanisms require,
+      and compromised nesting at any scale propagates structural compromise
+      across the scales the propagation reaches.
+    status: core
+    confidence: 90
+    confidence_rationale: >
+      Five-biblical-author cross-Testament support (Moses, Psalmist, Paul,
+      Hebrews writer, Genesis writer) with Petrine supplementary witness.
+      Uncontested broad acceptance across mainstream Christian traditions.
+    scripture_refs:
+      - Deut. 4:9-10
+      - Deut. 6:1-9
+      - Ps. 78:5-8
+      - Ps. 145:4
+      - Eph. 3:14-15
+      - Heb. 11-12
+      - Acts 2:39
+      - Gen. 18:19
+      - Hos. 4:6
+      - Isa. 1:1-9
+      - Jer. 5
+      - Ezek. 22
+    traditions_supporting: [Reformed, Evangelical, Charismatic, Mystical]
+    upstream_dependencies: [V1.Ax1, V1.Exp2, FL.XXI]
+    downstream_dependents: []
+    pt_period: P4
+    pt_group: GVI
+    directionality: V
+    band: 1
+    mirror_type: statement
+    mirror_text: >
+      The Generational Nested Structure Law's idol-ward face is the
+      architectural fragmentation that results when the nesting is
+      compromised at any scale — the dissolved household, the fragmented
+      community, the cohort severed from its tradition, the tradition
+      severed from the eschatological people of God.
+
+  - id: FL.XXIX
+    type: foundational_law
+    title: "The Corporate Emotional Integration Law"
+    core_text: >
+      When one member of the corporate body suffers, all suffer together
+      with her through the corporate-soul's integration of the suffering as
+      shared experience; when one member is honored, all rejoice together
+      with her through the same corporate-soul integration of the honor as
+      shared experience; the integration operates through the gathered
+      community's collective engagement with the member's experience as the
+      community's own, and the operational output is the shared experience's
+      holding in the corporate-soul as part of the community's accumulated
+      corporate-soul substance.
+    status: core
+    confidence: 90
+    confidence_rationale: >
+      Five-or-more-biblical-author cross-Testament support (Paul, Luke,
+      Chronicler, Psalmist, Hebrews writer). Uncontested broad acceptance
+      across mainstream Christian traditions.
+    scripture_refs:
+      - 1 Cor. 12:26
+      - 1 Cor. 12:12-27
+      - Rom. 12:15
+      - Acts 4:23-31
+      - Neh. 8:9-12
+      - Neh. 9:1-3
+      - Heb. 10:24-25
+      - John 11:33-36
+    traditions_supporting: [Reformed, Evangelical, Charismatic, Mystical]
+    upstream_dependencies: [V1.Ax1, FL.XX]
+    downstream_dependents: [FL.XXX]
+    pt_period: P3
+    pt_group: GIII
+    directionality: B
+    band: null
+    mirror_type: constitutive_bidirectional
+    mirror_text: >
+      Structural failure mode is the gathered community's failure to engage
+      individual members' experience as its own — the suffering member who
+      suffers alone while the community continues untroubled, the honored
+      member celebrated only individually while the community withholds its
+      corporate rejoicing.
+
+  - id: FL.XXX
+    type: foundational_law
+    title: "The Communal Soul-Care for the Wounded Law"
+    core_text: >
+      The gathered community holds the integration that the soul-wounded
+      member cannot accomplish herself, sustained over the duration the
+      wounding requires until the member's own integrative capacity is
+      restored; the corporate soul operates as the holding-substrate within
+      which the wounded member's integration is held, with the structured
+      forms of sustaining (active provision and silent presence in their
+      appropriate mix) as the operational form of the holding, and the
+      comfort the community has received from God as the substance the
+      holding extends.
+    status: core
+    confidence: 90
+    confidence_rationale: >
+      Four-or-more-biblical-author cross-Testament support (Paul, James,
+      Luke, Mark, Job writer) with pastoral-epistles care-for-widows-and-
+      orphans corpus and gospel narrative cases establishing operational
+      scope.
+    scripture_refs:
+      - Acts 9:9-25
+      - 2 Cor. 1:3-7
+      - Jas. 5:13-16
+      - Gal. 6:2
+      - Mark 2:1-12
+      - Job 2:11-13
+      - Acts 28:1-10
+      - 1 Tim. 5:3-16
+      - Jas. 1:27
+    traditions_supporting: [Reformed, Evangelical, Charismatic, Mystical]
+    upstream_dependencies: [V1.Ax1, FL.XXIX]
+    downstream_dependents: []
+    pt_period: P3
+    pt_group: GIII
+    directionality: H
+    band: null
+    mirror_type: statement
+    mirror_text: >
+      Idol-ward face is the abandonment of the wounded — community's
+      failure to operate structured sustaining work, with wounded member
+      left to attempt integration during the period when her own integrative
+      capacity is structurally unavailable.
+
+  - id: FL.XXXI
+    type: foundational_law
+    title: "The Corporate Scriptural Reception Law"
+    core_text: >
+      A gathered community's collective reception of scriptural address —
+      the gathered hearing, the corporate response, the collective
+      integration that follows the gathered hearing — produces an operational
+      reception of the text that solitary reading does not produce; the
+      community-as-listener operates differently from the individual-as-
+      listener, with the substance received expanding beyond what any
+      individual member receives alone, and the corporate-mind's
+      integration of the address operating as the community's unified
+      cognitive-volitional structure for the subsequent operations the
+      integrated substance shapes.
+    status: core
+    confidence: 90
+    confidence_rationale: >
+      Four-or-more-biblical-author cross-Testament support with gospel
+      grounding in Jesus's own participation. Uncontested broad acceptance
+      across mainstream Christian traditions.
+    scripture_refs:
+      - Neh. 8:1-12
+      - Acts 2:42
+      - 1 Tim. 4:13
+      - Col. 3:16
+      - Rev. 1:3
+      - Deut. 31:9-13
+      - Luke 4:16-21
+      - Acts 13:14-15
+      - Acts 15:21
+      - 2 Chron. 34:14-33
+      - 2 Chron. 17:7-9
+      - 1 Cor. 1:10
+      - 1 Cor. 2:16
+      - Phil. 2:5
+      - Rom. 15:5-6
+      - 1 Cor. 14:29
+    traditions_supporting: [Reformed, Evangelical, Charismatic, Mystical]
+    upstream_dependencies: [V1.Ax1, FL.XX]
+    downstream_dependents: []
+    pt_period: P3
+    pt_group: GIV
+    directionality: V
+    band: null
+    mirror_type: statement
+    mirror_text: >
+      Idol-ward face is the attenuated reception that operates when the
+      gathered hearing's structural conditions are not in place — the
+      gathered reading without corporate-mind integration, the
+      form-without-power dynamic at the corporate-mind scale.
+
+  - id: FL.XXXII
+    type: foundational_law
+    title: "The Communal Worship Heart-Alignment Law"
+    core_text: >
+      A gathered community's collective worship operates as the structural
+      form of the corporate-heart's God-ward alignment; the corporate-heart
+      oriented toward God enables the true worship of the gathered community,
+      and the gathered community's worship aligns the corporate-heart toward
+      God, with the two operations mutually constituting each other in the
+      constitutive-bidirectional dynamic that parallels FL.III Heart-Throne's
+      individual-scale operation at the community-scale corporate-heart.
+    status: core
+    confidence: 90
+    confidence_rationale: >
+      Five-or-more-biblical-author cross-Testament support with supplementary
+      OT witness across Chronicles' temple-and-worship cases.
+    scripture_refs:
+      - Ps. 22:22-25
+      - Ps. 100
+      - Heb. 12:22-24
+      - Heb. 10:24-25
+      - Acts 2:46-47
+      - Rev. 4-5
+      - Rom. 15:5-6
+      - Eph. 5:18-21
+      - Col. 3:16
+      - Phil. 2:1-11
+      - 2 Chron. 5
+      - 2 Chron. 20
+      - 2 Chron. 30
+      - Mark 7:6-7
+      - Isa. 29:13
+    traditions_supporting: [Reformed, Evangelical, Charismatic, Mystical]
+    upstream_dependencies: [V1.Ax1, FL.III, FL.XXXVII]
+    downstream_dependents: []
+    pt_period: P3
+    pt_group: GII
+    directionality: B
+    band: null
+    mirror_type: constitutive_bidirectional
+    mirror_text: >
+      The two faces are mutually constituting rather than scripturally-paired-
+      positive-and-negative. Structural failure mode: the gathered worship
+      conducted with the corporate-heart aligned elsewhere (toward
+      identity-marker function, social-cohesion utility, organizational
+      legitimation, emotional-experience aim). Mark 7:6-7 / Isa. 29:13's
+      "this people honors me with their lips, but their heart is far from
+      me; in vain do they worship me" is the canonical articulation.
+
+  - id: FL.XXXIII
+    type: foundational_law
+    title: "The Community Polity Structure / Ecclesial Architecture Law"
+    core_text: >
+      Some polity-structure — the leader-follower-and-peer arrangements, the
+      offices and their qualifications, the decision-making patterns, the
+      institutional-continuity arrangements that hold the community across
+      time — operates as the architectural framework within which the
+      gathered community's other operations are conducted; the framework is
+      Christ-given (the offices established by Christ for the body's
+      building-up), operates for operational purpose (the equipping of the
+      saints for ministry; the body's maturation), and operates within
+      eschatological horizon (the church's continued formation toward the
+      measure of the stature of the fullness of Christ); the specific form
+      the structure takes — episcopal, presbyterian, congregational,
+      charismatic-led, gathered-church, or some hybrid arrangement — is the
+      territory of tradition-by-tradition theological work and not
+      catalog-arbitrated articulation.
+    status: core
+    confidence: 90
+    confidence_rationale: >
+      Two-or-more-biblical-author cross-Testament support exceeding catalog
+      minimum (Luke across Acts material; Paul across Pauline corpus;
+      Hebrews writer; Peter; Mosaic and post-Mosaic supplementary). Broad
+      acceptance at principle level across mainstream Christian traditions.
+    scripture_refs:
+      - Acts 6:1-7
+      - Acts 14:23
+      - Acts 15:1-35
+      - Acts 20:17
+      - Acts 20:28
+      - 1 Tim. 3:1-13
+      - Titus 1:5-9
+      - Eph. 4:11-13
+      - 1 Cor. 12:27-31
+      - 1 Tim. 5:17
+      - 1 Cor. 9:1-14
+      - 2 Cor. 13:10
+      - Heb. 13:7
+      - Heb. 13:17
+      - Heb. 13:24
+      - 1 Pet. 5:1-4
+      - Exod. 18:13-27
+      - Num. 11:16-17
+      - Num. 11:24-30
+      - Deut. 1:9-18
+      - Deut. 16:18-20
+      - 2 Chron. 19:4-11
+      - 3 John 9-10
+    traditions_supporting: [Reformed, Evangelical, Charismatic, Mystical]
+    upstream_dependencies: [V1.Ax1, V1.Exp7, FL.XX]
+    downstream_dependents: []
+    pt_period: P3
+    pt_group: GVI
+    directionality: V
+    band: 3
+    mirror_type: statement
+    mirror_text: >
+      Two distinct failure modes that the Pauline material addresses. First:
+      polity-structure becoming the substance rather than the framework.
+      Second: polity-structure's absence or attenuation. The Diotrephes
+      case at 3 John 9-10 is the canonical NT articulation. Recovery
+      operations are tradition-specific.
+
+  - id: FL.XXXIV
+    type: foundational_law
+    title: "The Marriage Covenant Architecture Law"
+    core_text: >
+      The marriage covenant — instituted at creation, ratified by Jesus's
+      teaching, articulated by Paul as reflecting the Christ-and-Church
+      relationship — operates as the architectural framework conditioning
+      the operations within the marital dyad; the framework's scripturally-
+      specified operational pathway is the leave-and-cleave-and-one-flesh
+      pattern (Gen. 2:24 ratified by Matt. 19:5 and Eph. 5:31), with the
+      operational features of covenant-monogamy between man and woman,
+      exclusivity at the conjugal level, structural durability through
+      divine joining-together, openness to procreation and the household
+      formation operations, and eschatological reflective dimension
+      grounding the dyadic-architectural arrangement in the
+      Christ-and-Church cosmic-eschatological reality.
+    status: core
+    confidence: 90
+    confidence_rationale: >
+      Seven-or-more-biblical-author cross-Testament support (Genesis writer;
+      Malachi; Matthew and Mark; Paul across multiple letters; Hebrews
+      writer; Peter; wisdom writers; Song of Songs poet; Hosea writer; John
+      in Revelation) with operational depth across creation, prophetic,
+      gospel, apostolic, wisdom, narrative, and apocalyptic registers.
+    scripture_refs:
+      - Gen. 2:18-25
+      - Gen. 1:27-28
+      - Mal. 2:13-16
+      - Matt. 19:3-9
+      - Mark 10:2-12
+      - Eph. 5:22-33
+      - Heb. 13:4
+      - 1 Pet. 3:1-7
+      - 1 Cor. 7
+      - Prov. 5:15-19
+      - Prov. 18:22
+      - Prov. 31:10-31
+      - Song of Songs
+      - Hos. 1-3
+      - Rev. 19:6-9
+      - Rev. 21:1-11
+      - Gen. 2:24
+      - Matt. 19:5
+      - Matt. 19:6
+      - Matt. 19:8
+      - Eph. 5:31
+      - Eph. 5:32
+    traditions_supporting: [Reformed, Evangelical, Charismatic, Mystical]
+    upstream_dependencies: [V1.Ax1]
+    downstream_dependents: [FL.XXI]
+    pt_period: P2
+    pt_group: GVI
+    directionality: V
+    band: 2
+    mirror_type: statement
+    mirror_text: >
+      Multiple distinct failure modes addressed by the scriptural witness:
+      faithlessness to the covenant partner (Mal. 2:13-16); hardness-of-heart
+      producing divorce dynamic (Matt. 19:8); defilement of marriage bed;
+      marriage-as-idol distortion; institutional-redefinition failure mode.
+      Recovery requires covenant's restoration in scripturally-articulated
+      form at each failure-mode level.
+
+  - id: FL.XXXV
+    type: foundational_law
+    title: "The Trust-Substrate Law"
+    core_text: >
+      The heart's experienced trust in God's reliable character and faithful
+      presence operates as the substrate condition under which the
+      operations of obedience, perseverance, intercession, sacrifice, and
+      difficulty-bearing become structurally available in their God-ward
+      form; absent the trust-substrate, the same scriptural address is
+      received but the operations substitute either performance-as-obedience
+      (the anxious-approach pattern) or self-protection-as-prudence (the
+      avoidant pattern), with the substitution operationally observable in
+      the action's fruit. The substrate operates scale-invariantly across
+      individual, dyadic, community, generational, and cosmic-eschatological
+      scales by the same mechanism, with the substrate's formation occurring
+      through sustained covenant practice oriented toward the heart's
+      experienced participation in God's disclosed character.
+    status: core
+    confidence: 90
+    confidence_rationale: >
+      Eight-or-more-biblical-author cross-Testament support (Solomon;
+      Isaiah; the Psalmists; Jeremiah; Habakkuk; the Gospel writers; Paul;
+      the Hebrews writer; Peter; John) with operational depth across wisdom,
+      prophetic, narrative, gospel, apostolic, and Petrine-Johannine
+      registers.
+    scripture_refs:
+      - Prov. 3:5-6
+      - Isa. 30:15
+      - Isa. 26:3-4
+      - Ps. 9:10
+      - Ps. 37:3-5
+      - Ps. 56:3-4
+      - Ps. 91:1-2
+      - Jer. 17:5-8
+      - Hab. 2:4
+      - Mark 9:23-24
+      - Matt. 6:25-34
+      - Luke 12:22-32
+      - John 14:1
+      - Heb. 11:6
+      - Rom. 4:20-21
+      - Phil. 4:6-7
+      - 2 Tim. 1:7
+      - 1 Pet. 5:6-7
+      - 1 John 4:18
+    traditions_supporting: [Reformed, Evangelical, Charismatic, Mystical]
+    upstream_dependencies: [V1.Ax1, FL.VII]
+    downstream_dependents: [FL.VI, FL.XXXVII]
+    pt_period: P0
+    pt_group: GII
+    directionality: V
+    band: 1
+    mirror_type: statement
+    mirror_text: >
+      The Trust-Substrate Law's idol-ward face operates wherever the
+      heart's experienced participation is directed toward a competing
+      source of security and reliable presence — the self's competence;
+      another person; an institution; a material accumulation; a
+      culturally-prestigious affiliation. Jer. 17:5-6 names the canonical
+      scriptural articulation. Recovery requires substrate restoration
+      through sustained engagement with God's character and faithful presence.
+
+  - id: FL.XXXVI
+    type: foundational_law
+    title: "The Eschatological Glory Law"
+    core_text: >
+      The eschatological completion — God's glory fully revealed, the people
+      of God seeing Christ as He is, the new heavens and new earth
+      established, the marriage supper of the Lamb celebrated, the dwelling
+      of God with men consummated — operates as the forward direction of
+      pursuit toward which the heart of the people of God is drawn through
+      the present life; the heart's sustained anticipation of the
+      not-yet-completed glory produces operational consequences in the
+      present life (sustained hope through trial; sacrificial choices in
+      service of what is coming; purifying-of-self in anticipation of seeing
+      Him as He is; orientation toward "things above" rather than "things
+      on the earth"); the absence of eschatological anticipation produces
+      present-life over-investment in what is passing away.
+    status: core
+    confidence: 90
+    confidence_rationale: >
+      Four-or-more-New-Testament-author support (Paul across seven letters;
+      the Hebrews writer; John in 1 John and Revelation; Peter in 1 and 2
+      Peter) with substantial Old Testament background in Isaiah and the
+      Psalter.
+    scripture_refs:
+      - Rom. 8:18-25
+      - 2 Cor. 4:16-18
+      - 2 Cor. 5:1-10
+      - Phil. 3:13-14
+      - Phil. 3:20-21
+      - Col. 3:1-4
+      - 1 Thess. 4:13-18
+      - 2 Tim. 4:7-8
+      - Heb. 11:13-16
+      - Heb. 12:1-2
+      - Heb. 13:14
+      - 1 John 3:2-3
+      - Rev. 21-22
+      - Rev. 19:6-9
+      - 1 Pet. 1:3-9
+      - 1 Pet. 1:13
+      - 2 Pet. 3:11-13
+      - Isa. 25:6-9
+      - Isa. 65:17-25
+      - Ps. 17:15
+      - Ps. 73:24-26
+    traditions_supporting: [Reformed, Evangelical, Charismatic, Mystical]
+    upstream_dependencies: [V1.Ax1, V1.OE]
+    downstream_dependents: []
+    pt_period: P5
+    pt_group: GII
+    directionality: V
+    band: 1
+    mirror_type: statement
+    mirror_text: >
+      Idol-ward face is the absence of eschatological anticipation — lost
+      hope under trial, refusal of sacrifice for what is coming, abandoned
+      self-purification, over-investment in the seen-and-temporal.
+    notes: >
+      Admitted as a new Foundational Law from the Vol 3 Glory Attractor
+      forward-reference. Placement at P5/GII (rather than the original
+      forward-reference placement at P5/GVI) under the heart-orientation
+      criterion — the law operates at the heart-orientation dimension rather
+      than at the structural-frame dimension.
+
+  - id: FL.XXXVII
+    type: foundational_law
+    title: "The Worship Alignment Law"
+    core_text: >
+      Sustained worship of a worshiped Object recalibrates the worshiper's
+      perception of reality, affection, and conduct toward the worshiped
+      Object's nature, with the recalibration occurring progressively
+      through the worship's sustained operation over time and through
+      embodied participation rather than through cognitive assent alone; the
+      directional correctness of the recalibration depends on whether the
+      worshiped Object is the One Who Is — in which case the recalibration
+      produces progressive conformity to Christ in perception, affection,
+      and conduct — or any of the substitute Objects the heart may worship
+      instead — in which case the recalibration produces progressive
+      conformity to the substitute's structural emptiness. Scale-invariant.
+    status: core
+    confidence: 90
+    confidence_rationale: >
+      Six-or-more-biblical-author cross-Testament support (the Psalmist
+      across two parallel passages; Paul in Romans and 2 Corinthians;
+      Hosea; the Kings narrator; Isaiah; Jeremiah).
+    scripture_refs:
+      - Ps. 115:4-8
+      - Ps. 135:15-18
+      - Rom. 1:18-25
+      - 2 Cor. 3:18
+      - Hos. 9:10
+      - 2 Kings 17:15
+      - Isa. 44:9-20
+      - Jer. 2:5
+      - Rom. 12:1-2
+      - Gal. 5:22-23
+      - Gal. 5:19-21
+      - Isa. 44:20
+      - Rom. 1:24-26
+    traditions_supporting: [Reformed, Evangelical, Charismatic, Mystical]
+    upstream_dependencies: [V1.Ax1, FL.III, FL.XXXV]
+    downstream_dependents: [FL.XXXII]
+    pt_period: P0
+    pt_group: GII
+    directionality: V
+    band: null
+    mirror_type: statement
+    mirror_text: >
+      The Worship Alignment Law's idol-ward face operates wherever the
+      heart's sustained worship is directed toward a substitute Object —
+      the self (self-worship as the foundational idol-ward worship form);
+      another human person (idolatry of relationship); material accumulation
+      (mammon-worship at Matt. 6:24); institutional or cultural participations.
+      Rom. 1:21-25 names the canonical articulation.
+    notes: >
+      Promoted from Speculative ◆ to Foundational and relocated from P5/GII
+      to P0/GII under the scale-invariance criterion and the Foundational-tier
+      inclusion bar. Coexists with FL.XXXV at P0/GII as the catalog's first
+      articulated two-Foundational-Laws-at-one-cell pattern.
+
+  - id: FL.XXXVIII
+    type: foundational_law
+    title: "The Soul-Restoration Law"
+    core_text: >
+      The soul — under the pressures of life and the operations of the
+      world that operate against soul-integration — is restored to and
+      maintained in its integrated state through God's sustained restorative
+      operation on the soul, with the restoration operating through multiple
+      operational forms God names (the Shepherd's restoring; Christ's giving
+      of rest; the anchor of hope behind the curtain; the Shepherd-and-
+      Overseer's return-of-the-straying; the God of peace's sanctifying; the
+      steadfast-love-and-mercies that are new every morning; the law of the
+      LORD's reviving; the renewing of strength for those who wait; the
+      inner-self-being-renewed day by day; the peace of Christ ruling; the
+      priestly blessing's giving of peace) and through multiple operational
+      pathways the soul engages (sustained scripture-engagement; sustained
+      prayer; sustained worship; sustained community; sustained rest;
+      suffering received under God's hand). Scale-invariant.
+    status: core
+    confidence: 90
+    confidence_rationale: >
+      Nine-or-more-biblical-author cross-Testament support (the Psalmist
+      across multiple Psalms; Matthew presenting Jesus's articulation; the
+      Hebrews writer; Peter; John in 3 John and John 14; Paul across
+      multiple letters; Jeremiah; Isaiah; Mosaic in Numbers; Lamentations
+      writer) with operational depth across wisdom-psalmody, gospel,
+      apostolic, Petrine, Johannine, prophetic, priestly, and Hebrews-pastoral
+      registers.
+    scripture_refs:
+      - Ps. 23:1-3
+      - Ps. 19:7
+      - Matt. 11:28-29
+      - Heb. 6:18-19
+      - Heb. 4:9-11
+      - Num. 6:24-26
+      - Isa. 26:3
+      - John 14:27
+      - Phil. 4:7
+      - Ps. 42:5
+      - Ps. 42:11
+      - Ps. 43:5
+      - Lam. 3:19-26
+      - Lam. 3:21-24
+      - 1 Thess. 5:23
+      - 3 John 1:2
+      - 1 Pet. 2:25
+      - Rom. 15:13
+      - Col. 3:15
+      - 2 Cor. 4:16
+      - Jer. 6:16
+      - Isa. 40:31
+      - Ps. 62:1-2
+      - Ps. 62:5-8
+      - Ps. 131:2
+      - Rom. 5:3-5
+      - 1 Pet. 5:7
+      - 1 Pet. 1:13
+      - 2 Cor. 4:16-18
+      - Jer. 2:13
+    traditions_supporting: [Reformed, Evangelical, Charismatic, Mystical]
+    upstream_dependencies: [V1.Ax1, V1.Exp2, FL.XXXV]
+    downstream_dependents: []
+    pt_period: P0
+    pt_group: GIII
+    directionality: V
+    band: 1
+    mirror_type: statement
+    mirror_text: >
+      The Soul-Restoration Law's idol-ward face operates wherever the
+      soul's restoration is sought through substitute mechanisms that
+      displace God's restorative work — substance-induced numbness;
+      compulsive activity that crowds out the soul's perception of its
+      disordered state; identity-construction operating as substitute
+      soul-coherence; therapeutic frames that exclude the spiritual
+      dimension. Jer. 2:13's canonical articulation ("they have forsaken me,
+      the fountain of living waters, and hewed out cisterns for themselves,
+      broken cisterns that can hold no water") names the substitution
+      dynamic at the soul-restoration level.
+
+# ===========================================================================
+# End of Volume 1 claim registry
+# Total: 53 claims (4 axioms + 1 OE + 8 Exp + 1 Sup + 1 Mn + 38 FL)
+# ===========================================================================

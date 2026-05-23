@@ -23,10 +23,24 @@
 
 project: IJH
 volume: 2
-schema_version: 0.1
+schema_version: 0.2
 founder: John G. Tittle
 last_council_review: null
 source_document: IJH_Vol2_v5_4_1.docx
+
+# Schema change log:
+#   v0.2 (2026-05-23) — Aligned with vol1-claims.yml v0.2 schema. Promoted
+#         from source-documents/v5_5_7/ to repo root. Periodic Table cell
+#         placements for V2.Exp entries are now articulated in the Vol 5 PT
+#         chapter (V2.Exp1 relocated from P3/GV to P1/GII; V2.Exp2 at
+#         P2/GIII; V2.Exp3 at P2/GIV; V2.Exp4 at P2/GV; V2.Exp5 at P2/GVI;
+#         V2.Exp6 at P2/GIII; V2.Exp7 at P2/GII; V2.Exp8 at P3/GIII;
+#         V2.Exp9 at P3/GII; V2.Exp10 at P3/GVI anomalous). Adding the new
+#         pt_period/pt_group/directionality/mirror_* fields to individual
+#         entries is deferred to a subsequent Vol 2 pass; the cross-reference
+#         to the PT chapter is sufficient at the present revision since the
+#         PT chapter is the authoritative source for the placements.
+#   v0.1 (initial) — Original encoding sourced from IJH_Vol2_v5_4_1.docx.
 
 claims:
 

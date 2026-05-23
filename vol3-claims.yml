@@ -37,10 +37,40 @@
 
 project: IJH
 volume: 3
-schema_version: 0.1
+schema_version: 0.2
 founder: John G. Tittle
 last_council_review: null
 source_document: IJH_Vol3_v5_4_1.docx
+
+# Schema change log:
+#   v0.2 (2026-05-23) — Aligned with vol1-claims.yml v0.2 schema. Promoted
+#         from source-documents/v5_5_7/ to repo root. Vol 3 forward-references
+#         were resolved at the matured-catalog stage (see Vol 6 Appendix:
+#         Catalog History and the Vol 5 PT chapter's Forward-References
+#         Review subsection). Resolution outcomes affecting Vol 3 claims:
+#           - V3.Exp2 (TFT Structural Law) — ABSORBED into V1.Open Miracle
+#             Frame at P0/GI (the architectural-frame relationship). The
+#             field-theoretic vocabulary remains operative within this Vol 3
+#             treatment; the pastoral articulation lives upstream.
+#           - V3.Exp3 (Spiritual Force Equation) — ABSORBED into the Period 0
+#             row's combined proportionality articulation (FL.I, FL.VI, FL.IX,
+#             FL.XV, FL.XVI, FL.XXXV).
+#           - V3.Exp4 (Spiritual Distance Metric) — ABSORBED into the
+#             cross-Group nearness-or-distance articulation (FL.VII, FL.XV,
+#             FL.XIII, FL.XXXV).
+#           - V3.Exp8 (Miracle Threshold Events) — ABSORBED into the catalog's
+#             existing Gateway-designated entries (V1.Exp5, V2.Exp7, FL.XIII,
+#             FL.XV).
+#           - V3.Exp9 (Glory Attractor) — ADMITTED as FL.XXXVI Eschatological
+#             Glory Law at P5/GII (relocated under the heart-orientation
+#             criterion). The pastoral Foundational form is in vol1-claims.yml.
+#         The "Quantification Program" forward-reference was REMOVED as
+#         methodological rather than operational; the methodological
+#         commitment is held within the Vol 3 introduction.
+#         The Vol 3 claims listed below remain operative as Vol 3's
+#         field-theoretic treatment of the operational territory the catalog
+#         now holds in pastoral form.
+#   v0.1 (initial) — Original encoding sourced from IJH_Vol3_v5_4_1.docx.
 
 volume_notes: >
   Certainty ratings in this volume run lower than Vols 1 and 2. That is not
