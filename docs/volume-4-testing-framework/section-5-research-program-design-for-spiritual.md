@@ -78,14 +78,14 @@ Each site runs two PROAPT research groups simultaneously: one led by a Stage 3 f
 
 Each site also identifies a comparison cohort: church members who are not participating in a PROAPT research group but who agree to complete the PSFA and STI-A at baseline and at Month 12. The comparison cohort is not randomly assigned — it is a quasi-experimental control, drawn from the same church population. Participants in the comparison cohort may be attending other small groups, Sunday school classes, or no formal formation program. Their twelve-month data provides the baseline rate of stage progression in the church population without the PROAPT intervention, which is the denominator against which the PROAPT groups' progression is measured for RQ1.
 
-| Site Element | Count per Site | Total (5 sites) | Primary Purpose |
-| --- | --- | --- | --- |
-| PROAPT Research Groups | 2 | 10 groups | Primary intervention condition |
-| Participants per group | 6 (avg) | 60 active | Individual + group protocols |
-| Facilitators | 2 per site | 10 total | Stage 3 and Stage 4 pairings |
-| Comparison cohort | 10–15 | 50–75 total | Quasi-experimental control for RQ1 |
-| External Witnesses | 1 per participant | 60 + cohort | Independent behavioral observation |
-| Research Coordinators | 1 per site | 5 total | Data collection and facilitator support |
+| Site Element | Count per Site | Total at 3 sites | Total at 5 sites | Primary Purpose |
+| --- | --- | --- | --- | --- |
+| PROAPT Research Groups | 2 | 6 groups | 10 groups | Primary intervention condition |
+| Participants per group | 6 (avg) | 36 active | 60 active | Individual + group protocols |
+| Facilitators | 2 per site | 6 total | 10 total | Stage 3 and Stage 4 pairings |
+| Comparison cohort | 10–15 | 30–45 total | 50–75 total | Quasi-experimental control for RQ1 |
+| External Witnesses | 1 per participant | 36 + cohort | 60 + cohort | Independent behavioral observation |
+| Research Coordinators | 1 per site | 3 total | 5 total | Data collection and facilitator support |
 
 **Quantitative Analysis Plan**
 

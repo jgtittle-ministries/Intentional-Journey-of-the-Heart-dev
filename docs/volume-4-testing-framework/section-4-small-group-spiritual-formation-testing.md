@@ -40,6 +40,13 @@ The second qualification is that the group's collective stage is disproportionat
 
     A group at GATS Stage 3 is a group in which personal conviction, repentance, and costly application are normal parts of every session — not occasional dramatic events but the expected texture of the conversation.
 
+    **Transitional ratings.** Groups in active transition often do not yet meet the "consistent, habitual, majority of sessions" threshold at the higher stage. Assessors record what they actually see, using intermediate ratings where appropriate:
+    
+    - **`Stage N (emerging)`** — Stage N behaviors are appearing reliably across multiple sessions but are not yet the group's default; the prior stage is still the majority pattern.
+    - **`Stage N–N+1`** — the group operates in both ranges depending on session content; neither has settled as the dominant culture.
+    
+    Transitional ratings are themselves diagnostic — they tell the facilitator and research coordinator where the group is and what kind of formation work the next quarter is likely to ask.
+
 ## 4c. The Group Spiritual Formation Profile (GSFP)
 The Group Spiritual Formation Profile is a visual mapping tool that shows the distribution of individual Affective Taxonomy stages within the group at any given assessment point. It is updated quarterly by the facilitator, based on their Stage assessment of each participant, and serves as the primary instrument for tracking the group's collective development over the twelve-month period.
 
@@ -98,7 +105,7 @@ The Tell Rate is also sensitive to the group stage. At Stage 2, participants are
 
 **Group Outcome Variable 5: Fruit Observed by External Witnesses**
 
-The final group-level outcome variable is the most demanding and the most interesting: evidence of the fruit of the Spirit (Gal. 5:22–23) visible to people outside the group. Love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, self-control — these are Stage 4 and Stage 5 indicators, and they are most reliably observed not by the person exhibiting them (who is often the last to notice) and not by the formation group (who may be too close to the person to see clearly), but by the people in the participant's ordinary life who have no stake in the research program and no reason to be generous in their assessment.
+The final group-level outcome variable is the most demanding and the most interesting: evidence of the fruit of the Spirit (Gal. 5:22–23) visible to people outside the group. Love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, self-control — these are Stage 4 and Stage 5 indicators, and they are most reliably observed not by the person exhibiting them (who is often the last to notice) and not by the formation group (who may be too close to the person to see clearly), but by the people in the participant's ordinary life who have no stake in the research program and no reason to be generous in their assessment. The mechanism — the External Witness Interview (EWI), conducted with one person identified by each participant — is introduced in [§3 Outcome Variable 4](section-3-individual-spiritual-formation-testing-protocol.md); at the group level the per-participant EWI data is aggregated for a different purpose than the individual-level one (fruit observed across the group rather than belief-behavior integration for a single participant).
 
 The External Witness Interviews described in Section 3 aggregate across the group to produce a group-level picture. If, at Month 12, six of seven participants' external witnesses independently report observable character changes that they attribute to the participant's deepened spiritual engagement, that is a strong group-level indicator that the formation process is producing the outcomes the LotS framework predicts. If the external witnesses report that nothing has changed — or, more troublingly, that the participant has become more self-righteous or less relationally available since joining the group — that is a finding that demands honest examination.
 
