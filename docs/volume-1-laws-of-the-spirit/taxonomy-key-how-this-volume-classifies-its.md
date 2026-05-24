@@ -20,6 +20,39 @@ Some laws are both at once: they describe a structure that also functions as a c
 ## Gateway Laws (Structural — Gateway)
 A Gateway Law is a special subtype of Structural Law: it describes a condition that is logically prior to an entire cluster of other laws. The Fear of the Lord (Exploration 5) is a Gateway Law; without it, the entire Wisdom cluster fails to orient correctly. Gateway laws function as root conditions rather than component elements.
 
+## Reading the Periodic Table Tags
+
+Every Foundational Law header in this volume carries a compact tag in parentheses — e.g., **FL.III — The Heart-Throne Law (P1/GII, B)** — that locates the law in the Periodic Table of Spiritual Laws (developed in full in Vol 5). The tag has three parts.
+
+**The Period (P0–P5) — scale of operation.** *Where in the scale of action does this law primarily operate?*
+
+- **P0** — Scale-invariant; operates the same way at every scale.
+- **P1** — Individual (sole actor).
+- **P2** — Dyadic / Small Group.
+- **P3** — Community / Congregation.
+- **P4** — Generational / Historical.
+- **P5** — Cosmic / Eschatological.
+
+**The Group (GI–GVI) — dimension of the person primarily addressed.** *Which part of the person is the law primarily working on?*
+
+- **GI** — Spirit (innermost).
+- **GII** — Heart (desire / will).
+- **GIII** — Soul (integration).
+- **GIV** — Mind / Will (cognition).
+- **GV** — Body / Action (embodied).
+- **GVI** — Structural Frame (architecture).
+
+**The directionality letter (V / H / B / I) — relational vector.** *Which direction does the law's causation flow between persons and God?*
+
+- **V** — Vertical (Person ↔ God).
+- **H** — Horizontal (Person ↔ Person).
+- **B** — Both V and H.
+- **I** — Intra-personal.
+
+So a tag like **(P1/GII, B)** on FL.III Heart-Throne reads as: an Individual-scale law that operates primarily in the Heart dimension, with both Person↔God and Person↔Person relational vectors. The Vol 5 Periodic Table chapter is the full reference and shows every law arrayed on the two axes at once; the tags here are the locator into that chapter.
+
+The Band-of-closeness designation that appears on some Foundational Laws (Band 1, Band 2, Band 3) is described in the Foundational Laws intro's *Inclusion Bar* section; see there for what each Band means.
+
 ## How This Taxonomy Connects to Volumes 2, 3, and 4
 Volume 1’s structural and operational laws are the foundation. Volume 2 inherits this vocabulary and adds three new law types: Diagnostic Laws (which describe the conditions that block the Vol 1 laws from operating), Tool-Application Laws (which describe how specific clearing tools map to specific blockage types), and Developmental Laws (which describe how the capacity to operate in these laws grows over time). Volume 3 adds a Field/Quantitative layer: it asks how the Vol 1 and 2 laws can be expressed not just qualitatively but as measurable quantities and relational equations. The three volumes together form a single integrated taxonomy: structural → operational → diagnostic → therapeutic → developmental → quantitative. Vol 4 is a notional draft of how to test this whole structure.
 

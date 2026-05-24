@@ -43,6 +43,16 @@ For any model, the reality of this journey is that it is not linear. Anyone on s
 
 There is a picture that the Lord showed me many years ago that is relevant to what follows. I saw my life, my heart, as an L-shaped pipe. The top was receiving God’s love for me and the world. The output flowed into a dry, dusty world, thirsty for his love. My output was just a trickle. I had too many barnacles interfering with the flow, slowing it down until only a little could get through. I understood that working out your salvation with fear and trembling might mean for me: to clear out the barnacles so his love can flow more and more. The following discussion on how heart knots interfere with hearing and obeying God puts more details on that thought.
 
+## On Sub-Explorations, "Refined" Versions, and Exploration O
+
+Three conventions run through this volume that a reader should know about before reaching them.
+
+**Sub-Explorations** (the letter-suffix entries: 1B, 2A, 2B, 2C, 6A, 6B, 6C, 7A, 8B, 9A). Each numbered Exploration can carry one or more letter-suffix sub-Explorations that elaborate, extend, or add a structural distinction the main Exploration depends on. They are not optional asides. They are material that did not fit cleanly under the main Exploration's single argument but operates downstream of it and is needed to make the main Exploration's work go. Exploration 1 names the Heart Soil diagnostic; Exploration 1B (Wound vs. Sin) adds the structural distinction the Heart Soil work cannot operate without. Exploration 6 names the Tool Map; Explorations 6A, 6B, and 6C add the image-of-God, re-integration, and discernment-from-outside-the-frame articulations the Map requires to be deployed cleanly. The letter suffix signals: *this is structurally tied to the numbered Exploration above it; read them together.*
+
+**"Refined" versions** (V2.Exp4 refined, V2.Exp8 refined). Some Explorations in this volume have been substantively rewritten since their first articulation; "refined" marks the version that is current and authoritative. The earlier statement is no longer the operating form. Where the corpus's downstream material — Vol 5 Part VI, the FotH curriculum, the FotH Companion Handbooks — cross-references **V2.Exp4 refined** or **V2.Exp8 refined**, the reference is to the version in this volume as it currently stands. The "refined" qualifier is a version marker, not a content marker for some sub-part of the Exploration.
+
+**Exploration O — the Operating Ground.** Before the numbered Explorations begin, Exploration O ("The Christian Companion's Framework — Tool Import Discipline") names the discipline under which the rest of the volume's tool-and-protocol work operates. Exploration O is not Part I, not a sub-Exploration of any numbered entry, and not optional preliminary material — it is the framework every numbered Exploration that follows presupposes. The letter O (not the number zero) marks it as the *Operating Ground* of the volume; the numbered Explorations (1–10) are what the Operating Ground makes possible.
+
 **PART I**
 
 *Diagnosis: Why the Channel Gets Blocked*
