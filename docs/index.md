@@ -26,7 +26,7 @@ Begin with the [Read Me First](read-me-first.md), then the [Introduction](introd
 - **[Introduction](introduction/index.md)** — what this work is trying to do.
 - **[Volume 1: Laws of the Spirit](volume-1-laws-of-the-spirit/index.md)**
 - **[Volume 2: Knowing to Doing](volume-2-knowing-to-doing/index.md)**
-- **[Volume 3: Quantitative Framework](volume-3-quantitative-framework/index.md)**
+- **[Volume 3: Spiritual Dynamics](volume-3-quantitative-framework/index.md)**
 - **[Volume 4: Testing Framework](volume-4-testing-framework/index.md)**
 - **[Volume 5: References](volume-5-references/index.md)**
 - **[Volume 6: Governance](volume-6-governance/index.md)**

@@ -1,13 +1,13 @@
 ---
-title: "Volume 3: Quantitative Framework — Overview"
+title: "Volume 3: Spiritual Dynamics — Overview"
 volume: 3
 source: "IJH_Vol3_v5_6_1_1.docx"
 ---
 
 
-# Volume 3: Quantitative Framework
+# Volume 3: Spiritual Dynamics
 
-Contents of Volume 3: Quantitative Framework. Each entry below opens that section of the volume.
+Contents of Volume 3: Spiritual Dynamics. Each entry below opens that section of the volume.
 
 - [A Note Before We Begin: What This Volume Is and Is Not](note-before-we-begin.md) — A Note Before We Begin: What This Volume Is and Is Not
 - [Taxonomy Key: How This Volume Classifies Its Explorations](taxonomy-key-how-this-volume-classifies-its.md) — Taxonomy Key: How This Volume Classifies Its Explorations
