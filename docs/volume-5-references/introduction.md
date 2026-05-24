@@ -20,4 +20,4 @@ It also includes the five Formation Documents referenced throughout the first fo
 
 The annotation format follows the structure used in my academic work: an Author section identifying who the person is or was; a Summary section describing the relevant work, idea, or contribution; and an Application section explaining specifically how this person’s work connects to the LotS project, with volume and exploration references where applicable. The goal is not an exhaustive academic literature review but a working reference document — one that a future researcher, a family member continuing this exploration, could use to locate and evaluate the sources that shaped this project.
 
-Scripture figures are included in Part IV not as conventional bibliography entries but as case study references, since the LotS volumes consistently treat them as data points and illustrative cases. Ministry tools with institutional rather than single-author origins are gathered in Part III. The LotS project’s original workshop community members are collected in Part V.
+Ministry tools with institutional rather than single-author origins are gathered in Part III.
