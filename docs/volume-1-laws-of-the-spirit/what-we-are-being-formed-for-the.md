@@ -44,7 +44,7 @@ Volume 2 is the diagnostic and operational application of the Means to the speci
 
 A reader who keeps the Vision-Intention-Means frame in mind through the rest of these volumes will not lose the horizon. A reader who does not will eventually drift into reading the corpus as a system rather than as an apprenticeship. The kingdom is at hand. The disciple is in it. The rest of this work is how she walks in it.
 
-Introduction: What I Am Trying to Do Here
+## What I Am Trying to Do in This Volume
 
 ## The Starting Question
 I want to begin with a question that has driven me for over two decades: what if the way the world of the Spirit works is just as logical and discoverable as the laws of physics? Not identical to physics, but equally orderly, equally real, and equally open to investigation by someone willing to pay attention.
