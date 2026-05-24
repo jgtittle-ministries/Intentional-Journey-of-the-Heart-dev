@@ -14,6 +14,18 @@ Each Part VI entry holds the practitioner-runnable detail for one protocol or on
 
 Every Part VI entry operates under V2.Exp0 (Tool Import Discipline): the source lineage of the protocol is named; what in the source frame requires adaptation or refusal is identified; the operational pattern as deployed in IJH-core form is specified. The Companion bringing the Christian framework to every tool is the operational ground of the section. Powlison's frame/pattern/response grid is the operational discipline that enacts this work.
 
+**The A-list and B-list distinction**
+
+The Part VI entries are organized into two lists, A and B, and the distinction matters operationally for the Companion deciding what to deploy.
+
+**A-list entries (A1–A33)** are protocols for the work itself — what *gets done* in a session. They populate the menu the Companion picks from for the work-component (A26 Tell Your Story, A28 Heart Bible Study with PROAPT, A32 Hot Seat, A24 Blessing Receiving, A25 Breaking the Contracts, A33 Mission at Risk, and so on across the menu), plus the closing-component requirements (A13 Closing-Affirmation, A14 De-roling) and the clearing-methods that operate in the clearings sub-component (A1 MKP Clearing, A2 NVC OFNR).
+
+**B-list entries (B11–B18)** are mostly sub-modalities, access modes, and supporting techniques — *how* the work gets reached or scaffolded, deployed inside other protocols rather than as the central work of a session. V2.Exp6 (Tool Map) names them in their access-mode role: B14 Kinesthetic Metaphor is the canonical operational form for somatic/kinesthetic entry; B11 Ideal Support Figure is the canonical operational form for imaginative-figure entry into grief and tender shame work. The remaining B-list entries follow the same shape: B12 Process Work Recipe (methodology), B13 Front/Back Facilitator Team Structure (team-structuring move), B15 Pull-out Work (Process Work technique), B17 PIES Communication and Clearing Model (clearings sub-component method). The B-list also carries a lineage shape: most of B11–B15 entered the corpus as Process Work imports (Arnold Mindell tradition) under V2.Exp0 Tool Import Discipline.
+
+**The one explicit exception is B18 Heart Prayer Time** — the lone B-list entry that operates as a standalone core work-option in the work-component alongside the A-list options.
+
+The Companion's discernment selects from both lists for a gathering: an A-list work-option for the work-component; B-list access-modes within or alongside the A-list deployment as the participant's processing-style and the surfacing material require.
+
 **Container Forming: ****What this protocol does**
 
 The session liturgy is the corpus's core operational form for community formation work — the sequenced whole of *front-notes → formally-marked container opening → clearings → work → formally-marked closing → integration teachings* that operates as one integrated practice across a single gathering. The session as a whole is the unit of formation; its components are sequenced moves within one practice rather than freely substitutable tools. The integrity of the sequence — the order, the marked transitions between components, the closing that integrates the work into life — is structurally constitutive of the formation the session does.
