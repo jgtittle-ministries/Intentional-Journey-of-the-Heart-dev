@@ -17,15 +17,45 @@ At the same time, I want to hold onto something that can easily get lost when a 
 ## 5a. The Five Primary Research Questions
 The research program is organized around five primary research questions. Each question is testable with the instruments and protocols described in Sections 3 and 4; each maps to one or more specific LotS claims; and each is designed to yield findings that are meaningful whether they confirm or challenge the framework.
 
-> Research Question 1 (Primary)RQ1: Does consistent participation in PROAPT-based small group bible study produce measurable movement through the Affective Taxonomy stages over a 12-month period, compared to a matched control group?LotS Claims Tested: LotS-H3, LotS-H4, LotS-F4Primary Instruments: PSFA (Stage progression), SOP (Tell Rate), GSFP (Group stage distribution)Expected Finding: PROAPT participants will show significantly greater net stage progression than control participants over 12 months.
+!!! abstract "RQ1 — Primary research question"
 
-> Research Question 2RQ2: Is there a significant positive correlation between Affective Taxonomy stage and scripture trust level (STI-A score) at each assessment point?LotS Claims Tested: LotS-F1, LotS-F2, LotS-H1Primary Instruments: PSFA (Stage), STI-A (Scripture trust), NRP (Qualitative confirmation)Expected Finding: STI-A scores will correlate positively with PSFA stage scores (r ≥ 0.60) and will rise in parallel with stage progression, with affective changes preceding cognitive changes.
+    **Question.** Does consistent participation in PROAPT-based small-group bible study produce measurable movement through the Affective Taxonomy stages over a 12-month period, compared to a matched control group?
 
-> Research Question 3RQ3: Does Affective Taxonomy stage progression correlate with measurable growth in one or more of the Image of God 4Rs (Reason, Rulership, Relationship, Righteousness)?LotS Claims Tested: LotS-I2, LotS-I3Primary Instruments: PSFA (Stage), Image of God 4Rs Self-Assessment, NRP (4R-specific prompts)Expected Finding: Participants progressing to Stage 3 and above will show significant growth in at least two 4R dimensions; specific 4Rs will correspond to the scriptural content engaged in their PROAPT group.
+    - **LotS claims tested:** LotS-H3, LotS-H4, LotS-F4
+    - **Primary instruments:** PSFA (stage progression), SOP (Tell Rate), GSFP (group stage distribution)
+    - **Expected finding:** PROAPT participants will show significantly greater net stage progression than control participants over 12 months.
 
-> Research Question 4RQ4: Does the facilitator's own Affective Taxonomy stage predict the group's net stage progression rate and Group Affective Taxonomy Stage (GATS) trajectory?LotS Claims Tested: OT-6 (Collective formation), Volume 3 Leadership applicationPrimary Instruments: Facilitator PSFA (baseline), GSFP (quarterly), Final Group Formation ReportExpected Finding: Groups led by Stage 4 facilitators will show significantly greater net stage progression than groups led by Stage 3 facilitators, controlling for group composition and church context.
+!!! abstract "RQ2"
 
-> Research Question 5RQ5: Are there identifiable preconditions — in PROAPT engagement, personal circumstances, or relational context — that reliably precede dramatic or rapid stage transitions?LotS Claims Tested: OT-5 (Precursors of instantaneous heart change), LotS-F3 (Trials as formation mechanism)Primary Instruments: NRP (Monthly narratives), OT-5 Supplementary Interview, SOP (Facilitator session notes)Expected Finding: Rapid stage transitions will be consistently preceded by a period of heightened PROAPT engagement combined with a significant trial or cost, confirming Jas. 1:2-3 as a mechanism rather than a coincidence.
+    **Question.** Is there a significant positive correlation between Affective Taxonomy stage and scripture trust level (STI-A score) at each assessment point?
+
+    - **LotS claims tested:** LotS-F1, LotS-F2, LotS-H1
+    - **Primary instruments:** PSFA (stage), STI-A (scripture trust), NRP (qualitative confirmation)
+    - **Expected finding:** STI-A scores will correlate positively with PSFA stage scores (r ≥ 0.60) and will rise in parallel with stage progression, with affective changes preceding cognitive changes.
+
+!!! abstract "RQ3"
+
+    **Question.** Does Affective Taxonomy stage progression correlate with measurable growth in one or more of the Image of God 4Rs (Reason, Rulership, Relationship, Righteousness)?
+
+    - **LotS claims tested:** LotS-I2, LotS-I3
+    - **Primary instruments:** PSFA (stage), Image of God 4Rs Self-Assessment, NRP (4R-specific prompts)
+    - **Expected finding:** Participants progressing to Stage 3 and above will show significant growth in at least two 4R dimensions; specific 4Rs will correspond to the scriptural content engaged in their PROAPT group.
+
+!!! abstract "RQ4"
+
+    **Question.** Does the facilitator's own Affective Taxonomy stage predict the group's net stage progression rate and Group Affective Taxonomy Stage (GATS) trajectory?
+
+    - **LotS claims tested:** OT-6 (collective formation); Vol 3 leadership application
+    - **Primary instruments:** Facilitator PSFA (baseline), GSFP (quarterly), Final Group Formation Report
+    - **Expected finding:** Groups led by Stage 4 facilitators will show significantly greater net stage progression than groups led by Stage 3 facilitators, controlling for group composition and church context.
+
+!!! abstract "RQ5"
+
+    **Question.** Are there identifiable preconditions — in PROAPT engagement, personal circumstances, or relational context — that reliably precede dramatic or rapid stage transitions?
+
+    - **LotS claims tested:** OT-5 (precursors of instantaneous heart change); LotS-F3 (trials as formation mechanism)
+    - **Primary instruments:** NRP (monthly narratives), OT-5 Supplementary Interview, SOP (facilitator session notes)
+    - **Expected finding:** Rapid stage transitions will be consistently preceded by a period of heightened PROAPT engagement combined with a significant trial or cost, confirming Jas. 1:2–3 as a mechanism rather than a coincidence.
 
 ## 5b. Research Design
 The LotS research program employs a longitudinal mixed-methods design with a quasi-experimental comparison condition. The choice of design reflects the epistemological framework established in Section 2: the complexity of spiritual formation outcomes requires both quantitative tracking of behavioral change and qualitative depth in understanding what that change means and how it occurred. Neither alone is adequate; together they provide the multi-layered picture of formation that the LotS claims require.
@@ -126,10 +156,11 @@ The research program, therefore, requires that all research coordinators be them
 
 This requirement will strike some academic researchers as methodologically unusual. It is. It reflects the LotS project's foundational conviction that the spiritual world is not a subject to be studied from a safe distance but a reality to be inhabited — that the Laws of the Spirit, if they are real, are no more observable from the outside than the law of love is observable by someone who has never loved. The research program is built for practitioners who are also rigorous thinkers. That is a narrow target. It is the right one.
 
-## 5e. Mapping to the Open Trails
-Volume 3 identified ten Open Trails — areas where the LotS exploration had pointed but not yet gone. The research program proposed in Section 5 does not resolve all ten, but it makes meaningful progress on six of them. The table below maps each Open Trail to its status in the research program.
+## 5e. Mapping to the Open Research Questions
 
-| Open Trail | Description | Status in This Research Program |
+This volume identifies ten Open Research Questions in the spiritual-formation arm of the broader LotS Open Trails work — areas where exploration across Volumes 1–3 had pointed but not yet been carried into formal testing. (Vol 3's own Open Trails list focuses on the quantitative and TFT trails — Conservation Laws, Time Delay Analysis, Community Resonance Model, Field Equations, the Mustard Seed Resolution, the Quantitative CLD, the Minimum Factor Protocol, and the Affective Taxonomy Measurement Protocol that OT-1 below directly engages.) The research program proposed in Section 5 does not resolve all ten of Vol 4's questions, but it makes meaningful progress on eight of them. The table below maps each Open Research Question to its status in the research program.
+
+| Open Research Question | Description | Status in This Research Program |
 | --- | --- | --- |
 | OT-1 | Test PROAPT-Taxonomy model in real small group with structured assessment | Directly addressed — the core of Sections 3 and 4 |
 | OT-2 | Extend Affective Taxonomy to full agape triad (love of God and neighbor, fruits of the Spirit) | Partially addressed — EWI and NRP capture agape-adjacent outcomes; full extension requires a second study |
@@ -142,7 +173,7 @@ Volume 3 identified ten Open Trails — areas where the LotS exploration had poi
 | OT-9 | Leadership formation through Image of God lens — 3D framework integrating 4Rs, Affective Taxonomy, Cognitive Taxonomy | Partially addressed — RQ4 and facilitator stage as independent variable; full leadership formation study is a separate project |
 | OT-10 | Doctrine testing through fruit analysis — evaluating doctrines by their observable fruit | Not directly addressed — this is a meta-level research question that builds on the findings of this program |
 
-The six Open Trails that this research program meaningfully advances — OT-1, OT-5, OT-6, OT-7, and partially OT-2, OT-4, OT-8, and OT-9 — represent the core of the spiritual formation testing work. The remaining trails (OT-3, OT-10, and the full extensions of OT-2, OT-4, OT-8, OT-9) require either prior groundwork not yet done or a scope of research that goes well beyond a twelve-month multi-site study. They remain on the Open Trails list — an invitation to the next researcher, the next workshop group, the next generation of LotS explorers who pick up this work and carry it further.
+The eight Open Research Questions that this research program meaningfully advances — OT-1, OT-5, OT-6, and OT-7 directly, plus OT-2, OT-4, OT-8, and OT-9 partially — represent the core of the spiritual-formation testing work. The remaining questions (OT-3, OT-10, and the full extensions of OT-2, OT-4, OT-8, OT-9) require either prior groundwork not yet done or a scope of research that goes well beyond a twelve-month multi-site study. They remain on the open-questions list — an invitation to the next researcher, the next workshop group, the next generation of LotS explorers who pick up this work and carry it further.
 
 ## 5f. What a Positive Finding Would Mean — and What It Would Not
 I want to close Section 5 with the question that, in my experience, almost never gets asked but should be asked first: if this research program produces positive findings — if PROAPT groups show significantly greater stage progression than comparison participants, if scripture trust and stage progression correlate as predicted, if facilitator stage predicts group outcomes — what would that actually mean?

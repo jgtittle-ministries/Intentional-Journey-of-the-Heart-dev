@@ -25,7 +25,13 @@ The baseline Affective Taxonomy stage is assessed through a combination of self-
 
 Determining a person's starting stage is an interpretive act, not a precise measurement. Most people are not purely at one stage; they show behaviors characteristic of multiple adjacent stages. The practice in the LotS protocol is to identify the highest stage at which the participant shows consistent, habitual patterns, not occasional flickers, and to record that as the baseline stage. Movement is then defined as the emergence of consistent, habitual patterns at the next stage.
 
-> Affective Taxonomy Stages — Quick Reference for AssessorsStage 1 — Receiving: Awareness, willingness to attend. Shows up to the group. Listens without consistent engagement.Stage 2 — Responding: Beginning intellectual and emotional reaction. Answers factual questions, asks follow-ups, and engages with the discussion. Scripture is interesting.Stage 3 — Valuing: Beginning to live according to biblical teachings. Observable behavior changes. Personal prayer requests, repentance in the group. Scripture costs something.Stage 4 — Organization: Organizing life decisions around biblical principles. Consistent patterns visible to outsiders. Scripture shapes the whole structure of daily life.Stage 5 — Characterization: Barna's (2003) biblical worldview is fully evident. Character, not just behavior, is shaped by Christ. Pain is accepted as part of submission to God. Moving from hearing about God to seeing him (Job 42:5).
+!!! info "Affective Taxonomy Stages — Quick Reference for Assessors"
+
+    - **Stage 1 — Receiving.** Awareness, willingness to attend. Shows up to the group. Listens without consistent engagement.
+    - **Stage 2 — Responding.** Beginning intellectual and emotional reaction. Answers factual questions, asks follow-ups, and engages with the discussion. Scripture is interesting.
+    - **Stage 3 — Valuing.** Beginning to live according to biblical teachings. Observable behavior changes. Personal prayer requests, repentance in the group. Scripture costs something.
+    - **Stage 4 — Organization.** Organizing life decisions around biblical principles. Consistent patterns visible to outsiders. Scripture shapes the whole structure of daily life.
+    - **Stage 5 — Characterization.** Barna's (2003) biblical worldview is fully evident. Character, not just behavior, is shaped by Christ. Pain is accepted as part of submission to God. Moving from hearing about God to seeing him (Job 42:5).
 
 **Dimension 2: Scripture Trust**
 
