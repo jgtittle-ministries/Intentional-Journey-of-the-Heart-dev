@@ -45,4 +45,4 @@ Five scriptural witnesses across three authors (Moses, Paul, Peter), with Eph. 6
 
 **Certainty: Clearly Taught  ***The structural strength is high: explicit promise, multi-author confirmation, scale generalization. The remaining uncertainty is in the secondary question of how “rightly-ordered” is to be discerned in practice. The limits of the law (Acts 5:29; the prophetic tradition’s confrontation of unjust kings) are part of how the law actually operates rather than a threat to its directional relationship: the scriptural witnesses assume the discernment of right ordering rather than catalog it, and the residual uncertainty reflects the operational complexity of that discernment, not uncertainty about the law itself.*
 
-**Foundational Law XIII — Operational Law of Wide Consent**
+[**Foundational Law XIII — Operational Law of Wide Consent →**](foundational-law-xiii-the-pure-heart-vision.md){: .md-button .md-button--primary }

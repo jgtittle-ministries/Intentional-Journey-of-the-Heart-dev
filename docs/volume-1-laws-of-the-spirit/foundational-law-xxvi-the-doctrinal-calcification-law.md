@@ -54,5 +54,4 @@ The placement at P4/GIV (Generational / Mind & Will, cognition) is the right one
 
 ***Certainty: Clearly Taught.*** *Five-or-more-biblical-author cross-Testament support (Jesus through Mark 7:8–13; Paul across Col. 2:8, 2 Tim. 4:3–4, 2 Cor. 11:3–4; Jude at Jude 3; John through the Revelation 2–3 letters; Isaiah at Isa. 29:13 as OT canonical case), with the 2 Tim. 1:13–14 and 2 Tim. 2:2 articulations of the God-ward face as supplementary witnesses. Uncontested broad acceptance across mainstream Christian traditions on the operational claim (tradition-differences exist on the content of specific calcified traditions at any given moment but the dynamic's operation is held in common). Directional structure clear. Principle-level operation.*
 
-**Foundational Law XXVII — Operational Law of Wide Consent**
-
+[**Foundational Law XXVII — Operational Law of Wide Consent →**](foundational-law-xxvii-the-thick-practice-transmission-law.md){: .md-button .md-button--primary }

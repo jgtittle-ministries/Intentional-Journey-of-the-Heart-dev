@@ -48,5 +48,4 @@ The placement at P3/GV (Community / Body & Action) reflects the operational mech
 
 ***Certainty: Clearly Taught.*** *Four-biblical-author support (Paul Gal. 6:1; James Jas. 5:19–20; Matthew Matt. 18:12–14; Luke Luke 15:1–32), with the 2 Corinthians articulation of restoration's completion as supplementary Pauline witness and the Nathan-and-David case (2 Sam. 12:1–14) as the OT canonical case. Uncontested broad acceptance across mainstream Christian traditions on the operational claim (tradition-differences exist in the specific operational form but the underlying principle is held in common). Directional structure clear. Principle-level operation.*
 
-**Foundational Law XXVI — Operational Law of Wide Consent**
-
+[**Foundational Law XXVI — Operational Law of Wide Consent →**](foundational-law-xxvi-the-doctrinal-calcification-law.md){: .md-button .md-button--primary }

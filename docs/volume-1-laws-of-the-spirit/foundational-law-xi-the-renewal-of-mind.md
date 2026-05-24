@@ -49,4 +49,4 @@ Six scriptural witnesses across at least three authors (Paul, the writer of Hebr
 
 **Certainty: Clearly Taught  ***As high as any law in this volume. The Rom. 12:2 statement of both directions in a single sentence and the 2 Cor. 3:18 present-continuous “being transformed” together give the law unusual structural clarity. The remaining uncertainty is in the secondary question of which forms of mind-renewal (study, meditation, liturgy, contemplation, scripture-reading, teaching) are most effective at which stages of formation, which scripture catalogues at a general level but does not formalize. Vol 2’s Heart Formation work and Vol 3’s quantitative program both have hooks into this question.*
 
-**Foundational Law XII — Operational Law of Wide Consent**
+[**Foundational Law XII — Operational Law of Wide Consent →**](foundational-law-xii-the-honor-authority-flourishing.md){: .md-button .md-button--primary }

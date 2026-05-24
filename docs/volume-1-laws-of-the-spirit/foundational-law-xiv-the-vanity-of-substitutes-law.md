@@ -46,5 +46,4 @@ The law functions as the structural counterpart of FL.VIII Desire-for-God — en
 
 ***Certainty: Clearly Taught.*** *Multi-author scriptural support is strong (four biblical authors across both Testaments, multiple genres). Broad acceptance is uncontested across mainstream Christian traditions, with theological differences in how the failure is framed (Reformed: cor incurvatum and idolatry; Catholic: disordered loves and the supernatural end; Wesleyan: inadequacy of natural goods for sanctifying grace; Orthodox: misdirection of eros) without affecting the law's content. Observable testability is exceptional and operates at multiple levels of conscious theological commitment.*
 
-**Foundational Law XV — Operational Law of Wide Consent**
-
+[**Foundational Law XV — Operational Law of Wide Consent →**](foundational-law-xv-the-hardening-law.md){: .md-button .md-button--primary }

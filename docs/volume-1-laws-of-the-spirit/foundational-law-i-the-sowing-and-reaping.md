@@ -45,4 +45,4 @@ Sowing-and-Reaping clears every inclusion criterion at the highest bar. Scriptur
 
 **Certainty: Clearly Taught  ***As high as any law in this volume. Multi-author, multi-testament, broadly accepted across mainstream Christian tradition. The remaining uncertainty is in the secondary specifications: what “in kind” means precisely at the community and generational scales (where the harvested unit may not be the same as the sowing unit), and what the characteristic time constant is at each scale. These are research questions, not threats to the law itself.*
 
-**Foundational Law II — Operational Law of Wide Consent**
+[**Foundational Law II — Operational Law of Wide Consent →**](foundational-law-ii-the-confession-restoration-law.md){: .md-button .md-button--primary }

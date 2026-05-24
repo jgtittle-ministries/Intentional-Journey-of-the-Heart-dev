@@ -58,5 +58,4 @@ The approach taken here is to admit the principle on the strength of the multi-a
 
 ***Certainty: Clearly Taught.*** *Five-or-more-biblical-author cross-Testament support (Genesis writer, Moses across Exodus-Leviticus-Deuteronomy, Mark, Hebrews writer, Isaiah), with supplementary Pauline material at Col. 2:16–17 and Rom. 14:5–6 naming the New Covenant interpretive frame. Uncontested broad acceptance across mainstream Christian traditions on the operational claim (structured cessation in trust-of-provision produces flourishing; refusal produces compounding diminishment), with substantial tradition-differences on the specific operational form of the commandment under the New Covenant. The catalog admits the principle on the strength of the multi-author and broad-acceptance criteria, with the New Covenant edge handled by leaving tradition-specific operational forms to the tradition-by-tradition theological work. Directional structure clear at every scale.*
 
-**Foundational Law XXIV — Operational Law of Wide Consent**
-
+[**Foundational Law XXIV — Operational Law of Wide Consent →**](foundational-law-xxiv-the-confession-in-community-law.md){: .md-button .md-button--primary }

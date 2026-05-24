@@ -44,5 +44,4 @@ The Hardening Law operates wider than the channel-load form of resistance that V
 
 ***Certainty: Clearly Taught.*** *Multi-author scriptural support is strong (five biblical authors across both Testaments, multiple genres). Broad acceptance is uncontested across mainstream Christian traditions on the dynamic itself, with theological differences in the divine-human-agency framing that affect the description of the mechanism without affecting the claim. Observable testability is well-documented across pastoral, therapeutic, and contemplative literatures. The Speculative remaining uncertainty concerns the threshold at which sustained refusal becomes "hardening" rather than ordinary resistance — the trajectory is real and well-attested, but the threshold's precise location is not specified by the text and is reasonably treated as varying with the participant and the content of the refused truth.*
 
-**Foundational Law XVI — Operational Law of Wide Consent**
-
+[**Foundational Law XVI — Operational Law of Wide Consent →**](foundational-law-xvi-the-bondage-law.md){: .md-button .md-button--primary }

@@ -54,5 +54,4 @@ The placement at P4/GV (Generational / Body & Action) reflects the operational m
 
 ***Certainty: Clearly Taught.*** *Five-or-more-biblical-author cross-Testament support (Moses across Deuteronomy and Exodus; the Joshua writer; Paul across 1 Corinthians and 2 Timothy; Luke at Acts 2:42–47; the Psalmist at Ps. 78), with the broader OT cultic-feast cycle and the NT instituted practices establishing the law's operational scope across the canonical witness. Uncontested broad acceptance across mainstream Christian traditions on the operational claim (tradition-differences exist on the specific list of practices and the theology of the practice's operation but the underlying principle is held in common). Directional structure clear. Principle-level operation.*
 
-**Foundational Law XXVIII — Operational Law of Wide Consent**
-
+[**Foundational Law XXVIII — Operational Law of Wide Consent →**](foundational-law-xxviii-the-generational-nested-structure-law.md){: .md-button .md-button--primary }

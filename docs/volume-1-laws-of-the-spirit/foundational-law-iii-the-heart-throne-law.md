@@ -67,4 +67,4 @@ Testability in the natural is high and operationally specific. Participants who 
 
 ***Certainty: Clearly Taught  ****As high as the Confession-Restoration Law and the Sowing-and-Reaping Law. The scriptural base is **very** strong across both Testaments — the first commandment of the Decalogue, the Shema, the prophets, Jesus on the two masters, Paul in Romans 1, and the closing imperative of 1 John. The remaining uncertainty is principally on the operational secondary question of how the dethroning actually happens — through liturgical worship, gospel-reception, Spirit-effected sanctification, or community-witnessed repentance — which the traditions answer differently. The directional law itself is not in doubt.*
 
-**Foundational Law IV — Operational Law of Wide Consent**
+[**Foundational Law IV — Operational Law of Wide Consent →**](foundational-law-iv-the-humility-exaltation-law.md){: .md-button .md-button--primary }

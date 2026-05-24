@@ -48,5 +48,4 @@ The Endurance-Hope Law operates as the individual-scale counterpart to FL.XVIII 
 
 ***Certainty: Clearly Taught.*** *Four-biblical-author support at the individual scale (Paul Rom. 5:3–5; James Jas. 1:2–4; Peter 1 Pet. 1:6–7; Hebrews writer Heb. 12:1–11), with supplementary Pauline witness at 2 Cor. 4:16–18 and cross-Testament Old Testament root in the lament-and-renewal tradition (Ps. 30:5; Ps. 126:5–6; Isa. 61:1–3; Lam. 3:19–33). Uncontested broad acceptance across mainstream Christian traditions, with patristic, medieval contemplative, Reformed, Wesleyan, Catholic, Orthodox, and modern theological treatments all holding the claim. Directional structure unusually clear in the Pauline articulation. Principle-level operation.*
 
-**Foundational Law XXIII — Operational Law of Wide Consent**
-
+[**Foundational Law XXIII — Operational Law of Wide Consent →**](foundational-law-xxiii-the-sabbath-rest-law.md){: .md-button .md-button--primary }

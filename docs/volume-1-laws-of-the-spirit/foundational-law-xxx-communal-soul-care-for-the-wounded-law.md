@@ -54,5 +54,4 @@ The placement at P3/GIII (Community / Soul) reflects the operational mechanism: 
 
 ***Certainty: Clearly Taught.*** *Four-or-more-biblical-author cross-Testament support (Paul; James; Luke; Mark; the Job writer), with the pastoral-epistles care-for-widows-and-orphans corpus and the gospel narrative cases of Jesus's reception of the wounded establishing operational scope. Uncontested broad acceptance across mainstream Christian traditions on the operational claim (tradition-differences on specific operational forms but the underlying claim held in common). Directional structure clear. Principle-level operation.*
 
-**Foundational Law XXXI — Operational Law of Wide Consent**
-
+[**Foundational Law XXXI — Operational Law of Wide Consent →**](foundational-law-xxxi-corporate-scriptural-reception-law.md){: .md-button .md-button--primary }

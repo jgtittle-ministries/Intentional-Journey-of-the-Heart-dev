@@ -51,4 +51,4 @@ Seven scriptural witnesses across at least five distinct authors (James, Peter, 
 
 **Certainty: Clearly Taught  ***As high as any law in this volume. The bidirectional symmetry is unusually clean; the time-delay clause is explicitly named in scripture; the scriptural witness is broad across authors and testaments. The remaining uncertainty is in the secondary question of what scale and form the exaltation takes — eschatological, vocational, relational, or all three — which scripture does not fully specify.*
 
-**Foundational Law V — Operational Law of Wide Consent**
+[**Foundational Law V — Operational Law of Wide Consent →**](foundational-law-v-the-reciprocal-forgiveness-law.md){: .md-button .md-button--primary }

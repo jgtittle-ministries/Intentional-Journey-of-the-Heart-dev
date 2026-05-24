@@ -56,5 +56,4 @@ The placement at P3/GIII (Community / Soul) reflects the operational mechanism: 
 
 ***Certainty: Clearly Taught.*** *Five-or-more-biblical-author cross-Testament support (Paul; Luke; the Chronicler; the Psalmist across the lament-and-praise corpus; the Hebrews writer; John supplementary), with the broader OT structured mourning tradition and the structured corporate-celebration tradition holding the law across the canonical witness. Uncontested broad acceptance across mainstream Christian traditions on the operational claim (tradition-differences on specific operational forms but the underlying claim held in common). Directional structure clear at both faces of the constitutive bidirectional. Principle-level operation.*
 
-**Foundational Law XXX — Operational Law of Wide Consent**
-
+[**Foundational Law XXX — Operational Law of Wide Consent →**](foundational-law-xxx-communal-soul-care-for-the-wounded-law.md){: .md-button .md-button--primary }

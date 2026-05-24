@@ -78,5 +78,4 @@ The vertical directionality tag (V) names the relational vector. The eschatologi
 
 ***Certainty: Clearly Taught.*** *Four-or-more-New-Testament-author scriptural support (Paul across at least seven letters — Romans, 1 and 2 Corinthians, Philippians, Colossians, 1 Thessalonians, 2 Timothy; the Hebrews writer across multiple chapters; John in 1 John and Revelation; Peter in 1 and 2 Peter), with operational depth across apostolic, Hebrews-pastoral, Petrine, Johannine registers and substantial Old Testament background in Isaiah and the Psalter. Substantial broad acceptance across mainstream Christian traditions on the operational claim despite tradition-differences on specific eschatological questions. Directional structure clear at the cosmic-eschatological scale.*
 
-**Foundational Law XXXVII — Operational Law of Wide Consent**
-
+[**Foundational Law XXXVII — Operational Law of Wide Consent →**](foundational-law-xxxvii-the-worship-alignment-law.md){: .md-button .md-button--primary }

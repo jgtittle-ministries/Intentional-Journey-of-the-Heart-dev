@@ -52,5 +52,4 @@ The placement at P4/GVI (Generational / Structural Frame) reflects the architect
 
 ***Certainty: Clearly Taught.*** *Five-biblical-author cross-Testament support (Moses across Deuteronomy; the Psalmist across Ps. 78 and Ps. 145; Paul at Eph. 3:14–15; the Hebrews writer across Heb. 11–12; the Genesis writer at Gen. 18:19), with the Petrine supplementary witness at Acts 2:39 establishing the New Covenant continuation and the broader OT material holding the nesting across the canonical witness. Uncontested broad acceptance across mainstream Christian traditions on the operational claim (tradition-differences exist on the theology of the specific scales but the nested architecture is held in common). Directional structure clear at every scale the law operates within. Principle-level operation.*
 
-**Foundational Law XXIX — Operational Law of Wide Consent**
-
+[**Foundational Law XXIX — Operational Law of Wide Consent →**](foundational-law-xxix-corporate-emotional-integration-law.md){: .md-button .md-button--primary }

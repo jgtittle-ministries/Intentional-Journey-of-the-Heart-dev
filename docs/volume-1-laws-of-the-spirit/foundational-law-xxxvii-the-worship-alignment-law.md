@@ -60,5 +60,4 @@ The vertical directionality tag (V) names the relational vector. The worship-sub
 
 ***Certainty: Clearly Taught.*** *Six-or-more-biblical-author cross-Testament support (the Psalmist across two parallel passages at Ps. 115:4–8 and Ps. 135:15–18; Paul in Rom. 1:18–25 and 2 Cor. 3:18; Hosea at Hos. 9:10; the Kings narrator at 2 Kings 17:15; Isaiah at Isa. 44:9–20; Jeremiah at Jer. 2:5), with operational depth across wisdom-psalmody, apostolic, prophetic, and narrative-historical registers. Broad acceptance across mainstream Christian traditions on the operational claim — tradition-differences on specific questions of worship's role and pathway, but uniform underlying claim that sustained worship recalibrates the worshiper toward the worshiped Object across Catholic, Orthodox, Reformed, Lutheran, Anabaptist, Wesleyan, and broader evangelical traditions. Directional structure clear at the scale-invariant level.*
 
-**Foundational Law XXXVIII — Operational Law of Wide Consent**
-
+[**Foundational Law XXXVIII — Operational Law of Wide Consent →**](foundational-law-xxxviii-the-soul-restoration-law.md){: .md-button .md-button--primary }

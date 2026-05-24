@@ -60,5 +60,4 @@ The placement at P3/GVI (Community / Structural Frame) reflects the architectura
 
 ***Certainty: Clearly Taught.*** *Two-or-more-biblical-author cross-Testament support exceeding the catalog's minimum threshold (Luke across Acts material; Paul across Pauline corpus; Hebrews writer; Peter; Mosaic and post-Mosaic supplementary). Broad acceptance at the principle level across mainstream Christian traditions (with specific polity-forms held tradition-by-tradition rather than catalog-arbitrated). Directional structure clear. Principle-level operation at Band 3 (principle very close to commandment-instantiation, with specific operational forms explicitly held as tradition-by-tradition theological work).*
 
-**Foundational Law XXXIV — Operational Law of Wide Consent**
-
+[**Foundational Law XXXIV — Operational Law of Wide Consent →**](foundational-law-xxxiv-marriage-covenant-architecture-law.md){: .md-button .md-button--primary }

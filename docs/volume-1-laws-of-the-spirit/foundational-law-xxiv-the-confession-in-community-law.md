@@ -50,5 +50,4 @@ The placement at P3/GV (Community / Body & Action) reflects the operational mech
 
 ***Certainty: Clearly Taught.*** *Five-biblical-author cross-Testament support (James Jas. 5:16; Solomon Prov. 28:13; John 1 John 1:9; David Ps. 32:3–5; Luke Acts 19:18–20), with the post-exilic Chronicler holding the corporate-confession extension at Neh. 9:1–3 and the Achan case at Josh. 7 holding the canonical idol-ward narrative. Uncontested broad acceptance across mainstream Christian traditions on the operational claim (the to-whom varies across traditions; the principle is held in common). Directional structure clear. Principle-level operation.*
 
-**Foundational Law XXV — Operational Law of Wide Consent**
-
+[**Foundational Law XXV — Operational Law of Wide Consent →**](foundational-law-xxv-the-restoration-of-the-erring-law.md){: .md-button .md-button--primary }

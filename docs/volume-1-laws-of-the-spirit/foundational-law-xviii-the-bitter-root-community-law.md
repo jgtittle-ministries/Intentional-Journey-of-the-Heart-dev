@@ -48,5 +48,4 @@ The constitutive-bidirectional Mirror form is the right treatment because script
 
 ***Certainty: Clearly Taught.*** *Multi-author scriptural support is strong: five biblical authors across both Testaments, with the most direct statement at Heb. 12:14–15 carrying the bidirectional construction explicitly. Broad acceptance is uncontested across mainstream Christian traditions, with tradition-differences in the specifics of the gathered-body step (Catholic, Orthodox, Reformed, congregational) but not in the underlying claim. Observable testability is well-documented across pastoral, family-systems, and church-conflict literatures under different vocabularies. The remaining uncertainty concerns the precise threshold at which a private offense becomes a community-scale phenomenon. The trajectory is real and well-attested, but how the threshold gets specified — how many members defiled, over what time, at what relational distance from the original offense — the text does not pin down, and the threshold is reasonably treated as varying with community structure and the closeness of relationships involved.*
 
-**Foundational Law XIX — Operational Law of Wide Consent**
-
+[**Foundational Law XIX — Operational Law of Wide Consent →**](foundational-law-xix-the-spirit-anointing-transmission-law.md){: .md-button .md-button--primary }

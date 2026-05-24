@@ -40,3 +40,5 @@ Four scriptural witnesses across four distinct sources (the Gospel of Matthew, t
 **Proposed Law (Operational, Wide Consent): Purity of heart — single-mindedness, undivided love for God, freedom from cherished sin, ongoing self-purification — is the prior condition for the seeing of God, in both the present-perception and eschatological-vision senses. Impurity blocks the seeing entirely, not partially. The law has a gateway structure parallel to Fear of the Lord (V1.Exp5): the seeing follows the purity, not the other way around.**
 
 **Certainty: Clearly Taught  ***Strong multi-author multi-Testament base. The seeing of God has both a present-perception dimension (Matt. 5:8; Ps. 24) and an eschatological-vision dimension (1 John 3:2–3; Heb. 12:14). The directional relationship — purity is the gateway to the seeing — is not contested.*
+
+[**Foundational Law XIV — Operational Law of Wide Consent →**](foundational-law-xiv-the-vanity-of-substitutes-law.md){: .md-button .md-button--primary }

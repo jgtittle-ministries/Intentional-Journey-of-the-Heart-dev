@@ -45,4 +45,4 @@ Five scriptural witnesses across four authors (John, Solomon, David, James) span
 
 **Certainty: Clearly Taught  ***As high as any law in this volume. The five-witness scriptural base is **very** strong. The remaining uncertainty is principally on the secondary question of what counts as “owned” confession (versus performative acknowledgment), which the Vol 2 Affective Taxonomy work helps clarify but does not fully settle.*
 
-**Foundational Law III — Operational Law of Wide Consent**
+[**Foundational Law III — Operational Law of Wide Consent →**](foundational-law-iii-the-heart-throne-law.md){: .md-button .md-button--primary }

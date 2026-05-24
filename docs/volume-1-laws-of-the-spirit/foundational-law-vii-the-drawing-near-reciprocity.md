@@ -43,4 +43,4 @@ Five scriptural witnesses across at least four authors (James, Chronicles, Jerem
 
 **Certainty: Clearly Taught  ***As high as any law in this volume. The remaining uncertainty is in the secondary question of how the “with all your heart” qualifier interacts with developmental stage: a person at an earlier affective level cannot seek with the wholeness available to a more developed heart, which raises the question of whether the law operates differently at different stages. Vol 2 and the SST Formation Document are the right places to take that up.*
 
-**Foundational Law VIII — Mixed Structural-Operational Law of Wide Consent**
+[**Foundational Law VIII — Mixed Structural-Operational Law of Wide Consent →**](foundational-law-viii-the-desire-for-god.md){: .md-button .md-button--primary }

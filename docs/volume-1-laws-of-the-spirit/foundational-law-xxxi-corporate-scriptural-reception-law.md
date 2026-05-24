@@ -56,5 +56,4 @@ The placement at P3/GIV (Community / Mind & Will) reflects the operational mecha
 
 ***Certainty: Clearly Taught.*** *Four-or-more-biblical-author cross-Testament support (Moses; the Chronicler; Paul; Luke; John), with the gospel grounding in Jesus's own participation and the broader OT covenant-renewal corpus and NT apostolic-letter public-reading corpus establishing operational scope. Uncontested broad acceptance across mainstream Christian traditions on the operational claim (tradition-differences on specific operational forms but the underlying claim held in common). Directional structure clear. Principle-level operation.*
 
-**Foundational Law XXXII — Operational Law of Wide Consent**
-
+[**Foundational Law XXXII — Operational Law of Wide Consent →**](foundational-law-xxxii-communal-worship-heart-alignment-law.md){: .md-button .md-button--primary }

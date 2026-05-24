@@ -41,4 +41,4 @@ Four scriptural witnesses across four authors (Moses, Luke, John, James), spanni
 
 **Certainty: Clearly Taught  ***As high as any law in this volume. The James 1 statement of both directions in a single passage is unusually clean. The remaining uncertainty is in the secondary question of the timing and shape of the “blessing” output at different scales, which scripture **catalogs** but does not formalize.*
 
-**Foundational Law VII — Operational Law of Wide Consent**
+[**Foundational Law VII — Operational Law of Wide Consent →**](foundational-law-vii-the-drawing-near-reciprocity.md){: .md-button .md-button--primary }

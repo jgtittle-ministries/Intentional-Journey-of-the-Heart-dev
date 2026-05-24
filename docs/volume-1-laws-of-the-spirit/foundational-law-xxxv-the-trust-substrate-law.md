@@ -64,5 +64,4 @@ The vertical directionality tag (V) names the relational vector. The trust-subst
 
 ***Certainty: Clearly Taught.*** *Eight-or-more-biblical-author cross-Testament support (Solomon; Isaiah; the Psalmists; Jeremiah; Habakkuk; the Gospel writers; Paul across multiple letters; the Hebrews writer; Peter; John), with operational depth across wisdom, prophetic, narrative, gospel, apostolic, and Petrine-Johannine registers. Broad acceptance across mainstream Christian traditions on the operational claim, with tradition-differences on specific questions of justification, faith-and-works relationship, and grace-and-cooperation but uniform underlying claim that trust-substrate conditions obedience-operation. Directional structure clear at the scale-invariant level.*
 
-**Foundational Law XXXVI — Operational Law of Wide Consent**
-
+[**Foundational Law XXXVI — Operational Law of Wide Consent →**](foundational-law-xxxvi-the-eschatological-glory-law.md){: .md-button .md-button--primary }

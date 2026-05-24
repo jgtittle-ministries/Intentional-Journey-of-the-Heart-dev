@@ -47,4 +47,4 @@ Six scriptural witnesses across at least four authors (Matthew, Luke, John, Jame
 
 **Certainty: Clearly Taught  ***As high as any law in this volume. The Synoptic-Johannine-Jacobean convergence is strong. The remaining uncertainty is in the secondary question of how the James 4:3 wrong-motive condition is to be understood operationally — self-deception in motive is common, and the law’s self-correcting feature requires a developmental capacity to recognize one’s own motives that not every person at every stage of formation possesses. Vol 2 and the Heart Formation work address this.*
 
-**Foundational Law XI — Operational Law of Wide Consent**
+[**Foundational Law XI — Operational Law of Wide Consent →**](foundational-law-xi-the-renewal-of-mind.md){: .md-button .md-button--primary }

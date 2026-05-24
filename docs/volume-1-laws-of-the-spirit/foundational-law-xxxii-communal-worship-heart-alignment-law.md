@@ -54,5 +54,4 @@ The placement at P3/GII (Community / Heart) reflects the operational subject (th
 
 ***Certainty: Clearly Taught.*** *Five-or-more-biblical-author cross-Testament support (the Psalmist across the Psalter; the Hebrews writer; Luke; John; Paul across multiple letters), with the supplementary OT witness across the Chronicles' temple-and-worship cases and the broader covenant-renewal gatherings establishing operational scope. Uncontested broad acceptance across mainstream Christian traditions on the operational claim (tradition-differences on specific operational forms but the underlying claim held in common). Directional structure clear at both faces of the constitutive bidirectional. Principle-level operation.*
 
-**Foundational Law XXXIII — Operational Law of Wide Consent**
-
+[**Foundational Law XXXIII — Operational Law of Wide Consent →**](foundational-law-xxxiii-community-polity-structure-law.md){: .md-button .md-button--primary }

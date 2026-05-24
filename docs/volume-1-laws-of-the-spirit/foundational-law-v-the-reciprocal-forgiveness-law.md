@@ -49,4 +49,4 @@ Six scriptural witnesses across at least four authors (Matthew, Mark, Luke, Paul
 
 **Certainty: Clearly Taught  ***As high as any law in this volume. Six witnesses across four authors. The remaining uncertainty is in the secondary question of what “forgiveness from the heart” (Matt. 18:35) requires of a person operationally, which Vol 2’s emotional-knot work helps clarify but does not fully settle.*
 
-**Foundational Law VI — Operational Law of Wide Consent**
+[**Foundational Law VI — Operational Law of Wide Consent →**](foundational-law-vi-the-hear-and-obey.md){: .md-button .md-button--primary }

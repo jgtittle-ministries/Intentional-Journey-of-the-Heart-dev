@@ -47,4 +47,4 @@ This law pairs with FL.VII Drawing-Near Reciprocity (Drawing-Near is the operati
 
 ***Certainty: Clearly Taught.**** Multi-author scriptural support is extremely strong (nine authors across both Testaments). Broad acceptance is essentially universal across mainstream Christian traditions, with differences only in the precise theological framing of how the longing relates to creation, sin, grace, and consummation — the underlying claim that the longing exists and operates is uncontested. Observable testability is well-documented in pastoral, contemplative, and modern theological literature. The remaining uncertainty is principally on the precise relationship between the longing-as-structural-feature claim and the imago-Dei doctrine, which different traditions theologize differently without affecting the law’s operational content.*
 
-**Foundational Law IX — Operational Law of Wide Consent**
+[**Foundational Law IX — Operational Law of Wide Consent →**](foundational-law-ix-the-generosity-provision-law.md){: .md-button .md-button--primary }

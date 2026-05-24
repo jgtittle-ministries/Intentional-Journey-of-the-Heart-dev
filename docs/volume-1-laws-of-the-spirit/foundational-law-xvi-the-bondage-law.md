@@ -46,5 +46,4 @@ The Bondage Law is the structural counterpart of FL.VI Hear-and-Obey Blessing �
 
 ***Certainty: Clearly Taught.*** *Multi-author scriptural support is strong (four biblical authors across both Testaments, with the most direct statement at Rom. 6:16 carrying explicit categorical-disjunction form). Broad acceptance is uncontested across mainstream Christian traditions on the dynamic, with theological differences in how the bondage is framed relative to the doctrine of the will (Reformed: bound will; Wesleyan: bondage that prevenient grace releases; Catholic: concupiscence against the rational will; Orthodox: gnomic will against natural will) that affect the description of the mechanism without affecting the claim. Observable testability is well-documented across multiple disciplines under different vocabularies. The Speculative remaining uncertainty concerns the threshold at which an instance of obedience becomes "sustained" enough to constitute slavery rather than a single act — the threshold is not specified by the text and is reasonably treated as varying with content domain.*
 
-**Foundational Law XVII — Operational Law of Wide Consent**
-
+[**Foundational Law XVII — Operational Law of Wide Consent →**](foundational-law-xvii-the-substitution-cascade-law.md){: .md-button .md-button--primary }

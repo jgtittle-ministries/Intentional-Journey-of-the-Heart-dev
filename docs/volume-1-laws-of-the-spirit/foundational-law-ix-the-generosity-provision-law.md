@@ -45,4 +45,4 @@ Five scriptural witnesses across at least four authors (Luke, Solomon, Paul, Mal
 
 **Certainty: Clearly Taught  ***The remaining uncertainty is in the secondary question of how to state the “provision” output term in a way that captures scripture’s claim without overstating into prosperity-gospel territory. The structural law itself is uncontested across mainstream Christian traditions, and decades of generous lives observed across cohorts testify to the directional relationship; the wording of the output term is the research question, not the law itself.*
 
-**Foundational Law X — Operational Law of Wide Consent**
+[**Foundational Law X — Operational Law of Wide Consent →**](foundational-law-x-the-ask-seek-knock.md){: .md-button .md-button--primary }

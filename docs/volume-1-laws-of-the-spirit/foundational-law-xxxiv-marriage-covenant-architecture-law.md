@@ -94,5 +94,4 @@ The placement at P2/GVI (Two-or-Three / Structural Frame) reflects the architect
 
 ***Certainty: Clearly Taught.*** *Seven-or-more-biblical-author cross-Testament support exceeding the catalog's minimum threshold by substantial margin (Genesis writer; Malachi; Matthew and Mark; Paul across multiple letters; Hebrews writer; Peter; wisdom writers; Song of Songs poet; Hosea writer; John in Revelation), with operational depth across creation, prophetic, gospel, apostolic, wisdom, narrative, and apocalyptic registers. Substantial broad acceptance across mainstream Christian traditions on operational form (tradition-differences on specific operational questions but the underlying covenant-monogamy-between-man-and-woman form held with substantial uniformity). Directional structure clear. Principle-level operation at Band 2 (principle with scripturally-specified pathway as part of the principle's articulation, structurally distinct from Band 3's tradition-by-tradition operational forms).*
 
-**End of the canonical Foundational Laws as currently articulated**
-
+[**Foundational Law XXXV — Operational Law of Wide Consent →**](foundational-law-xxxv-the-trust-substrate-law.md){: .md-button .md-button--primary }
