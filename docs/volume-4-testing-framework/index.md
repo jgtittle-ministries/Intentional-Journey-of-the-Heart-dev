@@ -49,18 +49,28 @@ Vol 4 names ten Open Research Questions in the spiritual-formation arm of the br
 
 ### Instruments used in the testing protocols
 
+The Vol 4 testing protocol is built around a **Pilot Ready core** of three individual and three group instruments, designed so that a real facilitator in a real church can run the protocol without the assessment load competing with their presence in the room. Eight additional instruments from the earlier full-suite design are preserved as **research-grade extensions** in the [Vol 4 Appendix](appendix-research-extensions.md); they remain available for studies wanting deeper instrumentation in specific dimensions, with a known cost in facilitator and participant load.
+
+**Pilot Ready core instruments**
+
 | Code | Name | What it measures |
 |---|---|---|
-| **PSFA** | Personal Spiritual Formation Assessment | Affective Taxonomy stage + Image of God 4Rs (self-report, 25 items) |
-| **STI-A** | Scripture Trust Index (Adapted) | Scripture trust on the Campbell et al. (2021) epistemic-trust continuum (12 items) |
-| **NRP** | Narrative Reflection Protocol | Monthly first-person journal across four structured prompts (hearing the word, trial response, heart change, 4R growth) |
-| **SDFL** | Spiritual Disciplines Frequency Log | Weekly frequency + duration of bible reading, prayer, worship, service, fasting |
-| **SOP** | Session Observation Protocol | Facilitator's post-session checklist of session-level formation dynamics |
-| **GSFP** | Group Spiritual Formation Profile | Quarterly visual map of the group's stage distribution |
-| **GATS** | Group Affective Taxonomy Stage | Working construct: the stage characterizing the group's *shared culture* — not the average of individual stages |
-| **GCS** | Group Cohesion Scale | Quarterly group cohesion and psychological-safety self-report (adapted from group-therapy literature) |
-| **CSFA** | Collective Spiritual Formation Assessment | Group-as-unit assessment of corporate scripture engagement, trust, and outward orientation (12 items, anonymous) |
+| **SIP-Individual** | Stage Integration Profile (individual) | Profile across the five AT stages with closure check, scored as a forced-choice 100-point distribution across six personal formation dimensions, current and preferred passes |
+| **NRP** | Narrative Reflection Protocol | Monthly first-person journal across five structured prompts (hearing the word, trial response, heart change, Image of God 4R growth, SIP closure-flag follow-up when triggered) |
 | **EWI** | External Witness Interview | Independent observer (family member, close friend, coworker) interviewed at baseline and Month 12 |
+| **Group SIP** | Stage Integration Profile (group culture) | Group's collective culture profile across the five AT stages with closure check, six group-culture dimensions, member-aggregated with facilitator's separate completion as a diagnostic comparison |
+| **Tell-Rate count** | Weekly single-question facilitator check | Percentage of participants completing the PROAPT Tell step (naming + report-back) — the Romans 10 chain operating at the group level |
+| **Facilitator SIP** | SIP-Individual completed by the facilitator on themselves | Facilitator's own integration profile as an independent variable in group-outcome analysis; the closure-flag surfaces the integrated-vs-closed Stage 4 facilitator pattern |
+
+**Other construct used at the group level**
+
+| Code | Name | What it measures |
+|---|---|---|
+| **GATS** | Group Affective Taxonomy Stage | Working construct: the stage characterizing the group's *shared culture* — not the average of individual stages. Operationally surfaced through the Group SIP profile. The [§4b GATS working definition](section-4-small-group-spiritual-formation-testing.md#4b-open-trail-ot-6-can-a-group-move-through-the-affective-taxonomy) names a closure shadow rating that Group SIP measures directly. |
+
+**Research-grade extensions** (canonical descriptions in the [Vol 4 Appendix](appendix-research-extensions.md))
+
+PSFA (Personal Spiritual Formation Assessment), STI-A (Scripture Trust Index — Adapted), SDFL (Spiritual Disciplines Frequency Log), GSFP (Group Spiritual Formation Profile), SOP (Session Observation Protocol), CSFA (Collective Spiritual Formation Assessment), GCS (Group Cohesion Scale), Facilitator PSFA, OT-5 Supplementary Interview. Each appendix entry includes a "when to add this instrument" guidance paragraph naming the specific research question or pastoral need it serves.
 
 ### Other recurring terms
 
@@ -74,6 +84,7 @@ Vol 4 names ten Open Research Questions in the spiritual-formation arm of the br
 
 - [1. Why Testing Matters for the Laws of the Spirit Project](section-1-why-testing-matters-for-laws.md) — The three kinds of testing (personal, communal, formal academic), the falsifiability question, and what Vol 4 will and will not try to do.
 - [2. Testing Framework — Epistemological Foundations](section-2-testing-framework.md) — Scripture / reason / experience / community as the four sources; the quantitative-qualitative mixed-methods decision; the Holy Spirit as a methodological problem treated honestly; construct validity.
-- [3. Individual Spiritual Formation Testing Protocol](section-3-individual-spiritual-formation-testing-protocol.md) — The twelve-month individual protocol: four baseline dimensions, four outcome variables, four instruments (PSFA, STI-A, NRP, SDFL), three-phase timeline.
-- [4. Small Group Spiritual Formation Testing Protocol](section-4-small-group-spiritual-formation-testing.md) — The small-group testing unit, the GATS construct, the facilitator as critical variable, five group-level outcome variables, and the cross-references to V2.Exp8B (Session Liturgy), V2.Exp2C (Standing Interior Agreements), and Schwarz's communal instrument.
-- [5. Research Program Design for Spiritual Formation](section-5-research-program-design-for-spiritual.md) — Five primary research questions, multi-site quasi-experimental design, the twelve instruments summarized, ethical considerations, and the map to the ten Open Research Questions.
+- [3. Individual Spiritual Formation Testing Protocol](section-3-individual-spiritual-formation-testing-protocol.md) — The twelve-month individual protocol: three baseline dimensions, three Pilot Ready outcome variables, three core instruments (SIP-Individual, NRP with Image of God 4Rs prompt set, EWI), three-phase timeline.
+- [4. Small Group Spiritual Formation Testing Protocol](section-4-small-group-spiritual-formation-testing.md) — The small-group testing unit, the GATS construct, the facilitator as critical variable, three Pilot Ready group-level outcome variables (Group SIP integration trajectory, weekly Tell-Rate, aggregated EWI), and the cross-references to V2.Exp8B (Session Liturgy), V2.Exp2C (Standing Interior Agreements), and Schwarz's communal instrument.
+- [5. Research Program Design for Spiritual Formation](section-5-research-program-design-for-spiritual.md) — Five primary research questions, multi-site quasi-experimental design, the Pilot Ready core + research-grade extension instruments summarized in two tables, ethical considerations, and the map to the ten Open Research Questions.
+- [Vol 4 Appendix: Research-Grade Extensions and Future Instruments](appendix-research-extensions.md) — Canonical descriptions of the eight extension instruments that supplement the Pilot Ready core when a specific research question warrants the additional load.
