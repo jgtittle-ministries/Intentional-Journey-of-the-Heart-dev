@@ -47,6 +47,8 @@ The second qualification is that the group's collective stage is disproportionat
     
     Transitional ratings are themselves diagnostic — they tell the facilitator and research coordinator where the group is and what kind of formation work the next quarter is likely to ask.
 
+    **Shadow rating — closure.** A group whose surface behavior would warrant GATS Stage N but that has lost earlier-stage openness — for example, a Stage 4 group that is no longer willing to receive a new word as a Stage 1 group does, or to welcome a new member into genuine participation — is not at GATS-N. It is closed. Closure is the GATS shadow, and it is the group-level analog of the Pharisee-as-stage-N-collapse pattern named at the construct level in [Vol 4 §2: Reading the Affective Taxonomy as Integration, Not Replacement](section-2-testing-framework.md#reading-the-affective-taxonomy-as-integration-not-replacement). Where closure is present, the facilitator records the surface stage with an explicit closure note rather than the higher GATS rating alone; an integrated GATS-N group must hold all earlier stages' openness alive.
+
 ## 4c. The Group Spiritual Formation Profile (GSFP)
 The Group Spiritual Formation Profile is a visual mapping tool that shows the distribution of individual Affective Taxonomy stages within the group at any given assessment point. It is updated quarterly by the facilitator, based on their Stage assessment of each participant, and serves as the primary instrument for tracking the group's collective development over the twelve-month period.
 

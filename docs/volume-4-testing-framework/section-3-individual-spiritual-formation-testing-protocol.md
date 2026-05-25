@@ -33,6 +33,8 @@ Determining a person's starting stage is an interpretive act, not a precise meas
     - **Stage 4 — Organization.** Organizing life decisions around biblical principles. Consistent patterns visible to outsiders. Scripture shapes the whole structure of daily life.
     - **Stage 5 — Characterization.** Barna's (2003) biblical worldview is fully evident. Character, not just behavior, is shaped by Christ. Pain is accepted as part of submission to God. Moving from hearing about God to seeing him (Job 42:5).
 
+    **Read the stages as integration, not replacement.** These stages name kinds of engagement that become accessible in this order, not states a person passes through and leaves behind. A participant at Stage 4 who has lost Stage 1 Receiving — no longer genuinely open to a new word — is not at Stage 4; the higher-stage rating is masking a collapse. Assess for stage *and* for the continued aliveness of earlier-stage openness; both are required for the rating to be honest. See [Vol 4 §2: Reading the Affective Taxonomy as Integration, Not Replacement](section-2-testing-framework.md#reading-the-affective-taxonomy-as-integration-not-replacement).
+
 **Dimension 2: Scripture Trust**
 
 The baseline Scripture Trust Index (STI-A, adapted from Campbell et al., 2021) measures where the participant sits on the trust continuum, from no trust in scripture as authoritative or reliable, through intellectual acknowledgment without personal application, through active engagement and partial trust, to full integration of scripture as the organizing principle of life and worldview. The STI-A is a 12-item self-report instrument; its draft is included in Appendix A.
