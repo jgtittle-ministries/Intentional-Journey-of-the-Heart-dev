@@ -1,6 +1,8 @@
 # Vol 4 Minimum Viable Protocol Restructure — Design Proposal
 
-**Status:** brainstorm; companion to [sip-design-proposal.md](sip-design-proposal.md). Not yet committed to the published site.
+**Status (updated 2026-05-25 after Pass C landed):** **Implemented.** The three-pass restructure plan described here landed in dev commits `9a59118`/`bddfe08` (Pass A), `4c307ff` (Pass B), and `1f792f4` (Pass C), with prod mirror commits `3d76fed`, `0ecad11`, and `dc4fc1f`. The user's resolutions of the open structural questions: incremental three-pass sequencing (chosen); Appendix in its own file (chosen); Image of God 4Rs folded into NRP as recurring prompt set (chosen); Tell Rate kept as Group MVP single weekly facilitator check (chosen); "Pilot Ready Protocol" naming (chosen, rejecting "MVP"). This document is preserved as a historical record of the restructure plan. See `task_ijh_vol4_pilot_ready_restructure.md` in user memory for the canonical landed-state description.
+
+**Original status:** brainstorm; companion to [sip-design-proposal.md](sip-design-proposal.md). Not yet committed to the published site.
 
 **Date:** 2026-05-25 (draft 1)
 

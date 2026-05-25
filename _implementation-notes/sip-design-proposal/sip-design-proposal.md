@@ -1,6 +1,8 @@
 # Stage Integration Profile (SIP) — Design Proposal
 
-**Status:** brainstorm; not yet committed to the published site. Lives in `_implementation-notes/` so it stays out of `docs/` and doesn't break the strict build.
+**Status (updated 2026-05-25 after Pass C landed):** **Implemented.** The SIP-Individual and Group SIP described here are now published in Vol 4 §3d Instrument 1 and the §4 Group SIP sub-section respectively; the eight extension instruments named here as candidates for the Appendix are now in `docs/volume-4-testing-framework/appendix-research-extensions.md`. This document is preserved as a historical record of the design conversation, including the eight open design questions (most of which were resolved implicitly by what shipped; some remain open for future revision). See `task_ijh_vol4_pilot_ready_restructure.md` in user memory for the canonical landed-state description.
+
+**Original status:** brainstorm; not yet committed to the published site. Lives in `_implementation-notes/` so it stays out of `docs/` and doesn't break the strict build.
 
 **Date:** 2026-05-25 (draft 1)
 
