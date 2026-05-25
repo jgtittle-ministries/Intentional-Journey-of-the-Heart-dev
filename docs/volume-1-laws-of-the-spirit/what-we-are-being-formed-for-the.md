@@ -53,7 +53,7 @@ Jesus rebuked Nicodemus in John 3, and His rebuke was not about a lack of piety 
 
 That is the starting point. Not arrogance, actually, the opposite. It is humility in the face of how much we have been given and how little we have understood.
 
-My initial starting point is the observation that we live a life so far short of what Jesus invites us into. A life of walking in the Spirit, of miracles in the natural, and living in intimate conversation with him.
+My initial starting point is the observation that we live a life so far short of what Jesus invites us into. A life of walking in the Spirit, of miracles in the natural, and living in intimate conversation with Him.
 
 ## The Four Foundational Principles
 

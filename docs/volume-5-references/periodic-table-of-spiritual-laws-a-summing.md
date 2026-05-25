@@ -346,7 +346,7 @@ Whatever the heart looks to as its primary source of security, meaning, or ident
 
 **P1/GII · FL.VIII (Foundational) — Desire-for-God Law (V), Clearly Taught**
 
-The human heart, made for God, generates a longing for him as a structural feature of its design.
+The human heart, made for God, generates a longing for Him as a structural feature of its design.
 
 ***Mirror (constitutive):*** *FL.VIII's idol-ward face is named in full by FL.XIV Vanity-of-Substitutes Law.*
 
@@ -604,7 +604,7 @@ The visible idolatry of one generation transmits to the next through the implici
 
 **P4/GII · FL.XXI (Foundational) — Household Formation Law (V), Clearly Taught**
 
-The God-ward direction of the generational-transmission dynamic operates by deliberate teaching and household formation, with the household's deliberate articulation of God's character, deeds, and address to the children as the operational form of the multigenerational transmission of God-ward orientation. The Shema's deliberate-teaching prescription (Deut. 6:4–9) and the Abrahamic commission's household-and-children-after-him formulation (Gen. 18:19) name the canonical OT articulations.
+The God-ward direction of the generational-transmission dynamic operates by deliberate teaching and household formation, with the household's deliberate articulation of God's character, deeds, and address to the children as the operational form of the multigenerational transmission of God-ward orientation. The Shema's deliberate-teaching prescription (Deut. 6:4–9) and the Abrahamic commission's household-and-children-after-Him formulation (Gen. 18:19) name the canonical OT articulations.
 
 ***Mirror (constitutive bidirectional):*** *FL.XXI names the God-ward direction at the generational scale; FL.XVII Substitution-Cascade names the idol-ward direction. The two laws articulate the two faces of the generational transmission dynamic.*
 

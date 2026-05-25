@@ -16,7 +16,7 @@ I have used this framework with leadership teams and organizations for many year
 
 ## The Move
 
-Many of the Foundational Laws read as one-directional commands. They are written that way for good reason — the imperative form is how scripture itself states them, and the directional cause-and-effect structure is what qualifies them as foundational laws in the first place. *Draw near to God, and he will draw near to you.* That is one direction. The verb is *draw*. The actor is the person.
+Many of the Foundational Laws read as one-directional commands. They are written that way for good reason — the imperative form is how scripture itself states them, and the directional cause-and-effect structure is what qualifies them as foundational laws in the first place. *Draw near to God, and He will draw near to you.* That is one direction. The verb is *draw*. The actor is the person.
 
 But the law does not operate that way in actual lived experience. The person who pursues God with frantic intensity, never quieting enough to let God close the remaining distance, is not formed by the law — they are deformed by an over-investment in their own pursuit. They are working harder at drawing near than the law actually asks of them. The opposite collapse is just as common: the person who has heard the promise that God will draw near and has settled into a passive waiting that never lifts a hand to draw near themselves. The law says both halves — *draw near, and he will draw near* — and the person who pulls one half out of tension with the other has not obeyed the law, they have substituted half of it for the whole.
 

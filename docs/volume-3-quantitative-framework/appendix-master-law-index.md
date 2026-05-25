@@ -24,7 +24,7 @@ Laws that articulate the architectural relationships, the structural-frame mecha
 
 **Vol 1 | FL.III Heart-Throne Law | Structural** [Clearly Taught] | Whatever the heart looks to as its primary source of security, meaning, or identity functions as its functional savior — its operational Object of pursuit. The heart's throne is always occupied; the structural question is by whom. Constitutive bidirectional with FL.XIV Vanity-of-Substitutes at the orientation-of-pursuit dimension.
 
-**Vol 1 | FL.VIII Desire-for-God Law | Structural** [Clearly Taught] | The human heart, made for God, generates a longing for him as a structural feature of its design. Constitutive of human anthropology; the idol-ward face of this structural longing is named in full by FL.XIV Vanity-of-Substitutes Law.
+**Vol 1 | FL.VIII Desire-for-God Law | Structural** [Clearly Taught] | The human heart, made for God, generates a longing for Him as a structural feature of its design. Constitutive of human anthropology; the idol-ward face of this structural longing is named in full by FL.XIV Vanity-of-Substitutes Law.
 
 **Vol 1 | FL.XIII Pure-Heart Vision Law | Structural — Gateway** [Clearly Taught] | Purity of heart is the prior condition for the seeing of God. Second Gateway-designated entry in the catalog alongside V1.Exp5 Fear of the Lord. Without crossing this threshold, the seeing operates differently or not at all.
 

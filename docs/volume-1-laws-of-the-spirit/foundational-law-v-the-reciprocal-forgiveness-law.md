@@ -6,7 +6,7 @@ source: "IJH_Vol1_v5_6_1_1.docx"
 
 # Foundational Law V: The Reciprocal Forgiveness Law
 
-The Reciprocal Forgiveness Law sits inside the Lord’s Prayer and is repeated by Jesus more often than perhaps any other operational claim he makes about the spiritual world. The forgiveness a person extends to others is the channel through which forgiveness from God flows to that person. Withholding forgiveness reinstates the debt structure that forgiveness had dissolved. The law is bidirectional and operates simultaneously vertically (Person—God) and horizontally (Person—Person).
+The Reciprocal Forgiveness Law sits inside the Lord’s Prayer and is repeated by Jesus more often than perhaps any other operational claim He makes about the spiritual world. The forgiveness a person extends to others is the channel through which forgiveness from God flows to that person. Withholding forgiveness reinstates the debt structure that forgiveness had dissolved. The law is bidirectional and operates simultaneously vertically (Person—God) and horizontally (Person—Person).
 
 This law is the positive direction of the Forgiveness-Debt Transfer mechanism. Together with FL.II Confession-Restoration and the Sin Blockage Law (V2.Exp4), the four form a complete account of channel-opening at the moral-failure level.
 

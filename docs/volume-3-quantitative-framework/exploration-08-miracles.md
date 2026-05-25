@@ -29,7 +29,7 @@ Jesus does not explain why persistence matters. He asserts that it does, and tha
 ## The Two-Stage Structure of Miracle Operation
 Miracles happen in two stages: (1) noticing, and (2) responding as appropriate.
 
-Stage 1, noticing, is the perceptual challenge. Jesus perceived power going out from him (Mark 5:30). Elijah heard “a still small voice” after the earthquake and fire (1 Kgs. 19:12). Daniel understood from the scriptures that the 70 years were complete and responded with prayer (Dan. 9:2-3). In each case, someone noticed something before the miracle was prayed for. The noticing was itself an act of spiritual perception, seeing in the spiritual frame what was happening or what was available.
+Stage 1, noticing, is the perceptual challenge. Jesus perceived power going out from Him (Mark 5:30). Elijah heard “a still small voice” after the earthquake and fire (1 Kgs. 19:12). Daniel understood from the scriptures that the 70 years were complete and responded with prayer (Dan. 9:2-3). In each case, someone noticed something before the miracle was prayed for. The noticing was itself an act of spiritual perception, seeing in the spiritual frame what was happening or what was available.
 
 Stage 2, responding, is the obedience challenge. If led to act and I don’t, that is disobedience. If I act without being led, that is presumption and equally disobedient. The miracle occurs in the space of genuine obedience, doing what I was actually led to do, nothing more and nothing less. This is consistent with the Vol 1 Obedience Channel law: the obedience response to the last revelation is the condition for the next revelation, including the revelation of what miracle is available in this specific moment.
 

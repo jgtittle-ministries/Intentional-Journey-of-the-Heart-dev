@@ -13,7 +13,7 @@ Speaking of voices, you will see multiple voices in these documents. They are or
 
 I expect to continue developing this document of discovery as long as I have breath. And when that is done, I’ll get to see how much is true.  I’m sure that much of what I am offering here is gold, silver, and precious stones, but some is also wood, hay, and stubble. I just don’t know for sure which is which at this point, but I will know when I stand face to face with my Lord.
 
-In all this, I am inviting you into an intentional journey of the heart. A journey needs a goal, and in this case, that is into the heart of God, who invites us to work with him in deeper and deeper fellowship and oneness. Scripture describes such a life, and we can respond. I’m on such a journey, and this document captures at least some of that journey. However, you will have your own journey, and that journey will be as individual as your fingerprints.
+In all this, I am inviting you into an intentional journey of the heart. A journey needs a goal, and in this case, that is into the heart of God, who invites us to work with Him in deeper and deeper fellowship and oneness. Scripture describes such a life, and we can respond. I’m on such a journey, and this document captures at least some of that journey. However, you will have your own journey, and that journey will be as individual as your fingerprints.
 
 Please join me in this intentional journey. As C.S. Lewis said in “The Last Battle”, “Further up and further in.” I’ll meet you there.
 

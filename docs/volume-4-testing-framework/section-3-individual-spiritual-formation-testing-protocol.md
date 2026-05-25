@@ -31,7 +31,7 @@ Determining a person's starting profile is an interpretive act, not a precise me
     - **Stage 2 — Responding.** Beginning intellectual and emotional reaction. Answers factual questions, asks follow-ups, and engages with the discussion. Scripture is interesting.
     - **Stage 3 — Valuing.** Beginning to live according to biblical teachings. Observable behavior changes. Personal prayer requests, repentance in the group. Scripture costs something.
     - **Stage 4 — Organization.** Organizing life decisions around biblical principles. Consistent patterns visible to outsiders. Scripture shapes the whole structure of daily life.
-    - **Stage 5 — Characterization.** Barna's (2003) biblical worldview is fully evident. Character, not just behavior, is shaped by Christ. Pain is accepted as part of submission to God. Moving from hearing about God to seeing him (Job 42:5).
+    - **Stage 5 — Characterization.** Barna's (2003) biblical worldview is fully evident. Character, not just behavior, is shaped by Christ. Pain is accepted as part of submission to God. Moving from hearing about God to seeing Him (Job 42:5).
 
     **Read the stages as integration, not replacement.** These stages name kinds of engagement that become accessible in this order, not states a person passes through and leaves behind. A participant whose SIP profile shows high Organization and Characterization scores but a starved Receiving score is not at Stage 4; the higher-stage weighting is masking a collapse. Assess for the profile shape *as a whole*. See [Vol 4 §2: Reading the Affective Taxonomy as Integration, Not Replacement](section-2-testing-framework.md#reading-the-affective-taxonomy-as-integration-not-replacement).
 
@@ -118,7 +118,7 @@ The SIP is the operational form of the [§2 integration reading](section-2-testi
   - (Responding) I bring the suffering actively into prayer and scripture. I ask questions; I look at what is happening.
   - (Valuing) I let the suffering do its formation work. I make the costly choices the situation requires, including the spiritual ones.
   - (Organization) I draw on what previous suffering has formed in me. The integration of past trials feeds into how I navigate this one.
-  - (Characterization) Suffering does not change who I am with God; it deepens it. Others see in me what Brueggemann calls reorientation, what Job describes as moving from hearing about God to seeing him.
+  - (Characterization) Suffering does not change who I am with God; it deepens it. Others see in me what Brueggemann calls reorientation, what Job describes as moving from hearing about God to seeing Him.
 - **Dimension 6: The Tell — what I do with what I have received.** After I have heard from God or from scripture, what crosses the threshold from interior reception to spoken word and outward action?
   - (Receiving) I notice what I have received. I hold it.
   - (Responding) I speak about what I have received in safe contexts — to spouse, friend, small group.
