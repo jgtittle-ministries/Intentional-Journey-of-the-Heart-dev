@@ -74,8 +74,59 @@ The example GSFP above illustrates the kind of movement the LotS protocol predic
 
 Administering both the GSFP and the NCD 3 Colors of Community communal instrument to the same groups in any multi-site study would allow the research team to assess convergent validity between the two instruments. If a group that the GSFP identifies as formation-blocked also scores low on the relevant NCD communal quality, that convergence would provide evidence that the two instruments are measuring related constructs from different angles. If they diverge, that divergence is equally informative — it would indicate that the GSFP is capturing something the NCD instrument misses, or vice versa. Either result advances the measurement program. This is a low-cost addition to the research design and a high-return one.
 
+## The Stage Integration Profile at the Group Level (Group SIP) — Pilot Ready core instrument
+
+The Group SIP is the group-level companion to the SIP-Individual described in [§3d Instrument 5](section-3-individual-spiritual-formation-testing-protocol.md#3d-the-five-assessment-instruments). Where the GSFP plots the distribution of *individual* AT stages within the group, the Group SIP measures the group's *collective culture* profile across the five AT stages, with the same integration-vs-closure check the SIP-Individual provides at the personal level. The two instruments are complementary, not redundant: the GSFP tells you which individuals are at which stages; the Group SIP tells you what the group's collective formation environment looks like. The Group SIP is the operational form of the [§4b GATS closure shadow rating](#4b-open-trail-ot-6-can-a-group-move-through-the-affective-taxonomy) — what that admonition flags qualitatively, the Group SIP measures directly.
+
+The Group SIP is administered to each group member individually (assessing the group's culture, not their own); aggregated to produce the group's profile; with the facilitator completing one separately. Gaps between the facilitator's reading and the member aggregate are diagnostic.
+
+**Six dimensions of group spiritual culture.** Each names a context in which the five kinds of AT engagement show up at the group level. For each dimension, five stage-anchored options describe what that group culture looks like at each stage. The respondent distributes 100 points across the five options based on how alive each is in the group *right now*. Then repeats for *preferred*.
+
+- **Dimension 1: How the group approaches a scripture passage.** At the start of a session, when the group encounters the passage for the day — what is the group's collective engagement?
+  - (Receiving) The group shows up and listens together.
+  - (Responding) The group engages actively — questions, follow-ups, building on each other.
+  - (Valuing) The group lets the passage cost something — personal conviction shared, application named at personal cost, real repentance possible.
+  - (Organization) The group's collective decisions and culture consistently reflect what scripture has formed in this group together.
+  - (Characterization) The group has become known — to itself, to others — as the kind of community where scripture takes root and bears fruit. Other communities are formed by what was formed here.
+- **Dimension 2: How the group handles a hard or unfamiliar passage.** When the text resists the group's existing framings — when it says something none of them want to hear, or names something none of them know how to integrate — what does the group do?
+  - (Receiving) The group sits with the discomfort without immediately resolving it.
+  - (Responding) The group engages the difficulty actively — multiple perspectives, honest wrestling, willingness to be confused together.
+  - (Valuing) The group lets the hard passage change something in how it operates. The discomfort does formation work, not avoidance work.
+  - (Organization) The group has internalized that the hard passages are part of the formation, not interruptions to it. The cultural pattern of facing the hard is consistent.
+  - (Characterization) The group's willingness to be confronted by scripture is part of what defines it. New members are formed by it.
+- **Dimension 3: How the group welcomes a new voice.** When a new member, a visitor, or someone with a different background or framework enters — what happens?
+  - (Receiving) The group is genuinely open to hearing what the new person brings.
+  - (Responding) The group engages the new voice — asks them questions, integrates their contributions into the conversation.
+  - (Valuing) The group is willing to let a new voice change the conversation. Costly accommodation, not surface welcome.
+  - (Organization) Welcoming new voices is part of how the group functions. The pattern is consistent across visits and new members.
+  - (Characterization) The group's openness has become part of its identity. Outsiders experience it without being told.
+- **Dimension 4: How the group's prayer life functions.** What kind of prayer happens? Who initiates? What is the content? Is the group a praying community or a community that prays?
+  - (Receiving) The group prays together. People are willing to be in prayer with each other.
+  - (Responding) The group prays actively — naming specific things, building on what is named, varying voices.
+  - (Valuing) Prayer in the group reaches into the real life of the members. People bring what is actually at stake. Conviction, repentance, real intercession.
+  - (Organization) Prayer is consistently part of how the group functions across sessions, not just an opening or closing ritual. The prayer life shapes the rest of the session.
+  - (Characterization) The group is recognizable as a praying community. Prayer is the medium through which the group lives, not a practice the group does.
+- **Dimension 5: How the group handles conflict, correction, or disagreement.** When two members disagree, when someone needs to be told a hard truth, when an interpretation is contested — what does the group do?
+  - (Receiving) The group can hear that conflict is present without suppressing it.
+  - (Responding) The group engages the disagreement — both sides heard, the substance worked through, not just managed politely.
+  - (Valuing) The group lets the conflict do its work. Real correction happens. Real apologies. Real change.
+  - (Organization) The group has consistent patterns for navigating disagreement that work. It is not a one-off; the culture handles it.
+  - (Characterization) The group's capacity for honest conflict is part of its identity. New members and visitors notice it and are formed by it.
+- **Dimension 6: The group's Tell — what the group does with what it has heard.** What crosses the threshold from the group room into the world the members go back to?
+  - (Receiving) Members take what they heard with them. They notice it later.
+  - (Responding) Members speak about what the group heard with people outside the group.
+  - (Valuing) Members let what they heard cost them outside the group room. Behavior, decisions, conversations change.
+  - (Organization) The Tell pattern is consistent across members and across weeks. The group's hearing reliably crosses the threshold.
+  - (Characterization) The group is recognizable to outsiders by the fruit its members bear in the world. The Romans 10 chain runs through the group as a normal feature of its life.
+
+**Scoring.** Each member's individual Group SIP responses produce a current and preferred profile (six dimensions × two passes); aggregation across members produces the group's whole-culture current profile, preferred profile, and per-stage gap vector. The facilitator's separate Group SIP completion is compared to the member aggregate; agreement validates the reading, disagreement is itself diagnostic data.
+
+**Closure detection at the group level.** The same rule applies: any stage scoring below 10 points on a dimension in the group aggregate is flagged as collapse-suspect. A group whose aggregate profile is high-D / high-E but starved on A and B is the **closed Stage-4 group culture** the [§4b shadow rating](#4b-open-trail-ot-6-can-a-group-move-through-the-affective-taxonomy) names: what looks like advanced group formation is in fact closure. The facilitator records the surface stage with the closure flag, not the higher GATS rating alone.
+
+The Group SIP is administered at baseline (Month 1), Month 6, and Month 12 — the same rhythm as the CSFA, which it complements (CSFA organizes by three domains; Group SIP organizes by the five AT stages with integration check). For the duration of this Vol 4 revision, Group SIP runs alongside the GSFP, CSFA, and GCS rather than replacing them; the [Vol 4 Appendix](appendix-research-extensions.md) describes the Pilot Ready transition plan.
+
 ## 4d. Group-Level Outcome Variables
-The small group testing protocol tracks five group-level outcome variables over the twelve-month period. These are distinct from the individual outcome variables described in Section 3, though they are correlated with them. They describe what is happening to the group as a unit — its shared culture, its collective behaviors, and its effectiveness as a formation community.
+The small group testing protocol tracks six group-level outcome variables over the twelve-month period. The first five are distinct from the individual outcome variables described in Section 3, though they are correlated with them; the sixth — Group SIP Trajectory — is the Pilot Ready core measure introduced in this Vol 4 revision (see the Group SIP description above and the [Vol 4 Appendix](appendix-research-extensions.md) for the Pilot Ready transition plan). Together they describe what is happening to the group as a unit — its shared culture, its collective behaviors, and its effectiveness as a formation community.
 
 **Group Outcome Variable 1: Net Stage Progression Across the Group**
 
@@ -112,6 +163,12 @@ The Tell Rate is also sensitive to the group stage. At Stage 2, participants are
 The final group-level outcome variable is the most demanding and the most interesting: evidence of the fruit of the Spirit (Gal. 5:22–23) visible to people outside the group. Love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, self-control — these are Stage 4 and Stage 5 indicators, and they are most reliably observed not by the person exhibiting them (who is often the last to notice) and not by the formation group (who may be too close to the person to see clearly), but by the people in the participant's ordinary life who have no stake in the research program and no reason to be generous in their assessment. The mechanism — the External Witness Interview (EWI), conducted with one person identified by each participant — is introduced in [§3 Outcome Variable 4](section-3-individual-spiritual-formation-testing-protocol.md); at the group level the per-participant EWI data is aggregated for a different purpose than the individual-level one (fruit observed across the group rather than belief-behavior integration for a single participant).
 
 The External Witness Interviews described in Section 3 aggregate across the group to produce a group-level picture. If, at Month 12, six of seven participants' external witnesses independently report observable character changes that they attribute to the participant's deepened spiritual engagement, that is a strong group-level indicator that the formation process is producing the outcomes the LotS framework predicts. If the external witnesses report that nothing has changed — or, more troublingly, that the participant has become more self-righteous or less relationally available since joining the group — that is a finding that demands honest examination.
+
+**Group Outcome Variable 6: Group SIP Trajectory — Pilot Ready core measure**
+
+The sixth outcome variable is the change over twelve months in the group's collective Group SIP profile (described as a new Pilot Ready core instrument in the section above, between §4c and §4d). Unlike Group OV1 (Net Stage Progression), which aggregates individual stage movements, OV6 tracks the group's collective culture across the five AT stages with the integration-vs-closure check built in. A meaningful positive trajectory is upward shift in the higher-stage scores (D and E) **paired with sustained or rising** earlier-stage scores (A and B) across the six Group SIP dimensions; a profile in which D and E rise while A drops below the 10-point closure threshold in multiple dimensions is recorded as a closure trajectory, not a progression trajectory — regardless of what Group OV1 reads.
+
+OV6 is the group-level operational form of the [§2 integration reading](section-2-testing-framework.md#reading-the-affective-taxonomy-as-integration-not-replacement) and what the [§4b GATS closure shadow rating](#4b-open-trail-ot-6-can-a-group-move-through-the-affective-taxonomy) flags qualitatively, measured quantitatively. For the duration of this Vol 4 revision, OV1 and OV6 are both tracked; under the Pilot Ready transition plan (see the [Vol 4 Appendix](appendix-research-extensions.md)), OV6 becomes the primary group-level AT outcome variable.
 
 ## 4e. The Facilitator as a Critical Variable
 !!! note "Formation Document connection — FC (Formation Companion)"
