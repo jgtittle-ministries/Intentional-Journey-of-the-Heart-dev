@@ -51,7 +51,7 @@ The same structural insight ran through a related project of mine: I have spent 
 
 I did not arrive at the held-tensions reading of the Foundational Laws by deductive application of Cameron and Quinn. I arrived at it because I had been doing this kind of work — in BSCP form, in client engagement after client engagement — for decades, and the spiritual-formation analogs eventually became visible because of the operational practice, not in spite of it. The forms differ. The metrics in BSCP are numerical; the diagnostics in the Foundational Laws are observational. The "vital signs report" that summarizes a client's balanced operation has, in the spiritual-formation domain, no quantitative analog yet. But the underlying structural claim — that health is a held tension between competing values, and that the deformation tells you which pole is being collapsed — is the same claim in both registers.
 
-For the reader interested in the operational depth, the BSCP work is being written up as a separate volume. The two projects sit alongside each other in my own thinking: BSCP names how to do this work for organizations, this supplemental names how to read it in the spiritual life. Each tightens the other.
+For the reader interested in the operational depth, the BSCP work is being published as a separate volume at [**The Balanced Scorecard Process**](https://jgtittle-ministries.github.io/balanced-scorecard-process/). The two projects sit alongside each other in my own thinking: BSCP names how to do this work for organizations, this supplemental names how to read it in the spiritual life. Each tightens the other.
 
 ## A Note for the Reader Who Carries This Further
 
