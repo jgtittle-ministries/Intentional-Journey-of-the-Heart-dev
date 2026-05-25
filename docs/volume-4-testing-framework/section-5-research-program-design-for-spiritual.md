@@ -22,40 +22,40 @@ The research program is organized around five primary research questions. Each q
     **Question.** Does consistent participation in PROAPT-based small-group bible study produce measurable movement through the Affective Taxonomy stages over a 12-month period, compared to a matched control group?
 
     - **LotS claims tested:** LotS-H3, LotS-H4, LotS-F4
-    - **Primary instruments:** PSFA (stage progression), SOP (Tell Rate), GSFP (group stage distribution)
-    - **Expected finding:** PROAPT participants will show significantly greater net stage progression than control participants over 12 months.
+    - **Primary instruments:** SIP-Individual (integration profile trajectory), Group SIP (group culture trajectory), weekly Tell-Rate count
+    - **Expected finding:** PROAPT participants will show significantly greater SIP integration trajectory than control participants over 12 months.
 
 !!! abstract "RQ2"
 
-    **Question.** Is there a significant positive correlation between Affective Taxonomy stage and scripture trust level (STI-A score) at each assessment point?
+    **Question.** Does scripture trust deepen in parallel with AT integration profile growth, with affective changes preceding cognitive ones?
 
     - **LotS claims tested:** LotS-F1, LotS-F2, LotS-H1
-    - **Primary instruments:** PSFA (stage), STI-A (scripture trust), NRP (qualitative confirmation)
-    - **Expected finding:** STI-A scores will correlate positively with PSFA stage scores (r ≥ 0.60) and will rise in parallel with stage progression, with affective changes preceding cognitive changes.
+    - **Primary instruments:** SIP-Individual (especially Dimensions 1, 3, and 5 — scripture engagement, scripture-shaped decisions, response to suffering), NRP (qualitative confirmation). Studies wanting the optional dedicated scripture-trust measurement may add the STI-A from the [Vol 4 Appendix](appendix-research-extensions.md).
+    - **Expected finding:** SIP profile movement in the scripture-related dimensions will correlate with movement in the other dimensions, with affect-related changes (Dimensions 1, 5, 6) preceding cognition-related ones (Dimensions 2, 3).
 
 !!! abstract "RQ3"
 
-    **Question.** Does Affective Taxonomy stage progression correlate with measurable growth in one or more of the Image of God 4Rs (Reason, Rulership, Relationship, Righteousness)?
+    **Question.** Does AT integration profile growth correlate with measurable growth in one or more of the Image of God 4Rs (Reason, Rulership, Relationship, Righteousness)?
 
     - **LotS claims tested:** LotS-I2, LotS-I3
-    - **Primary instruments:** PSFA (stage), Image of God 4Rs Self-Assessment, NRP (4R-specific prompts)
-    - **Expected finding:** Participants progressing to Stage 3 and above will show significant growth in at least two 4R dimensions; specific 4Rs will correspond to the scriptural content engaged in their PROAPT group.
+    - **Primary instruments:** SIP-Individual (integration profile), NRP-IoG prompt set (baseline and endpoint comparison)
+    - **Expected finding:** Participants whose SIP profiles integrate into Stage 3 and above will show significant growth in at least two 4R dimensions; specific 4Rs will correspond to the scriptural content engaged in their PROAPT group.
 
 !!! abstract "RQ4"
 
-    **Question.** Does the facilitator's own Affective Taxonomy stage predict the group's net stage progression rate and Group Affective Taxonomy Stage (GATS) trajectory?
+    **Question.** Does the facilitator's own AT integration profile predict the group's Group SIP integration trajectory and GATS development?
 
     - **LotS claims tested:** OT-6 (collective formation); Vol 3 leadership application
-    - **Primary instruments:** Facilitator PSFA (baseline), GSFP (quarterly), Final Group Formation Report
-    - **Expected finding:** Groups led by Stage 4 facilitators will show significantly greater net stage progression than groups led by Stage 3 facilitators, controlling for group composition and church context.
+    - **Primary instruments:** Facilitator SIP (baseline and endpoint), Group SIP (baseline / M6 / M12), Final Group Formation Report. Studies wanting the original PSFA-format facilitator measure may add the Facilitator PSFA from the [Vol 4 Appendix](appendix-research-extensions.md).
+    - **Expected finding:** Groups led by integrated Stage 4 facilitators (Facilitator SIP showing high D/E *with* sustained A/B) will show significantly greater Group SIP integration trajectory than groups led by Stage 3 facilitators or by Stage 4 facilitators showing closure-flag patterns, controlling for group composition and church context.
 
 !!! abstract "RQ5"
 
-    **Question.** Are there identifiable preconditions — in PROAPT engagement, personal circumstances, or relational context — that reliably precede dramatic or rapid stage transitions?
+    **Question.** Are there identifiable preconditions — in PROAPT engagement, personal circumstances, or relational context — that reliably precede dramatic or rapid integration-profile shifts?
 
     - **LotS claims tested:** OT-5 (precursors of instantaneous heart change); LotS-F3 (trials as formation mechanism)
-    - **Primary instruments:** NRP (monthly narratives), OT-5 Supplementary Interview, SOP (facilitator session notes)
-    - **Expected finding:** Rapid stage transitions will be consistently preceded by a period of heightened PROAPT engagement combined with a significant trial or cost, confirming Jas. 1:2–3 as a mechanism rather than a coincidence.
+    - **Primary instruments:** NRP (monthly narratives), and the optional OT-5 Supplementary Interview and SOP session-by-session record from the [Vol 4 Appendix](appendix-research-extensions.md) when added by the study
+    - **Expected finding:** Rapid integration shifts will be consistently preceded by a period of heightened PROAPT engagement combined with a significant trial or cost, confirming Jas. 1:2–3 as a mechanism rather than a coincidence.
 
 ## 5b. Research Design
 The LotS research program employs a longitudinal mixed-methods design with a quasi-experimental comparison condition. The choice of design reflects the epistemological framework established in Section 2: the complexity of spiritual formation outcomes requires both quantitative tracking of behavioral change and qualitative depth in understanding what that change means and how it occurred. Neither alone is adequate; together they provide the multi-layered picture of formation that the LotS claims require.
@@ -64,7 +64,7 @@ The LotS research program employs a longitudinal mixed-methods design with a qua
 
 The program runs for a minimum of twenty-four months across three phases: a six-month preparation and recruitment phase, a twelve-month active study period (the individual and group protocols described in Sections 3 and 4), and a six-month analysis and reporting phase. The extended preparation phase is not optional padding — it is the time required to recruit and train facilitators, establish research partnerships with participating churches, adapt and pilot-test the assessment instruments, and ensure that the ethical framework described in section 5d is in place before any participant data is collected.
 
-The active study period is the twelve months described in Sections 3 and 4. During this period, data collection happens through the instruments already described: PSFA, STI-A, Image of God 4Rs, SDFL, NRP, SOP, GCS, CSFA, and EWI. No new data collection instruments are introduced mid-study; this is a constraint that protects the study's integrity and reduces participant burden.
+The active study period is the twelve months described in Sections 3 and 4. During this period, data collection happens through the Pilot Ready core instruments described there: SIP-Individual, NRP (with Image of God 4Rs prompt set), EWI, Group SIP, and the weekly Tell-Rate count. Studies opting into research-grade extensions from the [Vol 4 Appendix](appendix-research-extensions.md) (STI-A, SDFL, GSFP, GCS, CSFA, SOP, Facilitator PSFA, OT-5 Supplementary Interview) add those instruments to the core. No new data collection instruments are introduced mid-study; this is a constraint that protects the study's integrity and reduces participant burden.
 
 **Sites and Groups**
 
@@ -76,7 +76,7 @@ The LotS research trajectory should follow the same logic. The three-to-five sit
 
 Each site runs two PROAPT research groups simultaneously: one led by a Stage 3 facilitator and one by a Stage 4 facilitator, with comparable group compositions at baseline. This within-site pairing controls for site-level variables (church culture, demographic factors, theological tradition) while testing RQ4 — the facilitator stage question — within the same context. The research coordinator visits each site at least quarterly to conduct instrument administrations, facilitator supervision check-ins, and spot-observation of PROAPT sessions.
 
-Each site also identifies a comparison cohort: church members who are not participating in a PROAPT research group but who agree to complete the PSFA and STI-A at baseline and at Month 12. The comparison cohort is not randomly assigned — it is a quasi-experimental control, drawn from the same church population. Participants in the comparison cohort may be attending other small groups, Sunday school classes, or no formal formation program. Their twelve-month data provides the baseline rate of stage progression in the church population without the PROAPT intervention, which is the denominator against which the PROAPT groups' progression is measured for RQ1.
+Each site also identifies a comparison cohort: church members who are not participating in a PROAPT research group but who agree to complete the SIP at baseline and at Month 12. The comparison cohort is not randomly assigned — it is a quasi-experimental control, drawn from the same church population. Participants in the comparison cohort may be attending other small groups, Sunday school classes, or no formal formation program. Their twelve-month data provides the baseline rate of SIP integration trajectory in the church population without the PROAPT intervention, which is the denominator against which the PROAPT groups' trajectory is measured for RQ1.
 
 | Site Element | Count per Site | Total at 3 sites | Total at 5 sites | Primary Purpose |
 | --- | --- | --- | --- | --- |
@@ -89,15 +89,15 @@ Each site also identifies a comparison cohort: church members who are not partic
 
 **Quantitative Analysis Plan**
 
-The quantitative analysis addresses RQ1 through RQ4 using the PSFA stage scores, STI-A scores, and Image of God 4Rs assessment scores collected at three time points (baseline, Month 6, Month 12) across PROAPT participants and the comparison cohort.
+The quantitative analysis addresses RQ1 through RQ4 using the SIP-Individual profiles, Group SIP profiles, weekly Tell-Rate counts, and NRP-IoG entries collected across the twelve-month protocol's assessment points and across PROAPT participants and the comparison cohort. Studies adding research-grade extensions from the [Vol 4 Appendix](appendix-research-extensions.md) (PSFA, STI-A, etc.) supplement the core analyses with additional convergent measures.
 
-For RQ1, the primary analysis is a repeated-measures comparison of PSFA stage progression between the PROAPT groups and the comparison cohort over twelve months. Statistical significance is tested using a mixed ANOVA with time as the within-subjects factor and group condition (PROAPT vs. comparison) as the between-subjects factor. The expected finding is a significant time × condition interaction: PROAPT participants show greater stage progression over time than comparison participants. Effect size will be reported as partial eta-squared; a medium effect (η² ≥ 0.06) is the minimum threshold for the finding to be considered practically meaningful given the sample size.
+For RQ1, the primary analysis is a repeated-measures comparison of SIP integration profile trajectory between the PROAPT groups and the comparison cohort over twelve months. Statistical significance is tested using a mixed ANOVA with time as the within-subjects factor and group condition (PROAPT vs. comparison) as the between-subjects factor, with the SIP profile shape (per-stage scores) as the dependent variable family. The expected finding is a significant time × condition interaction: PROAPT participants show greater integration trajectory over time than comparison participants. Effect size will be reported as partial eta-squared; a medium effect (η² ≥ 0.06) is the minimum threshold for the finding to be considered practically meaningful given the sample size. The closure-flag rate (proportion of participants whose profile shows the closure signature at endpoint) is a paired primary outcome, reported alongside the trajectory measure to protect against reading surface progression as formation when integration has in fact closed.
 
-For RQ2, the analysis is a correlation study at each time point: are PSFA stage scores and STI-A trust scores significantly correlated? A Pearson r ≥ 0.60 is predicted, based on the theoretical relationship between the two constructs. A second analysis examines the temporal ordering of the two measures: does affective stage progression (PSFA) precede scripture trust changes (STI-A) or follow them? This temporal ordering question is addressed using cross-lagged panel analysis across the three time points.
+For RQ2, the analysis examines the cross-dimensional pattern within the SIP itself: do the affect-related dimensions (1, 5, 6) move earlier than the cognition-related dimensions (2, 3) across the three assessment points? This temporal ordering question is addressed using cross-lagged panel analysis. Studies adding the optional STI-A from the Appendix can also test the SIP–STI-A convergence as an external validity check (predicted Pearson r ≥ 0.60).
 
-For RQ3, the analysis examines the correlation between PSFA stage progression and Image of God 4Rs profile shifts. A separate analysis examines whether specific 4Rs grow in response to specific scriptural content domains — this requires the facilitator's session notes to document the primary thematic content of each month's PROAPT sessions, allowing the research coordinator to code sessions by 4R domain and test whether 4R growth aligns with content exposure.
+For RQ3, the analysis examines the correlation between SIP integration trajectory and Image of God 4Rs profile shifts (qualitatively coded from the NRP-IoG prompt set baseline-vs-endpoint comparison). A separate analysis examines whether specific 4Rs grow in response to specific scriptural content domains — this requires the facilitator's session notes to document the primary thematic content of each month's PROAPT sessions, allowing the research coordinator to code sessions by 4R domain and test whether 4R growth aligns with content exposure.
 
-For RQ4, the analysis compares net stage progression across groups led by Stage 3 versus Stage 4 facilitators, using a two-sample t-test on net PSFA change scores within each site. Given the small number of groups (two per site, ten total), the analysis will be primarily descriptive and effect-size-based rather than inferential — the sample size is not sufficient to support strong statistical conclusions about the facilitator effect, but a consistent directional pattern across sites will be a meaningful finding that warrants further investigation in a larger study.
+For RQ4, the analysis compares Group SIP integration trajectory across groups led by integrated Stage 4 facilitators (Facilitator SIP showing high D/E with sustained A/B) versus other facilitator profile patterns, using a two-sample t-test on Group SIP trajectory scores within each site. Given the small number of groups (two per site, ten total), the analysis will be primarily descriptive and effect-size-based rather than inferential — the sample size is not sufficient to support strong statistical conclusions about the facilitator effect, but a consistent directional pattern across sites will be a meaningful finding that warrants further investigation in a larger study.
 
 **Qualitative Analysis Plan**
 
@@ -105,27 +105,37 @@ The qualitative analysis addresses RQ5 and provides the interpretive texture for
 
 The NRP entries are analyzed using thematic coding organized around the LotS framework's key constructs: hearing the word (Romans 10:17 mechanism), trial as formation catalyst (James 1:2–3), heart change (Affective Taxonomy stage transitions), and Image of God growth (4R domains). Two coders work independently on a random 30 percent sample of the NRP entries to establish inter-rater reliability before coding the full dataset. Discrepancies are resolved through discussion and a third-coder tiebreak process. The coding scheme is developed inductively from the data as well as deductively from the LotS framework — findings that do not map onto the existing framework are flagged as potential refinements or challenges to the framework, not discarded.
 
-The EWI data is analyzed separately, with coders working blind to the participant's own PSFA and NRP data. This blind analysis is essential: the value of the EWI is precisely its independence from the participant's self-report. Convergence between the EWI's observations and the participant's own NRP narrative is a validity indicator for both instruments. Divergence — particularly where the participant reports significant heart change that the external witness does not observe — is a flag for what the LotS framework calls the belief-behavior integration gap: Stage 3 formation at the level of intention that has not yet fully crossed into Stage 4 at the level of habitual character.
+The EWI data is analyzed separately, with coders working blind to the participant's own SIP and NRP data. This blind analysis is essential: the value of the EWI is precisely its independence from the participant's self-report. Convergence between the EWI's observations and the participant's own SIP profile and NRP narrative is a validity indicator for the protocol. Divergence — particularly where the participant's SIP profile shows significant integration that the external witness does not observe — is a flag for what the LotS framework calls the belief-behavior integration gap: Stage 3 contributions at the level of intention that have not yet fully crossed into Stage 4 at the level of habitual character.
 
 The OT-5 supplementary interviews with participants who experienced rapid or dramatic stage transitions are analyzed using narrative inquiry methods: each participant tells the story of their formation breakthrough in their own words, and the researcher maps that narrative against the LotS framework's predictions about preconditions. Consistent patterns across multiple supplementary interviews would constitute preliminary evidence for the OT-5 hypothesis — that instantaneous-seeming heart change is characteristically preceded by a period of spiritual preparation that may not be visible to the participant at the time.
 
 ## 5c. Instruments Summary
-The table below summarizes all instruments used in the research program, the constructs they measure, the LotS claims they test, their data type, and the frequency of administration. Full draft instruments appear in Appendix A.
+The table below summarizes the instruments used in the Pilot Ready research program. Research-grade extension instruments documented in the [Vol 4 Appendix](appendix-research-extensions.md) are listed in a separate table below. Full draft instruments appear in Appendix A.
+
+**Pilot Ready core instruments**
 
 | Instrument | Construct Measured | LotS Claims | Type | Frequency |
 | --- | --- | --- | --- | --- |
-| PSFA | Affective Taxonomy stage; Image of God 4Rs | H3, H4, I2, I3, F2 | Quantitative | Baseline, M6, M12 |
-| STI-A | Scripture trust level | F1, F2, H1 | Quantitative | Baseline, M6, M12 |
-| Image of God 4Rs | 4R profile (Reason, Rulership, Relationship, Righteousness) | I2, I3 | Quantitative | Baseline, M12 |
-| SDFL | Spiritual discipline frequency | H4, contextual | Quantitative | Weekly log |
-| NRP | Formation experience narrative; trial response; heart change; 4R growth | F3, H1, H3, I2, OT-5 | Qualitative | Monthly |
-| SOP | Session engagement; Tell Rate; stage-transition events | F4, H4, OT-6 | Mixed | Every session |
-| GSFP | Group stage distribution; GATS trajectory | OT-6, H3 | Qualitative/Visual | Quarterly |
-| GCS | Group cohesion; psychological safety | F4, OT-6 | Quantitative | Quarterly |
-| CSFA | Collective scripture engagement; group trust; outward orientation | F4, OT-6, SF1 | Quantitative | Baseline, M6, M12 |
-| EWI | External behavioral observation; belief-behavior integration | H3, H4, I2, SF2 | Qualitative | Baseline, M12 |
-| OT-5 Interview | Preconditions of rapid stage transitions | F3, OT-5 | Qualitative | Event-triggered |
-| Facilitator PSFA | Facilitator Affective Taxonomy stage | OT-6, RQ4 | Quantitative | Baseline |
+| SIP-Individual | AT integration profile across five stages with closure check | H3, H4, F2, I2 | Quantitative (forced-choice) | Baseline, M6, M12 |
+| NRP (with IoG-4Rs prompt set) | Formation experience narrative; trial response; heart change; 4R growth | F3, H1, H3, I2, OT-5 | Qualitative | Monthly |
+| EWI | External behavioral observation; belief-behavior integration; fruit observed | H3, H4, I2, SF2 | Qualitative | Baseline, M12 |
+| Group SIP | Group culture integration profile across five stages with closure check | OT-6, H3, F4 | Quantitative (forced-choice) | Baseline, M6, M12 |
+| Weekly Tell-Rate count | Romans 10 chain operating at group level (single-question facilitator check) | F4, H4 | Quantitative | Every session |
+| Facilitator SIP | Facilitator's own AT integration profile (as independent variable) | OT-6, RQ4 | Quantitative (forced-choice) | Baseline, M12 |
+
+**Research-grade extensions** (optional; canonical descriptions in the [Vol 4 Appendix](appendix-research-extensions.md))
+
+| Instrument | When to add | Type | Frequency |
+| --- | --- | --- | --- |
+| PSFA (AT-stage portion) | Comparability to earlier work; Likert alternative to SIP forced-choice | Quantitative | Baseline, M6, M12 |
+| STI-A | Dedicated scripture-trust measurement (research target) | Quantitative | Baseline, M6, M12 |
+| SDFL | Practice frequency data for intensity-vs-outcome studies | Quantitative | Weekly log |
+| GSFP | Individual-distribution view alongside Group SIP's culture view | Qualitative/Visual | Quarterly |
+| GCS | Externally-grounded cohesion measure (group therapy literature comparison) | Quantitative | Quarterly |
+| CSFA | Three-domain cut on group culture (corporate engagement / trust / outward) | Quantitative | Baseline, M6, M12 |
+| SOP | Session-by-session formation record (six-variable checklist) | Mixed | Every session |
+| Facilitator PSFA | PSFA-format facilitator measure for comparability | Quantitative | Baseline |
+| OT-5 Supplementary Interview | Preconditions of rapid stage transitions (event-triggered) | Qualitative | Event-triggered |
 
 ## 5d. Ethical Considerations
 Research in spiritual formation settings raises ethical questions that standard social science research frameworks address imperfectly. The participants are not just research subjects — they are people entrusting their spiritual journey, their personal convictions, their private struggles with faith, to a process that they are simultaneously trying to live authentically. The researcher is not just an observer — they are, in the LotS framework, themselves a disciple, bringing their own formation history and their own stage on the Affective Taxonomy to every interaction with the data. These realities demand an ethical framework that is more thoughtful than the standard IRB checklist, though that checklist is the minimum, not the ceiling.
@@ -142,7 +152,7 @@ The consent process for external witnesses deserves special attention. External 
 
 Three categories of participants require particular care in the LotS research program.
 
-**Participants in the early stages of faith (Stage 1–2).** The assessment process — particularly the PSFA's direct questions about one's relationship to scripture and the degree to which biblical principles are shaping daily life — can feel exposing or judgmental to a participant who is genuinely at Stage 1: attending out of curiosity, not yet sure what they believe, not yet trusting the group enough to share honestly. The PSFA is framed as a personal reflection tool, not an evaluation. Facilitators are trained to reinforce this framing and to respond to Stage 1 participants' discomfort with pastoral warmth rather than research urgency.
+**Participants in the early stages of faith (Stage 1–2).** The assessment process — particularly the SIP's direct questions about one's engagement with scripture and the degree to which biblical principles are shaping daily life — can feel exposing or judgmental to a participant whose profile weights primarily at Stage 1: attending out of curiosity, not yet sure what they believe, not yet trusting the group enough to share honestly. The SIP is framed as a personal reflection tool, not an evaluation, and the forced-choice distribution is presented as "where is my engagement right now?" rather than as a ranking. Facilitators are trained to reinforce this framing and to respond to early-stage participants' discomfort with pastoral warmth rather than research urgency.
 
 **Participants in a spiritual crisis.** The formation process can surface pain, loss, unresolved grief, and deep spiritual doubt. A participant who is in acute spiritual crisis — questioning whether God exists, processing a devastating loss, or wrestling with a long-buried sin — is not best served by continued participation in a research protocol. The facilitator protocol includes clear criteria for recognizing acute spiritual crisis and clear procedures for responding: stepping outside the research protocol to offer pastoral care, referring to professional support when appropriate, and supporting the participant's decision to withdraw from the research program without prejudice if that is what they need.
 
@@ -167,7 +177,7 @@ This volume identifies ten Open Research Questions in the spiritual-formation ar
 | OT-3 | Complete the taxonomy trilogy — spirit and soul taxonomy parallel to affective and cognitive | Not addressed — this requires a prior theological anthropology study; flagged for future work |
 | OT-4 | Map LotS explorations to a discipleship curriculum using Affective Taxonomy as scaffolding | Partially addressed — PROAPT functions as the curriculum scaffold; formal curriculum mapping is a separate project |
 | OT-5 | Precursors of instantaneous heart change | Directly addressed — OT-5 Supplementary Interview protocol; RQ5 |
-| OT-6 | Collective spiritual formation — how a community moves through the Affective Taxonomy | Directly addressed — GATS, GSFP, CSFA, and Group outcome variables in Section 4 |
+| OT-6 | Collective spiritual formation — how a community moves through the Affective Taxonomy | Directly addressed — GATS, Group SIP, weekly Tell-Rate, and Group outcome variables in Section 4 (optional GSFP and CSFA extensions in the Vol 4 Appendix add the individual-distribution view and three-domain cut) |
 | OT-7 | Image of God renewal as a structured process — 4Rs as developmental milestones | Directly addressed — RQ3, Image of God 4Rs Self-Assessment, NRP 4R prompts |
 | OT-8 | Sin's impact on trust development — how unrepentant sin interferes with Affective Taxonomy progression | Partially addressed — NRP qualitative coding includes sin-pattern themes; direct testing requires a different study design |
 | OT-9 | Leadership formation through Image of God lens — 3D framework integrating 4Rs, Affective Taxonomy, Cognitive Taxonomy | Partially addressed — RQ4 and facilitator stage as independent variable; full leadership formation study is a separate project |
