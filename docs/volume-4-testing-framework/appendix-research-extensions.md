@@ -1,19 +1,25 @@
 ---
-title: "Appendix B: Research-Grade Extensions and Future Instruments"
+title: "Vol 4 Appendix: Research-Grade Extensions and Future Instruments"
 volume: 4
 ---
 
-# Appendix B: Research-Grade Extensions and Future Instruments
+# Vol 4 Appendix: Research-Grade Extensions and Future Instruments
+
+!!! warning "These testing protocols are proposed, not validated"
+
+    Every instrument referenced in this Vol 4 framework — the Pilot Ready core (SIP, NRP, EWI), the extension instruments described below, and the protocols that integrate them — is a **proposed design**. The instruments themselves have not been individually validated through formal psychometric work; more importantly, the protocols **have not been tested as a group** in actual ministry settings. No pilot study has yet run the integrated framework end-to-end with real participants, real facilitators, real twelve-month timelines, and the cross-instrument convergence checks the framework predicts. The §1 framing — "drafts, ready for piloting and refinement" — applies to the framework as a whole, not only to individual instruments. Readers and future pilot teams should treat the Vol 4 protocol as a thoughtful design ready for testing, not as a battle-tested measurement program. Findings from any pilot use should be expected to revise both the individual instruments and the protocol's structural choices.
+
+(A separate "Appendix A" is referenced elsewhere in Vol 4 — in §3b, §3d, and §5 — as the home for the full draft instrument items themselves, e.g., the actual PSFA items, the actual STI-A items. Those drafts existed in the original Word manuscript but were not pulled through into the published markdown; that publication remains a future task and is unrelated to this appendix. This appendix is *not* the same Appendix A those sections refer to; it is a separate disposition list about which instruments are core versus extension.)
 
 ## Why this appendix exists
 
 The Vol 4 testing protocol is moving toward a **Pilot Ready Protocol** — a three-instrument core (the Stage Integration Profile, the Narrative Reflection Protocol, and the External Witness Interview) designed so that a real pastor, facilitator, or small-group leader in a real church can actually run it without being overwhelmed by assessment load. The §4e section already insists that the facilitator is the single most important variable in whether a PROAPT group produces genuine formation; that claim is operationally meaningful only if the protocol leaves the facilitator the time, attention, and presence the role requires.
 
-The instruments collected in this appendix were developed earlier in the Vol 4 design as part of a broader twelve-instrument suite. They remain operationally sound and are preserved here for facilitators, research teams, doctoral-level studies, or future programs that want deeper instrumentation in specific dimensions. They are not part of the Pilot Ready core. Adding any of them to a real-world protocol is an explicit choice with a known cost in facilitator and participant load; the decision should be made deliberately and with awareness of what the core three instruments already capture.
+The instruments collected here were developed earlier in the Vol 4 design as part of a broader twelve-instrument suite. They remain operationally sound *as proposed designs* (see the warning above) and are preserved here for facilitators, research teams, doctoral-level studies, or future programs that want deeper instrumentation in specific dimensions once the framework moves into actual pilot use. They are not part of the Pilot Ready core. Adding any of them to a real-world protocol is an explicit choice with a known cost in facilitator and participant load; the decision should be made deliberately and with awareness of what the core three instruments already capture.
 
 This appendix is the disposition list for the moment. The transition from the earlier full-suite design to the Pilot Ready core happens in three published passes:
 
-- **Pass A (this appendix).** Appendix B exists as an index. The canonical descriptions of the eight extension instruments still live in §3 and §4 as currently written. Each entry below cross-references the canonical location and adds a Pilot Ready disposition note. The protocol itself has not yet changed.
+- **Pass A (this appendix).** The appendix exists as an index. The canonical descriptions of the eight extension instruments still live in §3 and §4 as currently written. Each entry below cross-references the canonical location and adds a Pilot Ready disposition note. The protocol itself has not yet changed.
 - **Pass B (forthcoming).** The Stage Integration Profile (SIP — both Individual and Group variants) is published as a new core instrument in §3 and §4, alongside the existing twelve. Calibration touches in §3/§4 prose are lightly revised to mention the SIP's native closure-flag check.
 - **Pass C (forthcoming).** §3 and §4 are restructured around the Pilot Ready three-instrument core. The canonical descriptions of the eight extension instruments migrate into this appendix; §3 and §4 retain brief stub references back here. The Image of God 4Rs becomes a recurring prompt set within the NRP. The Tell Rate is kept at the group level as a single weekly facilitator check rather than as part of the multi-variable Session Observation Protocol.
 
