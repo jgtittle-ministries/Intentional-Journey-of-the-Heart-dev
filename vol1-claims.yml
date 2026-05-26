@@ -2376,9 +2376,70 @@ claims:
       broken cisterns that can hold no water") names the substitution
       dynamic at the soul-restoration level.
 
-  # FL.XXXIX position is held vacant pending the formal admission of a
-  # candidate from the miracle-derived expansion pass; FL.XL admitted
-  # out-of-sequence to close the P0/GI positive-substrate gap.
+  # FL.XXXIX through FL.XLV admitted at the conclusion of the
+  # Alternative-E structural-revision arc as the seven miracle-derived
+  # candidates; FL.XL was admitted first out-of-sequence to close the
+  # P0/GI positive-substrate gap that the inventory exposed.
+
+  - id: FL.XXXIX
+    type: foundational_law
+    title: "The Surrender-Multiplication Law"
+    core_text: >
+      What is yielded into Christ's hands operates by a return-mechanism
+      that exceeds proportional scaling — the small offering of substance,
+      capacity, or self surrendered to Christ produces operational
+      consequences disproportionate to the offering's native magnitude;
+      absent the yielding, the same substance operates within FL.IX
+      Generosity-Provision's proportional return-regime. The shift from
+      proportional return to disproportionate multiplication is conditioned
+      on the surrender into Christ's operational possession. The substrate
+      operates scale-invariantly across all the catalog's analyzed scales.
+    status: core
+    confidence: 90
+    confidence_rationale: >
+      Seven-or-more-biblical-author cross-Testament support across the
+      four gospel writers (feedings of five thousand and four thousand,
+      miraculous catches, coin-in-fish's-mouth), the Kings writer (widow
+      of Zarephath and Elisha-widow OT prefigurations), and Paul at
+      2 Corinthians and Philippians.
+    scripture_refs:
+      - Matt. 14:13-21
+      - Mark 6:30-44
+      - Luke 9:10-17
+      - John 6:1-14
+      - Matt. 15:32-39
+      - Mark 8:1-10
+      - Matt. 17:24-27
+      - Luke 5:1-11
+      - John 21:1-14
+      - 1 Kgs. 17:8-16
+      - 2 Kgs. 4:1-7
+      - 2 Cor. 9:8-11
+      - Phil. 4:19
+    traditions_supporting: [Catholic, Reformed, Wesleyan, Pentecostal, Anabaptist, Evangelical]
+    upstream_dependencies: [V1.Ax1, FL.IX, FL.XXXV]
+    downstream_dependents: []
+    pt_period: P0
+    pt_group: GV
+    directionality: V
+    band: 1
+    mirror_type: statement
+    mirror_text: >
+      The Surrender-Multiplication Law's idol-ward face operates as the
+      buried-talent substrate — the substance retained in self-possession
+      against the day of accounting (Matt. 25:24-25). The Ananias-and-
+      Sapphira case (Acts 5:1-11) names the substitutional half-surrender.
+      The hoarder's stockpile in the Lukan parable of the rich fool
+      (Luke 12:16-21) names the broader cultural-economic substitute.
+      Recovery requires substrate restoration through trust-substrate
+      establishment (FL.XXXV), sustained desire-for-God (FL.VIII), and
+      sustained abiding (FL.XL).
+    notes: >
+      Admitted at the conclusion of the Alternative-E structural-revision
+      arc as the first of the six remaining miracle-derived candidates
+      after FL.XL's gap-closure admission. Operator C+P. Distinct from
+      FL.IX's proportional-return regime; the two laws operate sequentially
+      in the operational economy.
 
   - id: FL.XL
     type: foundational_law
@@ -2461,13 +2522,355 @@ claims:
       cell previously held only V1.Open Miracle Frame (Christological-
       condition substrate, Reasonably Inferred) and FL.XV Hardening Law
       (failure substrate); FL.XL is the catalog's first positive
-      participant-with-Christ-as-vine Spirit-dimension substrate. The
-      FL.XXXIX position is held vacant pending formal admission of a
-      candidate from the miracle-derived expansion pass. Operator under
-      the Alt E classification scheme is C+P (Christ-as-vine + participant-
-      as-branch).
+      participant-with-Christ-as-vine Spirit-dimension substrate. Operator
+      under the Alt E classification scheme is C+P (Christ-as-vine +
+      participant-as-branch).
+
+  - id: FL.XLI
+    type: foundational_law
+    title: "The Defilement-Cleansing Reversal Law"
+    core_text: >
+      Under Christ's operational presence, the polarity of ceremonial
+      contagion is structurally reversed — Christ's contact with the
+      unclean produces cleanness in the formerly-unclean rather than
+      uncleanness in Christ — with the reversed polarity operating as the
+      substrate condition within which the New Covenant's sanctifying
+      operations (baptismal cleansing, Eucharistic communion, priestly-
+      people ministration to the defiled) are operationally available.
+      The reversal is conditioned on Christ's specific operational presence
+      rather than on any participant-condition; the participant's role is
+      reception. The substrate operates scale-invariantly across all the
+      catalog's analyzed scales.
+    status: core
+    confidence: 90
+    confidence_rationale: >
+      Eight-or-more-biblical-author cross-Testament support: the four
+      Synoptic and Johannine gospel writers (cleansing pericopes and
+      foot-washing); Paul across 2 Corinthians, Ephesians, Titus, and
+      1 Corinthians; the Hebrews writer at Heb. 7 and Heb. 9; John in
+      1 John; Isaiah at Isa. 53 prefiguring.
+    scripture_refs:
+      - Matt. 8:1-4
+      - Mark 1:40-45
+      - Luke 5:12-16
+      - Mark 5:21-43
+      - Luke 8:40-56
+      - Luke 7:11-17
+      - John 13:1-11
+      - 2 Cor. 5:21
+      - Eph. 5:25-27
+      - Titus 3:5
+      - 1 Cor. 6:9-11
+      - Heb. 7:26
+      - Heb. 9:13-14
+      - 1 John 1:7
+      - Isa. 53:4-5
+    traditions_supporting: [Catholic, Orthodox, Reformed, Lutheran, Anglican, Pentecostal, Evangelical]
+    upstream_dependencies: [V1.Ax1, V1.Open]
+    downstream_dependents: [FL.II, FL.XXIV, FL.XXX]
+    pt_period: P0
+    pt_group: GVI
+    directionality: V
+    band: 1
+    mirror_type: christological_condition
+    mirror_text: >
+      The law's mechanism is not orientation-determined in the participant;
+      it is conditioned on Christ's operational presence as the structural
+      reverser. The participant's role is reception. The failure mode is
+      non-reception of the reversed-polarity offer in four forms:
+      self-cleansing substitute (the Pharisaic-cleansing pattern Mark
+      7:1-13 exposes); despair-of-cleansing (Heb. 10:38 shrinking-back);
+      substitute-mediator (mediator-economy parallel to Christ);
+      indifference (non-engagement with the substrate's availability).
+      Recovery requires re-orientation to Christ's offered operation as
+      the cleansing-substrate.
+    notes: >
+      The catalog's first pure-C-tier Operator Foundational Law explicitly
+      admitted (V1.Open Miracle Frame holds C+P at the broader architectural
+      frame; FL.XLI holds C at the specific substrate-of-cleansing
+      articulation). Mirror form is Christological-condition, the fourth
+      Mirror form added in the matured-catalog revision.
+
+  - id: FL.XLII
+    type: foundational_law
+    title: "The Kingdom-Confrontation Authority Law"
+    core_text: >
+      The operational presence of Christ — and, by derivative authorization,
+      of believers operating in His name through union with Him — compels
+      recognition from competing kingdom-powers, with the recognition
+      issuing in either capitulation (the demonic acknowledgment-and-
+      submission the Gospel exorcisms enact) or active counter-organization
+      (the principalities' structured opposition the apostolic mission
+      encounters). The recognition is structurally non-optional even where
+      the response is, with the response-form depending on the rival-power's
+      operational position rather than on the participant's confrontation-
+      skill. The substrate operates scale-invariantly across all the
+      catalog's analyzed scales.
+    status: core
+    confidence: 90
+    confidence_rationale: >
+      Seven-or-more-biblical-author cross-Testament support across the
+      Synoptic exorcism corpus, Luke in Acts, James, Paul across multiple
+      letters, the Hebrews writer, John in 1 John and Revelation, and OT
+      Psalmist background.
+    scripture_refs:
+      - Mark 1:23-26
+      - Mark 5:1-20
+      - Mark 9:14-29
+      - Matt. 17:14-20
+      - Luke 4:33-36
+      - Luke 8:26-39
+      - Luke 9:37-43
+      - Luke 10:17-20
+      - Acts 16:16-18
+      - Acts 19:13-16
+      - Jas. 2:19
+      - Col. 2:15
+      - Eph. 6:10-12
+      - Phil. 2:9-11
+      - 2 Cor. 10:3-5
+      - Heb. 2:14-15
+      - 1 John 3:8
+      - Rev. 12:7-11
+      - Ps. 110:1
+    traditions_supporting: [Catholic, Orthodox, Reformed, Lutheran, Pentecostal, Charismatic, Evangelical]
+    upstream_dependencies: [V1.Ax1, FL.XVI, V1.Exp7]
+    downstream_dependents: []
+    pt_period: P0
+    pt_group: GI
+    directionality: V
+    band: 1
+    mirror_type: christological_condition
+    mirror_text: >
+      The law's primary operator is Christ; the participant's role is
+      derivative-exercise under Christ's authorization. The failure mode
+      at the participant level is the Sceva-attempt (Acts 19:13-16's
+      canonical articulation) — exercise of authority-forms without the
+      underlying authorization-substrate, producing operationally-failed
+      encounters. The failure mode at the rival-power level is the
+      counter-organization response. The failure mode at the cultural
+      level is the disenchantment substitute (operational frames that deny
+      the rival-power's reality). Recovery requires the authorization's
+      substrate-restoration through the catalog's formation mechanisms.
+    notes: >
+      Operator C+P. The V directionality tag is extended to cover Christ's
+      authority-vector toward rival kingdom-powers — the matured-catalog
+      revision's small extension to the V tag's operational scope rather
+      than a new tag. Mirror form is Christological-condition with
+      derivative-participant operation.
+
+  - id: FL.XLIII
+    type: foundational_law
+    title: "The Cross-Boundary Faith-Access Law"
+    core_text: >
+      Recognized faith operates as the access criterion to covenant
+      benefits independently of the would-be recipient's standing within
+      the covenant's institutional perimeter — the perimeter is structurally
+      porous to the outsider whose faith Christ recognizes, with the
+      recognized faith reorganizing the covenant's operational extension
+      to include the recognized-believer regardless of perimeter-formal-
+      membership; absent the recognized faith, perimeter-membership
+      produces no operational covenant-access. The substrate operates
+      scale-invariantly across all the catalog's analyzed scales.
+    status: core
+    confidence: 90
+    confidence_rationale: >
+      Eight-or-more-biblical-author cross-Testament support across the
+      Synoptic gospel writers, John, Luke in Acts, Paul across Romans,
+      Galatians, Ephesians, the Kings writer, the Hebrews writer, James,
+      and the Ruth narrative.
+    scripture_refs:
+      - Matt. 8:5-13
+      - Luke 7:1-10
+      - Mark 7:24-30
+      - Matt. 15:21-28
+      - Luke 17:11-19
+      - John 4:1-42
+      - Luke 4:25-27
+      - Acts 10
+      - Acts 11
+      - Acts 15
+      - Rom. 4
+      - Rom. 2:25-29
+      - Gal. 3:7-14
+      - Gal. 3:26-29
+      - Eph. 2:11-22
+      - 1 Kgs. 17:8-24
+      - 2 Kgs. 5
+      - Heb. 11:31
+      - Jas. 2:25
+      - Ruth 1-4
+    traditions_supporting: [Catholic, Orthodox, Reformed, Lutheran, Anglican, Wesleyan, Anabaptist, Pentecostal, Evangelical]
+    upstream_dependencies: [V1.Ax1, FL.XXXV]
+    downstream_dependents: []
+    pt_period: P0
+    pt_group: GVI
+    directionality: V
+    band: 1
+    mirror_type: statement
+    mirror_text: >
+      The idol-ward face is the perimeter-as-substitute substrate — the
+      heart's reliance on institutional-perimeter standing as the
+      operational ground of covenant participation, with the perimeter-
+      membership operating as substitute for the faith the law makes the
+      access-condition. Canonical articulations: the Sermon-on-the-Mount's
+      "not everyone who says to Me 'Lord, Lord'" (Matt. 7:21-23); the
+      Pauline indictment of circumcision-without-the-heart (Rom. 2:25-29);
+      the Johannine-Baptist's "do not say to yourselves, 'We have Abraham
+      as our father'" (Matt. 3:9). The contemporary expression operates
+      wherever institutional-membership, denominational-identity,
+      sacramental-reception-without-faith, or cultural-Christianity
+      operates as the substrate of assumed covenant-access. Recovery
+      requires the heart's re-orientation from perimeter-substrate to
+      faith-substrate.
+    notes: >
+      Operator P (with Christ's recognition-feature). The cleanest qualifier
+      among the seven miracle-derived candidates — clears all four
+      inclusion criteria without structural stress on the catalog.
+
+  - id: FL.XLIV
+    type: foundational_law
+    title: "The Sign-as-Revelation Law"
+    core_text: >
+      Christ's physical-domain operations operate sacramentally as
+      disclosures of corresponding spiritual-domain realities — the sign
+      discloses its signified by being its operational embodiment in the
+      physical-domain rather than by being a separately-attached
+      illustration or evidentiary proof — with the disclosure available
+      to the recipient whose interior posture receives the sign as sign
+      rather than as spectacle, and with the same sign producing
+      operationally opposite consequences in the receiving-as-sign and the
+      receiving-as-spectacle receivers. The substrate operates scale-
+      invariantly across all the catalog's analyzed scales.
+    status: core
+    confidence: 90
+    confidence_rationale: >
+      Six-or-more-biblical-author cross-Testament support: John (the
+      gospel's seven-signs structure and related discourses); the Synoptic
+      writers at the sign-on-demand refusal pericopes; the Hebrews writer;
+      Luke in Acts; Paul across Romans, 2 Corinthians, 1 Corinthians;
+      Isaiah and the Mosaic OT background.
+    scripture_refs:
+      - John 2:1-11
+      - John 6:1-15
+      - John 6:22-59
+      - John 9:1-41
+      - John 11:1-44
+      - John 12:37
+      - John 20:30-31
+      - Matt. 12:38-42
+      - Matt. 16:1-4
+      - Mark 8:11-13
+      - Luke 11:29-32
+      - Heb. 2:3-4
+      - Acts 2:22
+      - Acts 4:30
+      - Acts 14:3
+      - Rom. 15:18-19
+      - 2 Cor. 12:12
+      - 1 Cor. 14:22
+      - Isa. 7:14
+      - Isa. 8:18
+      - Ex. 4:1-9
+    traditions_supporting: [Catholic, Orthodox, Reformed, Lutheran, Anglican, Pentecostal, Charismatic, Evangelical]
+    upstream_dependencies: [V1.Ax1, V1.Open]
+    downstream_dependents: [FL.XV, FL.XIII]
+    pt_period: P0
+    pt_group: GI
+    directionality: V
+    band: 2
+    mirror_type: statement
+    mirror_text: >
+      The idol-ward face is the sign-as-spectacle reception — the recipient
+      who sees the physical operation without the disclosure. Multiple
+      substitute-substrates operate: demand-for-decisive-evidence; spectacle-
+      seeking; disenchanted-explanation (psychological, sociological,
+      natural-causation reframes); magical-thinking (signs as mechanisms-
+      of-control rather than as disclosure-of-Christ-and-His-kingdom).
+      The Markan and Matthean refusals of sign-on-demand articulate
+      Christ's structural refusal to operate signs into the spectacle-
+      substrate. Recovery requires substrate restoration through the
+      catalog's heart-formation mechanisms.
+    notes: >
+      Operator C. Band 2 articulation — operational pathway scripturally
+      specified at the Johannine sēmeia-reception structure. Coexists with
+      V1.Open Miracle Frame at P0/GI as the specific-operational-law-
+      within-the-broader-architectural-territory pair, paralleling the
+      FL.XXII / Suffering-as-Formation Loop precedent.
+
+  - id: FL.XLV
+    type: foundational_law
+    title: "The Voice-of-Christ-Reaches-into-Death Law"
+    core_text: >
+      Christ's voice — spoken in the Gospel narratives directly and
+      operating through the gospel of His person and work in the post-
+      Resurrection economy — penetrates the realm of operational death and
+      produces life-from-death where the voice is heard, with the operation
+      prefigured in the three Gospel resurrections (Jairus's daughter, the
+      widow's son at Nain, Lazarus), continuing in the present economy
+      through the gospel's awakening of the spiritually dead (the
+      Ephesians-2 made-alive operation; the Romans-10 faith-from-hearing
+      operation), and consummated at the parousia when the dead in Christ
+      rise to meet Him at the cry of command and the trumpet of God.
+      The mechanism operates across three operational forms of death
+      (physical death; spiritual death; the bondage of perdition).
+    status: core
+    confidence: 90
+    confidence_rationale: >
+      Six-or-more-biblical-author cross-Testament support: the Synoptic
+      writers and John at the three Gospel resurrection narratives; John
+      at the doctrinal John 5 and John 11 articulations; Paul across
+      Ephesians, Colossians, Romans, 1 Thessalonians, 1 Corinthians; the
+      Hebrews writer; Peter in 1 Peter; Ezekiel in the OT prefiguration.
+    scripture_refs:
+      - Mark 5:35-43
+      - Luke 7:11-17
+      - Luke 8:49-56
+      - John 11:1-44
+      - John 5:25-29
+      - John 11:25-26
+      - Eph. 2:1-6
+      - Col. 2:13
+      - Rom. 6:4-5
+      - 1 Thess. 4:16
+      - 1 Cor. 15:51-52
+      - Heb. 4:12
+      - 1 Pet. 3:18-20
+      - Eph. 4:8-10
+      - Ezek. 37:1-14
+      - Rev. 20:11-15
+    traditions_supporting: [Catholic, Orthodox, Reformed, Lutheran, Anglican, Wesleyan, Anabaptist, Pentecostal, Evangelical]
+    upstream_dependencies: [V1.Ax1, FL.XXXVI]
+    downstream_dependents: []
+    pt_period: P5
+    pt_group: GI
+    directionality: V
+    band: 1
+    mirror_type: christological_condition
+    mirror_text: >
+      The law's operator is Christ; the participant's role is reception.
+      The non-reception failure mode is the refusal of the gospel's voice
+      in the spiritually-dead present-economy operation. Multiple non-
+      reception forms operate: the veil-over-the-heart form (2 Cor. 3:13-16);
+      the rejection form (Matt. 10:32-33); the deferred-reception form
+      (Acts 24:24-27 Felix-and-Drusilla pattern); the cultural-
+      disenchantment form. The eschatological non-reception is held within
+      the broader judgment-of-the-dead articulation at Rev. 20:11-15.
+      Recovery in the present economy operates through the gospel's
+      continued proclamation; the eschatological consummation is held
+      within FL.XXXVI operating at the Heart-dimension while FL.XLV
+      operates at the Spirit-dimension at the same cosmic-eschatological
+      scale.
+    notes: >
+      Operator C+T — Christ-operated with the cosmic-completion at the
+      consummation operating as the Triune-cosmic operation. Closes the
+      P5/GI cell that was empty in the matured catalog after the Miracle
+      Frame's relocation to P0/GI. Coexists with FL.XXXVI Eschatological
+      Glory Law as the catalog's first P5 parent-pair (Spirit-dimension
+      articulation + Heart-dimension articulation at the same cosmic-
+      eschatological scale).
 
 # ===========================================================================
 # End of Volume 1 claim registry
-# Total: 54 claims (4 axioms + 1 OE + 8 Exp + 1 Sup + 1 Mn + 39 FL)
+# Total: 60 claims (4 axioms + 1 OE + 8 Exp + 1 Sup + 1 Mn + 45 FL)
 # ===========================================================================
