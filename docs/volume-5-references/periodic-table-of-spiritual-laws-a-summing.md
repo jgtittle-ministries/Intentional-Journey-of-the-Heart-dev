@@ -686,11 +686,15 @@ The marriage covenant — instituted at creation, ratified by Jesus's teaching, 
 
 **P3/GI · FL.XX (Foundational) — Gathered-Body Discernment Law (V), Clearly Taught**
 
+*Attributes: Layer Operation · Scale-range 3 – 120 · Operator S+P*
+
 The Spirit's distinctive speaking through the gathered body produces discernment unavailable to the same individuals operating apart from the gathered body. The Acts 15 Jerusalem Council names the canonical scriptural instance; the Pauline epistolary material's repeated invocations of the gathered body's role in discernment (1 Cor. 12; 1 Cor. 14:26–33; Eph. 4:11–16) establish operational scope.
 
 ***Mirror:*** *The idol-ward face is gathered-body corporate self-deception — the canonical NT articulation is the seven letters of Rev. 2–3 to the gathered bodies that had drifted from their first love or had received false teaching or had grown lukewarm, with the Spirit's address to those bodies operating as the corrective.*
 
 **P3/GII · V1.Exp1 — Faith-Hearing Generation (V), Reasonably Inferred** *(community-scale operation)*
+
+*Attributes: Layer Operation · Scale-range 3 – community · Operator P+S*
 
 The same Word → Hearing → Faith chain operates at the community scale through corporate scriptural reception.
 
@@ -698,11 +702,15 @@ The same Word → Hearing → Faith chain operates at the community scale throug
 
 **P3/GII · V2.Exp9 — Community Amplification Law (B), Reasonably Inferred**
 
+*Attributes: Layer Substrate · Scale-range 3 – 120 · Operator P+S*
+
 Genuine spiritual community amplifies hearing, multiplies faith, and provides the correction mechanism that keeps individual discernment honest; a closed feedback loop amplifies error as readily as truth (Acts 13:2; 1 Cor. 14:29; Prov. 11:14; Prov. 27:17). The amplification operates through corporate worship, gathered prayer, and submitted-together-discernment; the operational counter to closed-loop drift is the three-condition test (submission to the written Word as external reference, openness to correction from outside the group, observable fruit in the natural).
 
 ***Mirror (statement form):*** *The idol-ward face is the closed-loop community — the community whose internal consensus operates as self-validation, with the feedback loop closed against external correction. The Adversary operates through this drift (2 Cor. 11:13–15), with tactics including flattery directed at insiders, contempt directed at outsiders, the slow elevation of a single voice above genuine testing, and the increasing internal certainty about ever-more-specific claims. Recovery requires the three-condition test the law's positive form names — submission to scripture, openness to outside correction, observable fruit in the natural.*
 
 **P3/GII · FL.XXXII (Foundational) — Communal Worship Heart-Alignment Law (B), Clearly Taught**
+
+*Attributes: Layer Operation · Scale-range 3 – city · Operator P*
 
 A gathered community's collective worship operates as the structural form of the corporate-heart's God-ward alignment; the corporate-heart oriented toward God enables the true worship of the gathered community, and the gathered community's worship aligns the corporate-heart toward God, with the two operations mutually constituting each other in the constitutive-bidirectional dynamic that parallels FL.III Heart-Throne's individual-scale operation at the community-scale corporate-heart. Five-or-more-biblical-author cross-Testament support: Psalmist across Psalter (Ps. 22:22–25; Ps. 100); Hebrews writer (Heb. 10:24–25; Heb. 12:22–24); Luke (Acts 2:46–47); John (Rev. 4–5); Paul across multiple letters (Rom. 15:5–6; Eph. 5:18–21; Col. 3:16; Phil. 2:1–11). Supplementary OT witness at 2 Chron. 5, 20, 30. Closes the P3/GII under-population — the cell previously held only V1.Exp1 Faith-Hearing Generation.
 
@@ -710,11 +718,15 @@ A gathered community's collective worship operates as the structural form of the
 
 **P3/GIII · V2.Exp8 — Container Law (Safe/Present/Clear/Intentional) (H), Reasonably Inferred**
 
+*Attributes: Layer Substrate · Scale-range 3 – 70 · Operator P*
+
 Operational features of containers that hold formation work safely and effectively.
 
 ***Mirror (orientation-neutral):*** *The Container Law is structural rather than orientation-shaped.*
 
 **P3/GIII · FL.XXIX (Foundational) — Corporate Emotional Integration Law (B), Clearly Taught**
+
+*Attributes: Layer Operation · Scale-range 3 – 120 · Operator P*
 
 When one member of the corporate body suffers, all suffer together; when one member is honored, all rejoice together; the integration operates through the gathered community's collective engagement with the member's experience as the community's own, and the operational output is the shared experience's holding in the corporate-soul as part of the community's accumulated corporate-soul substance. Five-or-more-biblical-author cross-Testament support: Paul at 1 Cor. 12:26 and Rom. 12:15; Luke at Acts 4:23–31; Chronicler at Neh. 8–9; Psalmist across the lament-and-praise corpus; Hebrews writer at Heb. 10:24–25; John supplementary at John 11:33–36. The broader OT structured mourning tradition and the NT corporate-celebration tradition establish operational scope. The constitutive-bidirectional Mirror form follows the 1 Cor. 12:26 articulation of both faces in a single statement. The corporate grief work / communal mourning case is the most canonically-developed sub-case of the law's operation (Gen. 50:1–14, 2 Sam. 1:11–12, Jer. 9:17–22, John 11:33–36, Acts 8:2) and is articulated within the chapter as the law's canonical operational form.
 
@@ -722,11 +734,15 @@ When one member of the corporate body suffers, all suffer together; when one mem
 
 **P3/GIII · FL.XXX (Foundational) — Communal Soul-Care for the Wounded Law (H), Clearly Taught**
 
+*Attributes: Layer Operation · Scale-range 3 – 70 · Operator P*
+
 The gathered community holds the integration that the soul-wounded member cannot accomplish herself, sustained over the duration the wounding requires until the member's own integrative capacity is restored; the corporate soul operates as the holding-substrate within which the wounded member's integration is held, with the structured forms of sustaining (active provision and silent presence in their appropriate mix) as the operational form of the holding. Four-or-more-biblical-author cross-Testament support: Paul at 2 Cor. 1:3–7 and Gal. 6:2; James at Jas. 5:13–16; Luke at Acts 9:9–25 and Acts 28; Mark at Mark 2:1–12 and the gospel cases of Jesus's reception of the wounded; Job writer at Job 2:11–13. Supplementary witnesses at the pastoral-epistles care-for-widows-and-orphans corpus (1 Tim. 5:3–16, Jas. 1:27). Operationally complementary to FL.XXIX and operationally distinct from FL.XXV Restoration-of-the-Erring Law at P3/GV.
 
 ***Mirror (statement form):*** *Idol-ward face is the abandonment of the wounded — community's failure to operate structured sustaining work, with wounded member left to attempt integration during the period when her own integrative capacity is structurally unavailable. Job 4–37's failure of Job's friends after the chapter 2 sustaining work is the canonical scriptural articulation. Recovery requires deliberate reinstitution of structured holding work with community's structural attention to wounded member's actual operational state.*
 
 **P3/GIV · FL.XXXI (Foundational) — Corporate Scriptural Reception Law (V), Clearly Taught**
+
+*Attributes: Layer Operation · Scale-range 3 – 120 · Operator P*
 
 A gathered community's collective reception of scriptural address — the gathered hearing, the corporate response, the collective integration that follows the gathered hearing — produces an operational reception of the text that solitary reading does not produce; the community-as-listener operates differently from the individual-as-listener, with the substance received expanding beyond what any individual member receives alone, and the corporate-mind's integration of the address operating as the community's unified cognitive-volitional structure for the subsequent operations the integrated substance shapes. Four-or-more-biblical-author cross-Testament support: Moses at Deut. 31:9–13; Chronicler at Neh. 8:1–12; Paul at 1 Tim. 4:13 and Col. 3:16; Luke at Acts 2:42 and broader Acts material; John at Rev. 1:3. Gospel supplementary at Luke 4:16–21 (Jesus's synagogue participation). Closes the P3/GIV under-population identified.
 
@@ -734,11 +750,15 @@ A gathered community's collective reception of scriptural address — the gather
 
 **P3/GIV · Confession-Clarity Law (B), Speculative ◆**
 
+*Attributes: deferred (Speculative ◆)*
+
 Community-scale articulation of confession's clarifying function. Held at Speculative tier pending further articulation.
 
 ***Mirror:*** *Same orientation-determined character as FL.II Confession-Restoration at the individual scale.*
 
 **P3/GV · FL.XVIII (Foundational) — Bitter-Root Community Law (H), Clearly Taught**
+
+*Attributes: Layer Operation · Scale-range 3 – 70 · Operator P*
 
 Unresolved offense between community members, held over time without the reconciliation work, calcifies into a community-defiling root with operational consequences for the gathered body's integrity (Heb. 12:14–15; Matt. 18:15–35). The Matt. 18:15–20 reconciliation pathway is the prescribed operational corrective.
 
@@ -746,11 +766,15 @@ Unresolved offense between community members, held over time without the reconci
 
 **P3/GV · FL.XXIV (Foundational) — Confession-in-Community Law (H), Clearly Taught**
 
+*Attributes: Layer Operation · Scale-range 3 – 12 · Operator P*
+
 The participant's secret sin, brokenness, or failure operates as compartmented interior load when held in concealment; the spoken confession in trusted community presence integrates the secret into the participant's external account through the witnessing party's reception. The mechanism's operational form is the presence-of-witnesses, with the witnessing party's continuing relational presence at the level of the truth received as the operational completion (Jas. 5:16; 1 John 1:9 in community context; Acts 19:18–19; Eph. 5:11–14).
 
 ***Mirror (statement form):*** *Idol-ward face is the concealment dynamic — the secret held over time operating as substitute interior architecture, with the concealment functioning as substitute integration. The operational signature of concealment is progressive interior compartmentation and accumulating relational distance from the community whose witness would integrate the secret.*
 
 **P3/GV · FL.XXV (Foundational) — Restoration-of-the-Erring Law (H), Clearly Taught**
+
+*Attributes: Layer Operation · Scale-range 3 – 120 · Operator P*
 
 The participant who has wandered from the truth or from the community is actively pursued by spiritually mature community members in a spirit of gentleness, with watchfulness on the pursuer's own susceptibility to temptation, and the pursuit (where received) restores the wanderer to communion (Gal. 6:1; Jas. 5:19–20; Matt. 18:12–14; Luke 15:1–7). The active pursuit is the prescribed operational form; the disposition (gentleness, joy-in-restoration) is constitutive of the mechanism's operation.
 
@@ -758,11 +782,15 @@ The participant who has wandered from the truth or from the community is activel
 
 **P3/GVI · V2.Exp10 — Skill Development (B), Reasonably Inferred** *(anomalous placement)*
 
+*Attributes: deferred (anomaly)*
+
 ⚠ Spans Individual and Community scales simultaneously; the cross-scale operation issue remains open for future structural work. The Skill Development Law's anomalous placement may point to a Scale Transfer Meta-Law the catalog has not yet articulated.
 
 ***Mirror (orientation-neutral):*** *The mechanism does not carry orientation.*
 
 **P3/GVI · FL.XXXIII (Foundational) — Community Polity Structure / Ecclesial Architecture Law (V; Band 3), Clearly Taught**
+
+*Attributes: Layer Substrate · Scale-range 3 – diaspora · Operator C+P*
 
 Some polity-structure — the leader-follower-and-peer arrangements, the offices and their qualifications, the decision-making patterns, the institutional-continuity arrangements that hold the community across time — operates as the architectural framework within which the gathered community's other operations are conducted; the framework is Christ-given (Eph. 4:11), operates for operational purpose (Eph. 4:12), and operates within eschatological horizon (Eph. 4:13). The specific polity-form (episcopal, presbyterian, congregational, charismatic-led, gathered-church, hybrid arrangements) is tradition-by-tradition theological work and not catalog-arbitrated articulation. Two-or-more-biblical-author cross-Testament support: Luke across Acts material; Paul across Pauline corpus; Hebrews writer; Peter; Mosaic and post-Mosaic supplementary. Band 3 articulation parallel to FL.XXIII Sabbath Rest Law's Band 3 admission structure.
 

@@ -1433,6 +1433,9 @@ claims:
     downstream_dependents: [FL.XXIV, FL.XXV]
     pt_period: P3
     pt_group: GV
+    layer: operation
+    operator: "P"
+    scale_range: "3 – 70"
     directionality: H
     band: null
     mirror_type: constitutive_bidirectional
@@ -1526,6 +1529,9 @@ claims:
     downstream_dependents: [V2.Exp9, FL.XXXI, FL.XXXIII]
     pt_period: P3
     pt_group: GI
+    layer: operation
+    operator: "S+P"
+    scale_range: "3 – 120"
     directionality: V
     band: null
     mirror_type: statement
@@ -1726,6 +1732,9 @@ claims:
     downstream_dependents: []
     pt_period: P3
     pt_group: GV
+    layer: operation
+    operator: "P"
+    scale_range: "3 – 12"
     directionality: H
     band: null
     mirror_type: statement
@@ -1767,6 +1776,9 @@ claims:
     downstream_dependents: []
     pt_period: P3
     pt_group: GV
+    layer: operation
+    operator: "P"
+    scale_range: "3 – 120"
     directionality: H
     band: null
     mirror_type: statement
@@ -1949,6 +1961,9 @@ claims:
     downstream_dependents: [FL.XXX]
     pt_period: P3
     pt_group: GIII
+    layer: operation
+    operator: "P"
+    scale_range: "3 – 120"
     directionality: B
     band: null
     mirror_type: constitutive_bidirectional
@@ -1994,6 +2009,9 @@ claims:
     downstream_dependents: []
     pt_period: P3
     pt_group: GIII
+    layer: operation
+    operator: "P"
+    scale_range: "3 – 70"
     directionality: H
     band: null
     mirror_type: statement
@@ -2045,6 +2063,9 @@ claims:
     downstream_dependents: []
     pt_period: P3
     pt_group: GIV
+    layer: operation
+    operator: "P"
+    scale_range: "3 – 120"
     directionality: V
     band: null
     mirror_type: statement
@@ -2091,6 +2112,9 @@ claims:
     downstream_dependents: []
     pt_period: P3
     pt_group: GII
+    layer: operation
+    operator: "P"
+    scale_range: "3 – city"
     directionality: B
     band: null
     mirror_type: constitutive_bidirectional
@@ -2157,6 +2181,9 @@ claims:
     downstream_dependents: []
     pt_period: P3
     pt_group: GVI
+    layer: substrate
+    operator: "C+P"
+    scale_range: "3 – diaspora"
     directionality: V
     band: 3
     mirror_type: statement
