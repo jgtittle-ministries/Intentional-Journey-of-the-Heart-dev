@@ -580,11 +580,15 @@ Spirit ⊂ Heart; Heart, Mind, and Body ⊂ Soul; lasting change always works fr
 
 **P2/GI · V1.Exp8 — Prayer Resonance (Waveform Model) (V), Reasonably Inferred**
 
+*Attributes: Layer Operation · Scale-range 1 – 120 · Operator P+S*
+
 Prayer as a resonance phenomenon between the praying soul and God.
 
 ***Mirror:*** *Prayer offered in the service of a competing Object does not produce resonance (Jas. 4:3). The Counter-Resonance Law at the same cell is the dyadic-scale operation of the same dynamic.*
 
 **P2/GI · Speculative — Prophetic Imagination (V), Speculative ◆**
+
+*Attributes: deferred (Speculative ◆)*
 
 The Spirit-anointed imagination as the canvas the Holy Spirit operates on for hearing-from-God.
 
@@ -592,11 +596,15 @@ The Spirit-anointed imagination as the canvas the Holy Spirit operates on for he
 
 **P2/GI · Speculative — Counter-Resonance Law (V), Speculative ◆**
 
+*Attributes: deferred (Speculative ◆)*
+
 Sustained prayer-time spent in the resonance of a non-God Object produces deformation in the direction of that Object.
 
 ***Mirror:*** *The God-ward face is V1.Exp8 Prayer Resonance at the same cell.*
 
 **P2/GII · V2.Exp7 — Hearing Development (5-Stage Affective) (V), Reasonably Inferred**
+
+*Attributes: Layer Substrate · Scale-range 1 · Operator P+S*
 
 Development of the capacity to hear from God moves through five affective stages.
 
@@ -604,11 +612,15 @@ Development of the capacity to hear from God moves through five affective stages
 
 **P2/GIII · V2.Exp2 — Emotional Knot Law (I), Clearly Taught**
 
+*Attributes: Layer Substrate · Scale-range 1 · Operator P*
+
 Sustained unresolved emotional knots produce somatic and behavioral consequence over time.
 
 ***Mirror (orientation-neutral):*** *The mechanism does not carry orientation.*
 
 **P2/GIII · V2.Exp6 — Tool-Application (Discernment Required) (I), Reasonably Inferred**
+
+*Attributes: Layer Operation · Scale-range 1 – 12 · Operator P*
 
 Specific formation tools must be matched to specific participant states.
 
@@ -616,11 +628,15 @@ Specific formation tools must be matched to specific participant states.
 
 **P2/GIV · V2.Exp3 — Cognitive Root of Knots (I), Reasonably Inferred**
 
+*Attributes: Layer Substrate · Scale-range 1 · Operator P*
+
 Emotional knots characteristically have a cognitive substrate.
 
 ***Mirror:*** *Frames with idol-ward content require dethroning-style work, not merely cognitive-reframing-style work.*
 
 **P2/GV · V2.Exp4 — Sin Blockage Law (Circuit Load) (V), Clearly Taught**
+
+*Attributes: Layer Substrate · Scale-range 1 – 12 · Operator P*
 
 Unresolved sin operates as a circuit load on the spiritual operational system, reducing throughput of prayer, hearing, and obedience until cleared.
 
@@ -628,11 +644,15 @@ Unresolved sin operates as a circuit load on the spiritual operational system, r
 
 **P2/GV · Forgiveness-Debt Transfer Law (B), Speculative ◆**
 
+*Attributes: deferred (Speculative ◆)*
+
 The act of forgiveness operates as a transfer of the offense's debt from the offended party to God (with the offender's debt remaining their own to settle with God).
 
 ***Mirror:*** *The idol-ward face is the offended party's retention of the debt with the offender as the operational debtor — the unforgiving-servant dynamic (Matt. 18:21–35).*
 
 **P2/GV · FL.V (Foundational) — Reciprocal Forgiveness Law (B), Clearly Taught**
+
+*Attributes: Layer Operation · Scale-range 2 – 70 · Operator P*
 
 The forgiving party's reception of God's forgiveness is operationally conditional on the forgiving party's forgiveness of others (Matt. 6:14–15; Mark 11:25–26; Matt. 18:21–35).
 
@@ -640,17 +660,23 @@ The forgiving party's reception of God's forgiveness is operationally conditiona
 
 **P2/GV · FL.XII (Foundational) — Honor-Authority Flourishing Law (B), Clearly Taught**
 
+*Attributes: Layer Operation · Scale-range 2 – city · Operator P*
+
 Honoring legitimate authority (parental, civil, ecclesial) produces flourishing for the honoring party; dishonor produces operational diminishment. Pairs with FL.XVI Bondage at the obedience-to-illegitimate-authority case.
 
 ***Mirror:*** *The idol-ward face is dishonor toward legitimate authority — the canonical scriptural articulation operates through the fifth commandment (Ex. 20:12; Eph. 6:1–3) and through the Pauline submission-to-governing-authorities passage (Rom. 13:1–7).*
 
 **P2/GVI · V2.Exp5 — Four Connects (Self → Others → God → Mission) (B), Reasonably Inferred**
 
+*Attributes: Layer Substrate · Scale-range 1 – eschatological · Operator P*
+
 Four directions of relational connection that the soul operates simultaneously.
 
 ***Mirror:*** *Disconnection in any of the four directions produces operational deformation in the soul; the four connects operate together as the soul's relational substrate.*
 
 **P2/GVI · FL.XXXIV (Foundational) — Marriage Covenant Architecture Law (V; Band 2), Clearly Taught**
+
+*Attributes: Layer Substrate · Scale-range 2 · Operator C+P*
 
 The marriage covenant — instituted at creation, ratified by Jesus's teaching, articulated by Paul as reflecting the Christ-and-Church relationship — operates as the architectural framework conditioning the operations within the marital dyad; the framework's scripturally-specified operational pathway is the leave-and-cleave-and-one-flesh pattern (Gen. 2:24 ratified by Matt. 19:5 and Eph. 5:31), with the operational features of covenant-monogamy between man and woman, exclusivity at the conjugal level, structural durability through divine joining-together (Matt. 19:6 "what therefore God has joined together"), openness to procreation and household formation operations (Gen. 1:28; Mal. 2:15), and eschatological reflective dimension grounding the dyadic-architectural arrangement in the Christ-and-Church cosmic-eschatological reality (Eph. 5:32). Seven-or-more-biblical-author cross-Testament support exceeding the catalog's minimum threshold: Genesis writer (Gen. 1:27–28; Gen. 2:18–25); Malachi (Mal. 2:13–16); Matthew and Mark (Matt. 19:3–9; Mark 10:2–12); Paul across multiple letters (Eph. 5:22–33; 1 Cor. 7; the broader Pauline corpus); Hebrews writer (Heb. 13:4); Peter (1 Pet. 3:1–7); wisdom writers (Prov. 5:15–19; 18:22; 31:10–31); Song of Songs poet; Hosea writer (Hosea 1–3); John in Revelation (Rev. 19:6–9; 21:1–11). Operational depth across creation, prophetic, gospel, apostolic, wisdom, narrative, and apocalyptic registers establishes canonical centrality. Band 2 articulation is structurally distinct from Band 3 (the marriage covenant's operational pathway is scripturally specified rather than tradition-arbitrated). The broader dyadic-pair-bond architectural territory beyond marriage (close-friendship covenant per Jonathan-David; discipleship dyad per Paul-Timothy, Elijah-Elisha, Naomi-Ruth; spiritual-direction pair per patristic and modern traditions) is held within the chapter as related architectural forms operating by structurally analogous principles within distinct operational scopes.
 
