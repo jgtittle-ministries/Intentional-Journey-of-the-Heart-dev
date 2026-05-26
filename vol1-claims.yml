@@ -279,6 +279,9 @@ claims:
       - Formation.HFT
     pt_period: P1
     pt_group: GII
+    layer: operation
+    operator: "P+S"
+    scale_range: "1 – community"
     directionality: V
     band: null
     mirror_type: statement
@@ -323,6 +326,9 @@ claims:
       - V3.Eq1
     pt_period: P1
     pt_group: GVI
+    layer: substrate
+    operator: "P"
+    scale_range: "1"
     directionality: I
     band: null
     mirror_type: orientation_neutral
@@ -365,6 +371,9 @@ claims:
       - V2.TherapeuticSequence
     pt_period: P1
     pt_group: GII
+    layer: substrate
+    operator: "P"
+    scale_range: "1 – eschatological"
     directionality: V
     band: null
     mirror_type: statement
@@ -427,6 +436,9 @@ claims:
     downstream_dependents: []
     pt_period: P1
     pt_group: GIV
+    layer: substrate
+    operator: "P+S"
+    scale_range: "1 – community"
     directionality: I
     band: null
     mirror_type: statement
@@ -465,6 +477,9 @@ claims:
       - V4.Researcher
     pt_period: P1
     pt_group: GI
+    layer: substrate
+    operator: "P"
+    scale_range: "1 – eschatological"
     directionality: V
     band: null
     gateway: true
@@ -503,6 +518,9 @@ claims:
       - FL.XV   # wider law in the same family
     pt_period: P1
     pt_group: GV
+    layer: substrate
+    operator: "P"
+    scale_range: "1 – eschatological"
     directionality: V
     band: null
     mirror_type: statement
@@ -542,6 +560,9 @@ claims:
       - FL.XIX   # generational-scale transmission of anointing/authority
     pt_period: P1
     pt_group: GV
+    layer: substrate
+    operator: "C+P"
+    scale_range: "1 – city"
     directionality: B
     band: null
     mirror_type: statement
@@ -706,6 +727,9 @@ claims:
     downstream_dependents: [V2.Exp4, FL.XXIV]
     pt_period: P1
     pt_group: GV
+    layer: operation
+    operator: "P"
+    scale_range: "1"
     directionality: V
     band: null
     mirror_type: statement
@@ -751,6 +775,9 @@ claims:
     downstream_dependents: [FL.II, FL.VIII, FL.XIV, FL.XVII, FL.XXI]
     pt_period: P1
     pt_group: GII
+    layer: substrate
+    operator: "P"
+    scale_range: "1 – eschatological"
     directionality: B
     band: null
     mirror_type: constitutive
@@ -789,6 +816,9 @@ claims:
     downstream_dependents: []
     pt_period: P1
     pt_group: GIII
+    layer: operation
+    operator: "P"
+    scale_range: "1 – 12"
     directionality: V
     band: null
     mirror_type: statement
@@ -902,6 +932,9 @@ claims:
     downstream_dependents: [FL.X, FL.XIII, FL.XV, FL.XXXV]
     pt_period: P1
     pt_group: GI
+    layer: operation
+    operator: "P"
+    scale_range: "1 – 120"
     directionality: V
     band: null
     mirror_type: statement
@@ -947,6 +980,9 @@ claims:
     downstream_dependents: [FL.XIV]
     pt_period: P1
     pt_group: GII
+    layer: substrate
+    operator: "P"
+    scale_range: "1"
     directionality: V
     band: null
     mirror_type: constitutive
@@ -1019,6 +1055,9 @@ claims:
     downstream_dependents: [V1.Exp8]
     pt_period: P1
     pt_group: GI
+    layer: operation
+    operator: "P"
+    scale_range: "1 – 70"
     directionality: V
     band: null
     mirror_type: statement
@@ -1057,6 +1096,9 @@ claims:
     downstream_dependents: [FL.XXVI]
     pt_period: P1
     pt_group: GIV
+    layer: operation
+    operator: "S+P"
+    scale_range: "1"
     directionality: V
     band: null
     mirror_type: statement
@@ -1130,6 +1172,9 @@ claims:
     downstream_dependents: []
     pt_period: P1
     pt_group: GII
+    layer: substrate
+    operator: "P"
+    scale_range: "1"
     directionality: V
     band: null
     gateway: true
@@ -1176,6 +1221,9 @@ claims:
     downstream_dependents: [FL.XVII]
     pt_period: P1
     pt_group: GII
+    layer: substrate
+    operator: "P"
+    scale_range: "1 – eschatological"
     directionality: V
     band: null
     mirror_type: constitutive
@@ -1568,6 +1616,9 @@ claims:
     downstream_dependents: []
     pt_period: P1
     pt_group: GIII
+    layer: substrate
+    operator: "P"
+    scale_range: "1 – eschatological"
     directionality: V
     band: null
     mirror_type: constitutive_bidirectional

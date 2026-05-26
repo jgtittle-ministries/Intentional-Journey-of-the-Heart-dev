@@ -426,11 +426,15 @@ Recognized faith operates as the access criterion to covenant benefits independe
 
 **P1/GI · V1.Exp5 (Gateway) — Fear of the Lord (V), Clearly Taught**
 
+*Attributes: Layer Substrate · Scale-range 1 – eschatological · Operator P*
+
 Logically prior entry condition for the entire Wisdom cluster. The entry's Gateway designation is part of the catalog's broader threshold/gateway pattern, with V2.Exp7 (Affective Level 2→3 transition), FL.XIII (Pure-Heart Vision Gateway), FL.XV (the hardening threshold), and the implicit regeneration threshold holding the related pattern instances. The Vol 3 Miracle Threshold Events forward-reference is absorbed into this articulation; see the Threshold/Gateway Pattern structural-observation sub-section.
 
 ***Mirror:*** *"Fools despise wisdom and instruction" (Prov. 1:7b). The orientation reading: fear of the Lord vs. fear of man (Prov. 29:25; Isa. 8:12–13).*
 
 **P1/GI · FL.VII (Foundational) — Drawing-Near Reciprocity Law (V), Clearly Taught**
+
+*Attributes: Layer Operation · Scale-range 1 – 120 · Operator P*
 
 Active movement toward God evokes God's movement toward the person; turning away evokes withdrawal. Canonical example of reciprocity-of-response. The entry's nearness-and-distance reciprocity is part of the catalog's broader nearness-or-distance articulation, with FL.XV Hardening (the moving-away substrate at scale-invariant), FL.XXXV Trust-Substrate (the trust-substrate's depth as nearness's heart-face), and FL.XIII Pure-Heart Vision (the purity condition for vision as the heart-orientation face of nearness) holding the related-dimension articulations across multiple Groups and scales. The Vol 3 Spiritual Distance Metric forward-reference is absorbed into this articulation; see the Cross-Group, Cross-Scale Nearness-or-Distance Articulation structural-observation sub-section.
 
@@ -438,11 +442,15 @@ Active movement toward God evokes God's movement toward the person; turning away
 
 **P1/GI · FL.X (Foundational) — Ask-Seek-Knock Law (V), Clearly Taught**
 
+*Attributes: Layer Operation · Scale-range 1 – 70 · Operator P*
+
 Persistent, faith-filled asking in alignment with God's character produces receiving; asking from wrong motive does not. Threshold form of the prayer mechanism.
 
 ***Mirror:*** *Asking from wrong motive (Jas. 4:3) is the idol-ward face the law itself names.*
 
 **P1/GII · V1.Exp1 — Faith Generation (Hearing Chain) (V), Reasonably Inferred**
+
+*Attributes: Layer Operation · Scale-range 1 – community · Operator P+S*
 
 Word → Hearing → Faith; willingness to obey activates the chain; disobedience degrades it.
 
@@ -450,11 +458,15 @@ Word → Hearing → Faith; willingness to obey activates the chain; disobedienc
 
 **P1/GII · V1.Exp3 — Faith-Hope-Love Triad (V), Reasonably Inferred**
 
+*Attributes: Layer Substrate · Scale-range 1 – eschatological · Operator P*
+
 Self-reinforcing triad: Faith generates Hope; Hope enables Love; Love deepens Faith.
 
 ***Mirror:*** *Misplaced trust corrupts hope; corrupted hope deforms love; deformed love undermines further trust. Jer. 17:5–8 names both directions in a single oracle.*
 
 **P1/GII · FL.III (Foundational) — Heart-Throne Law (B), Clearly Taught**
+
+*Attributes: Layer Substrate · Scale-range 1 – eschatological · Operator P*
 
 Whatever the heart looks to as its primary source of security, meaning, or identity functions as its functional savior. Pairs with FL.II Confession-Restoration at the sin-clearance altitude.
 
@@ -462,11 +474,15 @@ Whatever the heart looks to as its primary source of security, meaning, or ident
 
 **P1/GII · FL.VIII (Foundational) — Desire-for-God Law (V), Clearly Taught**
 
+*Attributes: Layer Substrate · Scale-range 1 · Operator P*
+
 The human heart, made for God, generates a longing for Him as a structural feature of its design.
 
 ***Mirror (constitutive):*** *FL.VIII's idol-ward face is named in full by FL.XIV Vanity-of-Substitutes Law.*
 
 **P1/GII · FL.XIV (Foundational) — Vanity-of-Substitutes Law (V), Clearly Taught**
+
+*Attributes: Layer Substrate · Scale-range 1 – eschatological · Operator P*
 
 Every substitutional attempt to fill the FL.VIII Desire-for-God longing with an Object other than God fails structurally (Eccl. 1:2, 2:1–11; Jer. 2:13; Rom. 1:21–25; John 4:13–14).
 
@@ -474,11 +490,15 @@ Every substitutional attempt to fill the FL.VIII Desire-for-God longing with an 
 
 **P1/GII · FL.XIII (Foundational) — Pure-Heart Vision Law (V), Clearly Taught**
 
+*Attributes: Layer Substrate · Scale-range 1 · Operator P*
+
 Purity of heart is the prior condition for the seeing of God. Second Gateway-type entry.
 
 ***Mirror (constitutive):*** *Pure heart = single-Object orientation toward God; impure heart = divided pursuit (Jas. 4:8 "purify your hearts, you double-minded").*
 
 **P1/GII · V2.Exp1 — Heart Soil Diagnostic (I), Clearly Taught** *(relocated from P3/GV in)*
+
+*Attributes: Layer Substrate · Scale-range 1 · Operator P*
 
 The parable of the sower (Matt. 13) names four characteristic states of heart-soil — the path, the rocky ground, the thorny ground, the good soil — with diagnostic features that identify the participant's current state and the specific formation work each state needs. Relocated to P1/GII in: the previous placement at P3/GV (Community / Body & Action) was inconsistent with the law's content; the diagnostic is structurally a heart-level diagnostic at the individual scale, with the parable naming heart-states of the individual hearing the word.
 
@@ -486,11 +506,15 @@ The parable of the sower (Matt. 13) names four characteristic states of heart-so
 
 **P1/GIII · SST Stage 1 — Soul Disorder Awareness (I), Reasonably Inferred ◆**
 
+*Attributes: deferred (Speculative ◆)*
+
 Recognition of interior fragmentation as precondition for clearing.
 
 ***Mirror:*** *Denial and self-justification calcify the disorder rather than resolving it (1 John 1:8; Jer. 17:9).*
 
 **P1/GIII · FL.IV (Foundational) — Humility-Exaltation Law (V), Clearly Taught**
+
+*Attributes: Layer Operation · Scale-range 1 – 12 · Operator P*
 
 Self-humbling before God leads to being exalted in due time; self-exaltation leads to being brought low. Bidirectional in source texts.
 
@@ -498,11 +522,15 @@ Self-humbling before God leads to being exalted in due time; self-exaltation lea
 
 **P1/GIII · FL.XXII (Foundational) — Endurance-Hope Law (V), Clearly Taught**
 
+*Attributes: Layer Substrate · Scale-range 1 – eschatological · Operator P*
+
 Suffering endured in the right disposition produces character; character produces hope; hope does not put to shame because God's love has been poured into our hearts through the Holy Spirit (Rom. 5:3–5; James 1:2–4; 1 Pet. 1:6–7; Heb. 12:1–11). The four-biblical-author cross-Testament support establishes the law's Clearly Taught confidence tier. Operates as the individual-scale child of the Suffering-as-Formation Loop at P5/GIII (cosmic-scale parent, Reasonably Inferred); the parent-child relationship inverts the catalog's typical confidence-tier pattern (the cosmic-scale parent is Reasonably Inferred while the individual-scale child is Clearly Taught), with the inverted pattern accommodated by the catalog's structure without architectural change. See the Endurance-Hope and Suffering-as-Formation Parent-Child Relationship structural-observation sub-section.
 
 ***Mirror (constitutive bidirectional):*** *The same input (suffering) produces opposite outputs (formation under God-ward orientation; root of bitterness under idol-ward orientation), with the orientation as the operational pivot. Heb. 12:14–15 names both directions in a single passage (the pursuit-of-holiness producing formation; the root-of-bitterness producing community-defilement); the FL.XVIII Bitter-Root Community Law at P3/GV holds the community-scale operation of the idol-ward direction. The Endurance-Hope Law is an orientation-determined law in the structural sense the third-axis test established.*
 
 **P1/GIV · V1.Exp4 — Wisdom Cluster (K→U→W→D) (I), Reasonably Inferred**
+
+*Attributes: Layer Substrate · Scale-range 1 – community · Operator P+S*
 
 Knowledge → Understanding → Wisdom → Discernment; Fear of the Lord is the required gateway.
 
@@ -510,11 +538,15 @@ Knowledge → Understanding → Wisdom → Discernment; Fear of the Lord is the 
 
 **P1/GIV · FL.XI (Foundational) — Renewal-of-Mind Transformation Law (V), Clearly Taught**
 
+*Attributes: Layer Operation · Scale-range 1 · Operator S+P*
+
 Sustained renewal of the mind produces transformation; sustained conformity to the surrounding pattern produces deformation.
 
 ***Mirror:*** *Conformity to the pattern of the age (Rom. 12:2a) is the negative direction.*
 
 **P1/GV · V1.Exp6 — Obedience Channel (Revelation Flow) (V), Clearly Taught**
+
+*Attributes: Layer Substrate · Scale-range 1 – eschatological · Operator P*
 
 Obedience to prior revelation is the causal condition for subsequent revelation.
 
@@ -522,17 +554,23 @@ Obedience to prior revelation is the causal condition for subsequent revelation.
 
 **P1/GV · V1.Exp7 — Spiritual Authority (Force Multiplier) (B), Reasonably Inferred**
 
+*Attributes: Layer Substrate · Scale-range 1 – city · Operator C+P*
+
 Authority delegated hierarchically: Father → Son → believers; operating within delegated authority amplifies effective spiritual force.
 
 ***Mirror:*** *The idol-ward face is usurped authority — Korah's rebellion (Num. 16) names the canonical biblical pattern.*
 
 **P1/GV · FL.II (Foundational) — Confession-Restoration Law (V), Clearly Taught**
 
+*Attributes: Layer Operation · Scale-range 1 · Operator P*
+
 Honest, owned confession of sin restores fellowship and clears the channel.
 
 ***Mirror:*** *Concealment of sin is structurally an idol-ward operation. Prov. 28:13 names both directions in a single sentence.*
 
 **P1/GVI · V1.Exp2 — Nested Person Structure (I), Reasonably Inferred**
+
+*Attributes: Layer Substrate · Scale-range 1 · Operator P*
 
 Spirit ⊂ Heart; Heart, Mind, and Body ⊂ Soul; lasting change always works from inside out.
 
