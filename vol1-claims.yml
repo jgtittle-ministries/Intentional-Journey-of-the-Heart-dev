@@ -2393,6 +2393,9 @@ claims:
     downstream_dependents: []
     pt_period: P5
     pt_group: GII
+    layer: substrate
+    operator: "T+P"
+    scale_range: "1 – eschatological"
     directionality: V
     band: 1
     mirror_type: statement
@@ -3034,6 +3037,9 @@ claims:
     downstream_dependents: []
     pt_period: P5
     pt_group: GI
+    layer: substrate
+    operator: "C+T"
+    scale_range: "1 – eschatological"
     directionality: V
     band: 1
     mirror_type: christological_condition

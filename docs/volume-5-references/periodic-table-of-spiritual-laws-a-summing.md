@@ -866,11 +866,15 @@ The participant is formed within a nested architecture — the individual within
 
 **P5/GI · FL.XLV (Foundational) — Voice-of-Christ-Reaches-into-Death Law (V), Clearly Taught (Band 1)**
 
+*Attributes: Layer Substrate · Scale-range 1 – eschatological · Operator C+T*
+
 Christ's voice — spoken in the Gospel narratives directly and operating through the gospel of His person and work in the post-Resurrection economy — penetrates the realm of operational death and produces life-from-death where the voice is heard, with the operation prefigured in the three Gospel resurrections (Jairus's daughter, the widow's son at Nain, Lazarus), continuing in the present economy through the gospel's awakening of the spiritually dead (the Ephesians-2 made-alive operation; the Romans-10 faith-from-hearing operation), and consummated at the parousia when the dead in Christ rise to meet Him at the cry of command and the trumpet of God. The mechanism operates across three operational forms of death: physical death; spiritual death; the bondage of perdition. Six-or-more-biblical-author cross-Testament support: the Synoptic writers (Mark, Matthew, Luke) and John at the three Gospel resurrection narratives; John at John 5:25–29 and John 11:25–26; Paul across Eph. 2:1–6, Col. 2:13, Rom. 6:4–5, 1 Thess. 4:16, 1 Cor. 15:51–52; the Hebrews writer at Heb. 4:12; Peter at 1 Pet. 3:18–20; Ezekiel at Ezek. 37:1–14 (OT prefiguration). Operator C+T — Christ-operated with the cosmic-completion at the consummation operating as the Triune-cosmic operation. Closes the P5/GI cell that was empty in the matured catalog after the Miracle Frame's relocation to P0/GI. Coexists with FL.XXXVI Eschatological Glory Law as the catalog's first P5 parent-pair (Spirit-dimension articulation + Heart-dimension articulation at the same cosmic-eschatological scale).
 
 ***Mirror (Christological-condition):*** *Like FL.XLI and FL.XLIV, the law's operator is Christ; the participant's role is reception. The non-reception failure mode is the refusal of the gospel's voice in the spiritually-dead present-economy operation. Multiple non-reception forms operate: the veil-over-the-heart form (2 Cor. 3:13–16); the rejection form (Matt. 10:32–33); the deferred-reception form (Acts 24:24–27 Felix-and-Drusilla pattern); the cultural-disenchantment form (the contemporary expression where the resurrection-claim is held intellectually but is not received operationally because the working-substrate-of-reality is the disenchanted-naturalistic frame). Recovery in the present economy operates through the gospel's continued proclamation; the eschatological consummation is held within FL.XXXVI Eschatological Glory Law operating at the Heart-dimension while the present law operates at the Spirit-dimension at the same cosmic-eschatological scale.*
 
 **P5/GII · FL.XXXVI (Foundational) — Eschatological Glory Law (V), Clearly Taught (Band 1)**
+
+*Attributes: Layer Substrate · Scale-range 1 – eschatological · Operator T+P*
 
 The eschatological completion — God's glory revealed at the consummation, the marriage supper of the Lamb, the new heavens and new earth, the people of God seeing Christ as He is — operates as the forward direction of pursuit toward which the heart of the people of God is drawn through the present life; the heart's sustained anticipation of the not-yet-completed glory produces operational consequences in the present life (sustained hope through trial; sacrificial choices in service of what is coming; purifying-of-self in anticipation of seeing Him as He is; orientation toward "things above" rather than "things on the earth"); absent eschatological orientation, the heart over-invests in what is passing away. Four-or-more-New-Testament-author scriptural support: Paul (Rom. 8:18–25; 2 Cor. 4:16–18, 5:1–10; Phil. 3:13–14, 3:20–21; Col. 3:1–4; 1 Thess. 4:13–18; 2 Tim. 4:7–8); the Hebrews writer (Heb. 11:13–16; 12:1–2; 13:14); John (1 John 3:2–3; Rev. 21–22, 22:17); Peter (1 Pet. 1:3–9, 1:13; 2 Pet. 3:11–13). Substantial Old Testament background in Isaiah (25:6–9; 65:17–25) and the Psalter (17:15; 73:24–26). The admission resolves the Vol 3 Glory Attractor forward-reference into pastorally-articulated Foundational form, completing the Vol 3 Forward-References Review and Resolution work.
 
@@ -878,11 +882,15 @@ The eschatological completion — God's glory revealed at the consummation, the 
 
 **P5/GIII · Suffering-as-Formation Loop (V), Reasonably Inferred** *(promoted from Speculative ◆)*
 
+*Attributes: Layer Substrate · Scale-range 1 – eschatological · Operator P*
+
 The cosmic-scale articulation of the same suffering-and-formation territory that FL.XXII Endurance-Hope Law names at the individual scale. The cosmic-scale extension is supported by inference from the Pauline cosmic-Christ material (Rom. 8:18–25; Col. 1:24; 2 Cor. 4:17), the Petrine cosmic-suffering material (1 Pet. 4:12–19; 1 Pet. 5:9–10), and the apocalyptic-imagination material (Rev. 21:4 with the eschatological closure-of-suffering). Parent-child relationship with FL.XXII at P1/GIII; see the Endurance-Hope and Suffering-as-Formation Parent-Child Relationship structural-observation sub-section.
 
 ***Mirror (constitutive bidirectional):*** *Same orientation-determined character as FL.XXII at the individual scale; the cosmic-scale articulation extends the constitutive-bidirectional structure to the cosmic-eschatological frame.*
 
 **P5/GIV · Attention Economy of the Soul (V), Speculative ◆**
+
+*Attributes: deferred (Speculative ◆)*
 
 The soul's movement toward its sustained object of attention; an attention-conformity periodicity articulation at the cosmic scale.
 
