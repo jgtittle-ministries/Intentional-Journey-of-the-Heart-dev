@@ -49,6 +49,6 @@ There is a collective version of this law as well. When a community is in collec
 
 **Vol 3. ***Formalized as the Faith-Obedience Reinforcing Engine in Vol 3 (Exp. 7: Feedback Loops): the self-amplifying loop in which obedience generates confirmation, confirmation increases trust, and trust produces more obedient action. Vol 3 quantifies the time-delay variable introduced here as a critical parameter.*
 
-**Formation Documents. ***Obedience to prior revelation is what HFT’s Affective Level 3 (Valuing) looks like from the outside. MSFIG develops this further: the Willard-Friesen debate about quotidian guidance **is resolved by the taxonomy precisely at this point. The time-delay flagged in this Exploration’s Certainty corresponds to MSFIG’s treatment of Brueggemann disorientation as a formation engine.*
+**Formation Documents. ***Obedience to prior revelation is what [HFT](../volume-5-references/source-pdfs/hft-heart-formation-theology.pdf){: .pdf-popup data-pdf-label="HFT — Heart Formation Theology" }’s Affective Level 3 (Valuing) looks like from the outside. [MSFIG](../volume-5-references/source-pdfs/msfig-model-spiritual-formation.pdf){: .pdf-popup data-pdf-label="MSFIG — Model of Spiritual Formation for Individuals and Small Groups" } develops this further: the Willard-Friesen debate about quotidian guidance **is resolved by the taxonomy precisely at this point. The time-delay flagged in this Exploration’s Certainty corresponds to MSFIG’s treatment of Brueggemann disorientation as a formation engine.*
 
 **Seventh Exploration — New Discovery**

@@ -41,4 +41,4 @@ I actually use this 1 Cor 13 reference as an early exploration of how things wor
 
 **Connections**
 
-**Formation Documents. ***The self-reinforcing triad maps onto SST’s spirit Stage 3 (Spirit-Empowered Fruitfulness), which SST proposes requires soul Stage 3 (Renewal) as a co-condition. The self-reinforcing-upward vs. self-degrading-downward dynamic of the triad may be partly governed by whether the soul and spirit are in approximate developmental alignment.*
+**Formation Documents. ***The self-reinforcing triad maps onto [SST](../volume-5-references/source-pdfs/sst-soul-spirit-taxonomies.pdf){: .pdf-popup data-pdf-label="SST — Soul and Spirit Taxonomies" }’s spirit Stage 3 (Spirit-Empowered Fruitfulness), which SST proposes requires soul Stage 3 (Renewal) as a co-condition. The self-reinforcing-upward vs. self-degrading-downward dynamic of the triad may be partly governed by whether the soul and spirit are in approximate developmental alignment.*

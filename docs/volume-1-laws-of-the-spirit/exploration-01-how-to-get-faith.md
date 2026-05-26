@@ -46,4 +46,4 @@ I connect this to the Sixth Exploration (the Obedience Channel): obedience to th
 
 **Vol 2. ***The Word → Hearing → Faith chain is the primary operational target of Vol 2: Part I**, which diagnoses the four soil conditions that block the chain at different points. Part II provides the clearing tools, and Part III provides **the practices that keep the chain open.*
 
-**Formation Documents. ***The chain is the structural spine of HFT’s heart formation taxonomy. The “genuine willingness to obey” modifier is what HFT’s Affective Level 3 (Valuing) looks like operationally; the PROAPT method **can **move a small group through Levels 1–3 **quickly**.*
+**Formation Documents. ***The chain is the structural spine of [HFT](../volume-5-references/source-pdfs/hft-heart-formation-theology.pdf){: .pdf-popup data-pdf-label="HFT — Heart Formation Theology" }’s heart formation taxonomy. The “genuine willingness to obey” modifier is what HFT’s Affective Level 3 (Valuing) looks like operationally; the PROAPT method **can **move a small group through Levels 1–3 **quickly**.*

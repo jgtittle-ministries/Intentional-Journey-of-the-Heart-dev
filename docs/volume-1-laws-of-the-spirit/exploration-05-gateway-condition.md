@@ -50,6 +50,6 @@ This also connects to the new Sixth Exploration on the Obedience Channel. The Fe
 
 **Connections**
 
-**Formation Documents. ***The Fear of the Lord functions as the epistemic correlate of SST’s regeneration threshold — both name a structural gateway, with IJH describing the architecture and SST describing the developmental entry condition. Both framings are needed; neither is complete on its own.*
+**Formation Documents. ***The Fear of the Lord functions as the epistemic correlate of [SST](../volume-5-references/source-pdfs/sst-soul-spirit-taxonomies.pdf){: .pdf-popup data-pdf-label="SST — Soul and Spirit Taxonomies" }’s regeneration threshold — both name a structural gateway, with IJH describing the architecture and SST describing the developmental entry condition. Both framings are needed; neither is complete on its own.*
 
 **Sixth Exploration — New Discovery**
