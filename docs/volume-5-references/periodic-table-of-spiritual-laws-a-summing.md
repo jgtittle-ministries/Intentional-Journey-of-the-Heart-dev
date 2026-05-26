@@ -800,11 +800,15 @@ Some polity-structure — the leader-follower-and-peer arrangements, the offices
 
 **P4/GI · FL.XIX (Foundational) — Spirit Anointing Transmission Law (V), Clearly Taught**
 
+*Attributes: Layer Operation · Scale-range 2 – 12 · Operator S+P*
+
 The Spirit's anointing operates as a transmissible reality across generations through deliberate impartation and proximity-based formation. Canonical instances: Elijah-Elisha (2 Kings 2); Paul-Timothy (2 Tim. 1:6); the apostolic-and-presbyteral laying-on-of-hands tradition (1 Tim. 4:14; 5:22).
 
 ***Mirror (statement form):*** *Idol-ward face is false-authority succession — the deliberate transmission of authority forms without the Spirit's anointing substance. 1 Tim. 4:1 and 2 Tim. 3:13 name the canonical NT articulation of false-anointing succession dynamics.*
 
 **P4/GII · FL.XVII (Foundational) — Substitution-Cascade Law (H), Clearly Taught (operational) / Reasonably Inferred (substrate)**
+
+*Attributes: Layer Operation · Scale-range 2 – generation · Operator P*
 
 The visible idolatry of one generation transmits to the next through the implicit-learning channel, with the substituted Object's enthronement reproducing across generations without deliberate teaching. Constitutive bidirectional pair with FL.XXI Household Formation Law at the same cell.
 
@@ -812,11 +816,15 @@ The visible idolatry of one generation transmits to the next through the implici
 
 **P4/GII · FL.XXI (Foundational) — Household Formation Law (V), Clearly Taught**
 
+*Attributes: Layer Operation · Scale-range 2 – 12 · Operator P*
+
 The God-ward direction of the generational-transmission dynamic operates by deliberate teaching and household formation, with the household's deliberate articulation of God's character, deeds, and address to the children as the operational form of the multigenerational transmission of God-ward orientation. The Shema's deliberate-teaching prescription (Deut. 6:4–9) and the Abrahamic commission's household-and-children-after-Him formulation (Gen. 18:19) name the canonical OT articulations.
 
 ***Mirror (constitutive bidirectional):*** *FL.XXI names the God-ward direction at the generational scale; FL.XVII Substitution-Cascade names the idol-ward direction. The two laws articulate the two faces of the generational transmission dynamic.*
 
 **P4/GII · Gratitude Amplifier (V), Speculative ◆**
+
+*Attributes: deferred (Speculative ◆)*
 
 A speculative entry articulating the amplification-by-gratitude dynamic at the generational scale.
 
@@ -824,11 +832,15 @@ A speculative entry articulating the amplification-by-gratitude dynamic at the g
 
 **P4/GIII · Generational Transmission (H), Speculative ◆**
 
+*Attributes: deferred (Speculative ◆)*
+
 A general-form articulation of the broader generational-transmission territory; held at Speculative tier pending further articulation that does not duplicate FL.XVII, FL.XXI, FL.XIX, FL.XXVI, FL.XXVII, FL.XXVIII.
 
 ***Mirror (orientation-neutral):*** *The transmission dynamic itself is structural rather than orientation-shaped; specific instances are orientation-determined per the law that articulates them.*
 
 **P4/GIV · FL.XXVI (Foundational) — Doctrinal Calcification Law (V), Clearly Taught**
+
+*Attributes: Layer Substrate · Scale-range 12 – generation · Operator P*
 
 Doctrinal traditions, when held without sustained engagement with their living scriptural and pastoral substance, calcify into form-without-power across generations — the structural form of the tradition persists while its operational substance attenuates, with the resulting form operating as substitute religious-identity that obscures the substance the tradition originally transmitted. Multi-author cross-Testament support: Jesus at Mark 7:1–13 (tradition of the elders); Paul at 2 Tim. 3:5 (form of godliness denying its power) and Col. 2:8 (philosophy and empty deceit according to human tradition); the broader prophetic indictment of formalized religion (Isa. 1:11–17; Amos 5:21–24); the Reformation's recovery of the calcified late-medieval substance through sola scriptura discipline.
 
@@ -836,11 +848,15 @@ Doctrinal traditions, when held without sustained engagement with their living s
 
 **P4/GV · FL.XXVII (Foundational) — Thick Practice Transmission Law (V), Clearly Taught**
 
+*Attributes: Layer Operation · Scale-range 3 – generation · Operator P*
+
 Embedded practices conducted in regular rhythm across generations — sabbath observance, passover and the seder, baptism and its rememberings, the eucharist and the Lord's table, sustained corporate prayer, sustained corporate Scripture reading, the catechetical cycles, the seasonal liturgical observances — operate as transmission vehicles for the substance of the faith that deliberate teaching alone cannot convey; the practices encode the substance in embodied form, the substance is received across generations through the participant's repeated participation in the practice's structural form across the formative years, and the practice's regular rhythm is constitutive of the mechanism. Five-or-more-biblical-author cross-Testament support: Moses across Deuteronomy and Exodus; the Joshua writer at Josh. 4; Paul across 1 Corinthians and 2 Timothy; Luke at Acts 2:42–47; the Psalmist at Ps. 78.
 
 ***Mirror (statement form):*** *The Thick Practice Transmission Law's idol-ward face is the form-without-power dynamic — the continued performance of the practice with the substance hollowed out. 2 Tim. 3:5 names the canonical scriptural articulation: "having the appearance of godliness, but denying its power. Avoid such people." The Pharisaic practice-forms in the Markan and Matthean controversies (Mark 7:1–13; Matt. 23:23) are the canonical NT cases. Recovery requires the recovery of the substance the practice encodes, with the practice's structural form held intact as the operational vehicle within which the substance is to be re-recovered.*
 
 **P4/GVI · FL.XXVIII (Foundational) — Generational Nested Structure Law (V), Clearly Taught**
+
+*Attributes: Layer Substrate · Scale-range 1 – eschatological · Operator P*
 
 The participant is formed within a nested architecture — the individual within the household, the household within the community, the community within the generation, the generation within the tradition, the tradition within the eschatological people of God — whose integrity is an operational condition for the transmission mechanisms the other Period 4 laws name; the nesting's intactness at each scale produces the architectural enabling-condition the mechanisms require, and compromised nesting at any scale propagates structural compromise across the scales the propagation reaches. Five-biblical-author cross-Testament support: Moses across Deuteronomy (Deut. 4:9–10; Deut. 6:1–9); the Psalmist across Ps. 78:5–8 and Ps. 145:4; Paul at Eph. 3:14–15; the Hebrews writer at Heb. 11–12; the Genesis writer at Gen. 18:19. The Petrine supplementary witness at Acts 2:39 establishes the New Covenant continuation of the nesting.
 

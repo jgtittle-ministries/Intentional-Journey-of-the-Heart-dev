@@ -1384,6 +1384,9 @@ claims:
     downstream_dependents: [FL.XXI]
     pt_period: P4
     pt_group: GII
+    layer: operation
+    operator: "P"
+    scale_range: "2 – generation"
     directionality: H
     band: null
     mirror_type: constitutive_bidirectional
@@ -1483,6 +1486,9 @@ claims:
     downstream_dependents: [FL.XX, FL.XXVII]
     pt_period: P4
     pt_group: GI
+    layer: operation
+    operator: "S+P"
+    scale_range: "2 – 12"
     directionality: V
     band: null
     mirror_type: statement
@@ -1584,6 +1590,9 @@ claims:
     downstream_dependents: [FL.XXVII, FL.XXVIII]
     pt_period: P4
     pt_group: GII
+    layer: operation
+    operator: "P"
+    scale_range: "2 – 12"
     directionality: V
     band: null
     mirror_type: constitutive_bidirectional
@@ -1821,6 +1830,9 @@ claims:
     downstream_dependents: []
     pt_period: P4
     pt_group: GIV
+    layer: substrate
+    operator: "P"
+    scale_range: "12 – generation"
     directionality: V
     band: null
     mirror_type: statement
@@ -1871,6 +1883,9 @@ claims:
     downstream_dependents: []
     pt_period: P4
     pt_group: GV
+    layer: operation
+    operator: "P"
+    scale_range: "3 – generation"
     directionality: V
     band: null
     mirror_type: statement
@@ -1918,6 +1933,9 @@ claims:
     downstream_dependents: []
     pt_period: P4
     pt_group: GVI
+    layer: substrate
+    operator: "P"
+    scale_range: "1 – eschatological"
     directionality: V
     band: 1
     mirror_type: statement
