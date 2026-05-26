@@ -12,7 +12,7 @@ Contents of Volume 1: Laws of the Spirit. Each entry below opens that section of
 - [What We Are Being Formed For: The Kingdom of God Now](what-we-are-being-formed-for-the.md) — What We Are Being Formed For: The Kingdom of God Now
 - [Taxonomy Key: How This Volume Classifies Its Explorations](taxonomy-key-how-this-volume-classifies-its.md) — Taxonomy Key: How This Volume Classifies Its Explorations
 - [Opening: The Miracle Frame](opening-miracle-frame.md) — Opening Exploration: The Miracle Frame — The Natural World as a Subset
-- [Foundational Laws: Thirty-Eight Operational Laws of Wide Consent](foundational-laws-thirty-eight-operational-laws-of-wide.md) — Foundational Laws: Thirty-Eight Operational Laws of Wide Consent
+- [Foundational Laws: Thirty-Nine Operational Laws of Wide Consent](foundational-laws-thirty-eight-operational-laws-of-wide.md) — Foundational Laws: Thirty-Nine Operational Laws of Wide Consent
 - [Foundational Law I: The Sowing-and-Reaping Law](foundational-law-i-the-sowing-and-reaping.md) — Foundational Law I: The Sowing-and-Reaping Law
 - [Foundational Law II: The Confession-Restoration Law](foundational-law-ii-the-confession-restoration-law.md) — Foundational Law II: The Confession-Restoration Law
 - [Foundational Law III: The Heart-Throne Law](foundational-law-iii-the-heart-throne-law.md) — Foundational Law III: The Heart-Throne Law
@@ -51,6 +51,7 @@ Contents of Volume 1: Laws of the Spirit. Each entry below opens that section of
 - [Foundational Law XXXVI: The Eschatological Glory Law](foundational-law-xxxvi-the-eschatological-glory-law.md) — Foundational Law XXXVI: The Eschatological Glory Law
 - [Foundational Law XXXVII: The Worship Alignment Law](foundational-law-xxxvii-the-worship-alignment-law.md) — Foundational Law XXXVII: The Worship Alignment Law
 - [Foundational Law XXXVIII: The Soul-Restoration Law](foundational-law-xxxviii-the-soul-restoration-law.md) — Foundational Law XXXVIII: The Soul-Restoration Law
+- [Foundational Law XL: The Abiding-Fruitfulness Law](foundational-law-xl-the-abiding-fruitfulness-law.md) — Foundational Law XL: The Abiding-Fruitfulness Law
 - [1. How to Get Faith](exploration-01-how-to-get-faith.md) — First Exploration: How to Get Faith
 - [2. My Spirit, Heart, Soul, and Body](exploration-02-my-spirit-heart-soul-and.md) — Second Exploration: My Spirit, Heart, Soul, and Body
 - [Supplemental: The Three Desires](supplemental-three-desires.md) — Supplemental Exploration: The Three Desires — Design Specifications of the Human Heart

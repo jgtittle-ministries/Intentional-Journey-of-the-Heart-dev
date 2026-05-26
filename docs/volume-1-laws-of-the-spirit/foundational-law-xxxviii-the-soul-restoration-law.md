@@ -82,5 +82,5 @@ The vertical directionality tag (V) names the relational vector. The soul-restor
 
 ***Certainty: Clearly Taught.*** *Nine-or-more-biblical-author cross-Testament support — the Psalmist across multiple Psalms; Matthew presenting Jesus's articulation; the Hebrews writer; Peter; John in 3 John and John 14; Paul across multiple letters; Jeremiah; Isaiah; Mosaic in Numbers; and the Lamentations writer holding the law substantively. Broad acceptance across mainstream Christian traditions on the operational claim, with tradition-differences on specific mechanism questions but uniform underlying claim that God's sustained restorative operation produces and maintains the soul's integration. Directional structure clear at the scale-invariant level.*
 
-**End of the canonical Foundational Laws as currently articulated**
+[**Foundational Law XL — Operational Law of Wide Consent →**](foundational-law-xl-the-abiding-fruitfulness-law.md){: .md-button .md-button--primary }
 
