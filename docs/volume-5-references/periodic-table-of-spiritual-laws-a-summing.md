@@ -111,6 +111,8 @@ The following four attribute classes were added during the matured-catalog revis
 
 ## What the Shape of the Table Reveals
 
+*The sub-sections below name specific FLs, Explorations, and Foundational Documents in prose. The clickable chapter link for each named entry lives in the [Reference List for the Periodic Table](#reference-list-for-the-periodic-table) section that closes this chapter — each entry-header there links to its underlying Vol 1 or Vol 2 chapter where one exists.*
+
 **Period 1 (Individual) remains a densely-populated row** holding the Faith-Hope-Love triad's individual-scale articulation (V1.Exp1, V1.Exp3) and the Heart-column cluster (FL.III Heart-Throne, FL.VIII Desire-for-God, FL.XIII Pure-Heart Vision, FL.XIV Vanity-of-Substitutes plus the V2.Exp1 Heart Soil Diagnostic relocated) — along with the Spirit-column gateway-and-reciprocity entries (V1.Exp5 Fear of the Lord, FL.VII Drawing-Near, FL.X Ask-Seek-Knock), the Soul-column entries (SST Stage 1, FL.IV Humility-Exaltation, FL.XXII Endurance-Hope admitted), and the Mind & Will / Body & Action / Structural Frame entries inherited from the original articulation.
 
 **Group V (Body/Action) is the densest column** with entries operating across Periods 0, 1, 2, 3, and 4. The dyadic-and-community concentration of the forgiveness-and-offense family at Periods 2 and 3 (FL.V Reciprocal Forgiveness, FL.XII Honor-Authority Flourishing, FL.XVIII Bitter-Root Community Law, FL.XXIV Confession-in-Community Law, FL.XXV Restoration-of-the-Erring Law alongside V2.Exp4 Sin Blockage and the Forgiveness-Debt Transfer entry) reflects the New Testament epistolary material's operational concentration. FL.XXVII Thick Practice Transmission Law at P4/GV extends the column to the generational scale.
@@ -291,17 +293,17 @@ The pattern also teaches that the Operator-tag distribution surfaces a real feat
 
 A structural feature of the corpus that the matured-catalog review surfaced: the six volumes do not hold the same kind of content arrayed at different altitudes. They do structurally-distinct kinds of work. Naming the functional specialization gives readers a navigation principle for the corpus that the catalog has been carrying implicitly throughout the expansion arc.
 
-**Vol 1 — Principle-articulation.** The Foundational Laws and the eight numbered Explorations (plus the Opening Exploration and the Supplemental) articulate principles of the spiritual life. The Foundational Law tier spans both substrate-articulation and operation-articulation in a 1:1 ratio (20 substrates to 19 operations at the present revision). The Exploration tier skews substrate-articulation (7 of 8 numbered Explorations classify as substrate). Vol 1's job is to lay down the floor of broadly-accepted principles and then to articulate the author's own propositional claims in the Explorations as building on that floor.
+**[Vol 1 — Principle-articulation](../volume-1-laws-of-the-spirit/index.md).** The Foundational Laws and the eight numbered Explorations (plus the Opening Exploration and the Supplemental) articulate principles of the spiritual life. The Foundational Law tier spans both substrate-articulation and operation-articulation in a 1:1 ratio (20 substrates to 19 operations at the present revision). The Exploration tier skews substrate-articulation (7 of 8 numbered Explorations classify as substrate). Vol 1's job is to lay down the floor of broadly-accepted principles and then to articulate the author's own propositional claims in the Explorations as building on that floor.
 
-**Vol 2 — Diagnostic-and-developmental articulation.** The Vol 2 Explorations are diagnostic and developmental refinements that operate downstream of the Vol 1 principles. The volume is substrate-dominant at 9 of 10 — almost every entry is a substrate-articulation of a developmental or diagnostic territory. Vol 2's job is to map the territory within which the Vol 1 principles operate — the emotional-knot dynamics that obstruct, the cognitive substrates of those dynamics, the container conditions that hold the formation work, the affective developmental stages, the community amplification dynamics.
+**[Vol 2 — Diagnostic-and-developmental articulation](../volume-2-knowing-to-doing/index.md).** The Vol 2 Explorations are diagnostic and developmental refinements that operate downstream of the Vol 1 principles. The volume is substrate-dominant at 9 of 10 — almost every entry is a substrate-articulation of a developmental or diagnostic territory. Vol 2's job is to map the territory within which the Vol 1 principles operate — the emotional-knot dynamics that obstruct, the cognitive substrates of those dynamics, the container conditions that hold the formation work, the affective developmental stages, the community amplification dynamics.
 
-**Vol 3 — Quantitative / field-theoretic articulation.** The Vol 3 Explorations are quantitative re-statements of the Vol 1–2 substrates: force, distance, energy, power, conservation as field-theoretic articulations of movement-toward-or-away-from-God, nearness-or-distance, operational capacity, and the Spirit's economy. Substrate-dominant at 7 of 9. Vol 3 is not articulating new substrate territory; it is making the existing substrate territory mathematically tractable, with the explicit acknowledgment that the specific equations are provisional while the underlying relational structure is taken more seriously.
+**[Vol 3 — Quantitative / field-theoretic articulation](../volume-3-quantitative-framework/index.md).** The Vol 3 Explorations are quantitative re-statements of the Vol 1–2 substrates: force, distance, energy, power, conservation as field-theoretic articulations of movement-toward-or-away-from-God, nearness-or-distance, operational capacity, and the Spirit's economy. Substrate-dominant at 7 of 9. Vol 3 is not articulating new substrate territory; it is making the existing substrate territory mathematically tractable, with the explicit acknowledgment that the specific equations are provisional while the underlying relational structure is taken more seriously.
 
-**Vol 4 — Testing methodology.** Vol 4 contains no new law-tier entries. Its job is operationalizing the Vol 1–2 claims into testable form, with instruments (SIP-Individual, NRP, EWI, Group SIP, weekly Tell-Rate, Facilitator SIP, plus eight research-grade extensions in the appendix) and protocols (individual + small-group + multi-site research design). Vol 4 is the catalog's epistemic-validation arm, not another row of law-articulations. A reader looking for new laws in Vol 4 will not find them; a reader looking for how the catalog's laws are to be tested will find Vol 4 essential.
+**[Vol 4 — Testing methodology](../volume-4-testing-framework/index.md).** Vol 4 contains no new law-tier entries. Its job is operationalizing the Vol 1–2 claims into testable form, with instruments (SIP-Individual, NRP, EWI, Group SIP, weekly Tell-Rate, Facilitator SIP, plus eight research-grade extensions in the appendix) and protocols (individual + small-group + multi-site research design). Vol 4 is the catalog's epistemic-validation arm, not another row of law-articulations. A reader looking for new laws in Vol 4 will not find them; a reader looking for how the catalog's laws are to be tested will find Vol 4 essential.
 
-**Vol 5 — Organizing-and-referencing.** Vol 5 holds the Periodic Table (this chapter), the Formation Documents (TA, HFT, MSFIG, SST, FC), the tool inventory, and the references across the corpus. Its job is to organize and reference rather than to articulate new operational claims. The Periodic Table chapter is itself an analytical instrument that operates on the contents of Vols 1–4 rather than introducing new contents; the chapter's gap-prediction and pattern-revelation functions are services to the operational work the other volumes do.
+**[Vol 5 — Organizing-and-referencing](index.md).** Vol 5 holds the Periodic Table (this chapter), the [Formation Documents](introduction.md) (TA, HFT, MSFIG, SST, FC), the tool inventory, and the references across the corpus. Its job is to organize and reference rather than to articulate new operational claims. The Periodic Table chapter is itself an analytical instrument that operates on the contents of Vols 1–4 rather than introducing new contents; the chapter's gap-prediction and pattern-revelation functions are services to the operational work the other volumes do.
 
-**Vol 6 — Governance.** Vol 6 holds the governance model, the Council of Stewards material, the claim registry's documented home, the catalog history (the present chapter's companion artifact at the governance level), the proposal-template for future admissions, and the succession arrangements. Its job is to govern the future revision of the catalog rather than to articulate operational claims within it. The Council inherits the catalog through Vol 6's curated transmission of its present shape and the patterns by which its future revisions are to be conducted.
+**[Vol 6 — Governance](../volume-6-governance/index.md).** Vol 6 holds the governance model, the Council of Stewards material, the [claim registry's documented home](../volume-6-governance/part-1-governance-model.md#2-the-claim-registry), the [catalog history](../volume-6-governance/appendix-catalog-history.md) (the present chapter's companion artifact at the governance level), the [proposal-template](../volume-6-governance/proposal-template.md) for future admissions, and the [succession arrangements](../volume-6-governance/part-3-succession-letter.md). Its job is to govern the future revision of the catalog rather than to articulate operational claims within it. The Council inherits the catalog through Vol 6's curated transmission of its present shape and the patterns by which its future revisions are to be conducted.
 
 The functional specialization is structural: the catalog is not six volumes of the same kind of content at different altitudes. Each volume does a kind of work the others do not. A reader who has internalized the specialization can navigate the corpus by purpose — looking for a principle goes to Vol 1; a diagnostic goes to Vol 2; a quantitative articulation goes to Vol 3; a testing protocol goes to Vol 4; an organizing reference goes to Vol 5; a governance question goes to Vol 6. This finding ratifies a structural feature the corpus has been carrying since its construction; the expansion arc has preserved this specialization throughout. The matured-catalog articulation of the specialization is the catalog's recognition of what the volumes have been doing all along.
 
@@ -312,7 +314,7 @@ Each non-resolved entry from the table above appears below in Period/Group order
 
 ### PERIOD 0 — Scale-Invariant
 
-**P0/GI · V1.Open — Miracle Frame (Natural ⊂ Spiritual) (V), Reasonably Inferred** *(relocated from P5/GI)*
+**P0/GI · V1.Open — [Miracle Frame (Natural ⊂ Spiritual)](../volume-1-laws-of-the-spirit/opening-miracle-frame.md) (V), Reasonably Inferred**
 
 *Attributes: Layer Substrate · Scale-range 1 – eschatological · Operator C+P*
 
@@ -320,7 +322,7 @@ The natural order is a sub-structure within the spiritual order — the spiritua
 
 ***Mirror (orientation-neutral):*** *The Miracle Frame's architectural character does not carry orientation; the architectural relationship of the spiritual to the natural is structural rather than orientation-shaped.*
 
-**P0/GI · FL.XV (Foundational) — Hardening Law (V), Clearly Taught**
+**P0/GI · FL.XV (Foundational) — [Hardening Law](../volume-1-laws-of-the-spirit/foundational-law-xv-the-hardening-law.md) (V), Clearly Taught**
 
 *Attributes: Layer Substrate · Scale-range 1 – eschatological · Operator P*
 
@@ -328,7 +330,7 @@ Sustained refusal of God-ward orientation progressively reduces the heart's resp
 
 ***Mirror:*** *The Hardening Law has no Mirror in the orientation-of-pursuit sense; it is itself the idol-ward face of the responsiveness-growth dynamic that V1.Exp6 Obedience Channel and FL.VII Drawing-Near Reciprocity name from the God-ward side. Same mechanism, two directions of pursuit.*
 
-**P0/GI · FL.XL (Foundational) — Abiding-Fruitfulness Law (V), Clearly Taught (Band 1)**
+**P0/GI · FL.XL (Foundational) — [Abiding-Fruitfulness Law](../volume-1-laws-of-the-spirit/foundational-law-xl-the-abiding-fruitfulness-law.md) (V), Clearly Taught (Band 1)**
 
 *Attributes: Layer Substrate · Scale-range 1 – eschatological · Operator C+P*
 
@@ -336,7 +338,7 @@ Continuous abiding in Christ operates as the substrate condition for fruit-beari
 
 ***Mirror (constitutive bidirectional):*** *The two faces are scripturally articulated together in John 15:5–6 — the abiding branch that bears much fruit and the non-abiding branch that withers and is gathered for burning. The Synoptic fig-tree miracle (Mark 11:12–25; Matt. 21:18–22) operationally enacts the non-abiding face — withering from the roots names the substrate-failure location. The form-without-substance failure mode (2 Tim. 3:5's "having the appearance of godliness, but denying its power") names the broader contemporary expression. Recovery requires the abiding's restoration through the catalog's formation mechanisms: FL.VIII Desire-for-God; V1.Exp1 Faith-Hearing Generation (Christ's words abiding in the believer per John 15:7); FL.VI Hear-and-Obey in iterative operation; FL.XXX Communal Soul-Care; FL.XXXII Communal Worship Heart-Alignment.*
 
-**P0/GI · FL.XLII (Foundational) — Kingdom-Confrontation Authority Law (V), Clearly Taught (Band 1)**
+**P0/GI · FL.XLII (Foundational) — [Kingdom-Confrontation Authority Law](../volume-1-laws-of-the-spirit/foundational-law-xlii-the-kingdom-confrontation-authority-law.md) (V), Clearly Taught (Band 1)**
 
 *Attributes: Layer Substrate · Scale-range 1 – eschatological · Operator C+P*
 
@@ -344,7 +346,7 @@ The operational presence of Christ — and, by derivative authorization, of beli
 
 ***Mirror (Christological-condition with derivative-participant operation):*** *Like FL.XLI, the law's primary operator is Christ; the participant's role is derivative-exercise under Christ's authorization. The failure mode at the participant level is the Sceva-attempt — exercise of authority-forms without the underlying authorization-substrate (Acts 19:13–16's canonical articulation). The failure mode at the rival-power level is the counter-organization response. The failure mode at the cultural level is the disenchantment substitute. Recovery requires the authorization's substrate-restoration through the catalog's formation mechanisms (FL.XXXV Trust-Substrate; FL.XL Abiding-Fruitfulness; FL.VI Hear-and-Obey in iterative operation; sustained communion).*
 
-**P0/GI · FL.XLIV (Foundational) — Sign-as-Revelation Law (V), Clearly Taught (Band 2)**
+**P0/GI · FL.XLIV (Foundational) — [Sign-as-Revelation Law](../volume-1-laws-of-the-spirit/foundational-law-xliv-the-sign-as-revelation-law.md) (V), Clearly Taught (Band 2)**
 
 *Attributes: Layer Substrate · Scale-range 1 – eschatological · Operator C*
 
@@ -352,7 +354,7 @@ Christ's physical-domain operations operate sacramentally as disclosures of corr
 
 ***Mirror (statement form):*** *The Sign-as-Revelation Law's idol-ward face is the sign-as-spectacle reception — the recipient who sees the physical operation without the disclosure. The contemporary expression operates wherever the search for miraculous-evidentiary-proof operates as substitute substrate for receptive-faith. The catalog's other entries hold related operational expressions: FL.XV Hardening Law names the broader substrate of sustained sign-rejection's operational consequence; FL.XIII Pure-Heart Vision Law names the Gateway condition for the receiving-as-sign posture's operational availability.*
 
-**P0/GII · FL.XXXV (Foundational) — Trust-Substrate Law (V), Clearly Taught (Band 1)**
+**P0/GII · FL.XXXV (Foundational) — [Trust-Substrate Law](../volume-1-laws-of-the-spirit/foundational-law-xxxv-the-trust-substrate-law.md) (V), Clearly Taught (Band 1)**
 
 *Attributes: Layer Substrate · Scale-range 1 – eschatological · Operator P*
 
@@ -360,7 +362,7 @@ The heart's experienced trust in God's reliable character and faithful presence 
 
 ***Mirror (statement form):*** *The Trust-Substrate Law's idol-ward face operates wherever the heart's experienced participation is directed toward a competing source of security and reliable presence — the self's competence; another person; an institution; a material accumulation; a culturally-prestigious affiliation. Jer. 17:5–6 names the canonical scriptural articulation: "Cursed is the man who trusts in man and makes flesh his strength, whose heart turns away from the LORD. He is like a shrub in the desert, and shall not see any good come." Prov. 28:26 names the self-substrate case ("Whoever trusts in his own mind is a fool"). Ps. 20:7 names the institutional-substrate case ("Some trust in chariots and some in horses"). Recovery requires substrate restoration through sustained engagement with God's character and faithful presence at the catalog's formation mechanisms.*
 
-**P0/GII · FL.XXXVII (Foundational) — Worship Alignment Law (V), Clearly Taught** *(promoted from Speculative ◆ and relocated from P5/GII)*
+**P0/GII · FL.XXXVII (Foundational) — [Worship Alignment Law](../volume-1-laws-of-the-spirit/foundational-law-xxxvii-the-worship-alignment-law.md) (V), Clearly Taught**
 
 *Attributes: Layer Substrate · Scale-range 1 – eschatological · Operator P*
 
@@ -368,7 +370,7 @@ Sustained worship of an Object operates as the heart's perceptual-recalibration 
 
 ***Mirror (statement form):*** *The Worship Alignment Law's idol-ward face operates wherever the heart's sustained worship is directed toward a substitute Object — the self (self-worship as the foundational idol-ward worship form); another human person (idolatry of relationship); material accumulation (mammon-worship at Matt. 6:24); institutional or cultural participations operating as substitute identity-anchors; political-or-social allegiances operating as functional ultimate concerns. Rom. 1:21–25 names the canonical scriptural articulation of the worship-substitution dynamic and its operational consequence ("they exchanged the truth of God for a lie, and worshiped and served the creature rather than the Creator"). Isa. 44:9–20 names the operational futility of substitute-Object worship through the parodic narrative of the idol-maker. Recovery requires substrate restoration through restored worship of God as the worshiped Object, with the catalog's formation mechanisms (sustained scripture-engagement, sustained prayer, sustained sacramental practice, sustained corporate worship) operating as the operational form of the recovery.*
 
-**P0/GIII · FL.XXXVIII (Foundational) — The Soul-Restoration Law (V), Clearly Taught (Band 1)**
+**P0/GIII · FL.XXXVIII (Foundational) — [The Soul-Restoration Law](../volume-1-laws-of-the-spirit/foundational-law-xxxviii-the-soul-restoration-law.md) (V), Clearly Taught (Band 1)**
 
 *Attributes: Layer Substrate · Scale-range 1 – eschatological · Operator C+P*
 
@@ -376,7 +378,7 @@ The soul — the integrative center of the person holding the dimensions in unif
 
 ***Mirror (statement form):*** *The Soul-Restoration Law's idol-ward face operates wherever the soul's restoration is sought through substitute mechanisms that displace God's restorative work — the soul's restoration through substance-induced numbness; through compulsive activity that crowds out the soul's perception of its disordered state; through identity-construction operating as substitute soul-coherence; through therapeutic frames that exclude the spiritual dimension as a category of intervention; through self-restoration mechanisms operating as the soul-restoration's source rather than its participation. Jer. 2:13's canonical articulation ("they have forsaken me, the fountain of living waters, and hewed out cisterns for themselves, broken cisterns that can hold no water") names the substitution dynamic at the soul-restoration level — the broken cisterns are the catalog's idol-ward substitute soul-restoration mechanisms, each promising the soul's restoration while structurally unable to hold the substance that produces it. The soul that pursues its restoration through substitute mechanisms experiences the operational signature of the substitution: temporary alleviation followed by deeper exhaustion, accelerating dependency on the substitute, progressive loss of perception of God's restorative offer, and ultimate disintegration of the soul's integrative capacity. Recovery requires the participant's return to the fountain — sustained engagement with God's restorative operation through the catalog's formation mechanisms in their soul-restoration-oriented mode.*
 
-**P0/GV · FL.VI (Foundational) — Hear-and-Obey Blessing Law (V), Clearly Taught**
+**P0/GV · FL.VI (Foundational) — [Hear-and-Obey Blessing Law](../volume-1-laws-of-the-spirit/foundational-law-vi-the-hear-and-obey.md) (V), Clearly Taught**
 
 *Attributes: Layer Substrate · Scale-range 1 – eschatological · Operator P*
 
@@ -384,7 +386,7 @@ Hearing the word of God and doing it produces blessedness and flourishing; heari
 
 ***Mirror:*** *FL.XVI Bondage Law at P0/GV is the structural counterpart of FL.VI in the same scale-invariant location: the same obedience-constitutes-state mechanism viewed from the other direction of pursuit.*
 
-**P0/GV · FL.IX (Foundational) — Generosity-Provision Law (B), Clearly Taught**
+**P0/GV · FL.IX (Foundational) — [Generosity-Provision Law](../volume-1-laws-of-the-spirit/foundational-law-ix-the-generosity-provision-law.md) (B), Clearly Taught**
 
 *Attributes: Layer Substrate · Scale-range 1 – eschatological · Operator P*
 
@@ -392,7 +394,7 @@ Generous giving evokes provision toward the giver; withholding evokes the invers
 
 ***Mirror:*** *The idol-ward face of FL.IX is mammon-as-throne — the love of money operating as a competing sovereignty (Matt. 6:24; 1 Tim. 6:10).*
 
-**P0/GV · FL.XVI (Foundational) — Bondage Law (B), Clearly Taught**
+**P0/GV · FL.XVI (Foundational) — [Bondage Law](../volume-1-laws-of-the-spirit/foundational-law-xvi-the-bondage-law.md) (B), Clearly Taught**
 
 *Attributes: Layer Substrate · Scale-range 1 – eschatological · Operator P*
 
@@ -400,7 +402,7 @@ Sustained obedience to sin constitutes the obeyer as the slave of sin (Rom. 6:16
 
 ***Mirror:*** *FL.VI Hear-and-Obey Blessing is the God-ward face of FL.XVI's idol-ward bondage.*
 
-**P0/GV · FL.XXXIX (Foundational) — Surrender-Multiplication Law (V), Clearly Taught (Band 1)**
+**P0/GV · FL.XXXIX (Foundational) — [Surrender-Multiplication Law](../volume-1-laws-of-the-spirit/foundational-law-xxxix-the-surrender-multiplication-law.md) (V), Clearly Taught (Band 1)**
 
 *Attributes: Layer Substrate · Scale-range 1 – eschatological · Operator C+P*
 
@@ -408,7 +410,7 @@ What is yielded into Christ's hands operates by a return-mechanism that exceeds 
 
 ***Mirror (statement form):*** *The idol-ward face is the buried-talent substrate — the substance retained in self-possession against the day of accounting (Matt. 25:24–25). The Ananias-and-Sapphira case (Acts 5:1–11) names the substitutional half-surrender. The hoarder's stockpile (Luke 12:16–21) names the broader cultural-economic substitute. Recovery requires substrate restoration through trust-substrate establishment (FL.XXXV), sustained desire-for-God (FL.VIII), and sustained abiding (FL.XL).*
 
-**P0/GVI · FL.I (Foundational) — Sowing-and-Reaping Law (B), Clearly Taught**
+**P0/GVI · FL.I (Foundational) — [Sowing-and-Reaping Law](../volume-1-laws-of-the-spirit/foundational-law-i-the-sowing-and-reaping.md) (B), Clearly Taught**
 
 *Attributes: Layer Substrate · Scale-range 1 – eschatological · Operator P*
 
@@ -416,7 +418,7 @@ What a person, community, or generation sows, that unit reaps — in kind, in de
 
 ***Mirror:*** *Sowing to the Spirit (Gal. 6:8b) reaps eternal life; sowing to the flesh (Gal. 6:8a) reaps corruption. Same mechanism, two directions of pursuit, two characteristic outputs.*
 
-**P0/GVI · FL.XXIII (Foundational) — Sabbath Rest Law (V), Clearly Taught (Band 3)**
+**P0/GVI · FL.XXIII (Foundational) — [Sabbath Rest Law](../volume-1-laws-of-the-spirit/foundational-law-xxiii-the-sabbath-rest-law.md) (V), Clearly Taught (Band 3)**
 
 *Attributes: Layer Substrate · Scale-range 1 – generation · Operator P*
 
@@ -424,7 +426,7 @@ The rhythm of work and structured cessation in trust-of-provision operates as th
 
 ***Mirror (statement form):*** *The Sabbath Rest Law's idol-ward face is the productivity-as-identity dynamic — sustained work without structured cessation operating as identity-construction-through-output, with the productivity functioning as the substitute provision-source and as the substitute meaning-anchor. Ex. 20:9–11 names the canonical scriptural articulation by negation (the work-as-identity person cannot enter the sabbath's rest because the rest requires the trust-in-provision the productivity-identity refuses to operate); Isa. 30:15 ("in returning and rest you shall be saved; in quietness and in trust shall be your strength") names the rest-as-trust dynamic positively. Recovery requires structured re-engagement of cessation in trust, with the catalog's formation mechanisms operating as the operational form of the recovery.*
 
-**P0/GVI · FL.XLI (Foundational) — Defilement-Cleansing Reversal Law (V), Clearly Taught (Band 1)**
+**P0/GVI · FL.XLI (Foundational) — [Defilement-Cleansing Reversal Law](../volume-1-laws-of-the-spirit/foundational-law-xli-the-defilement-cleansing-reversal-law.md) (V), Clearly Taught (Band 1)**
 
 *Attributes: Layer Substrate · Scale-range 1 – eschatological · Operator C*
 
@@ -432,7 +434,7 @@ Under Christ's operational presence, the polarity of ceremonial contagion is str
 
 ***Mirror (Christological-condition):*** *The law's mechanism is not orientation-determined in the participant; it is conditioned on Christ's operational presence as the structural reverser. The participant's role is reception. The failure mode is non-reception of the reversed-polarity offer: self-cleansing substitute (Mark 7:1–13 Pharisaic-cleansing pattern); despair-of-cleansing (Heb. 10:38 shrinking-back); substitute-mediator (mediator-economy parallel to Christ); indifference (non-engagement). Recovery requires re-orientation to Christ's offered operation as the cleansing-substrate.*
 
-**P0/GVI · FL.XLIII (Foundational) — Cross-Boundary Faith-Access Law (V), Clearly Taught (Band 1)**
+**P0/GVI · FL.XLIII (Foundational) — [Cross-Boundary Faith-Access Law](../volume-1-laws-of-the-spirit/foundational-law-xliii-the-cross-boundary-faith-access-law.md) (V), Clearly Taught (Band 1)**
 
 *Attributes: Layer Substrate · Scale-range 1 – eschatological · Operator P*
 
@@ -442,7 +444,7 @@ Recognized faith operates as the access criterion to covenant benefits independe
 
 ### PERIOD 1 — Individual (sole actor)
 
-**P1/GI · V1.Exp5 (Gateway) — Fear of the Lord (V), Clearly Taught**
+**P1/GI · V1.Exp5 (Gateway) — [Fear of the Lord](../volume-1-laws-of-the-spirit/exploration-05-gateway-condition.md) (V), Clearly Taught**
 
 *Attributes: Layer Substrate · Scale-range 1 – eschatological · Operator P*
 
@@ -450,7 +452,7 @@ Logically prior entry condition for the entire Wisdom cluster. The entry's Gatew
 
 ***Mirror:*** *"Fools despise wisdom and instruction" (Prov. 1:7b). The orientation reading: fear of the Lord vs. fear of man (Prov. 29:25; Isa. 8:12–13).*
 
-**P1/GI · FL.VII (Foundational) — Drawing-Near Reciprocity Law (V), Clearly Taught**
+**P1/GI · FL.VII (Foundational) — [Drawing-Near Reciprocity Law](../volume-1-laws-of-the-spirit/foundational-law-vii-the-drawing-near-reciprocity.md) (V), Clearly Taught**
 
 *Attributes: Layer Operation · Scale-range 1 – 120 · Operator P*
 
@@ -458,7 +460,7 @@ Active movement toward God evokes God's movement toward the person; turning away
 
 ***Mirror:*** *Turning away from God produces God's withdrawal (2 Chron. 15:2's negative direction).*
 
-**P1/GI · FL.X (Foundational) — Ask-Seek-Knock Law (V), Clearly Taught**
+**P1/GI · FL.X (Foundational) — [Ask-Seek-Knock Law](../volume-1-laws-of-the-spirit/foundational-law-x-the-ask-seek-knock.md) (V), Clearly Taught**
 
 *Attributes: Layer Operation · Scale-range 1 – 70 · Operator P*
 
@@ -466,7 +468,7 @@ Persistent, faith-filled asking in alignment with God's character produces recei
 
 ***Mirror:*** *Asking from wrong motive (Jas. 4:3) is the idol-ward face the law itself names.*
 
-**P1/GII · V1.Exp1 — Faith Generation (Hearing Chain) (V), Reasonably Inferred**
+**P1/GII · V1.Exp1 — [Faith Generation (Hearing Chain)](../volume-1-laws-of-the-spirit/exploration-01-how-to-get-faith.md) (V), Reasonably Inferred**
 
 *Attributes: Layer Operation · Scale-range 1 – community · Operator P+S*
 
@@ -474,7 +476,7 @@ Word → Hearing → Faith; willingness to obey activates the chain; disobedienc
 
 ***Mirror:*** *The same chain operates wherever sustained attention to a source produces faith in what the source says. Hearing chains directed toward false gospels produce faith in falsehood (2 Tim. 4:3–4).*
 
-**P1/GII · V1.Exp3 — Faith-Hope-Love Triad (V), Reasonably Inferred**
+**P1/GII · V1.Exp3 — [Faith-Hope-Love Triad](../volume-1-laws-of-the-spirit/exploration-03-relationship-of-faith-hope-and.md) (V), Reasonably Inferred**
 
 *Attributes: Layer Substrate · Scale-range 1 – eschatological · Operator P*
 
@@ -482,7 +484,7 @@ Self-reinforcing triad: Faith generates Hope; Hope enables Love; Love deepens Fa
 
 ***Mirror:*** *Misplaced trust corrupts hope; corrupted hope deforms love; deformed love undermines further trust. Jer. 17:5–8 names both directions in a single oracle.*
 
-**P1/GII · FL.III (Foundational) — Heart-Throne Law (B), Clearly Taught**
+**P1/GII · FL.III (Foundational) — [Heart-Throne Law](../volume-1-laws-of-the-spirit/foundational-law-iii-the-heart-throne-law.md) (B), Clearly Taught**
 
 *Attributes: Layer Substrate · Scale-range 1 – eschatological · Operator P*
 
@@ -490,7 +492,7 @@ Whatever the heart looks to as its primary source of security, meaning, or ident
 
 ***Mirror (constitutive):*** *FL.III's content is itself the orientation-of-pursuit dimension. Pairs upward with FL.XIV Vanity-of-Substitutes and downward with FL.XVII Substitution-Cascade and FL.XXI Household Formation Law.*
 
-**P1/GII · FL.VIII (Foundational) — Desire-for-God Law (V), Clearly Taught**
+**P1/GII · FL.VIII (Foundational) — [Desire-for-God Law](../volume-1-laws-of-the-spirit/foundational-law-viii-the-desire-for-god.md) (V), Clearly Taught**
 
 *Attributes: Layer Substrate · Scale-range 1 · Operator P*
 
@@ -498,7 +500,7 @@ The human heart, made for God, generates a longing for Him as a structural featu
 
 ***Mirror (constitutive):*** *FL.VIII's idol-ward face is named in full by FL.XIV Vanity-of-Substitutes Law.*
 
-**P1/GII · FL.XIV (Foundational) — Vanity-of-Substitutes Law (V), Clearly Taught**
+**P1/GII · FL.XIV (Foundational) — [Vanity-of-Substitutes Law](../volume-1-laws-of-the-spirit/foundational-law-xiv-the-vanity-of-substitutes-law.md) (V), Clearly Taught**
 
 *Attributes: Layer Substrate · Scale-range 1 – eschatological · Operator P*
 
@@ -506,7 +508,7 @@ Every substitutional attempt to fill the FL.VIII Desire-for-God longing with an 
 
 ***Mirror (constitutive):*** *FL.XIV is itself the idol-ward face of FL.VIII Desire-for-God.*
 
-**P1/GII · FL.XIII (Foundational) — Pure-Heart Vision Law (V), Clearly Taught**
+**P1/GII · FL.XIII (Foundational) — [Pure-Heart Vision Law](../volume-1-laws-of-the-spirit/foundational-law-xiii-the-pure-heart-vision.md) (V), Clearly Taught**
 
 *Attributes: Layer Substrate · Scale-range 1 · Operator P*
 
@@ -514,7 +516,7 @@ Purity of heart is the prior condition for the seeing of God. Second Gateway-typ
 
 ***Mirror (constitutive):*** *Pure heart = single-Object orientation toward God; impure heart = divided pursuit (Jas. 4:8 "purify your hearts, you double-minded").*
 
-**P1/GII · V2.Exp1 — Heart Soil Diagnostic (I), Clearly Taught** *(relocated from P3/GV in)*
+**P1/GII · V2.Exp1 — [Heart Soil Diagnostic](../volume-2-knowing-to-doing/exploration-01-heart-soil.md) (I), Clearly Taught**
 
 *Attributes: Layer Substrate · Scale-range 1 · Operator P*
 
@@ -530,7 +532,7 @@ Recognition of interior fragmentation as precondition for clearing.
 
 ***Mirror:*** *Denial and self-justification calcify the disorder rather than resolving it (1 John 1:8; Jer. 17:9).*
 
-**P1/GIII · FL.IV (Foundational) — Humility-Exaltation Law (V), Clearly Taught**
+**P1/GIII · FL.IV (Foundational) — [Humility-Exaltation Law](../volume-1-laws-of-the-spirit/foundational-law-iv-the-humility-exaltation-law.md) (V), Clearly Taught**
 
 *Attributes: Layer Operation · Scale-range 1 – 12 · Operator P*
 
@@ -538,7 +540,7 @@ Self-humbling before God leads to being exalted in due time; self-exaltation lea
 
 ***Mirror:*** *Self-exaltation is structurally an idol-ward operation: the self enthrones the self in God's place. Luke 14:11 and Matt. 23:12 name both directions in a single sentence.*
 
-**P1/GIII · FL.XXII (Foundational) — Endurance-Hope Law (V), Clearly Taught**
+**P1/GIII · FL.XXII (Foundational) — [Endurance-Hope Law](../volume-1-laws-of-the-spirit/foundational-law-xxii-the-endurance-hope-law.md) (V), Clearly Taught**
 
 *Attributes: Layer Substrate · Scale-range 1 – eschatological · Operator P*
 
@@ -546,7 +548,7 @@ Suffering endured in the right disposition produces character; character produce
 
 ***Mirror (constitutive bidirectional):*** *The same input (suffering) produces opposite outputs (formation under God-ward orientation; root of bitterness under idol-ward orientation), with the orientation as the operational pivot. Heb. 12:14–15 names both directions in a single passage (the pursuit-of-holiness producing formation; the root-of-bitterness producing community-defilement); the FL.XVIII Bitter-Root Community Law at P3/GV holds the community-scale operation of the idol-ward direction. The Endurance-Hope Law is an orientation-determined law in the structural sense the third-axis test established.*
 
-**P1/GIV · V1.Exp4 — Wisdom Cluster (K→U→W→D) (I), Reasonably Inferred**
+**P1/GIV · V1.Exp4 — [Wisdom Cluster (K→U→W→D)](../volume-1-laws-of-the-spirit/exploration-04-wisdom-knowledge-understanding-and-discernment.md) (I), Reasonably Inferred**
 
 *Attributes: Layer Substrate · Scale-range 1 – community · Operator P+S*
 
@@ -554,7 +556,7 @@ Knowledge → Understanding → Wisdom → Discernment; Fear of the Lord is the 
 
 ***Mirror:*** *Without the gateway, the same faculties produce cleverness from a distorted reference point (Rom. 1:22; 1 Cor. 1:20).*
 
-**P1/GIV · FL.XI (Foundational) — Renewal-of-Mind Transformation Law (V), Clearly Taught**
+**P1/GIV · FL.XI (Foundational) — [Renewal-of-Mind Transformation Law](../volume-1-laws-of-the-spirit/foundational-law-xi-the-renewal-of-mind.md) (V), Clearly Taught**
 
 *Attributes: Layer Operation · Scale-range 1 · Operator S+P*
 
@@ -562,7 +564,7 @@ Sustained renewal of the mind produces transformation; sustained conformity to t
 
 ***Mirror:*** *Conformity to the pattern of the age (Rom. 12:2a) is the negative direction.*
 
-**P1/GV · V1.Exp6 — Obedience Channel (Revelation Flow) (V), Clearly Taught**
+**P1/GV · V1.Exp6 — [Obedience Channel (Revelation Flow)](../volume-1-laws-of-the-spirit/exploration-06-obedience-channel.md) (V), Clearly Taught**
 
 *Attributes: Layer Substrate · Scale-range 1 – eschatological · Operator P*
 
@@ -570,7 +572,7 @@ Obedience to prior revelation is the causal condition for subsequent revelation.
 
 ***Mirror:*** *Compounded disobedience progressively closes the channel (Heb. 3:13; 1 Sam. 15:22–23). The FL.XV Hardening Law is the wider-scope law in the same family.*
 
-**P1/GV · V1.Exp7 — Spiritual Authority (Force Multiplier) (B), Reasonably Inferred**
+**P1/GV · V1.Exp7 — [Spiritual Authority (Force Multiplier)](../volume-1-laws-of-the-spirit/exploration-07-spiritual-authority.md) (B), Reasonably Inferred**
 
 *Attributes: Layer Substrate · Scale-range 1 – city · Operator C+P*
 
@@ -578,7 +580,7 @@ Authority delegated hierarchically: Father → Son → believers; operating with
 
 ***Mirror:*** *The idol-ward face is usurped authority — Korah's rebellion (Num. 16) names the canonical biblical pattern.*
 
-**P1/GV · FL.II (Foundational) — Confession-Restoration Law (V), Clearly Taught**
+**P1/GV · FL.II (Foundational) — [Confession-Restoration Law](../volume-1-laws-of-the-spirit/foundational-law-ii-the-confession-restoration-law.md) (V), Clearly Taught**
 
 *Attributes: Layer Operation · Scale-range 1 · Operator P*
 
@@ -586,7 +588,7 @@ Honest, owned confession of sin restores fellowship and clears the channel.
 
 ***Mirror:*** *Concealment of sin is structurally an idol-ward operation. Prov. 28:13 names both directions in a single sentence.*
 
-**P1/GVI · V1.Exp2 — Nested Person Structure (I), Reasonably Inferred**
+**P1/GVI · V1.Exp2 — [Nested Person Structure](../volume-1-laws-of-the-spirit/exploration-02-my-spirit-heart-soul-and.md) (I), Reasonably Inferred**
 
 *Attributes: Layer Substrate · Scale-range 1 · Operator P*
 
@@ -596,7 +598,7 @@ Spirit ⊂ Heart; Heart, Mind, and Body ⊂ Soul; lasting change always works fr
 
 ### PERIOD 2 — Dyadic / Small Group
 
-**P2/GI · V1.Exp8 — Prayer Resonance (Waveform Model) (V), Reasonably Inferred**
+**P2/GI · V1.Exp8 — [Prayer Resonance (Waveform Model)](../volume-1-laws-of-the-spirit/exploration-08-prayer-as-resonance-phenomenon.md) (V), Reasonably Inferred**
 
 *Attributes: Layer Operation · Scale-range 1 – 120 · Operator P+S*
 
@@ -620,7 +622,7 @@ Sustained prayer-time spent in the resonance of a non-God Object produces deform
 
 ***Mirror:*** *The God-ward face is V1.Exp8 Prayer Resonance at the same cell.*
 
-**P2/GII · V2.Exp7 — Hearing Development (5-Stage Affective) (V), Reasonably Inferred**
+**P2/GII · V2.Exp7 — [Hearing Development (5-Stage Affective)](../volume-2-knowing-to-doing/exploration-07-hearing-with-understanding.md) (V), Reasonably Inferred**
 
 *Attributes: Layer Substrate · Scale-range 1 · Operator P+S*
 
@@ -628,7 +630,7 @@ Development of the capacity to hear from God moves through five affective stages
 
 ***Mirror:*** *In the idol-ward direction the same faculty develops as the calcification of self-hearing as if it were hearing-from-God.*
 
-**P2/GIII · V2.Exp2 — Emotional Knot Law (I), Clearly Taught**
+**P2/GIII · V2.Exp2 — [Emotional Knot Law](../volume-2-knowing-to-doing/exploration-02-emotional-knots.md) (I), Clearly Taught**
 
 *Attributes: Layer Substrate · Scale-range 1 · Operator P*
 
@@ -636,7 +638,7 @@ Sustained unresolved emotional knots produce somatic and behavioral consequence 
 
 ***Mirror (orientation-neutral):*** *The mechanism does not carry orientation.*
 
-**P2/GIII · V2.Exp6 — Tool-Application (Discernment Required) (I), Reasonably Inferred**
+**P2/GIII · V2.Exp6 — [Tool-Application (Discernment Required)](../volume-2-knowing-to-doing/exploration-06-tool-map.md) (I), Reasonably Inferred**
 
 *Attributes: Layer Operation · Scale-range 1 – 12 · Operator P*
 
@@ -644,7 +646,7 @@ Specific formation tools must be matched to specific participant states.
 
 ***Mirror (orientation-neutral):*** *The Tool-Application Law is structural rather than orientation-shaped.*
 
-**P2/GIV · V2.Exp3 — Cognitive Root of Knots (I), Reasonably Inferred**
+**P2/GIV · V2.Exp3 — [Cognitive Root of Knots](../volume-2-knowing-to-doing/exploration-03-believing-lie.md) (I), Reasonably Inferred**
 
 *Attributes: Layer Substrate · Scale-range 1 · Operator P*
 
@@ -652,7 +654,7 @@ Emotional knots characteristically have a cognitive substrate.
 
 ***Mirror:*** *Frames with idol-ward content require dethroning-style work, not merely cognitive-reframing-style work.*
 
-**P2/GV · V2.Exp4 — Sin Blockage Law (Circuit Load) (V), Clearly Taught**
+**P2/GV · V2.Exp4 — [Sin Blockage Law (Circuit Load)](../volume-2-knowing-to-doing/exploration-04-confession-and-restoration.md) (V), Clearly Taught**
 
 *Attributes: Layer Substrate · Scale-range 1 – 12 · Operator P*
 
@@ -668,7 +670,7 @@ The act of forgiveness operates as a transfer of the offense's debt from the off
 
 ***Mirror:*** *The idol-ward face is the offended party's retention of the debt with the offender as the operational debtor — the unforgiving-servant dynamic (Matt. 18:21–35).*
 
-**P2/GV · FL.V (Foundational) — Reciprocal Forgiveness Law (B), Clearly Taught**
+**P2/GV · FL.V (Foundational) — [Reciprocal Forgiveness Law](../volume-1-laws-of-the-spirit/foundational-law-v-the-reciprocal-forgiveness-law.md) (B), Clearly Taught**
 
 *Attributes: Layer Operation · Scale-range 2 – 70 · Operator P*
 
@@ -676,7 +678,7 @@ The forgiving party's reception of God's forgiveness is operationally conditiona
 
 ***Mirror:*** *Unforgiveness is structurally an idol-ward operation — the offended party enthrones the offense as the operational center, with the offender's relationship to the offended party operating as the substitute for the offended party's relationship to God.*
 
-**P2/GV · FL.XII (Foundational) — Honor-Authority Flourishing Law (B), Clearly Taught**
+**P2/GV · FL.XII (Foundational) — [Honor-Authority Flourishing Law](../volume-1-laws-of-the-spirit/foundational-law-xii-the-honor-authority-flourishing.md) (B), Clearly Taught**
 
 *Attributes: Layer Operation · Scale-range 2 – city · Operator P*
 
@@ -684,7 +686,7 @@ Honoring legitimate authority (parental, civil, ecclesial) produces flourishing 
 
 ***Mirror:*** *The idol-ward face is dishonor toward legitimate authority — the canonical scriptural articulation operates through the fifth commandment (Ex. 20:12; Eph. 6:1–3) and through the Pauline submission-to-governing-authorities passage (Rom. 13:1–7).*
 
-**P2/GVI · V2.Exp5 — Four Connects (Self → Others → God → Mission) (B), Reasonably Inferred**
+**P2/GVI · V2.Exp5 — [Four Connects (Self → Others → God → Mission)](../volume-2-knowing-to-doing/exploration-05-four-connects.md) (B), Reasonably Inferred**
 
 *Attributes: Layer Substrate · Scale-range 1 – eschatological · Operator P*
 
@@ -702,7 +704,7 @@ The marriage covenant — instituted at creation, ratified by Jesus's teaching, 
 
 ### PERIOD 3 — Community / Congregation
 
-**P3/GI · FL.XX (Foundational) — Gathered-Body Discernment Law (V), Clearly Taught**
+**P3/GI · FL.XX (Foundational) — [Gathered-Body Discernment Law](../volume-1-laws-of-the-spirit/foundational-law-xx-the-gathered-body-discernment-law.md) (V), Clearly Taught**
 
 *Attributes: Layer Operation · Scale-range 3 – 120 · Operator S+P*
 
@@ -710,7 +712,7 @@ The Spirit's distinctive speaking through the gathered body produces discernment
 
 ***Mirror:*** *The idol-ward face is gathered-body corporate self-deception — the canonical NT articulation is the seven letters of Rev. 2–3 to the gathered bodies that had drifted from their first love or had received false teaching or had grown lukewarm, with the Spirit's address to those bodies operating as the corrective.*
 
-**P3/GII · V1.Exp1 — Faith-Hearing Generation (V), Reasonably Inferred** *(community-scale operation)*
+**P3/GII · V1.Exp1 — [Faith-Hearing Generation](../volume-1-laws-of-the-spirit/exploration-01-how-to-get-faith.md) (V), Reasonably Inferred**
 
 *Attributes: Layer Operation · Scale-range 3 – community · Operator P+S*
 
@@ -718,7 +720,7 @@ The same Word → Hearing → Faith chain operates at the community scale throug
 
 ***Mirror:*** *Same as V1.Exp1 at P1/GII; community-scale operates through gathered-hearing.*
 
-**P3/GII · V2.Exp9 — Community Amplification Law (B), Reasonably Inferred**
+**P3/GII · V2.Exp9 — [Community Amplification Law](../volume-2-knowing-to-doing/exploration-09-community-as-amplifier.md) (B), Reasonably Inferred**
 
 *Attributes: Layer Substrate · Scale-range 3 – 120 · Operator P+S*
 
@@ -726,7 +728,7 @@ Genuine spiritual community amplifies hearing, multiplies faith, and provides th
 
 ***Mirror (statement form):*** *The idol-ward face is the closed-loop community — the community whose internal consensus operates as self-validation, with the feedback loop closed against external correction. The Adversary operates through this drift (2 Cor. 11:13–15), with tactics including flattery directed at insiders, contempt directed at outsiders, the slow elevation of a single voice above genuine testing, and the increasing internal certainty about ever-more-specific claims. Recovery requires the three-condition test the law's positive form names — submission to scripture, openness to outside correction, observable fruit in the natural.*
 
-**P3/GII · FL.XXXII (Foundational) — Communal Worship Heart-Alignment Law (B), Clearly Taught**
+**P3/GII · FL.XXXII (Foundational) — [Communal Worship Heart-Alignment Law](../volume-1-laws-of-the-spirit/foundational-law-xxxii-communal-worship-heart-alignment-law.md) (B), Clearly Taught**
 
 *Attributes: Layer Operation · Scale-range 3 – city · Operator P*
 
@@ -734,7 +736,7 @@ A gathered community's collective worship operates as the structural form of the
 
 ***Mirror (constitutive bidirectional):*** *The two faces are mutually constituting rather than scripturally-paired-positive-and-negative. Structural failure mode: the gathered worship conducted with the corporate-heart aligned elsewhere (toward identity-marker function, social-cohesion utility, organizational legitimation, emotional-experience aim). Mark 7:6–7's "this people honors me with their lips, but their heart is far from me; in vain do they worship me" cites Isa. 29:13's OT canonical articulation. Recovery requires deliberate re-orientation of the corporate-heart toward God as the worship's Object.*
 
-**P3/GIII · V2.Exp8 — Container Law (Safe/Present/Clear/Intentional) (H), Reasonably Inferred**
+**P3/GIII · V2.Exp8 — [Container Law (Safe/Present/Clear/Intentional)](../volume-2-knowing-to-doing/exploration-08-container.md) (H), Reasonably Inferred**
 
 *Attributes: Layer Substrate · Scale-range 3 – 70 · Operator P*
 
@@ -742,7 +744,7 @@ Operational features of containers that hold formation work safely and effective
 
 ***Mirror (orientation-neutral):*** *The Container Law is structural rather than orientation-shaped.*
 
-**P3/GIII · FL.XXIX (Foundational) — Corporate Emotional Integration Law (B), Clearly Taught**
+**P3/GIII · FL.XXIX (Foundational) — [Corporate Emotional Integration Law](../volume-1-laws-of-the-spirit/foundational-law-xxix-corporate-emotional-integration-law.md) (B), Clearly Taught**
 
 *Attributes: Layer Operation · Scale-range 3 – 120 · Operator P*
 
@@ -750,7 +752,7 @@ When one member of the corporate body suffers, all suffer together; when one mem
 
 ***Mirror (constitutive bidirectional):*** *Structural failure mode is the gathered community's failure to engage individual members' experience as its own — the suffering member who suffers alone while the community continues untroubled, the honored member celebrated only individually while the community withholds its corporate rejoicing. Recovery requires deliberate re-engagement at both faces with corporate grief work and corporate rejoicing work as operational forms.*
 
-**P3/GIII · FL.XXX (Foundational) — Communal Soul-Care for the Wounded Law (H), Clearly Taught**
+**P3/GIII · FL.XXX (Foundational) — [Communal Soul-Care for the Wounded Law](../volume-1-laws-of-the-spirit/foundational-law-xxx-communal-soul-care-for-the-wounded-law.md) (H), Clearly Taught**
 
 *Attributes: Layer Operation · Scale-range 3 – 70 · Operator P*
 
@@ -758,7 +760,7 @@ The gathered community holds the integration that the soul-wounded member cannot
 
 ***Mirror (statement form):*** *Idol-ward face is the abandonment of the wounded — community's failure to operate structured sustaining work, with wounded member left to attempt integration during the period when her own integrative capacity is structurally unavailable. Job 4–37's failure of Job's friends after the chapter 2 sustaining work is the canonical scriptural articulation. Recovery requires deliberate reinstitution of structured holding work with community's structural attention to wounded member's actual operational state.*
 
-**P3/GIV · FL.XXXI (Foundational) — Corporate Scriptural Reception Law (V), Clearly Taught**
+**P3/GIV · FL.XXXI (Foundational) — [Corporate Scriptural Reception Law](../volume-1-laws-of-the-spirit/foundational-law-xxxi-corporate-scriptural-reception-law.md) (V), Clearly Taught**
 
 *Attributes: Layer Operation · Scale-range 3 – 120 · Operator P*
 
@@ -774,7 +776,7 @@ Community-scale articulation of confession's clarifying function. Held at Specul
 
 ***Mirror:*** *Same orientation-determined character as FL.II Confession-Restoration at the individual scale.*
 
-**P3/GV · FL.XVIII (Foundational) — Bitter-Root Community Law (H), Clearly Taught**
+**P3/GV · FL.XVIII (Foundational) — [Bitter-Root Community Law](../volume-1-laws-of-the-spirit/foundational-law-xviii-the-bitter-root-community-law.md) (H), Clearly Taught**
 
 *Attributes: Layer Operation · Scale-range 3 – 70 · Operator P*
 
@@ -782,7 +784,7 @@ Unresolved offense between community members, held over time without the reconci
 
 ***Mirror (constitutive bidirectional):*** *The pursuit of peace and the root of bitterness are named together in Heb. 12:14–15 as constitutive bidirectional dynamic. Pairs with FL.XXIV Confession-in-Community Law and FL.XXV Restoration-of-the-Erring Law at the same cell as the community-relational substrate triplet.*
 
-**P3/GV · FL.XXIV (Foundational) — Confession-in-Community Law (H), Clearly Taught**
+**P3/GV · FL.XXIV (Foundational) — [Confession-in-Community Law](../volume-1-laws-of-the-spirit/foundational-law-xxiv-the-confession-in-community-law.md) (H), Clearly Taught**
 
 *Attributes: Layer Operation · Scale-range 3 – 12 · Operator P*
 
@@ -790,7 +792,7 @@ The participant's secret sin, brokenness, or failure operates as compartmented i
 
 ***Mirror (statement form):*** *Idol-ward face is the concealment dynamic — the secret held over time operating as substitute interior architecture, with the concealment functioning as substitute integration. The operational signature of concealment is progressive interior compartmentation and accumulating relational distance from the community whose witness would integrate the secret.*
 
-**P3/GV · FL.XXV (Foundational) — Restoration-of-the-Erring Law (H), Clearly Taught**
+**P3/GV · FL.XXV (Foundational) — [Restoration-of-the-Erring Law](../volume-1-laws-of-the-spirit/foundational-law-xxv-the-restoration-of-the-erring-law.md) (H), Clearly Taught**
 
 *Attributes: Layer Operation · Scale-range 3 – 120 · Operator P*
 
@@ -798,7 +800,7 @@ The participant who has wandered from the truth or from the community is activel
 
 ***Mirror (statement form):*** *Idol-ward face is the passive abandonment of the wanderer — community's withholding of the pursuit, with the wanderer left to her own course. Operational signature is the community's gradual loss of memory of the wanderer's relational claim, with structural attenuation of the community's pursuit-readiness over time.*
 
-**P3/GVI · V2.Exp10 — Skill Development (B), Reasonably Inferred** *(anomalous placement)*
+**P3/GVI · V2.Exp10 — [Skill Development](../volume-2-knowing-to-doing/exploration-10-training-plan.md) (B), Reasonably Inferred**
 
 *Attributes: deferred (anomaly)*
 
@@ -816,7 +818,7 @@ Some polity-structure — the leader-follower-and-peer arrangements, the offices
 
 ### PERIOD 4 — Generational / Historical
 
-**P4/GI · FL.XIX (Foundational) — Spirit Anointing Transmission Law (V), Clearly Taught**
+**P4/GI · FL.XIX (Foundational) — [Spirit Anointing Transmission Law](../volume-1-laws-of-the-spirit/foundational-law-xix-the-spirit-anointing-transmission-law.md) (V), Clearly Taught**
 
 *Attributes: Layer Operation · Scale-range 2 – 12 · Operator S+P*
 
@@ -824,7 +826,7 @@ The Spirit's anointing operates as a transmissible reality across generations th
 
 ***Mirror (statement form):*** *Idol-ward face is false-authority succession — the deliberate transmission of authority forms without the Spirit's anointing substance. 1 Tim. 4:1 and 2 Tim. 3:13 name the canonical NT articulation of false-anointing succession dynamics.*
 
-**P4/GII · FL.XVII (Foundational) — Substitution-Cascade Law (H), Clearly Taught (operational) / Reasonably Inferred (substrate)**
+**P4/GII · FL.XVII (Foundational) — [Substitution-Cascade Law](../volume-1-laws-of-the-spirit/foundational-law-xvii-the-substitution-cascade-law.md) (H), Clearly Taught (operational) / Reasonably Inferred (substrate)**
 
 *Attributes: Layer Operation · Scale-range 2 – generation · Operator P*
 
@@ -832,7 +834,7 @@ The visible idolatry of one generation transmits to the next through the implici
 
 ***Mirror (constitutive bidirectional):*** *FL.XVII names the idol-ward direction at the generational scale; FL.XXI names the God-ward direction. The two laws articulate the two faces of the generational transmission dynamic. Ex. 20:5–6's third-and-fourth-generation iniquity and thousand-generation steadfast-love clauses name both directions in a single passage.*
 
-**P4/GII · FL.XXI (Foundational) — Household Formation Law (V), Clearly Taught**
+**P4/GII · FL.XXI (Foundational) — [Household Formation Law](../volume-1-laws-of-the-spirit/foundational-law-xxi-the-household-formation-law.md) (V), Clearly Taught**
 
 *Attributes: Layer Operation · Scale-range 2 – 12 · Operator P*
 
@@ -856,7 +858,7 @@ A general-form articulation of the broader generational-transmission territory; 
 
 ***Mirror (orientation-neutral):*** *The transmission dynamic itself is structural rather than orientation-shaped; specific instances are orientation-determined per the law that articulates them.*
 
-**P4/GIV · FL.XXVI (Foundational) — Doctrinal Calcification Law (V), Clearly Taught**
+**P4/GIV · FL.XXVI (Foundational) — [Doctrinal Calcification Law](../volume-1-laws-of-the-spirit/foundational-law-xxvi-the-doctrinal-calcification-law.md) (V), Clearly Taught**
 
 *Attributes: Layer Substrate · Scale-range 12 – generation · Operator P*
 
@@ -864,7 +866,7 @@ Doctrinal traditions, when held without sustained engagement with their living s
 
 ***Mirror (statement form):*** *The Doctrinal Calcification Law's God-ward face operates through deliberate scriptural-and-pastoral re-engagement of the tradition's substance, with the tradition's form retained intact as the operational vehicle within which the recovered substance operates.*
 
-**P4/GV · FL.XXVII (Foundational) — Thick Practice Transmission Law (V), Clearly Taught**
+**P4/GV · FL.XXVII (Foundational) — [Thick Practice Transmission Law](../volume-1-laws-of-the-spirit/foundational-law-xxvii-the-thick-practice-transmission-law.md) (V), Clearly Taught**
 
 *Attributes: Layer Operation · Scale-range 3 – generation · Operator P*
 
@@ -872,7 +874,7 @@ Embedded practices conducted in regular rhythm across generations — sabbath ob
 
 ***Mirror (statement form):*** *The Thick Practice Transmission Law's idol-ward face is the form-without-power dynamic — the continued performance of the practice with the substance hollowed out. 2 Tim. 3:5 names the canonical scriptural articulation: "having the appearance of godliness, but denying its power. Avoid such people." The Pharisaic practice-forms in the Markan and Matthean controversies (Mark 7:1–13; Matt. 23:23) are the canonical NT cases. Recovery requires the recovery of the substance the practice encodes, with the practice's structural form held intact as the operational vehicle within which the substance is to be re-recovered.*
 
-**P4/GVI · FL.XXVIII (Foundational) — Generational Nested Structure Law (V), Clearly Taught**
+**P4/GVI · FL.XXVIII (Foundational) — [Generational Nested Structure Law](../volume-1-laws-of-the-spirit/foundational-law-xxviii-the-generational-nested-structure-law.md) (V), Clearly Taught**
 
 *Attributes: Layer Substrate · Scale-range 1 – eschatological · Operator P*
 
@@ -882,7 +884,7 @@ The participant is formed within a nested architecture — the individual within
 
 ### PERIOD 5 — Cosmic / Eschatological
 
-**P5/GI · FL.XLV (Foundational) — Voice-of-Christ-Reaches-into-Death Law (V), Clearly Taught (Band 1)**
+**P5/GI · FL.XLV (Foundational) — [Voice-of-Christ-Reaches-into-Death Law](../volume-1-laws-of-the-spirit/foundational-law-xlv-the-voice-of-christ-reaches-into-death-law.md) (V), Clearly Taught (Band 1)**
 
 *Attributes: Layer Substrate · Scale-range 1 – eschatological · Operator C+T*
 
@@ -890,7 +892,7 @@ Christ's voice — spoken in the Gospel narratives directly and operating throug
 
 ***Mirror (Christological-condition):*** *Like FL.XLI and FL.XLIV, the law's operator is Christ; the participant's role is reception. The non-reception failure mode is the refusal of the gospel's voice in the spiritually-dead present-economy operation. Multiple non-reception forms operate: the veil-over-the-heart form (2 Cor. 3:13–16); the rejection form (Matt. 10:32–33); the deferred-reception form (Acts 24:24–27 Felix-and-Drusilla pattern); the cultural-disenchantment form (the contemporary expression where the resurrection-claim is held intellectually but is not received operationally because the working-substrate-of-reality is the disenchanted-naturalistic frame). Recovery in the present economy operates through the gospel's continued proclamation; the eschatological consummation is held within FL.XXXVI Eschatological Glory Law operating at the Heart-dimension while the present law operates at the Spirit-dimension at the same cosmic-eschatological scale.*
 
-**P5/GII · FL.XXXVI (Foundational) — Eschatological Glory Law (V), Clearly Taught (Band 1)**
+**P5/GII · FL.XXXVI (Foundational) — [Eschatological Glory Law](../volume-1-laws-of-the-spirit/foundational-law-xxxvi-the-eschatological-glory-law.md) (V), Clearly Taught (Band 1)**
 
 *Attributes: Layer Substrate · Scale-range 1 – eschatological · Operator T+P*
 

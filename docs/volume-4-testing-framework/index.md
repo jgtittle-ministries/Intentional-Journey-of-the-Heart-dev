@@ -26,7 +26,7 @@ The reading order within Vol 4 itself matters less than the reading order from V
 
 ### LotS claim codes used in this volume
 
-The LotS-* codes refer to claims registered in Vols 1–2 (the canonical registry lives in Vol 6). The codes used in Vol 4 are listed below with the working statement each code references. *If a code's exact wording diverges from the Vol 6 registry, the registry is authoritative.*
+The LotS-* codes refer to claims registered in Vols 1–2 (the canonical registry lives in [Vol 6 Part 1 §2 — The Claim Registry](../volume-6-governance/part-1-governance-model.md#2-the-claim-registry)). The codes used in Vol 4 are listed below with the working statement each code references. *If a code's exact wording diverges from the Vol 6 registry, the registry is authoritative.*
 
 | Code | Working statement |
 |---|---|
