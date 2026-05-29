@@ -27,8 +27,11 @@
     s = s.replace(/!\[([^\]]*)\]\(([^)]+)\)(?:\{:[^}]*\})?/g, (_, alt, src) => {
       const safeAlt = alt.replace(/"/g, '&quot;');
       const resolved = resolvePath(src);
+      // `alt` is already HTML-escaped (inline() escapes the whole string up
+      // front), so it is safe to drop straight into the figcaption — escaping
+      // again here would double-encode apostrophes/ampersands in captions.
       return '<figure class="md-figure"><img src="' + resolved + '" alt="' + safeAlt + '" loading="lazy"/>' +
-             (alt ? '<figcaption>' + escapeHtml(alt) + '</figcaption>' : '') +
+             (alt ? '<figcaption>' + alt + '</figcaption>' : '') +
              '</figure>';
     });
     // Links [text](url) with an optional {: …} attr-list (MkDocs attr_list,
