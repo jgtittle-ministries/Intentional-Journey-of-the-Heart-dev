@@ -94,9 +94,10 @@ body > * { position: relative; z-index: 1; }
 }
 .topnav {
   display: flex;
+  flex-wrap: wrap;
   align-items: center;
   justify-content: space-between;
-  gap: 16px;
+  gap: 10px 16px;
   padding: 12px var(--gutter);
   max-width: 1400px;
   margin: 0 auto;
@@ -141,7 +142,10 @@ body > * { position: relative; z-index: 1; }
 .topnav-vols {
   display: flex;
   gap: 2px;
-  margin: 0 auto;
+  order: 3;
+  width: 100%;
+  margin: 0;
+  padding-top: 4px;
   flex-wrap: nowrap;
   overflow-x: auto;
   scrollbar-width: none;
@@ -193,13 +197,12 @@ body > * { position: relative; z-index: 1; }
   .topnav-right { display: none; }
 }
 /* Search + theme controls — always visible (unlike .topnav-right). */
-.topnav-controls { display: flex; align-items: center; gap: 8px; flex: none; }
+.topnav-controls { display: flex; align-items: center; gap: 8px; flex: none; margin-left: auto; }
 @media (max-width: 1180px) {
   .topnav .crest .crest-sub { display: none; }
 }
 @media (max-width: 1080px) {
-  .topnav { flex-wrap: wrap; padding: 12px 18px; gap: 8px; }
-  .topnav-vols { order: 3; width: 100%; padding-top: 6px; }
+  .topnav { padding: 12px 18px; }
 }
 
 /* ---------- TOC sidebar ---------- */
