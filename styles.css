@@ -1398,6 +1398,18 @@ hr.divider {
   line-height: 1.55;
   text-align: center;
 }
+/* Small float-left inset figure — shows a low-resolution image at (near)
+   native size with text wrapping, instead of upscaling it to full width. */
+.md-figure.inset-left {
+  float: left;
+  width: 275px;
+  max-width: 42%;
+  margin: 6px 26px 14px 0;
+}
+.md-figure.inset-left figcaption { text-align: left; }
+@media (max-width: 640px) {
+  .md-figure.inset-left { float: none; width: 275px; max-width: 100%; margin: 28px auto; }
+}
 
 /* ── PDF popup links + modal (restored after MkDocs retirement) ────── */
 /* Inline suffix style, e.g. the "(pdf)" after a Formation Document name. */
