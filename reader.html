@@ -423,6 +423,7 @@
   .chapter-banner .cb-val { color: var(--text); }
   .chapter-banner .cb-val.accent { color: var(--accent); }
 </style>
+<script>(function(){try{if(localStorage.getItem('ijh-theme')==='dark')document.documentElement.setAttribute('data-theme','dark');}catch(e){}})();</script>
 </head>
 <body>
 <div class="progress" id="progress"></div>
@@ -445,6 +446,10 @@
       <a href="Volume 4.html"><span class="v-num">IV</span>Testing</a>
       <a href="Volume 5.html"><span class="v-num">V</span>References</a>
       <a href="Volume 6 Governance.html"><span class="v-num">VI</span>Governance</a>
+    </div>
+    <div class="topnav-controls">
+      <button type="button" class="nav-icon-btn" id="search-open" aria-label="Search" title="Search (press /)">⌕</button>
+      <button type="button" class="nav-icon-btn" id="theme-toggle" aria-label="Toggle dark mode"></button>
     </div>
     <div class="topnav-right">
       <a href="https://github.com/jgtittle-ministries/Intentional-Journey-of-the-Heart-dev" target="_blank" rel="noopener">Repo</a>
@@ -486,5 +491,6 @@
 
 <script src="manifest.js"></script>
 <script src="reader.js"></script>
+<script src="app.js"></script>
 </body>
 </html>
