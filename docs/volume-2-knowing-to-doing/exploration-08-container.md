@@ -7,7 +7,7 @@ source: "IJH_Vol2_v5_6_1_1.docx"
 # Eighth Exploration: The Container — Preparing the Conditions for Hearing in the Community
 
 
-![](images/image-010.jpeg)
+![](images/holding-space-hands.jpg){: .inset-left}
 
 ## What a Container Is
 The container is the prepared interior space that a group of men or women creates together before doing any significant spiritual work. We call it a container because it is like a vessel — it holds what happens inside it, creates a boundary between the sacred work and the ordinary noise of life, and provides the structural conditions for genuine encounter. It is not a magic circle or a ritual formula. It is a set of relational commitments that, when genuinely entered into, change the quality of what can happen inside them.
