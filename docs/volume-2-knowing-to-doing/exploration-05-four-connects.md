@@ -16,7 +16,7 @@ The sequence is not arbitrary. I cannot genuinely connect with Others if I do no
 
 ## Connecting with Self
 
-![](images/self-mirror.jpg)
+![](images/self-reflection.jpg)
 
 The starting point is always honest self-observation. "How converted is my heart?" is the diagnostic question I keep returning to, because it refuses the religious short-circuit of treating profession as equivalent to transformation. The heart is the soil. The state of the soil determines what the Word can produce. And I have a hard time addressing a soil condition I have not accurately named.
 
