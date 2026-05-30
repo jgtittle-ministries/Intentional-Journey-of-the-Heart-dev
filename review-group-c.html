@@ -87,6 +87,17 @@
   }
   .rc-view:hover { color: var(--accent-2); }
   .rc-foot { margin-top: 48px; font-family: var(--mono); font-size: 11px; color: var(--text-dim); letter-spacing: 0.04em; }
+
+  .c5-current { margin: 8px 0 22px; }
+  .c5-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 20px; }
+  figure.c5-cand { margin: 0; }
+  figure.c5-cand img { display:block; width:100%; height:200px; object-fit:cover; border-radius:3px; border:1px solid var(--rule-soft); background:#fff; }
+  figure.c5-cand figcaption { margin-top:8px; font-family:var(--mono); font-size:10.5px; line-height:1.5; color:var(--text-dim); }
+  .c5lic { font-weight:600; padding:1px 6px; border-radius:99px; border:1px solid currentColor; }
+  .c5lic.lic-free { color: var(--leaf); }
+  .c5lic.lic-credit { color: var(--cool); }
+  .c5note { color: var(--text-dim); }
+  .c5meta a { color: var(--accent); }
 </style>
 </head>
 <body>
@@ -212,27 +223,150 @@
   </section>
 
   <!-- C5 -->
-  <section class="rc-card">
+  <section class="rc-card" id="c5">
     <div class="rc-head">
       <span class="rc-id">C5</span>
-      <span class="pill remove">My pick · Remove</span>
+      <span class="pill resource">Your call · pick a replacement</span>
       <span class="rc-chap">Vol 2 · exploration-08-container</span>
     </div>
-    <p class="rc-what">"Container Gardening" web banner — <b>wrong topic</b></p>
-    <p class="rc-rat">This is a sepia <strong>gardening</strong> banner, but the chapter is about the
-    <em>therapeutic container</em> — the safe space that holds a person. The image actively misleads.
-    I'd <strong>remove</strong> it, or <strong>resource</strong> a fitting picture (cupped hands, a
-    bowl/vessel, "holding space"). Either way, the gardening banner should go.</p>
-    <div class="rc-figs single">
-      <figure class="rc-fig">
-        <img src="docs/volume-2-knowing-to-doing/images/image-010.jpeg" alt="current container gardening banner">
-        <figcaption><b>Current</b> — image-010.jpeg, 310×163 · off-topic</figcaption>
+    <p class="rc-what">Replace the off-topic "Container Gardening" banner</p>
+    <p class="rc-rat">The chapter is about the <em>therapeutic container</em> — the safe space that
+    holds a person — so we're swapping the gardening banner for a <strong>cupped / open hands
+    "holding space"</strong> image. All candidates below are free-license (the
+    <span class="c5lic lic-free">CC0 / Public&nbsp;Domain</span> ones need no credit; the
+    <span class="c5lic lic-credit">CC&nbsp;BY</span> ones need a small credit line, which I'll add).
+    <strong>Tell me which number you want</strong> (e.g. "C5: use C5-03"), and I'll size it as an
+    inset in the chapter. I dropped one shot that held soil + a seedling — too close to gardening.</p>
+    <div class="c5-current">
+      <figure class="rc-fig" style="max-width:320px">
+        <img src="docs/volume-2-knowing-to-doing/images/image-010.jpeg" alt="current off-topic banner">
+        <figcaption><b>Current (to be replaced)</b> — off-topic gardening banner</figcaption>
+      </figure>
+    </div>
+    <div class="c5-grid">
+      <figure class="c5-cand">
+        <img src="_reviewC/c5/c5_01.jpg" alt="Ranger cupping hands around creosote" loading="lazy">
+        <figcaption>
+          <b>C5-01</b> &middot; <span class="c5lic lic-free">Public Domain</span>
+          <span class="c5note">no credit needed</span><br>
+          <span class="c5meta">Ranger cupping hands around creosote &middot; 1023x683 &middot;
+          <a href="https://www.flickr.com/photos/115357548@N08/26988210467" target="_blank" rel="noopener">flickr source</a></span>
+        </figcaption>
+      </figure>
+      <figure class="c5-cand">
+        <img src="_reviewC/c5/c5_02.jpg" alt="black-and-white-cup-hand-mug" loading="lazy">
+        <figcaption>
+          <b>C5-02</b> &middot; <span class="c5lic lic-free">CC0</span>
+          <span class="c5note">public domain — no credit needed</span><br>
+          <span class="c5meta">black-and-white-cup-hand-mug &middot; 1024x768 &middot;
+          <a href="https://www.flickr.com/photos/137643065@N06/24300670176" target="_blank" rel="noopener">flickr source</a></span>
+        </figcaption>
+      </figure>
+      <figure class="c5-cand">
+        <img src="_reviewC/c5/c5_03.jpg" alt="Free hand holding light bulb" loading="lazy">
+        <figcaption>
+          <b>C5-03</b> &middot; <span class="c5lic lic-free">CC0</span>
+          <span class="c5note">public domain — no credit needed</span><br>
+          <span class="c5meta">Free hand holding light bulb &middot; 1024x683 &middot;
+          <a href="https://www.rawpixel.com/image/5913931/image-white-background-public-domain-hand" target="_blank" rel="noopener">rawpixel source</a></span>
+        </figcaption>
+      </figure>
+      <figure class="c5-cand">
+        <img src="_reviewC/c5/c5_04.jpg" alt="A hand holds light purple flowers in the foreground, with a calm sunset of blue and orange over green land and reflective water in the background." loading="lazy">
+        <figcaption>
+          <b>C5-04</b> &middot; <span class="c5lic lic-free">CC0</span>
+          <span class="c5note">public domain — no credit needed</span><br>
+          <span class="c5meta">A hand holds light purple flowers in the foreground, with a calm sunset of blue and orange over green land and reflective water in the background. &middot; 1152x2048 &middot;
+          <a href="https://wordpress.org/photos/photo/9269872891/" target="_blank" rel="noopener">wordpress source</a></span>
+        </figcaption>
+      </figure>
+      <figure class="c5-cand">
+        <img src="_reviewC/c5/c5_05.jpg" alt="Cupped Hands" loading="lazy">
+        <figcaption>
+          <b>C5-05</b> &middot; <span class="c5lic lic-credit">CC BY</span>
+          <span class="c5note">needs a credit line</span><br>
+          <span class="c5meta">Cupped Hands &middot; 1024x683 &middot;
+          <a href="https://www.flickr.com/photos/22501424@N00/8499433584" target="_blank" rel="noopener">flickr source</a></span>
+        </figcaption>
+      </figure>
+      <figure class="c5-cand">
+        <img src="_reviewC/c5/c5_06.jpg" alt="Wearing ritual blindfolds Tibetan children being given nectar from the Hevajra initiation in their cupped hands, by a monk, Tharlam Monastery courtyard, Boudha, Kathmandu, Nepal" loading="lazy">
+        <figcaption>
+          <b>C5-06</b> &middot; <span class="c5lic lic-credit">CC BY</span>
+          <span class="c5note">needs a credit line</span><br>
+          <span class="c5meta">Wearing ritual blindfolds Tibetan children being given nectar from the Hevajra initiation in their cupped hands, by a monk, Tharlam Monastery courtyard, Boudha, Kathmandu, Nepal &middot; 1024x630 &middot;
+          <a href="https://www.flickr.com/photos/71401718@N00/4906970836" target="_blank" rel="noopener">flickr source</a></span>
+        </figcaption>
+      </figure>
+      <figure class="c5-cand">
+        <img src="_reviewC/c5/c5_08.jpg" alt="Cupped Hands monochrome photo" loading="lazy">
+        <figcaption>
+          <b>C5-08</b> &middot; <span class="c5lic lic-credit">CC BY</span>
+          <span class="c5note">needs a credit line</span><br>
+          <span class="c5meta">Cupped Hands monochrome photo &middot; 4368x2912 &middot;
+          <a href="https://commons.wikimedia.org/w/index.php?curid=97116931" target="_blank" rel="noopener">wikimedia source</a></span>
+        </figcaption>
+      </figure>
+      <figure class="c5-cand">
+        <img src="_reviewC/c5/c5_09.jpg" alt="hold on" loading="lazy">
+        <figcaption>
+          <b>C5-09</b> &middot; <span class="c5lic lic-credit">CC BY</span>
+          <span class="c5note">needs a credit line</span><br>
+          <span class="c5meta">hold on &middot; 1024x683 &middot;
+          <a href="https://www.flickr.com/photos/23094783@N03/4039833851" target="_blank" rel="noopener">flickr source</a></span>
+        </figcaption>
+      </figure>
+      <figure class="c5-cand">
+        <img src="_reviewC/c5/c5_10.jpg" alt="241/365 - 6/6/2011" loading="lazy">
+        <figcaption>
+          <b>C5-10</b> &middot; <span class="c5lic lic-credit">CC BY</span>
+          <span class="c5note">needs a credit line</span><br>
+          <span class="c5meta">241/365 - 6/6/2011 &middot; 1024x664 &middot;
+          <a href="https://www.flickr.com/photos/45642240@N05/5807104182" target="_blank" rel="noopener">flickr source</a></span>
+        </figcaption>
+      </figure>
+      <figure class="c5-cand">
+        <img src="_reviewC/c5/c5_11.jpg" alt="Gentle Hand" loading="lazy">
+        <figcaption>
+          <b>C5-11</b> &middot; <span class="c5lic lic-credit">CC BY</span>
+          <span class="c5note">needs a credit line</span><br>
+          <span class="c5meta">Gentle Hand &middot; 769x1023 &middot;
+          <a href="https://www.flickr.com/photos/49503154413@N01/113491889" target="_blank" rel="noopener">flickr source</a></span>
+        </figcaption>
+      </figure>
+      <figure class="c5-cand">
+        <img src="_reviewC/c5/c5_12.jpg" alt="stop light halloween costume" loading="lazy">
+        <figcaption>
+          <b>C5-12</b> &middot; <span class="c5lic lic-credit">CC BY</span>
+          <span class="c5note">needs a credit line</span><br>
+          <span class="c5meta">stop light halloween costume &middot; 683x1024 &middot;
+          <a href="https://www.flickr.com/photos/73645804@N00/6301078974" target="_blank" rel="noopener">flickr source</a></span>
+        </figcaption>
+      </figure>
+      <figure class="c5-cand">
+        <img src="_reviewC/c5/c5_13.jpg" alt="holding on" loading="lazy">
+        <figcaption>
+          <b>C5-13</b> &middot; <span class="c5lic lic-credit">CC BY</span>
+          <span class="c5note">needs a credit line</span><br>
+          <span class="c5meta">holding on &middot; 1024x683 &middot;
+          <a href="https://www.flickr.com/photos/23094783@N03/3425054197" target="_blank" rel="noopener">flickr source</a></span>
+        </figcaption>
+      </figure>
+      <figure class="c5-cand">
+        <img src="_reviewC/c5/c5_14.jpg" alt="we took turns photographing each other" loading="lazy">
+        <figcaption>
+          <b>C5-14</b> &middot; <span class="c5lic lic-credit">CC BY</span>
+          <span class="c5note">needs a credit line</span><br>
+          <span class="c5meta">we took turns photographing each other &middot; 1024x768 &middot;
+          <a href="https://www.flickr.com/photos/16982824@N00/466514093" target="_blank" rel="noopener">flickr source</a></span>
+        </figcaption>
       </figure>
     </div>
     <a class="rc-view" href="reader.html#docs%2Fvolume-2-knowing-to-doing%2Fexploration-08-container.md" target="_blank" rel="noopener">View the chapter →</a>
   </section>
 
   <!-- C6 -->
+
   <section class="rc-card">
     <div class="rc-head">
       <span class="rc-id">C6</span>
