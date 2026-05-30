@@ -11,6 +11,8 @@ Every emotional knot has a cognitive root — a belief about God, about myself, 
 
 This distinction is important because it explains why some inner healing work lasts and some doesn’t. If the prayer gets to the lie and the Spirit speaks truth into that specific place, the knot releases and stays released. If the prayer produces emotional relief without reaching the lie, the relief is real but temporary — the lie is still running underneath, and the knot will re-form.
 
+![](images/believing-a-lie-mirror.jpg)
+
 ## Where the Lies Come From
 The most persistent lies are not ones I consciously adopted. They were installed by events — usually events in which I was young and had no interpretive framework, so I accepted the worst possible interpretation of what happened. A father’s absence becomes "I am not worth staying for." A mother’s rage becomes "I am the cause of bad things." An early failure becomes "I am fundamentally inadequate." A betrayal becomes "I cannot trust anyone." These are not conclusions I reasoned my way to; they are conclusions I absorbed because they were the only frame available in the moment.
 
@@ -51,8 +53,6 @@ I have seen this work too many times to doubt the mechanism. What I am less cert
 FORMATION DOCUMENT CONNECTION: The lie-at-the-root mechanism described here is the core aspect of [SST](../volume-5-references/source-pdfs/sst-soul-spirit-taxonomies.pdf){: .pdf-popup data-pdf-label="SST — Soul and Spirit Taxonomies" }’s soul Stage 3.3 (Memory and Narrative Reordering). It involves reinterpreting past wounds and failures through sovereign grace—requiring the Holy Spirit to speak specific truth into the exact memory where the lie was accepted. SST explains the success of inner healing as the soul’s integrating function being rewritten: the person’s narrative of their own history is reorganized under sovereign grace rather than under the lie. The connection works both ways: this mechanism demonstrates how the Stage 3.3 outcome is produced (Spirit-to-spirit revelation that bypasses cognitive defenses); SST’s Stage 3.3 description shows what the person’s inner state looks like after the knot is released and the lie is replaced. Neither description is complete without the other.
 
 Here is another door, introduced to me through Dmitri’s work, and which I have found particularly useful with men who process analytically. Dmitri calls it Idol Breaking, and when I first heard the name, I nearly dismissed it as too dramatic. Don’t. The name is theologically precise.
-
-![](images/believing-a-lie-mirror.jpg)
 
 The process works by tracing a cognitive lie not just to its origin story but to the false god it implies. Here is the logic: if I have lived for twenty years with the deep, quiet belief that genuine intimacy is unavailable to me — that every time I reach for it I will be rebuffed — then I am not just holding a lie about relationships. I am implicitly believing in a god who set the world up that way. A small-g god who would create me with a bone-deep longing for connection and then fate me to a life of surface-level contact. That is an idol, and it is governing my life from below the level where I can usually see it.
 
