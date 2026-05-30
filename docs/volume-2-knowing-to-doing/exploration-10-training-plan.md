@@ -1,4 +1,4 @@
----
+﻿---
 title: "Tenth Exploration: The Training Plan — Operating in Faith as a Learnable Skill"
 volume: 2
 source: "IJH_Vol2_v5_6_1_1.docx"
@@ -6,8 +6,6 @@ source: "IJH_Vol2_v5_6_1_1.docx"
 
 # Tenth Exploration: The Training Plan — Operating in Faith as a Learnable Skill
 
-
-![](images/image-007.jpeg)
 
 ## Why a Training Plan Is Not Unspiritual
 There is a kind of piety that resists the idea of training, as though the Holy Spirit’s gifts are too sacred to be practiced deliberately. I have come to believe this resistance is itself a subtle form of unbelief. Every human faculty that develops — musical skill, athletic ability, mathematical reasoning, surgical precision — develops through intentional, focused practice. Why would the spiritual life be different? Jesus Himself told His disciples what to do, showed them how to do it, sent them out to practice it, and debriefed them when they came back (Luke 10:1-20). That is a training sequence, not just an inspirational experience.
