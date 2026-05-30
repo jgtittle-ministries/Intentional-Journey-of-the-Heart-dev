@@ -7,7 +7,7 @@ source: "IJH_Vol2_v5_6_1_1.docx"
 # Seventh Exploration: Hearing with Understanding — The Experiential Processes
 
 
-![](images/image-016.jpeg)
+![](images/image-016.jpeg){: .inset-left}
 
 ## The Goal of Part II
 All the clearing work in Explorations 1 through 6 is in service of one thing: a heart that is open enough to hear. But hearing is also a skill — a faculty that develops with practice, that requires specific exercises to grow, and that can remain underdeveloped even in a person whose channel is relatively clear. This exploration describes the primary practices for developing the hearing faculty itself.

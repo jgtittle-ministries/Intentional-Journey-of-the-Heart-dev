@@ -7,7 +7,7 @@ source: "IJH_Vol1_v5_6_1_1.docx"
 # Sixth Exploration: The Obedience Channel — How Revelation Flows
 
 
-![](images/image-004.png)
+![](images/image-004.png){: .inset-left}
 
 ## The Discovery
 This is one of those things that, once I saw it, I could not un-see it. And I am a little embarrassed that I had not formalized it as a law earlier, because it has operated in my life for decades. The law is simple: acting on what God has already shown you is the condition for receiving more revelation.

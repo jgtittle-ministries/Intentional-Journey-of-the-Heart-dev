@@ -41,7 +41,7 @@ These three are not independent: the coupling parameters (α, β, γ in TFT’s 
 
 ## The Affective Taxonomy as a Measurement Protocol
 
-![](images/image-005.jpeg)
+![](images/image-005.jpeg){: .inset-left}
 
 The measurement problem — how to operationalize spiritual distance in a way that yields real data — has a more tractable partial solution than I initially recognized. My doctoral research in spiritual formation proposes the Affective Taxonomy (Krathwohl, Bloom, and Masia, 1964) as a defensible framework for setting objectives and measuring progress in the specific domain of trusting scripture, and also hearing and obeying God, which is arguably the central behavioral indicator of spiritual distance in this framework.
 

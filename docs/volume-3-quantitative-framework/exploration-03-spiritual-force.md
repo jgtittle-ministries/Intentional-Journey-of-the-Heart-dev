@@ -15,7 +15,7 @@ The first question for Vol. 3 is: What force drives this flow? What pushes faith
 
 ![](images/image-004.jpeg)
 
-![](images/image-002.jpeg)
+![](images/image-002.jpeg){: .inset-left}
 
 ***Matt. 17:20 (ESV)***
 
@@ -35,7 +35,7 @@ However, a synthesis is possible and may be closer to the truth: there is a thre
 
 ## The Five Scriptural Data Points for Spiritual Force
 
-![](images/image-010.png)
+![](images/smpr-model.png)
 
 ### Data Point 1: The Rom 10:17 Chain
 Spiritual force flows from the Word of Christ into genuine hearing into faith. This is the input-output structure of the spiritual force generator. The force is not created by me; it is received. My role is to keep the channel clear (Vol 2) and genuinely open (not merely intellectual) to what the Word is saying.

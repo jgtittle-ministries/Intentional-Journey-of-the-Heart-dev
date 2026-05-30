@@ -7,7 +7,7 @@ source: "IJH_Vol1_v5_6_1_1.docx"
 # Connecting the Dots: How the Eight Explorations Fit Together
 
 
-![](images/image-002.jpeg)
+![](images/image-002.jpeg){: .inset-left}
 
 Standing back from all eight explorations, here is the picture I see emerging.
 
