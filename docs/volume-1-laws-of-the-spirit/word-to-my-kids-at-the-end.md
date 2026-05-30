@@ -16,4 +16,4 @@ I’m still working on the alignment. I expect I will be for the rest of my life
 
 *Blessings — Daddy and Granddaddy*
 
-![](images/image-008.jpeg)
+![](images/hikers-summit-celebration.jpg)
