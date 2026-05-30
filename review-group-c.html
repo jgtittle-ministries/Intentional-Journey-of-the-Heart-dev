@@ -1,0 +1,294 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="light">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex,nofollow">
+<title>Group C — Bespoke Diagrams · Image Review (DEV)</title>
+<link rel="stylesheet" href="styles.css">
+<style>
+  .rc-wrap { max-width: 1040px; margin: 0 auto; padding: 48px var(--gutter) 120px; }
+  .rc-eyebrow {
+    font-family: var(--mono); font-size: 11px; letter-spacing: 0.32em;
+    text-transform: uppercase; color: var(--accent);
+    display: flex; align-items: center; gap: 14px; margin-bottom: 20px;
+  }
+  .rc-eyebrow .line { width: 36px; height: 1px; background: var(--accent); opacity: .7; }
+  h1.rc-title {
+    font-family: var(--display); font-weight: 500; font-size: clamp(40px, 6vw, 72px);
+    line-height: 0.98; letter-spacing: -0.02em; margin: 0 0 20px; color: var(--text);
+  }
+  h1.rc-title em { font-style: italic; color: var(--accent); font-weight: 400; }
+  .rc-deck {
+    font-family: var(--display); font-style: italic; font-size: clamp(18px, 2.2vw, 23px);
+    color: var(--text-mid); max-width: 680px; line-height: 1.4; margin: 0 0 28px;
+  }
+  .rc-how {
+    background: var(--bg-2); border: 1px solid var(--rule-soft); border-left: 3px solid var(--accent);
+    border-radius: 3px; padding: 22px 26px; margin: 0 0 28px; font-size: 15.5px; line-height: 1.65;
+    color: var(--text-mid);
+  }
+  .rc-how strong { color: var(--text); }
+  .rc-how code {
+    font-family: var(--mono); font-size: 13px; background: var(--bg-3);
+    padding: 2px 6px; border-radius: 3px; color: var(--text);
+  }
+  .rc-legend { display: flex; flex-wrap: wrap; gap: 10px 18px; margin-top: 14px; }
+  .rc-legend span { font-family: var(--mono); font-size: 11px; letter-spacing: 0.04em; color: var(--text-dim); }
+
+  .pill {
+    font-family: var(--mono); font-size: 10px; letter-spacing: 0.18em; text-transform: uppercase;
+    padding: 4px 10px; border-radius: 99px; border: 1px solid currentColor; white-space: nowrap;
+  }
+  .pill.redraw   { color: var(--accent); }
+  .pill.inset    { color: var(--cool); }
+  .pill.remove   { color: var(--rose); }
+  .pill.resource { color: var(--leaf); }
+
+  .rc-card {
+    border-top: 1px solid var(--rule-soft); padding: 44px 0;
+  }
+  .rc-card:last-child { border-bottom: 1px solid var(--rule-soft); }
+  .rc-head { display: flex; align-items: baseline; flex-wrap: wrap; gap: 12px 16px; margin-bottom: 6px; }
+  .rc-id {
+    font-family: var(--display); font-style: italic; font-size: 40px; line-height: 0.9;
+    color: var(--accent); font-weight: 400; letter-spacing: -0.02em;
+  }
+  .rc-chap { font-family: var(--mono); font-size: 11px; letter-spacing: 0.06em; color: var(--text-dim); }
+  .rc-what { font-family: var(--display); font-size: 24px; color: var(--text); margin: 4px 0 10px; line-height: 1.2; }
+  .rc-rat { font-size: 15.5px; line-height: 1.62; color: var(--text-mid); max-width: 720px; margin: 0 0 22px; }
+  .rc-rat strong { color: var(--text); }
+
+  .rc-figs { display: grid; grid-template-columns: 1fr 1fr; gap: 24px; align-items: start; }
+  @media (max-width: 680px) { .rc-figs { grid-template-columns: 1fr; } }
+  .rc-figs.single { grid-template-columns: 1fr; max-width: 520px; }
+
+  figure.rc-fig { margin: 0; }
+  figure.rc-fig img {
+    display: block; width: 100%; height: auto; border-radius: 3px;
+    border: 1px solid var(--rule-soft); background: #fff;
+  }
+  figure.rc-fig figcaption {
+    margin-top: 10px; font-family: var(--mono); font-size: 10.5px; letter-spacing: 0.06em;
+    color: var(--text-dim); line-height: 1.5;
+  }
+  figure.rc-fig figcaption b { color: var(--text-mid); font-weight: 600; }
+
+  /* "at inset size" — show the image at the real .inset-left width so the
+     user sees how it sharpens when no longer upscaled to full width. */
+  .rc-insetbox { display: flex; align-items: flex-start; gap: 18px; }
+  .rc-insetbox img { width: 275px; max-width: 60%; }
+  .rc-insetbox .note { font-size: 13.5px; color: var(--text-mid); line-height: 1.55; }
+
+  .rc-view {
+    display: inline-block; margin-top: 20px; font-family: var(--mono); font-size: 11px;
+    letter-spacing: 0.14em; text-transform: uppercase; color: var(--accent);
+    text-decoration: none; border-bottom: 1px solid var(--accent-dim); padding-bottom: 2px;
+  }
+  .rc-view:hover { color: var(--accent-2); }
+  .rc-foot { margin-top: 48px; font-family: var(--mono); font-size: 11px; color: var(--text-dim); letter-spacing: 0.04em; }
+</style>
+</head>
+<body>
+<div class="rc-wrap">
+
+  <div class="rc-eyebrow"><span class="line"></span>Image Cleanup · Group C · DEV review</div>
+  <h1 class="rc-title">Group&nbsp;C — <em>Bespoke Diagrams</em></h1>
+  <p class="rc-deck">Seven hand-made concept graphics that currently render soft (most are
+  225–317&nbsp;px upscaled to full width). For each, pick a treatment — these aren't stock
+  photos, so a free-photo swap usually isn't the right move.</p>
+
+  <div class="rc-how">
+    <strong>How to use this page:</strong> below each item is the current image, what it is,
+    and my recommendation. Reply with a one-line verdict per item, e.g.
+    <code>C1 redraw, C2 inset, C3 remove, C4 inset, C5 remove, C6 inset, C7 inset</code> —
+    or just say <em>"go with your picks."</em> Nothing changes on the live chapters until you decide;
+    then I apply on dev, you review, and we mirror to prod + preview only on your <em>"mirror."</em>
+    <div class="rc-legend">
+      <span><b class="pill redraw">Redraw</b> &nbsp;recreate crisp in the site palette</span>
+      <span><b class="pill inset">Inset</b> &nbsp;keep, shrink to a float so it reads sharp</span>
+      <span><b class="pill remove">Remove</b> &nbsp;drop it (low value / wrong topic)</span>
+      <span><b class="pill resource">Resource</b> &nbsp;swap for a fitting free-license photo</span>
+    </div>
+  </div>
+
+  <!-- C1 -->
+  <section class="rc-card">
+    <div class="rc-head">
+      <span class="rc-id">C1</span>
+      <span class="pill redraw">My pick · Redraw</span>
+      <span class="rc-chap">Vol 3 · exploration-03-spiritual-force</span>
+    </div>
+    <p class="rc-what">SMPR quadrants — Spiritual / Mental / Physical / Relational</p>
+    <p class="rc-rat">The diagram <strong>you flagged.</strong> Current is a 225×225 marker sketch
+    that pixelates badly at reading size. It's a core concept graphic, so I redrew it crisp in the
+    site's burnt-amber accent and Georgia type — same idea (quartered circle, S/R/P/M compass,
+    cycle arrow), now sharp at any size, with a clean legend. <strong>Compare:</strong></p>
+    <div class="rc-figs">
+      <figure class="rc-fig">
+        <img src="docs/volume-3-quantitative-framework/images/image-010.png" alt="current SMPR sketch">
+        <figcaption><b>Current</b> — image-010.png, 225×225, upscaled &amp; soft</figcaption>
+      </figure>
+      <figure class="rc-fig">
+        <img src="_reviewC/smpr-quadrants.png" alt="proposed crisp SMPR redraw">
+        <figcaption><b>Proposed redraw</b> — vector-crisp, site palette</figcaption>
+      </figure>
+    </div>
+    <a class="rc-view" href="reader.html?doc=volume-3-quantitative-framework/exploration-03-spiritual-force" target="_blank" rel="noopener">View the chapter →</a>
+  </section>
+
+  <!-- C2 -->
+  <section class="rc-card">
+    <div class="rc-head">
+      <span class="rc-id">C2</span>
+      <span class="pill inset">My pick · Inset</span>
+      <span class="rc-chap">Vol 1 · connecting-the-dots</span>
+    </div>
+    <p class="rc-what">"Divine Alignment" — plumb-bob over an open book</p>
+    <p class="rc-rat">A gray stock graphic. The next element is prose, so shrinking it to a left
+    float reads cleanly and the softness disappears at native size. Alternative:
+    <strong>resource</strong> a clean plumb-line photo, or <strong>remove</strong>.</p>
+    <div class="rc-figs">
+      <figure class="rc-fig">
+        <img src="docs/volume-1-laws-of-the-spirit/images/image-002.jpeg" alt="current divine alignment graphic">
+        <figcaption><b>Current</b> — image-002.jpeg, 300×168, full-width &amp; soft</figcaption>
+      </figure>
+      <figure class="rc-fig">
+        <div class="rc-insetbox">
+          <img src="docs/volume-1-laws-of-the-spirit/images/image-002.jpeg" alt="at inset size">
+          <span class="note">At <b>inset</b> size (275px) it sits beside the text and reads sharper.</span>
+        </div>
+        <figcaption><b>If inset</b> — float-left, text wraps to the right</figcaption>
+      </figure>
+    </div>
+    <a class="rc-view" href="reader.html?doc=volume-1-laws-of-the-spirit/connecting-the-dots-how-the-eight-explorations" target="_blank" rel="noopener">View the chapter →</a>
+  </section>
+
+  <!-- C3 -->
+  <section class="rc-card">
+    <div class="rc-head">
+      <span class="rc-id">C3</span>
+      <span class="pill remove">My pick · Remove</span>
+      <span class="rc-chap">Vol 1 · exploration-06-obedience-channel</span>
+    </div>
+    <p class="rc-what">"Obedience" word cloud (clip-art)</p>
+    <p class="rc-rat">Decorative purple/green word-cloud clip-art — the weakest of the seven and
+    it adds little the chapter title doesn't already say. I'd <strong>remove</strong> it. If you
+    like it, <strong>inset</strong> keeps it but small.</p>
+    <div class="rc-figs single">
+      <figure class="rc-fig">
+        <img src="docs/volume-1-laws-of-the-spirit/images/image-004.png" alt="current obedience word cloud">
+        <figcaption><b>Current</b> — image-004.png, 317×159</figcaption>
+      </figure>
+    </div>
+    <a class="rc-view" href="reader.html?doc=volume-1-laws-of-the-spirit/exploration-06-obedience-channel" target="_blank" rel="noopener">View the chapter →</a>
+  </section>
+
+  <!-- C4 -->
+  <section class="rc-card">
+    <div class="rc-head">
+      <span class="rc-id">C4</span>
+      <span class="pill inset">My pick · Inset</span>
+      <span class="rc-chap">Vol 2 · exploration-07-hearing-with-understanding</span>
+    </div>
+    <p class="rc-what">Ear + heart + heartbeat line ("hearing with the heart")</p>
+    <p class="rc-rat">A reasonably clean stock graphic that's just too small at full width. The concept
+    fits the chapter, so I'd <strong>inset</strong> it (keep, shrink). It could also be
+    <strong>redrawn</strong> if you want it in-palette.</p>
+    <div class="rc-figs">
+      <figure class="rc-fig">
+        <img src="docs/volume-2-knowing-to-doing/images/image-016.jpeg" alt="current ear-heart graphic">
+        <figcaption><b>Current</b> — image-016.jpeg, 310×163, full-width &amp; soft</figcaption>
+      </figure>
+      <figure class="rc-fig">
+        <div class="rc-insetbox">
+          <img src="docs/volume-2-knowing-to-doing/images/image-016.jpeg" alt="at inset size">
+          <span class="note">At <b>inset</b> size (275px) — sharper, text wraps beside it.</span>
+        </div>
+        <figcaption><b>If inset</b> — float-left</figcaption>
+      </figure>
+    </div>
+    <a class="rc-view" href="reader.html?doc=volume-2-knowing-to-doing/exploration-07-hearing-with-understanding" target="_blank" rel="noopener">View the chapter →</a>
+  </section>
+
+  <!-- C5 -->
+  <section class="rc-card">
+    <div class="rc-head">
+      <span class="rc-id">C5</span>
+      <span class="pill remove">My pick · Remove</span>
+      <span class="rc-chap">Vol 2 · exploration-08-container</span>
+    </div>
+    <p class="rc-what">"Container Gardening" web banner — <b>wrong topic</b></p>
+    <p class="rc-rat">This is a sepia <strong>gardening</strong> banner, but the chapter is about the
+    <em>therapeutic container</em> — the safe space that holds a person. The image actively misleads.
+    I'd <strong>remove</strong> it, or <strong>resource</strong> a fitting picture (cupped hands, a
+    bowl/vessel, "holding space"). Either way, the gardening banner should go.</p>
+    <div class="rc-figs single">
+      <figure class="rc-fig">
+        <img src="docs/volume-2-knowing-to-doing/images/image-010.jpeg" alt="current container gardening banner">
+        <figcaption><b>Current</b> — image-010.jpeg, 310×163 · off-topic</figcaption>
+      </figure>
+    </div>
+    <a class="rc-view" href="reader.html?doc=volume-2-knowing-to-doing/exploration-08-container" target="_blank" rel="noopener">View the chapter →</a>
+  </section>
+
+  <!-- C6 -->
+  <section class="rc-card">
+    <div class="rc-head">
+      <span class="rc-id">C6</span>
+      <span class="pill inset">My pick · Inset</span>
+      <span class="rc-chap">Vol 3 · exploration-03-spiritual-force</span>
+    </div>
+    <p class="rc-what">Road curving up into a sky-arrow (ascent)</p>
+    <p class="rc-rat">Generic but on-metaphor (faith moving forward / upward). <strong>Inset</strong> is
+    the cheap clean fix; or <strong>resource</strong> a sharp "open road rising to bright sky" photo
+    if you'd rather replace it. (Same chapter as C1 — I'll touch only C1 &amp; C6 here.)</p>
+    <div class="rc-figs">
+      <figure class="rc-fig">
+        <img src="docs/volume-3-quantitative-framework/images/image-002.jpeg" alt="current road to sky">
+        <figcaption><b>Current</b> — image-002.jpeg, 225×225, full-width &amp; soft</figcaption>
+      </figure>
+      <figure class="rc-fig">
+        <div class="rc-insetbox">
+          <img src="docs/volume-3-quantitative-framework/images/image-002.jpeg" alt="at inset size">
+          <span class="note">At <b>inset</b> size (275px) — reads sharper beside the text.</span>
+        </div>
+        <figcaption><b>If inset</b> — float-left</figcaption>
+      </figure>
+    </div>
+    <a class="rc-view" href="reader.html?doc=volume-3-quantitative-framework/exploration-03-spiritual-force" target="_blank" rel="noopener">View the chapter →</a>
+  </section>
+
+  <!-- C7 -->
+  <section class="rc-card">
+    <div class="rc-head">
+      <span class="rc-id">C7</span>
+      <span class="pill inset">My pick · Inset</span>
+      <span class="rc-chap">Vol 3 · exploration-04-spiritual-distance</span>
+    </div>
+    <p class="rc-what">Abstract energy-orbs / plasma render</p>
+    <p class="rc-rat">Two glowing orbs joined by a beam — on-metaphor for measuring spiritual distance.
+    Next element is prose, so <strong>inset</strong> wraps cleanly; or <strong>resource</strong> a
+    sharper abstract light/energy image.</p>
+    <div class="rc-figs">
+      <figure class="rc-fig">
+        <img src="docs/volume-3-quantitative-framework/images/image-005.jpeg" alt="current energy orbs">
+        <figcaption><b>Current</b> — image-005.jpeg, 300×168, full-width &amp; soft</figcaption>
+      </figure>
+      <figure class="rc-fig">
+        <div class="rc-insetbox">
+          <img src="docs/volume-3-quantitative-framework/images/image-005.jpeg" alt="at inset size">
+          <span class="note">At <b>inset</b> size (275px) — sharper beside the text.</span>
+        </div>
+        <figcaption><b>If inset</b> — float-left</figcaption>
+      </figure>
+    </div>
+    <a class="rc-view" href="reader.html?doc=volume-3-quantitative-framework/exploration-04-spiritual-distance" target="_blank" rel="noopener">View the chapter →</a>
+  </section>
+
+  <p class="rc-foot">Temporary DEV review page · noindex · removed once Group C lands.
+  Shorthand of my picks: C1 redraw · C2 inset · C3 remove · C4 inset · C5 remove · C6 inset · C7 inset.</p>
+
+</div>
+</body>
+</html>
