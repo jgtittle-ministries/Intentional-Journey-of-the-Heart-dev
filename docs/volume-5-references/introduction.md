@@ -23,6 +23,7 @@ It also includes the five Formation Documents referenced throughout the first fo
 - FC - Formation Companion [(pdf)](source-pdfs/fc-formation-companion.pdf){: .pdf-popup data-pdf-label="FC — Formation Companion" }
 - 4Cs - Four Connects [(pdf)](source-pdfs/4cs-four-connects.pdf){: .pdf-popup data-pdf-label="4Cs — Four Connects" }
 - MSF - Measuring Spiritual Formation at Scale [(pdf)](source-pdfs/msf-measuring-spiritual-formation-at-scale.pdf){: .pdf-popup data-pdf-label="MSF — Measuring Spiritual Formation at Scale" }
+- ATB - Attachment Theory and the Biblical Triad [(pdf)](source-pdfs/atb-attachment-theory-and-the-biblical-triad.pdf){: .pdf-popup data-pdf-label="ATB — Attachment Theory and the Biblical Triad" }
 
 The annotation format follows the structure used in my academic work: an Author section identifying who the person is or was; a Summary section describing the relevant work, idea, or contribution; and an Application section explaining specifically how this person’s work connects to the LotS project, with volume and exploration references where applicable. The goal is not an exhaustive academic literature review but a working reference document — one that a future researcher, a family member continuing this exploration, could use to locate and evaluate the sources that shaped this project.
 

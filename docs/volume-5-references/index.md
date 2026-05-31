@@ -35,3 +35,4 @@ Contents of Volume 5: References. Each entry below opens that section of the vol
 - [B15 Pull-out Work](b15-pull-out-work.md) — B15 Pull-out Work
 - [The Periodic Table of Spiritual Laws](periodic-table-of-spiritual-laws-a-summing.md) — The Periodic Table of Spiritual Laws — A Summing and Organizing Reference
 - [Measuring Spiritual Formation at Scale](measuring-spiritual-formation-at-scale.md) — Measuring Spiritual Formation at Scale
+- [Attachment Theory and the Biblical Triad](attachment-theory-and-the-biblical-triad.md) — Attachment Theory and the Biblical Triad
