@@ -199,7 +199,7 @@ source: "IJH_Vol5_v5_6_1_1.docx"
 
 **Summary: **The specific reference in the LotS volumes is to a statement by Shields about the role of a mental model or framework in formation: a well-formed mental model frames what is of genuine value. This observation supports the LotS project’s argument that possessing a clear, scriptural framework for understanding how the spiritual world works is not merely intellectually useful but formatively essential — it shapes what a person notices, values, and pursues.
 
-**Application: **Shields is quoted in Vol 2 in the context of establishing why the LotS framework itself — the laws, the taxonomy, the tool map — matters as a formation instrument and not merely as an intellectual exercise. The quote provides external support for the claim that clarity about the structure of the spiritual journey shapes the formation trajectory. This citation is flagged for verification: the exact work and page reference should be confirmed.
+**Application: **Shields is quoted in Vol 2 in the context of establishing why the LotS framework itself — the laws, the taxonomy, the tool map — matters as a formation instrument and not merely as an intellectual exercise. The quote provides external support for the claim that clarity about the structure of the spiritual journey shapes the formation trajectory.
 
 ## Simpson, Elizabeth Jane
 **Author: **Elizabeth Jane Simpson was an educational researcher who developed the psychomotor domain taxonomy as a companion to Bloom’s cognitive taxonomy and Krathwohl’s affective taxonomy. The three taxonomies together — cognitive, affective, and psychomotor — constitute Bloom’s comprehensive framework for human learning and development.
