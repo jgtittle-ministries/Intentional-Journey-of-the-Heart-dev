@@ -83,8 +83,6 @@ source: "IJH_Vol5_v5_6_1_1.docx"
 
 **Application: **Vol 3, Exp. 8 (The Miracle Frame and Spiritual Force Dynamics) builds its definition of a miracle on Foster’s formulation as a starting point. The definition is important to the LotS project because it connects miracles directly to the Obedience Channel law: miracles occur when spiritual force, flowing through a cleared channel in the right direction (toward what God is already doing), exceeds the threshold required for God’s stated will to be enacted in the natural world. Foster’s definition makes the miracle logically continuous with the other laws rather than an exception to them.
 
-*Note: *Specific work cited for miracle definition: verify exact source — may be from Foster’s *Prayer* or *Celebration of Discipline*.
-
 ## Friesen, Garry
 **Author: **Garry Friesen is a theologian and professor whose 1980 work challenged what he called the ‘traditional view’ of divine guidance — the idea that God has a specific individual will for each decision in a believer’s life which must be discerned before acting. Friesen argued instead for a ‘wisdom view’ in which God’s moral will is revealed in scripture, and within the bounds of that moral will believers are free to make wise decisions without requiring a specific divine communication for each choice.
 
