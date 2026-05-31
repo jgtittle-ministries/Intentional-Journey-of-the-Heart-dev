@@ -651,6 +651,10 @@ window.VOLUME_CHAPTERS = {
       {
         "path": "docs/volume-5-references/measuring-spiritual-formation-at-scale.md",
         "title": "Measuring Spiritual Formation at Scale"
+      },
+      {
+        "path": "docs/volume-5-references/attachment-theory-and-the-biblical-triad.md",
+        "title": "Attachment Theory and the Biblical Triad"
       }
     ]
   },
@@ -2061,6 +2065,15 @@ window.PATH_TO_INFO = {
     "folder": "volume-5-references",
     "title": "Measuring Spiritual Formation at Scale",
     "prev": "docs/volume-5-references/corporate-person-structure-scriptural-definition.md",
+    "next": "docs/volume-5-references/attachment-theory-and-the-biblical-triad.md"
+  },
+  "docs/volume-5-references/attachment-theory-and-the-biblical-triad.md": {
+    "volume": 5,
+    "volumeName": "Volume 5: References",
+    "volumeFile": "Volume 5.html",
+    "folder": "volume-5-references",
+    "title": "Attachment Theory and the Biblical Triad",
+    "prev": "docs/volume-5-references/measuring-spiritual-formation-at-scale.md",
     "next": "docs/volume-6-governance/index.md"
   },
   "docs/volume-6-governance/index.md": {
@@ -2070,7 +2083,7 @@ window.PATH_TO_INFO = {
     "folder": "volume-6-governance",
     "title": "Volume 6: Governance",
     "next": "docs/volume-6-governance/part-1-governance-model.md",
-    "prev": "docs/volume-5-references/measuring-spiritual-formation-at-scale.md"
+    "prev": "docs/volume-5-references/attachment-theory-and-the-biblical-triad.md"
   },
   "docs/volume-6-governance/part-1-governance-model.md": {
     "volume": 6,
