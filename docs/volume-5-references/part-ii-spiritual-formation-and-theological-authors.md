@@ -132,8 +132,6 @@ Vol 2, Exploration 5 (callout): The core question of the masculine heart (Do I h
 
 **Application: **Vol 1, Exp. 3 (The Relationship of Faith, Hope, and Love) cites Prince’s definition of hope as a confident expectation of good as one of the definitional anchors for the exploration’s structural analysis of the directional relationships between faith, hope, and love. The definition helps clarify how hope functions in the faith-generating cycle: not as uncertain wishing but as forward-looking confidence grounded in God’s demonstrated character. Identifying the correct definition is essential to tracing the causal relationships accurately.
 
-*Note: The specific work cited for this definition should be verified — the definition appears in multiple Prince works including *
-
 ## Tedeschi, Richard G., and Lawrence G. Calhoun
 *Tedeschi, Richard G., and Lawrence G. Calhoun. Trauma and Transformation: Growing in the Aftermath of Suffering. Thousand Oaks, CA: SAGE Publications, 1995.*
 

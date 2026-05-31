@@ -139,8 +139,6 @@ source: "IJH_Vol5_v5_6_1_1.docx"
 
 **Application: **Maxwell’s equations are referenced in multiple volumes as the paradigmatic example of what the LotS quantitative program is working toward. Vol 1 asks, as an open question: ‘What are the field equations? Maxwell unified electricity and magnetism.’ Vol 3’s governing premise uses Maxwell as the benchmark: the God who created a universe precise enough to be described by Maxwell’s equations does not seem like a God who would create a spiritual world governed by vague, unstructured forces. This single sentence motivates the entire Vol 3 quantitative project.
 
-*Note: Citation reconstructed — the LotS volumes reference Maxwell’s equations as a well-known scientific achievement rather than citing a specific text. The *
-
 ## Mikulincer, Mario, and Phillip R. Shaver
 **Author: **Mario Mikulincer is Professor of Psychology and former Dean of the New School of Psychology at Reichman University in Israel. Phillip R. Shaver (1944–2024) was Distinguished Professor Emeritus of Psychology at the University of California, Davis. Their three-decade collaboration produced the most extensive empirical research program on adult attachment in the field, summarized definitively in *Attachment in Adulthood: Structure, Dynamics, and Change* (2nd ed., Guilford Press, 2016). Shaver's earlier work with Cindy Hazan (Hazan & Shaver, 1987) extended attachment theory beyond infant–caregiver dyads into adult romantic relationships and made adult-attachment research possible.
 
