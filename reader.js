@@ -44,6 +44,12 @@
     // data-pdf-label carried through so the popup handler can pick them up.
     s = s.replace(/\[([^\]]+)\]\(([^)]+)\)(?:\{:\s*([^}]*?)\s*\})?/g, (_, txt, url, attrs) => {
       const safeUrl = url.replace(/"/g, '%22');
+      // In-page anchor link [text](#slug): keep it as a bare fragment (do NOT
+      // resolve it against the current directory) so the delegated handler can
+      // scroll to the matching heading, whose id is "h-"+slug.
+      if (safeUrl.startsWith('#')) {
+        return '<a class="anchor-link" href="' + safeUrl + '">' + txt + '</a>';
+      }
       if (/\.md(#|$)/.test(safeUrl) && !/^https?:/.test(safeUrl)) {
         return '<a href="reader.html#' + encodeURIComponent(resolvePath(safeUrl)) + '">' + txt + '</a>';
       }
@@ -311,6 +317,16 @@
   // Default to Vol 6 index if no path
   if (!path) path = 'docs/volume-6-governance/index.md';
 
+  // A cross-chapter link may carry an in-content anchor as "docs/…/file.md#slug".
+  // Split it off so the manifest lookup and fetch use the bare path; the anchor
+  // is used below to scroll to the target heading once the chapter has rendered.
+  let targetAnchor = '';
+  const anchorPos = path.indexOf('#');
+  if (anchorPos !== -1) {
+    targetAnchor = path.slice(anchorPos + 1);
+    path = path.slice(0, anchorPos);
+  }
+
   window.__current_md_path = path;
 
   const info = window.PATH_TO_INFO[path];
@@ -465,8 +481,22 @@
         : `<div></div>`;
       foot.innerHTML = prevHTML + nextHTML;
 
-      // Scroll to top after render
-      window.scrollTo(0, 0);
+      // Scroll to the target heading when a cross-chapter anchor was supplied
+      // (e.g. "…/section-3.md#3d-…"); otherwise scroll to the top of the chapter.
+      // Heading ids are "h-"+slug; cross-chapter anchors carry the bare slug.
+      let scrolledToAnchor = false;
+      if (targetAnchor) {
+        const el = document.getElementById('h-' + targetAnchor) ||
+                   document.getElementById(targetAnchor);
+        if (el) {
+          // getBoundingClientRect forces layout, so the position is accurate now —
+          // scroll instantly (no rAF: it is throttled when the page is unfocused).
+          const top = el.getBoundingClientRect().top + window.scrollY - 70;
+          window.scrollTo({ top: top < 0 ? 0 : top, behavior: 'instant' });
+          scrolledToAnchor = true;
+        }
+      }
+      if (!scrolledToAnchor) window.scrollTo(0, 0);
     })
     .catch(err => {
       body.innerHTML = '<div class="reader-error">' +
@@ -500,6 +530,23 @@
   // Reload when hash changes so sidebar/footer chapter links navigate cleanly
   window.addEventListener('hashchange', () => {
     window.location.reload();
+  });
+
+  // In-page anchor links ([text](#slug)) scroll to the matching heading without
+  // touching the chapter hash (which holds the current path) or reloading. The
+  // heading id is "h-"+slug; the author writes the bare slug.
+  document.addEventListener('click', (e) => {
+    const a = e.target.closest && e.target.closest('a.anchor-link[href^="#"]');
+    if (!a) return;
+    const slug = a.getAttribute('href').slice(1);
+    const el = document.getElementById('h-' + slug) || document.getElementById(slug);
+    if (el) {
+      e.preventDefault();
+      // Instant (not smooth): a smooth scroll initiated inside the click dispatch
+      // is unreliable across browsers, while an instant jump always lands.
+      const top = el.getBoundingClientRect().top + window.scrollY - 70;
+      window.scrollTo({ top: top < 0 ? 0 : top, behavior: 'instant' });
+    }
   });
 
   // ── PDF popup modal ────────────────────────────────────────────────
