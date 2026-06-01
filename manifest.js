@@ -655,6 +655,22 @@ window.VOLUME_CHAPTERS = {
       {
         "path": "docs/volume-5-references/attachment-theory-and-the-biblical-triad.md",
         "title": "Attachment Theory and the Biblical Triad"
+      },
+      {
+        "path": "docs/volume-5-references/measuring-spiritual-maturity-in-hearing-god.md",
+        "title": "Measuring Spiritual Maturity in Hearing God"
+      },
+      {
+        "path": "docs/volume-5-references/cultivating-spiritual-maturity-in-hearing-god.md",
+        "title": "Cultivating Spiritual Maturity in Hearing God"
+      },
+      {
+        "path": "docs/volume-5-references/clearing-the-ground-lower-levels.md",
+        "title": "Clearing the Ground (Lower Levels)"
+      },
+      {
+        "path": "docs/volume-5-references/bearing-fruit-with-patience-upper-levels.md",
+        "title": "Bearing Fruit with Patience (Upper Levels)"
       }
     ]
   },
@@ -2074,6 +2090,42 @@ window.PATH_TO_INFO = {
     "folder": "volume-5-references",
     "title": "Attachment Theory and the Biblical Triad",
     "prev": "docs/volume-5-references/measuring-spiritual-formation-at-scale.md",
+    "next": "docs/volume-5-references/measuring-spiritual-maturity-in-hearing-god.md"
+  },
+  "docs/volume-5-references/measuring-spiritual-maturity-in-hearing-god.md": {
+    "volume": 5,
+    "volumeName": "Volume 5: References",
+    "volumeFile": "Volume 5.html",
+    "folder": "volume-5-references",
+    "title": "Measuring Spiritual Maturity in Hearing God",
+    "prev": "docs/volume-5-references/attachment-theory-and-the-biblical-triad.md",
+    "next": "docs/volume-5-references/cultivating-spiritual-maturity-in-hearing-god.md"
+  },
+  "docs/volume-5-references/cultivating-spiritual-maturity-in-hearing-god.md": {
+    "volume": 5,
+    "volumeName": "Volume 5: References",
+    "volumeFile": "Volume 5.html",
+    "folder": "volume-5-references",
+    "title": "Cultivating Spiritual Maturity in Hearing God",
+    "prev": "docs/volume-5-references/measuring-spiritual-maturity-in-hearing-god.md",
+    "next": "docs/volume-5-references/clearing-the-ground-lower-levels.md"
+  },
+  "docs/volume-5-references/clearing-the-ground-lower-levels.md": {
+    "volume": 5,
+    "volumeName": "Volume 5: References",
+    "volumeFile": "Volume 5.html",
+    "folder": "volume-5-references",
+    "title": "Clearing the Ground (Lower Levels)",
+    "prev": "docs/volume-5-references/cultivating-spiritual-maturity-in-hearing-god.md",
+    "next": "docs/volume-5-references/bearing-fruit-with-patience-upper-levels.md"
+  },
+  "docs/volume-5-references/bearing-fruit-with-patience-upper-levels.md": {
+    "volume": 5,
+    "volumeName": "Volume 5: References",
+    "volumeFile": "Volume 5.html",
+    "folder": "volume-5-references",
+    "title": "Bearing Fruit with Patience (Upper Levels)",
+    "prev": "docs/volume-5-references/clearing-the-ground-lower-levels.md",
     "next": "docs/volume-6-governance/index.md"
   },
   "docs/volume-6-governance/index.md": {
@@ -2083,7 +2135,7 @@ window.PATH_TO_INFO = {
     "folder": "volume-6-governance",
     "title": "Volume 6: Governance",
     "next": "docs/volume-6-governance/part-1-governance-model.md",
-    "prev": "docs/volume-5-references/attachment-theory-and-the-biblical-triad.md"
+    "prev": "docs/volume-5-references/bearing-fruit-with-patience-upper-levels.md"
   },
   "docs/volume-6-governance/part-1-governance-model.md": {
     "volume": 6,
