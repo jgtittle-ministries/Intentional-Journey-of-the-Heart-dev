@@ -19,6 +19,7 @@ I wrote Volume 6 in a more institutional voice on purpose. It is meant to outlas
 - **[Part 3: Succession Letter](part-3-succession-letter.md)** — my wishes for the stewardship of the work should I become unable to continue stewarding it personally, naming a Literary Executor and a Theological Successor.
 - **[Proposal Template](proposal-template.md)** — the template every proposed refinement uses, structured to enforce the four-factor confidence test at the platform level.
 - **[Research Register — Investigations Underway and Proposed](research-register.md)** — a standing, Council-maintained register of the investigations the project has underway, recommends for the next research cycle, or holds in reserve; it gathers the open trails of Volumes 3–5 into one view and sorts them by what can actually be worked now.
+- **[The Mustard Seed Question — A Worked Resolution](mustard-seed-worked-resolution.md)** — the backstory and reasoning behind the resolution of the threshold-vs-proportionality question, offered as the first worked example of the project's method for closing an open question (pre-registration, a bounded corpus, an independent adversarial pass, and a cross-tradition check).
 - **[Appendix: Catalog History](appendix-catalog-history.md)** — a simplified briefing for the Council on how the Foundational Law catalog reached its present shape, with the major architectural decisions, disposition patterns with precedent, and a coverage maturity snapshot.
 
 ## Related repository documents

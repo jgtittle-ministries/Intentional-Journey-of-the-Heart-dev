@@ -704,6 +704,10 @@ window.VOLUME_CHAPTERS = {
         "title": "Research Register — Investigations Underway and Proposed"
       },
       {
+        "path": "docs/volume-6-governance/mustard-seed-worked-resolution.md",
+        "title": "The Mustard Seed Question — A Worked Resolution"
+      },
+      {
         "path": "docs/volume-6-governance/appendix-catalog-history.md",
         "title": "Appendix: Catalog History — A Briefing for the Council"
       }
@@ -2184,6 +2188,15 @@ window.PATH_TO_INFO = {
     "folder": "volume-6-governance",
     "title": "Research Register — Investigations Underway and Proposed",
     "prev": "docs/volume-6-governance/proposal-template.md",
+    "next": "docs/volume-6-governance/mustard-seed-worked-resolution.md"
+  },
+  "docs/volume-6-governance/mustard-seed-worked-resolution.md": {
+    "volume": 6,
+    "volumeName": "Volume 6: Governance",
+    "volumeFile": "Volume 6 Governance.html",
+    "folder": "volume-6-governance",
+    "title": "The Mustard Seed Question — A Worked Resolution",
+    "prev": "docs/volume-6-governance/research-register.md",
     "next": "docs/volume-6-governance/appendix-catalog-history.md"
   },
   "docs/volume-6-governance/appendix-catalog-history.md": {
@@ -2192,6 +2205,6 @@ window.PATH_TO_INFO = {
     "volumeFile": "Volume 6 Governance.html",
     "folder": "volume-6-governance",
     "title": "Appendix: Catalog History — A Briefing for the Council",
-    "prev": "docs/volume-6-governance/research-register.md"
+    "prev": "docs/volume-6-governance/mustard-seed-worked-resolution.md"
   }
 };
