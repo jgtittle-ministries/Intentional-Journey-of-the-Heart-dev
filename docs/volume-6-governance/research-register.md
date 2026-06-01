@@ -1,0 +1,61 @@
+# Research Register — Investigations Underway and Proposed
+
+*Where the claim registry (`vol1-claims.yml`–`vol4-claims.yml`) records what the project claims and how confident it is, this register records what the project is trying to find out next. It gathers the open trails scattered across Volumes 3, 4, and 5 into one Council-actionable view, sorts them by what can actually be worked now, and tracks their status as work proceeds. It is a standing instrument, not a finished argument: the Council reviews and updates it, and it is expected to change every cycle.*
+
+---
+
+## 1. What this register is for
+
+Volumes 3 through 5 each name open trails — the questions the work has reached but not yet answered. They were written volume by volume and never gathered in one place, so the Council has had no single view of what is open, what is ready to be worked, and what is waiting on something else. This register is that view. It exists to let the Council do three things: see the whole field of open inquiry at once, decide where the next research cycle's effort should go, and record what is underway so that effort is neither duplicated nor lost between cycles.
+
+The register is the natural companion to the annual **calibration cycle** described in Part 1: testing results flow upward to adjust confidence ratings, and this register is where the Council decides which tests to commission and tracks the ones in progress whose results that cycle will weigh. New entries arrive through the `open_trail`, `research_question`, and `open_question` proposal types already defined in the schema. The register carries no confidence rating of its own; it is a working view of the project's inquiry, not a claim about the world.
+
+## 2. Reading the priorities — two lenses, and where they meet
+
+The Council prioritizes open inquiry through two different lenses, and they do not always agree.
+
+**The confidence-leverage lens** asks which claims, if tested, would move the most: the lowest-confidence, most-depended-upon propositions. Part 1's first Council actions name these — V3.Exp3 (the Spiritual Force equation, 40%, ten upstream dependencies), V3.Exp6 (the Conservation Laws, 35%, the lowest-confidence claim in the corpus), and V2.Exp6 (the Tool Map, 70%, the most pastorally consequential Part II claim) — with V1.Exp8's Mustard Seed question as a prerequisite for V3.Exp3 to take testable shape.
+
+**The readiness lens** asks which trails can actually be worked *now* — where the theory, the instruments, and a live data source all already exist. By that test the Force equation and the Conservation Laws are the *least* ready: they are Frontier-tier, they need expertise the project does not yet have (a scripturally grounded mathematical physicist), and Part 1's own rule is that Frontier claims "move only when evidence accumulates, not when a well-argued proposal arrives."
+
+The two lenses **meet** at two of Part 1's named priorities. V2.Exp6 (the Tool Map) is now testable through the Minimum-Factor route below, because [CTG](../volume-5-references/clearing-the-ground-lower-levels.md) has given the tool-to-knot map a developed form. And V1.Exp8's Mustard Seed question is workable now as a pure scriptural-analysis project. Those two are where "highest leverage" and "actually runnable" overlap, and they are the bridge between this register and the governance model's stated first actions. The rest of this register is sorted by readiness.
+
+## 3. Underway
+
+| Investigation | What it is | Feeds |
+| --- | --- | --- |
+| **Fellowship of the Heart pilot** | The live formation cohorts — the "Getting Started" series, run *to the Level 2→3 threshold*, with weekly Tell-Rate, the 8-week attachment-style trackers, and External Witness data being collected. This is the project's one running data engine; most of the recommendations below draw on it. | Source data for OT-1, the attachment correlation, OT-6, and the Minimum-Factor work |
+
+## 4. Recommended for the next research cycle — ready to run now
+
+These four have theory, instruments, and a data source all in place. They are ordered by payoff per unit of effort.
+
+| # | Trail | The question | Why it is ready | Feeds / calibrates |
+| --- | --- | --- | --- | --- |
+| 1 | **Affective-Taxonomy Measurement Protocol** (Vol 3 OT-1) | Do Affective-Taxonomy levels, tracked through PROAPT small-group work, correlate with REVEAL stage data — does Level 3 map to the MOVE "Growing to Close" transition? | Theory now published at length in [MSM](../volume-5-references/measuring-spiritual-maturity-in-hearing-god.md) and [CSM](../volume-5-references/cultivating-spiritual-maturity-in-hearing-god.md); instruments in [Vol 4 §3–4](../volume-4-testing-framework/section-3-individual-spiritual-formation-testing-protocol.md); data from the FotH cohorts. | **V2.Exp7** (Affective Taxonomy) — the keystone; tests LotS-H4 |
+| 2 | **Attachment-substrate correlation** (Vol 3 Open Trails) | Do the FotH attachment-style trackers correlate with the [V2.Exp1](../volume-2-knowing-to-doing/exploration-01-heart-soil.md) Sower-soil diagnostic, as [ATB](../volume-5-references/attachment-theory-and-the-biblical-triad.md) predicts? | The data is *already being collected*; ATB supplies the mapping; no new instrument to deploy — the lowest cost-to-first-result on the list. | V2.Exp1; the ATB parallel mapping |
+| 3 | **Collective formation** (Vol 4 OT-6) | Do groups led by facilitators with integrated Stage-4 profiles show greater Group-SIP trajectory than Stage-3-led groups? | Group SIP, GATS, and the weekly Tell-Rate exist ([Vol 4 §4](../volume-4-testing-framework/section-4-small-group-spiritual-formation-testing.md)); [BFP](../volume-5-references/bearing-fruit-with-patience-upper-levels.md) supplies the corporate-formation theory; the group is the natural pilot unit. | LotS-H3 / H4 at the group level |
+| 4 | **Minimum-Factor Protocol** (Vol 3 Open Trails) | Can a person's or a group's single formation blocker be identified early, and does clearing *only* that produce disproportionate gains? | [CTG](../volume-5-references/clearing-the-ground-lower-levels.md) develops the obstructing knot as the rate-limiting factor; Schwarz's NCD validates the church-level analog. The highest *practical* payoff — it would make the whole Vol 4 protocol more efficient. | **V2.Exp6** (Tool Map) — a Part 1 first-action priority |
+
+**If the Council commissions one thing:** OT-1, run inside the FotH pilot, with the attachment correlation (#2) bolted on as a near-free second result. That single cohort tests the keystone claim (V2.Exp7) and yields two publishable findings — and OT-1 working is the precondition for the full tests of OT-2, OT-4, and OT-8. It is, in the founder's own ranking, the "doctoral-level research project that is ready to run."
+
+## 5. Proposed — held in reserve
+
+Real trails the Council should keep on the list, each with the reason it is not yet a run-now recommendation.
+
+| Trail | Why not yet |
+| --- | --- |
+| **MSM Stage 2 — building Level 4–5 instruments** | MSM only *diagnoses* the measurement gap; building instruments that reach Organization and Characterization is the hard problem it names (the self-knowledge ceiling, the Level-2/Level-5 indistinguishability). The tractable angle is to triangulate through External Witness data rather than self-report. |
+| **Mustard Seed Resolution** (V1.Exp8 open question) | Workable *now* by one person as a scriptural-analysis project — catalog every Gospel and Acts miracle by what is said about the faith involved. Lower empirical payoff, but it unblocks the functional form of V3.Exp3's h() factor, and it is the only quantitative-side trail runnable solo. |
+| **OT-5 — precursors of dramatic heart change** | Its supplementary interview is event-triggered; the payoff cannot be scheduled, only captured opportunistically when a dramatic change occurs in a cohort. |
+| **OT-2 / OT-4 full extensions; OT-8 direct test** | Depend on OT-1's measurement working first; partial coverage already exists in the Vol 4 instruments. |
+| **OT-3, OT-7, OT-9, OT-10** | Need prior groundwork (a theological-anthropology study for OT-3) or a scope beyond a single study; secondary to the measurement keystone. |
+| **Quantitative / TFT trails** — V3.Exp3 (Force equation), V3.Exp6 (Conservation Laws), the Field Equations, the Quantitative CLD, the Community Resonance Model, the Time-Delay Analysis, the Gifts as force-amplifiers | Frontier-tier. They need rare expertise and large longitudinal datasets the project does not yet have, and the governance rule holds them until evidence accumulates. Highest long-term ambition, lowest near-term tractability. |
+
+The fuller descriptions live where these trails were first named — the [Vol 3 Open Trails](../volume-3-quantitative-framework/open-trails-what-vol-3-cannot-yet.md) and the [Vol 4 §5e Open-Research-Questions table](../volume-4-testing-framework/section-5-research-program-design-for-spiritual.md).
+
+## 6. Keeping this register current
+
+The discipline is meant to be light. An investigation moves from **Proposed** to **Recommended** when its theory, instrument, and data source are all in place; to **Underway** when a coordinator and a cohort are committed; and to **Reported** when its results enter a calibration cycle — at which point the relevant claim's confidence is adjusted and the entry is annotated with what was found. Frontier-tier trails enter through the research-program track described in Part 1, which requires a Council sponsor and a six-month testing window before any confidence move. New trails are added through the `open_trail` and `research_question` proposal types. Nothing is ever deleted: a closed or abandoned trail is marked as such and kept, so the next steward can see what was tried and why it stopped.
+
+The register is reviewed at each annual calibration cycle and whenever a research effort changes state.

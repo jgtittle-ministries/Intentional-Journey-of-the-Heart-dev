@@ -700,6 +700,10 @@ window.VOLUME_CHAPTERS = {
         "title": "Proposal Template"
       },
       {
+        "path": "docs/volume-6-governance/research-register.md",
+        "title": "Research Register — Investigations Underway and Proposed"
+      },
+      {
         "path": "docs/volume-6-governance/appendix-catalog-history.md",
         "title": "Appendix: Catalog History — A Briefing for the Council"
       }
@@ -2171,6 +2175,15 @@ window.PATH_TO_INFO = {
     "folder": "volume-6-governance",
     "title": "Proposal Template",
     "prev": "docs/volume-6-governance/part-3-succession-letter.md",
+    "next": "docs/volume-6-governance/research-register.md"
+  },
+  "docs/volume-6-governance/research-register.md": {
+    "volume": 6,
+    "volumeName": "Volume 6: Governance",
+    "volumeFile": "Volume 6 Governance.html",
+    "folder": "volume-6-governance",
+    "title": "Research Register — Investigations Underway and Proposed",
+    "prev": "docs/volume-6-governance/proposal-template.md",
     "next": "docs/volume-6-governance/appendix-catalog-history.md"
   },
   "docs/volume-6-governance/appendix-catalog-history.md": {
@@ -2179,6 +2192,6 @@ window.PATH_TO_INFO = {
     "volumeFile": "Volume 6 Governance.html",
     "folder": "volume-6-governance",
     "title": "Appendix: Catalog History — A Briefing for the Council",
-    "prev": "docs/volume-6-governance/proposal-template.md"
+    "prev": "docs/volume-6-governance/research-register.md"
   }
 };
