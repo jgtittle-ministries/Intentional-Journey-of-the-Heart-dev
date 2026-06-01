@@ -93,6 +93,8 @@ This proposal would be **withdrawn or the Council should reject it** if any of t
 4. A demonstration that the gift-of-faith differential *does* operate as a continuous per-act `f()` scalar (rather than a sovereign distribution), which would reopen the f-form question.
 
 ## 6. Summary for the open comment period
+*Comment period **OPEN 2026-06-01, closes 2026-06-15** (14 days). The paragraph below is the posted summary; the claim registry has been enacted accordingly (V1.Exp8 open question in comment; confidence 70→80 effective on close; V3.Exp3 in the research-program track).*
+
 The mustard seed is a statement about the *genuineness* of faith, not its quantity: the smallest real trust crosses a threshold below which nothing operates, and above which the size and timing of what God does are carried by alignment, persistence, and authority — never by "more faith" — all under God's sovereign freedom. This resolves the open question that has capped V1.Exp8 and gated the V3.Exp3 Force equation, fixing its trust factor as a threshold rather than a proportional dial. The one tradition that reads faith proportionally (Word of Faith) is the one the wider church already critiques for making faith a lever, which is precisely what this reading guards against.
 
 ## 7. (Optional) Anything else the Council should know

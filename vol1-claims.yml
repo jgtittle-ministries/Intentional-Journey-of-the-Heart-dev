@@ -581,13 +581,21 @@ claims:
       spiritual readiness in the situation), and persistence (maintained over
       time as a waveform rather than a single pulse).
     status: core
-    confidence: 70
+    confidence: 80
     confidence_rationale: >
       The resonance analogy is compelling and consistent with multiple
       scripture patterns. The mustard seed model question (threshold vs.
-      proportionality) is genuinely unresolved and materially affects the
-      downstream equations. This claim needs the most community testing of
-      any exploration in the volume.
+      proportionality) — long the main cap on this claim — now has a
+      proposed resolution toward the synthesis (see V3.Exp3.Open1): a
+      genuine-trust threshold floor, with above-floor magnitude carried by
+      resonance, authority, and obedient capacity rather than by the
+      quantity of faith, bounded by divine sovereignty. Basis: a systematic
+      OT/Gospels/Acts/Epistles corpus, an independent adversarial pass, a
+      cross-tradition check, and the proposer's experiential witness (Vol 6
+      Research Register). Residual uncertainty is the illustrative-vs-load-
+      bearing status of the analogy. Confidence raised 70→80 by the founder,
+      effective on close of the 14-day comment period (opened 2026-06-01,
+      closes 2026-06-15); the open question remains open until then.
     scripture_refs:
       - Luke 18:1
       - James 5:16
@@ -610,13 +618,15 @@ claims:
       resonance (Jas. 4:3). The Counter-Resonance Law at the same cell is
       the dyadic-scale operation of the same dynamic.
     open_questions:
-      - "Threshold vs. proportionality dynamics (mustard seed question)"
+      - "[RESOLUTION PROPOSED 2026-06, in 14-day comment period — synthesis; see V3.Exp3.Open1] Threshold vs. proportionality dynamics (mustard seed question)"
       - "Whether the analogy is illustrative or load-bearing — author currently holds illustrative"
     council_flag: >
-      Author has explicitly flagged this as needing the most community
-      testing in the volume. Downstream Vol 3 equations materially depend on
-      how the threshold/proportionality question resolves. A Council priority
-      for early testing cycles.
+      The threshold/proportionality (mustard seed) question that long capped
+      this claim now has a proposed resolution in the 14-day comment period
+      (→ synthesis; see V3.Exp3.Open1). On close, the downstream Force
+      equation (V3.Exp3) — which depends on this claim through h() — enters
+      the research-program track. The remaining open question is whether the
+      resonance analogy is illustrative or load-bearing.
 
 # ===========================================================================
 # Supplemental Exploration

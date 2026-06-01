@@ -251,7 +251,7 @@ claims:
       - V3.Exp6            # conservation analysis references the factors
       - V3.Exp7            # CLD models the force equation's dynamics
       - V3.Exp8            # miracles as threshold events in the force system
-    open_sub_questions: [V3.Exp3.Open1]
+    open_sub_questions: [V3.Exp3.Open1, V3.Exp3.Open2]
     analogy_class: load_bearing_proposed
     council_flag: >
       THIS IS THE CENTRAL CLAIM OF VOL 3. Four upstream dependencies
@@ -261,7 +261,12 @@ claims:
       materially propagate here through h(). A revision to V2.Exp6 (Tool
       Map, currently at 70%) propagates through i(). Council should treat
       this as the single highest-impact claim to watch during the first
-      testing cycles.
+      testing cycles. ENTERED INTO THE RESEARCH-PROGRAM TRACK 2026-06
+      (sponsor: the founder / at-large Council seat; warrant: the
+      Mustard-Seed scriptural analysis; six-month window). The f() and h()
+      functional forms are now specified by the resolved-in-comment
+      V3.Exp3.Open1 — f() a near-step trust threshold, outcome-magnitude in
+      g()/h(); confidence held at 40 pending the testing window.
 
   - id: V3.Exp3.Open1
     type: open_question
@@ -280,9 +285,20 @@ claims:
     status: open
     confidence: null
     confidence_rationale: >
-      The author explicitly states this question must be resolved for the
-      equation to take a specific functional form. The synthesis
-      (resonance model) is proposed but not yet established.
+      The author states this question must be resolved for the equation to
+      take a specific functional form. A resolution toward the synthesis is
+      now PROPOSED and in the 14-day comment period (opened 2026-06-01,
+      closes 2026-06-15); status remains "open" until the period closes,
+      then flips to resolved. Resolution basis: a systematic coding of the
+      miracle/answered-prayer corpus across the OT, Gospels, Acts, and
+      Epistles found zero cases where a larger outcome is credited to more
+      faith; failures track faith-quality (unbelief/doubt/counterfeit), and
+      above-floor magnitude tracks persistence/authority/obedient-capacity.
+      Therefore f() is a near-step threshold on genuineness, not a
+      proportional ramp, and magnitude lives in g()/h(). An independent
+      adversarial pass (mandated to overturn) corroborated this (~80%), and
+      the reading is recognizable across all four traditions. See the Vol 6
+      Research Register / Mustard-Seed proposal.
     scripture_refs:
       - Matthew 17:20
       - Luke 17:5-6
@@ -290,9 +306,42 @@ claims:
     council_flag: >
       This open question was flagged in V1.Exp8 (Prayer Resonance) as
       "materially affecting downstream equations." V3.Exp3 is the
-      downstream equation. This is a rare case of a single open question
-      whose resolution has explicit load-bearing effect across two
-      volumes. Highest-priority question for community testing.
+      downstream equation. A resolution toward the synthesis is in the
+      14-day comment period; on close it fixes f() as a near-step threshold
+      and relocates outcome-magnitude to g()/h(), giving V3.Exp3 its
+      functional form. One thread was deliberately left open and split out
+      as V3.Exp3.Open2 (the differential gift of faith).
+
+  - id: V3.Exp3.Open2
+    type: open_question
+    parent_claim: V3.Exp3
+    title: "Differential Gift of Faith — Capacity-Level Proportionality?"
+    core_text: >
+      Whether the sovereignly-apportioned "measure of faith" (Rom 12:3) and
+      the charismatic "gift of faith" (1 Cor 12:9) constitute a form of
+      proportionality at the gifting/capacity level — distinct from the
+      per-act trust threshold of V3.Exp3.Open1. The Mustard-Seed analysis
+      held this to be an orthogonal, sovereign-distribution axis (it governs
+      which works are attempted, not a proportional throttle on a given
+      act's magnitude) and preserved it as its own question rather than
+      letting it reintroduce the proportionality model.
+    status: open
+    confidence: null
+    confidence_rationale: >
+      Newly split out 2026-06 from the Mustard-Seed resolution as the one
+      live thread that resolution deliberately did not close. Concession-
+      plus-limit: faith genuinely has a measure/capacity dimension, but
+      Scripture never lets that measure meter the size of a given outcome
+      above the floor.
+    scripture_refs:
+      - Romans 12:3
+      - 1 Corinthians 12:9
+      - Luke 17:5-6
+    upstream_dependencies: [V1.Exp8, V3.Exp3, V3.Exp3.Open1]
+    council_flag: >
+      Preserved open question. Bears on how operational capacity is
+      distributed (the sovereign side), not on the per-act threshold
+      resolved in V3.Exp3.Open1.
 
 # ---------------------------------------------------------------------------
 # Exp 4 — Kinematics (Spiritual Distance)
@@ -554,6 +603,10 @@ claims:
       right, miracles are neither arbitrary nor universally available —
       they are predictable thresholds crossed when four specific
       conditions align. The claim at 55% is deliberately cautious.
+      Corroboration (2026-06): the Mustard-Seed corpus analysis supports the
+      threshold-event reading — failures track faith-quality and no outcome
+      is graded by faith-amount. Flagged for confidence review at the next
+      calibration cycle.
     open_questions:
       - "Whether 'perception condition' is cleanly separable from the other three, or is implicit in them"
       - "Quantitative threshold values for typical miracle categories"
