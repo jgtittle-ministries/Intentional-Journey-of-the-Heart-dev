@@ -4,7 +4,7 @@
 
 ---
 
-## 1. The question, and why it was load-bearing
+## 1. The question, and why it carried weight
 
 When Jesus says that faith "like a grain of mustard seed" can move a mountain (Matt 17:20), He could mean one of two very different things:
 

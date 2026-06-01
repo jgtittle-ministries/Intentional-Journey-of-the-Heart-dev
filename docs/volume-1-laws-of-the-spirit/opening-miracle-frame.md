@@ -12,7 +12,7 @@ source: "IJH_Vol1_v5_6_1_1.docx"
 ![](images/image-011.png)
 
 ## Why This Has to Come First
-I originally had this discussion buried in the Framework section near the middle of this document. As I reviewed the structure of Vol 1, I realized that it was a mistake. This is the load-bearing premise of the entire investigation. If I can’t establish it, everything else I am doing is just interesting theology. If I can establish it, even at Reasonably Inferred certainty, then the rest of this work is not just interesting, it is urgent.
+I originally had this discussion buried in the Framework section near the middle of this document. As I reviewed the structure of Vol 1, I realized that it was a mistake. This is the foundational premise of the entire investigation. If I can’t establish it, everything else I am doing is just interesting theology. If I can establish it, even at Reasonably Inferred certainty, then the rest of this work is not just interesting, it is urgent.
 
 The premise is this: miracles are not violations of natural law. They are instances of a higher-order law operating on the natural world from a dimension that contains the natural world as a special case. The urgency is, if we can see into these spiritual laws, even in part, we should be able to start to operate better in following Jesus, and miracles will become more ordinary, as Jesus demonstrated and invites us into. As He said, if we love him, we will obey his commands. This is about becoming soil (hearts) that hears and obeys, quickly and quietly.
 

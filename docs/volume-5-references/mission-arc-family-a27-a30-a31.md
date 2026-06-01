@@ -52,7 +52,7 @@ The family entry handles three things together: the **sequencing and loop-back s
 
 • **Failing to discern wound-rooted vs. sin-rooted vs. mixed-rooted shadow material before downstream routing.** A30 surfaces the shadow mission; what to *do* with what is surfaced depends on the root. Wound-rooted routes to A17 family; sin-rooted routes to V2.Exp4 / A6; mixed-rooted requires Spirit-discernment for which pole to address first. The Companion who treats all shadow material identically produces poorly-routed downstream work.
 
-• **Failing to discern the voice the shadow speaks in** (accusation vs. internalized lie vs. Spirit-conviction per V2.Exp7A). Each kind of voice gets a different response: accusation resisted, lie addressed therapeutically, Spirit-conviction heeded and confessed. Voice-discernment is load-bearing before the surfacing matures into work.
+• **Failing to discern the voice the shadow speaks in** (accusation vs. internalized lie vs. Spirit-conviction per V2.Exp7A). Each kind of voice gets a different response: accusation resisted, lie addressed therapeutically, Spirit-conviction heeded and confessed. Voice-discernment is critical before the surfacing matures into work.
 
 • **Surfacing shadow material the participant is not yet ready to receive.** Premature shadow-mission surfacing produces shame or defensive collapse rather than naming-and-resistance. The Companion's discernment of participant-readiness is part of the protocol; deferral to a later cycle is sometimes the right move.
 
@@ -132,7 +132,7 @@ The five-question sequence run in trio format. Per the Feb 2026 v5 refresh, the 
 
 - Responder: respond, but answer descriptively rather than aspirationally — *not where you wish your energy went, but where it actually goes*.
 
-- Discernment: the gap between Questions 1–4 (stated identity-mission-companions-service) and Question 5 (actual energy) is the diagnostic load-bearing material. It often points at the shadow mission A30 later surfaces.
+- Discernment: the gap between Questions 1–4 (stated identity-mission-companions-service) and Question 5 (actual energy) is the decisive diagnostic material. It often points at the shadow mission A30 later surfaces.
 
 7. **Pattern recognition (collaborative hearing).**
 

@@ -51,7 +51,7 @@ The active operational mechanism is *embodied resonance.* The listener's body mo
 
 - Companion: confirm the container conditions are in place per V2.Exp8 refined (Safe, Present, Clear, Intentional). Open the session with the formally-marked opening per the group's established practice (silence; a brief naming of what the session is for; a prayer; the marking that the work has begun).
 
-- Discernment: if any of the four container conditions are weak, address before continuing. The witness-discipline (V2.Exp8 third paragraph, refined May 2026) is specifically load-bearing for A21 — the listeners are being asked to witness in the deepest sense.
+- Discernment: if any of the four container conditions are weak, address before continuing. The witness-discipline (V2.Exp8 third paragraph, refined May 2026) is specifically critical for A21 — the listeners are being asked to witness in the deepest sense.
 
 2. **Framing the practice.**
 
