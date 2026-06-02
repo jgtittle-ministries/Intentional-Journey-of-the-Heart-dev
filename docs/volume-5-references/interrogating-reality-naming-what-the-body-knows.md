@@ -2,12 +2,7 @@
 title: "Interrogating Reality: Naming What the Body Already Knows"
 volume: 5
 source: "Inspired by Scott, Susan. *Fierce Conversations* (2002); IJH-original synthesis."
-status: "DRAFT v1 — for review on dev; placement/number not final; not yet mirrored to prod"
 ---
-
-!!! warning "Draft for review — dev only"
-
-    This is a **v1 working draft**, placed at the end of Volume 5 for review on the dev site. Its final placement and protocol number are not yet decided, it is not yet wired into search, and it has **not** been mirrored to prod. Inspired by Susan Scott's *Fierce Conversations*; what is borrowed and what is original is set out in the Attribution note at the end.
 
 # Interrogating Reality: Naming What the Body Already Knows
 
@@ -111,7 +106,4 @@ If safety is insufficient (Step 2 produces only silence, or the power condition 
 **FORMATION DOCUMENT CONNECTION:** locating and holding a corporate knot is a Stage-3+ corporate competency in MSFIG's small-group taxonomy — it is the move from *Information Sharing* into *Genuine Care* / *Hearing as Body*. A group that cannot yet name what it knows is not at a higher level; it is closed (the integration-not-replacement reading).
 
 ## Attribution & IP note
-The practice of courageously naming the undiscussable, the trio reflect-back exchange, the "stump speech," the impact-ranking of breakdowns, and the memorable phrase *"let silence do the heavy lifting"* originate with **Susan Scott, *Fierce Conversations*** and are credited to her. This protocol does **not** reproduce her proprietary models (e.g., her named drilling sequence or confrontation template) verbatim; it is an original, scripturally-grounded synthesis that extends the practice into formation. Scott is to be entered as a Vol 5 Part I scholarly source.
-
-## Publishing notes (TBD on review)
-Before this leaves draft: confirm the Part III/VI placement and the A/B protocol number (do not collide with the existing series); add the search-index entry; mirror dev→prod per discipline; then fork the **FotH pilot form** (cohort/Tell-Rate language) and the **BSCP consulting form** (org/leadership language, the delegation/Decision-Tree thread, Competing Values cross-link).
+The practice of courageously naming the undiscussable, the trio reflect-back exchange, the "stump speech," the impact-ranking of breakdowns, and the memorable phrase *"let silence do the heavy lifting"* originate with **Susan Scott, *Fierce Conversations*** and are credited to her. This protocol does **not** reproduce her proprietary models (e.g., her named drilling sequence or confrontation template) verbatim; it is an original, scripturally-grounded synthesis that extends the practice into formation. Scott is credited here as the source behind this protocol.

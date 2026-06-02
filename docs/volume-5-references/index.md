@@ -33,7 +33,7 @@ Contents of Volume 5: References. Each entry below opens that section of the vol
 - [B13 Front/Back Facilitator Team Structure](b13-front-back-facilitator-team-structure.md) — B13 Front/Back Facilitator Team Structure
 - [B14 Kinesthetic Metaphor](b14-kinesthetic-metaphor.md) — B14 Kinesthetic Metaphor
 - [B15 Pull-out Work](b15-pull-out-work.md) — B15 Pull-out Work
+- [Interrogating Reality: Naming What the Body Already Knows](interrogating-reality-naming-what-the-body-knows.md) — Surfacing and working a corporate knot (Fierce Conversations, re-grounded)
 - [The Periodic Table of Spiritual Laws](periodic-table-of-spiritual-laws-a-summing.md) — The Periodic Table of Spiritual Laws — A Summing and Organizing Reference
 - [Measuring Spiritual Formation at Scale](measuring-spiritual-formation-at-scale.md) — Measuring Spiritual Formation at Scale
 - [Attachment Theory and the Biblical Triad](attachment-theory-and-the-biblical-triad.md) — Attachment Theory and the Biblical Triad
-- [Interrogating Reality: Naming What the Body Already Knows (DRAFT)](interrogating-reality-naming-what-the-body-knows.md) — DRAFT for review (Fierce Conversations → corporate-knot process)
