@@ -25,6 +25,8 @@ It also sits inside a **power structure**, and that is what most often defeats t
 | Movement | Anchor |
 |---|---|
 | Name what is real | "Buy the truth and do not sell it" (Prov 23:23) |
+| Draw out what is deep | "The purpose in a man's heart is like deep water, but a man of understanding will draw it out" (Prov 20:5) — interrogating reality is a *drawing-out* of what lies beneath the surface, not a demand that it simply be stated |
+| Hold your own construct humbly | "The heart of man plans his way, but the LORD establishes his steps" (Prov 16:9) — each member's version of reality is a construct shaped by background, experience, and desire, which may differ from the truth |
 | Each member sees in part | 1 Cor 12:12–27; "we see in part" (1 Cor 13:9–12) — the body as one with many members, each holding a different view |
 | Speak the unspoken, in love | Eph 4:15; Matt 18:15; Nathan to David (2 Sam 12); Paul to Peter "to his face" (Gal 2:11) |
 | Let silence do its work | "Be still, and know" (Ps 46:10); "quick to listen, slow to speak" (James 1:19) |
@@ -61,7 +63,7 @@ These are drawn directly from the failure analysis of a real engagement where a 
 Before any corporate knot is named, the body practices reflective listening in **trios**: one shares, a partner reflects back *what they heard* (not a response), then they switch. Earlier gatherings move from low-risk to more real material. A brief **one-to-one** with the facilitator before group sessions both prepares each person and gives the facilitator early read on where the knots and the risks are. Step 0 is not optional warm-up; it is the load-bearing precondition.
 
 ### Step 1 — Interrogate reality / ground truths
-Each member names what is real *for them* about the area in view; partners reflect it back. The frame is the body seeing in part (1 Cor 13:9–12): no one member holds the whole, and the point is to assemble the parts, not to win. *Facilitator framing:* "Each of us is holding one piece of what's true here. We're not deciding yet who's right — we're putting the pieces on the table so we can see the whole."
+Each member names what is real *for them* about the area in view; partners reflect it back. The frame is the body seeing in part (1 Cor 13:9–12): no one member holds the whole, and the point is to assemble the parts, not to win. And before pressing what others need to hear, each member interrogates their *own* construct first — the version of reality their background, experience, and desire have built, which may differ from the truth (Prov 16:9) — so what is offered is held as *my drawn-out perception* (Prov 20:5), not the final word. *Facilitator framing:* "Each of us is holding one piece of what's true here. We're not deciding yet who's right — we're putting the pieces on the table so we can see the whole."
 
 ### Step 2 — Name it, and locate its level
 When the container holds, the facilitator invites the corporate knot to be named plainly — the elephant named (Matt 18:15; 2 Sam 12). Then immediately **locate its level**, using the four-context test from the source engagement:
