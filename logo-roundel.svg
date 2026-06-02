@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="Intentional Journey of the Heart">
+  <circle cx="60" cy="60" r="56" fill="#FBF6EC" stroke="#C06A2C" stroke-width="1.8"/>
+  <path d="M60 92 C 33 73, 23 56, 30 43 C 35 33, 48 32, 55 40 C 57.5 43, 59 46, 60 50 C 61 46, 62.5 43, 65 40 C 72 32, 85 33, 90 43 C 97 56, 87 73, 60 92 Z" fill="none" stroke="#C06A2C" stroke-width="3.6" stroke-linejoin="round"/>
+  <path d="M26 61 H45 L49.5 67 L56 44 L62.5 73 L67 61 H94" fill="none" stroke="#9E4A1C" stroke-width="3.1" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="26" cy="61" r="3.2" fill="#C06A2C"/>
+</svg>

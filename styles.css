@@ -120,6 +120,7 @@ body > * { position: relative; z-index: 1; }
   width: 6px; height: 6px; border-radius: 50%;
   background: var(--accent); box-shadow: 0 0 0 3px oklch(0.54 0.15 50 / 0.18);
 }
+.topnav .crest .crest-mark { width: 26px; height: 26px; flex: none; display: block; }
 .topnav .crest .work {
   font-family: var(--display);
   font-style: italic;
