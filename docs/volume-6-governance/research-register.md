@@ -38,7 +38,7 @@ The two lenses **meet** at two of Part 1's named priorities. V2.Exp6 (the Tool M
 
 ## 4. Recommended for the next research cycle — ready to run now
 
-These four have theory, instruments, and a data source all in place. They are ordered by payoff per unit of effort.
+These five have theory, instruments, and a data source all in place. They are ordered by payoff per unit of effort.
 
 | # | Trail | The question | Why it is ready | Feeds / calibrates |
 | --- | --- | --- | --- | --- |
@@ -46,6 +46,7 @@ These four have theory, instruments, and a data source all in place. They are or
 | 2 | **Attachment-substrate correlation** (Vol 3 Open Trails) | Do the FotH attachment-style trackers correlate with the [V2.Exp1](../volume-2-knowing-to-doing/exploration-01-heart-soil.md) Sower-soil diagnostic, as [ATB](../volume-5-references/attachment-theory-and-the-biblical-triad.md) predicts? | The data is *already being collected*; ATB supplies the mapping; no new instrument to deploy — the lowest cost-to-first-result on the list. | V2.Exp1; the ATB parallel mapping |
 | 3 | **Collective formation** (Vol 4 OT-6) | Do groups led by facilitators with integrated Stage-4 profiles show greater Group-SIP trajectory than Stage-3-led groups? | Group SIP, GATS, and the weekly Tell-Rate exist ([Vol 4 §4](../volume-4-testing-framework/section-4-small-group-spiritual-formation-testing.md)); [BFP](../volume-5-references/bearing-fruit-with-patience-upper-levels.md) supplies the corporate-formation theory; the group is the natural pilot unit. | LotS-H3 / H4 at the group level |
 | 4 | **Minimum-Factor Protocol** (Vol 3 Open Trails) | Can a person's or a group's single formation blocker be identified early, and does clearing *only* that produce disproportionate gains? | [CTG](../volume-5-references/clearing-the-ground-lower-levels.md) develops the obstructing knot as the rate-limiting factor; Schwarz's NCD validates the church-level analog. The highest *practical* payoff — it would make the whole Vol 4 protocol more efficient. | **V2.Exp6** (Tool Map) — a Part 1 first-action priority |
+| 5 | **Corporate-knot surfacing** ([Interrogating Reality](../volume-5-references/interrogating-reality-naming-what-the-body-knows.md)) | When a body names and works what it already knows but will not say, does measurable corporate formation follow — and does the result confirm or bound the Community-as-Amplifier law? | The protocol now exists with its safety architecture (the four guards drawn from a real engagement's failure analysis); the FotH cohorts are the live setting — the Wk 8 "cohort hears itself" session is the natural deployment — and the same practice is carried into organizational settings through BSCP. | **V2.Exp9** (Community as Amplifier — the Law and the Danger); OT-6 collective formation |
 
 **If the Council commissions one thing:** OT-1, run inside the FotH pilot, with the attachment correlation (#2) bolted on as a near-free second result. That single cohort tests the keystone claim (V2.Exp7) and yields two publishable findings — and OT-1 working is the precondition for the full tests of OT-2, OT-4, and OT-8. It is, in the founder's own ranking, the "doctoral-level research project that is ready to run."
 
