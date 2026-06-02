@@ -36,3 +36,4 @@ Contents of Volume 5: References. Each entry below opens that section of the vol
 - [The Periodic Table of Spiritual Laws](periodic-table-of-spiritual-laws-a-summing.md) — The Periodic Table of Spiritual Laws — A Summing and Organizing Reference
 - [Measuring Spiritual Formation at Scale](measuring-spiritual-formation-at-scale.md) — Measuring Spiritual Formation at Scale
 - [Attachment Theory and the Biblical Triad](attachment-theory-and-the-biblical-triad.md) — Attachment Theory and the Biblical Triad
+- [Interrogating Reality: Naming What the Body Already Knows (DRAFT)](interrogating-reality-naming-what-the-body-knows.md) — DRAFT for review (Fierce Conversations → corporate-knot process)

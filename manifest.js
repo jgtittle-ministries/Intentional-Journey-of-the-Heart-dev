@@ -671,6 +671,10 @@ window.VOLUME_CHAPTERS = {
       {
         "path": "docs/volume-5-references/bearing-fruit-with-patience-upper-levels.md",
         "title": "Bearing Fruit with Patience (Upper Levels)"
+      },
+      {
+        "path": "docs/volume-5-references/interrogating-reality-naming-what-the-body-knows.md",
+        "title": "Interrogating Reality (DRAFT)"
       }
     ]
   },
@@ -2134,6 +2138,15 @@ window.PATH_TO_INFO = {
     "folder": "volume-5-references",
     "title": "Bearing Fruit with Patience (Upper Levels)",
     "prev": "docs/volume-5-references/clearing-the-ground-lower-levels.md",
+    "next": "docs/volume-5-references/interrogating-reality-naming-what-the-body-knows.md"
+  },
+  "docs/volume-5-references/interrogating-reality-naming-what-the-body-knows.md": {
+    "volume": 5,
+    "volumeName": "Volume 5: References",
+    "volumeFile": "Volume 5.html",
+    "folder": "volume-5-references",
+    "title": "Interrogating Reality (DRAFT)",
+    "prev": "docs/volume-5-references/bearing-fruit-with-patience-upper-levels.md",
     "next": "docs/volume-6-governance/index.md"
   },
   "docs/volume-6-governance/index.md": {
@@ -2143,7 +2156,7 @@ window.PATH_TO_INFO = {
     "folder": "volume-6-governance",
     "title": "Volume 6: Governance",
     "next": "docs/volume-6-governance/part-1-governance-model.md",
-    "prev": "docs/volume-5-references/bearing-fruit-with-patience-upper-levels.md"
+    "prev": "docs/volume-5-references/interrogating-reality-naming-what-the-body-knows.md"
   },
   "docs/volume-6-governance/part-1-governance-model.md": {
     "volume": 6,
