@@ -65,3 +65,5 @@ The vertical directionality tag (V) names the relational vector — Christ's voi
 ***Certainty: Clearly Taught.*** *Six-or-more-biblical-author cross-Testament support. Universal acceptance as foundational creedal content across all mainstream Christian traditions. Directional structure clear at the scale-invariant level (across the three forms of operational death). Principle-level operation with operational pathways scripturally specified. Closes the P5/GI cell that was empty in the matured catalog after the Miracle Frame's relocation to P0/GI. Coexists with FL.XXXVI Eschatological Glory Law as the catalog's first P5 parent-pair (Spirit-dimension articulation + Heart-dimension articulation at the same cosmic-eschatological scale).*
 
 **End of the canonical Foundational Laws as currently articulated through the miracle-derived expansion pass**
+
+[**Foundational Law XLVI — Operational Law of Wide Consent →**](foundational-law-xlvi-the-communal-truth-telling-law.md){: .md-button .md-button--primary }

@@ -3076,7 +3076,64 @@ claims:
       articulation + Heart-dimension articulation at the same cosmic-
       eschatological scale).
 
+  - id: FL.XLVI
+    type: foundational_law
+    title: "The Communal Truth-Telling Law"
+    core_text: >
+      Honest, loving truth-telling among the members of a body builds the
+      body up toward maturity and unity; the speaking-to-one-another form is
+      causal in the building, and the suppression of truth a body already
+      perceives corrodes its unity and breeds substituted narrative in the
+      vacuum the unspoken leaves. The in-love qualifier is constitutive —
+      truth without love wounds and love without truth flatters; only the
+      two together build the body up.
+    status: core
+    confidence: 88
+    confidence_rationale: >
+      Four-author cross-Testament support (Moses Lev. 19:17; Zechariah
+      Zech. 8:16; Solomon Prov. 27:5-6; Paul Eph. 4:15-16, Eph. 4:25 taking
+      up Zechariah, Col. 3:9), with the Lev. 19:17 -> Zech. 8:16 -> Eph. 4:25
+      chain carrying a single articulation across the canon. Uncontested
+      broad acceptance; the forms of admonition vary, the principle is held
+      in common.
+    scripture_refs:
+      - Lev. 19:17
+      - Zech. 8:16
+      - Prov. 27:5-6
+      - Eph. 4:15-16
+      - Eph. 4:25
+      - Col. 3:9
+      - Jer. 6:14
+      - Prov. 29:5
+    traditions_supporting: [Reformed, Evangelical, Charismatic, Mystical, Catholic, Orthodox]
+    upstream_dependencies: [V1.Ax1, FL.V]
+    downstream_dependents: []
+    pt_period: P3
+    pt_group: GV
+    layer: operation
+    operator: "P"
+    scale_range: "2 – city"
+    directionality: H
+    band: 1
+    mirror_type: statement
+    mirror_text: >
+      Idol-ward face is the suppression of truth a body already perceives —
+      the flattering silence, "Peace, peace" where there is no peace (Jer.
+      6:14), the flattery that spreads a net (Prov. 29:5). What a body will
+      not say it does not stop knowing; the perception, denied its spoken
+      form, converts into substituted narrative the body acts upon in place
+      of the truth. Lev. 19:17's harbored resentment ("in your heart") names
+      the failure mode and implicates the silent party in the resulting harm.
+    notes: >
+      Admitted after the miracle-derived expansion pass as the preventive-
+      and-upstream fourth member of the P3/GV community-relational family
+      (with FL.XVIII offense-response, FL.XXIV concealed-sin-response, FL.XXV
+      wanderer-response). Emerged from the Vol 5 Interrogating Reality
+      protocol's catalog-process evaluation; the protocol's "what a body will
+      not say converts into story" observation is this law's idol-ward Mirror
+      face. Source behind the protocol: Scott, Fierce Conversations.
+
 # ===========================================================================
 # End of Volume 1 claim registry
-# Total: 60 claims (4 axioms + 1 OE + 8 Exp + 1 Sup + 1 Mn + 45 FL)
+# Total: 61 claims (4 axioms + 1 OE + 8 Exp + 1 Sup + 1 Mn + 46 FL)
 # ===========================================================================
