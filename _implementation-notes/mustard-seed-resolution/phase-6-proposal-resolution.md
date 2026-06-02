@@ -15,7 +15,7 @@
 | Proposal type | **open_question (resolution)** — entailing a **refinement** to V1.Exp8 and **confidence_adjustment** proposals for V1.Exp8 / V3.Exp3 / V3.Exp8 | |
 | Proposer name | John G. Tittle | |
 | Proposer tradition | Cross-tradition (the project draws on Reformed, Evangelical, Charismatic, and Contemplative streams) | |
-| Proposer contact | **[John: supply]** | |
+| Proposer contact | jgtittle@gmail.com | |
 | Submission date | 2026-06-01 | |
 
 ## 1. What are you proposing?
@@ -102,11 +102,11 @@ The mustard seed is a statement about the *genuineness* of faith, not its quanti
 - **Independent adversarial confirmation is complete** (Phase 2c): a reviewer blind to this analysis was mandated to overturn it, corroborated the conclusion (~80%), and produced four amendments now folded in — the omitted faith-magnitude texts are engaged above (§2/§3a), the gift-of-faith claim is reworded as concession-plus-limit (§4), the κατά datum is weighted honestly (§5), and the persistence/faith partition is softened (§1). A *human* independent reader is still welcome but no longer blocks the draft's integrity.
 - **Sponsor secured.** The founder (John G. Tittle), who holds the at-large Council seat, sponsors this proposal into the research-program track for the V3.Exp3 entry — satisfying the track's one-Council-member-sponsor requirement.
 - **§3b supplied** (above), and the cross-tradition check (3d) is complete.
-- **This draft is therefore submission-ready.** The only remaining formality is the proposer's signature (and contact). A human independent adversarial reader remains optionally welcome.
+- **This draft is signed and submitted (2026-06-02).** A human independent adversarial reader remains optionally welcome.
 - This proposal touches Frontier-tier material (V3.Exp3); the research-program track and its longer window therefore govern the V3.Exp3 confidence move, even though the V1.Exp8 open-question resolution itself is a Working-tier action.
 
 ---
 
 *By submitting this proposal, I affirm that I hold the rights to submit the material under the project's license (CC BY 4.0); that I have represented my sources accurately and have not fabricated citations or experience; that I am submitting in good faith as part of the shared inquiry; and that this proposal, whether accepted, rejected, or preserved as an open question, will remain in the project's historical record.*
 
-**Proposer signature:** **[John: sign]** _________________________
+**Proposer signature:** /s/ **John G. Tittle** — 2026-06-02
