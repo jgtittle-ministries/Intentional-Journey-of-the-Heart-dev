@@ -30,6 +30,12 @@ The centurion’s faith is so remarkable to Jesus because he grasped something t
 
 *"Behold, I have given you authority to tread on serpents and scorpions, and over all the power of the enemy, and nothing shall hurt you."*
 
+***Luke 10:20 (ESV)***
+
+*"Nevertheless, do not rejoice in this, that the spirits are subject to you, but rejoice that your names are written in heaven."*
+
+It is worth pausing on Jesus' very next sentence, because He attaches His own guardrail to the authority He has just given. The disciples come back thrilled that even the demons submit to them — and Jesus gently redirects them: the thing to rejoice in is not the power, but belonging to God. Spiritual authority is real, and this exploration takes it seriously; but the moment it becomes excitement about *our* power rather than gratitude for *His* grace, it has already started to go wrong. Keep the joy where Jesus put it.
+
 ***Eph. 1:20-22 (ESV)***
 
 *"...when he raised him from the dead and seated him at his right hand in the heavenly places, far above all rule and authority and power and dominion, and above every name that is named, not only in this age but also in the one to come. And he put all things under his feet and gave him as head over all things to the church..."*
