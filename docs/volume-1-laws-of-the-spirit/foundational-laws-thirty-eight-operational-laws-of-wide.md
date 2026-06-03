@@ -1,10 +1,10 @@
-# Foundational Laws: Forty-Five Operational Laws of Wide Consent
+# Foundational Laws: Thirty-Eight Laws of Wide Consent (and Eight Candidate Laws)
 
-Before I begin the personal explorations that make up the body of this volume, I want to set out forty-five operational laws that are already broadly accepted across mainstream Christian tradition. These are not my discoveries. They are the floor I am building on.
+Before I begin the personal explorations that make up the body of this volume, I want to set out the operational laws that are already broadly accepted across mainstream Christian tradition. There are thirty-eight of these wide-consent laws (FL.I–XXXVIII). These are not my discoveries. They are the floor I am building on. After them I add eight newer **candidate laws** (FL.XXXIX–XLVI) that I believe belong here but that the wider community has not yet tested and confirmed — I keep them clearly marked as candidates, not as settled floor. That brings the full catalog to forty-six.
 
 The Explorations that follow this section are my own investigations into territory I have found less well mapped. Those are propositional claims in the Reasonably Inferred to Clearly Taught tiers. They need testing. The community has not yet weighed in.
 
-But these forty-five are different. Each one has been recognized as foundational across nearly the entire breadth of Christian thought — from the patristic period through the medieval doctors, through the magisterial Reformation, through the modern theological recovery, and into contemporary pastoral practice. They are the operational grammar within which the church's various traditions hold their disagreements about other matters.
+But the thirty-eight wide-consent laws are different. Each one has been recognized as foundational across nearly the entire breadth of Christian thought — from the patristic period through the medieval doctors, through the magisterial Reformation, through the modern theological recovery, and into contemporary pastoral practice. They are the operational grammar within which the church's various traditions hold their disagreements about other matters. (The eight candidate laws at the end do not yet carry that same breadth of agreement; that is why I mark them separately.)
 
 I will state each one in a single sentence. The single-sentence statement is deliberate: it forces the law into its most operational form, the form in which the cause-and-effect relationship is plainly named and the principle-level operation is plainly visible.
 
@@ -14,9 +14,15 @@ A law qualifies as Foundational only if it clears four criteria. First, *multi-a
 
 The catalog's Group designations (Spirit, Heart, Soul, Mind & Will, Body & Action, Structural Frame) are scripturally grounded at both the individual and corporate scales. The corporate-scale grounding is articulated in the Vol 5 Periodic Table chapter's body-of-Christ master-frame sub-section. The Group designations operate consistently across the catalog's full scale range.
 
-## The Forty-Five Laws
+## A Word About the Promise-Shaped Laws
 
-The forty-five Foundational Laws are summarized below in numerical order, with the Period/Group placement, the directionality tag, and the single-sentence operational statement. Each law has its own chapter in this volume. (The miracle-derived expansion pass admitted seven Foundational Laws — FL.XXXIX through FL.XLV — surfacing operational substrates the catalog had been carrying implicitly across the Spirit-dimension, the Structural-Frame dimension, and the Body-and-Action dimension at the scale-invariant and cosmic-eschatological scales.)
+Some of these laws are shaped like promises: *give and it will be given to you; draw near and God draws near; ask and you will receive; sow and you will reap.* Read carelessly, a promise-shaped law can sound like a vending machine — put in the right behavior, get out the reward. That is not what any of these laws mean, and it is worth saying so plainly before the list begins.
+
+Every one of these laws rests on grace, and every one is about God before it is about us. He is always the first to act. We love because He first loved us (1 John 4:19); we draw near because He first drew near to us in Christ; we can sow good seed at all only because He first put His life in us. So a law may run in one direction at the level of *what we do* — draw near, and you will find Him near — but the **source is never symmetric**: God's nearness is a gift, not a wage we earn. The payoff is never the point. The point is Him. Wherever one of these laws is stated as a short cause-and-effect sentence, read it inside that frame — an invitation into how a good Father has set things up, never a lever for getting things out of Him.
+
+## The Thirty-Eight Wide-Consent Laws
+
+Each law is summarized below in numerical order, with the Period/Group placement, the directionality tag, and the single-sentence operational statement. Each law has its own chapter in this volume. The thirty-eight wide-consent laws come first (FL.I–XXXVIII); the eight candidate laws follow under their own heading (FL.XXXIX–XLVI).
 
 **FL.I — The Sowing-and-Reaping Law (P0/GVI, B).** What is sown is what is reaped (Gal. 6:7–9; Hos. 10:12; 2 Cor. 9:6).
 
@@ -94,6 +100,10 @@ The forty-five Foundational Laws are summarized below in numerical order, with t
 
 **FL.XXXVIII — The Soul-Restoration Law (P0/GIII, V).** The soul — under the pressures of life and the operations of the world that operate against soul-integration — is restored to and maintained in its integrated state through God's sustained restorative operation on the soul, with the restoration operating through multiple operational forms (the Shepherd's restoring; Christ's giving of rest; the anchor of hope; the steadfast-love-and-mercies that are new every morning; the inner-self-being-renewed) and multiple operational pathways (sustained scripture-engagement; prayer; worship; community; rest; suffering received under God's hand); the substrate operates scale-invariantly across all the catalog's analyzed scales (Ps. 19:7; Ps. 23:3; Ps. 42:5/11; Ps. 43:5; Matt. 11:28–29; Heb. 4:9–11; Heb. 6:18–19; 1 Pet. 2:25; 3 John 1:2; 1 Thess. 5:23; Lam. 3:19–26; Isa. 40:31; Jer. 6:16; Num. 6:24–26; 2 Cor. 4:16–18; Col. 3:15; Rom. 15:13).
 
+## The Eight Candidate Laws (Under Community Review)
+
+The eight laws below (FL.XXXIX–XLVI) are newer, and I hold them more loosely. Seven of them (FL.XXXIX–XLV) came out of a later study pass working carefully through the Gospel miracle accounts; the eighth (FL.XLVI) came out of work on honest truth-telling in community. They follow the same form as the rest and clear the same Scripture-and-directionality tests — but they do **not** yet carry the centuries-deep, across-the-traditions agreement that the thirty-eight above do. So I set them out as **candidates**: strong proposals offered to the community for testing and confirmation, not yet claimed as settled floor.
+
 **FL.XXXIX — The Surrender-Multiplication Law (P0/GV, V; Band 1).** What is yielded into Christ's hands operates by a return-mechanism that exceeds proportional scaling — the small offering surrendered to Christ produces operational consequences disproportionate to the offering's native magnitude; absent the yielding, the same substance operates within FL.IX Generosity-Provision's proportional return-regime; the shift from proportional return to disproportionate multiplication is conditioned on the surrender into Christ's operational possession (Matt. 14:13–21; Mark 6:30–44; Luke 9:10–17; John 6:1–14; Matt. 15:32–39; Mark 8:1–10; Matt. 17:24–27; Luke 5:1–11; John 21:1–14; 1 Kgs. 17:8–16; 2 Kgs. 4:1–7; 2 Cor. 9:8–11; Phil. 4:19).
 
 **FL.XL — The Abiding-Fruitfulness Law (P0/GI, V; Band 1).** Continuous abiding in Christ operates as the substrate condition for fruit-bearing — the branch operationally connected to the vine bears fruit as the structural consequence of the continuous connection, and the branch operationally severed from the vine bears no fruit regardless of the branch's own effort, with the operation occurring through the sap of the vine reaching the branches rather than through the branches' independent productivity; the substrate is bidirectional (the participant's abiding in Christ and Christ's abiding in the participant operate together as a mutual indwelling) and operates scale-invariantly across all the catalog's analyzed scales (John 15:1–8; Mark 11:12–25; Matt. 21:18–22; Matt. 3:8–10; Luke 3:8–9; Rom. 7:4; Gal. 5:22–23; Eph. 5:8–11; Col. 1:6, 10; 2 Pet. 1:5–9; Ps. 1:1–3; Jer. 17:7–8; Hos. 14:8).
@@ -108,6 +118,8 @@ The forty-five Foundational Laws are summarized below in numerical order, with t
 
 **FL.XLV — The Voice-of-Christ-Reaches-into-Death Law (P5/GI, V; Band 1).** Christ's voice — spoken in the Gospel narratives directly and operating through the gospel of His person and work in the post-Resurrection economy — penetrates the realm of operational death and produces life-from-death where the voice is heard, with the operation prefigured in the three Gospel resurrections (Jairus's daughter, the widow's son at Nain, Lazarus), continuing in the present economy through the gospel's awakening of the spiritually dead, and consummated at the parousia when the dead in Christ rise to meet Him at the cry of command and the trumpet of God (Mark 5:35–43; Luke 7:11–17; John 11:1–44; John 5:25–29; John 11:25–26; Eph. 2:1–6; Col. 2:13; Rom. 6:4–5; 1 Thess. 4:16; 1 Cor. 15:51–52; Heb. 4:12; 1 Pet. 3:18–20; Ezek. 37:1–14).
 
+**FL.XLVI — The Communal Truth-Telling Law (P3/GV, H, bidirectional; Band 1).** Honest, loving truth-telling among the members of a body builds the body up toward maturity and unity; suppressing truth the body already perceives corrodes that unity and breeds false narrative in the gap the unspoken leaves (Lev. 19:17; Zech. 8:16; Prov. 27:5–6; Eph. 4:15–16, 25; Col. 3:9).
+
 ## The Floor and the Building
 
-These forty-five laws are the floor. The Explorations that follow build on this floor. The rest of the corpus is the building.
+These thirty-eight wide-consent laws are the floor, and the eight candidate laws are my proposed additions to it. The Explorations that follow build on this floor. The rest of the corpus is the building.

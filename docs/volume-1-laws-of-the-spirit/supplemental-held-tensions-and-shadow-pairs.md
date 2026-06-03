@@ -8,7 +8,7 @@ source: "IJH_Vol1_v5_6_1_2.docx"
 
 ## Why I Am Adding This Here
 
-A reader who has just learned what qualifies as a Foundational Law in this volume is about to encounter the catalog of thirty-eight imperative-shaped sentences. *Humble yourself. Draw near. Ask. Hear and obey. Sow and reap.* The instinct of a reader trained in directional prescriptions is to take each as a one-way command: do the named thing, and the named result follows. That reading is not wrong. But it is incomplete, and the incompleteness costs more in lived formation than it costs in textual interpretation.
+A reader who has just learned what qualifies as a Foundational Law in this volume is about to encounter the catalog of imperative-shaped sentences. *Humble yourself. Draw near. Ask. Hear and obey. Sow and reap.* The instinct of a reader trained in directional prescriptions is to take each as a one-way command: do the named thing, and the named result follows. That reading is not wrong. But it is incomplete, and the incompleteness costs more in lived formation than it costs in textual interpretation.
 
 I want to introduce a structural lens here — one I encountered in organizational consulting work rather than in spiritual formation, but one that turns out to map onto how many of these laws actually operate. The lens is Kim Cameron and Robert Quinn's Competing Values Framework (Cameron & Quinn, 2006), developed for diagnosing organizational culture. Cameron and Quinn's core insight is not "here are four values" but something deeper: **every operational value has a diagonal opposite that pulls against it, and the pathology of an organization or a person lives in collapsing the tension toward one pole.** Health is not the achievement of one value at the expense of its opposite. Health is the disciplined holding of paired tensions, with each tension contributing its real good without being allowed to suppress the other.
 
@@ -26,7 +26,7 @@ This is what I mean by **held tension**. The law is operationally a tension betw
 
 Not every Foundational Law has this tension structure. Some are descriptive (*what is sown is what is reaped* — there is no paired opposite to hold). Some are scale-articulations without a competing-values pair. The lens applies most clearly to the **imperative, paired-value laws** — the ones written with a human action and a divine response in the same sentence.
 
-The clearest examples among the thirty-eight, and the ones I have worked through first, are:
+The clearest examples among them, and the ones I have worked through first, are:
 
 - **[FL.IV — Humility-Exaltation](foundational-law-iv-the-humility-exaltation-law.md):** the tension between humble action and trusting that exaltation comes from God
 - **[FL.VI — Hear-and-Obey](foundational-law-vi-the-hear-and-obey.md):** the tension between receptive hearing and active doing
