@@ -13,6 +13,8 @@ I have a long list of tools and processes that I have found effective in various
 
 The diagnostic framework from Part I gives us the map. Here is how I currently understand the tool-to-blockage correspondence:
 
+**Surfacing which blockage to work — the Kingdom-gap entry (exploratory).** Before the Map can route a blockage to its tool, the blockage has to surface. One entry I have used is the *Kingdom-gap*: in a quiet dyad, ask three times slowly, *"What would your life look like, right now, if the Kingdom of God were fully in it?"*, then *"What does it look like now?"*, and name the gap between the two. The person then chooses which part of the gap *has energy* for them — an *"If I were to work tonight, I would work on…"* round — and that choice routes into the Map below (a sin to confess, a wound to heal, a doubt to bring to *Any Doubts?*, and so on). The Kingdom-gap is a work-selection lens, not a tool in itself, and it is held as exploratory, founder-developed practice.
+
 ## For Grief Knots: Naming and Completing
 The primary tool is the Grief Recovery Handbook process. Its key contribution is the Loss Graph — a systematic identification of the losses in my life with ongoing emotional impact. Most people underestimate how many forms of loss they are carrying, because we have a culturally narrow definition of grief (death of a loved one) that excludes losses from divorce, betrayal, career failure, loss of health, loss of a dream, and dozens of other forms. The GRH process names them all and creates specific "completion letters", the unfinished communications that need to be said.
 

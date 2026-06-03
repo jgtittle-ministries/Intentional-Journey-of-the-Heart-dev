@@ -24,6 +24,8 @@ The family entry handles three things together: the **sequencing and loop-back s
 
 • **Loop back into A31 when life-circumstance changes require mission refinement** — new vocational stage, family transition, geographic change; the articulated mission stays core but its Vision/Action specifics need refresh.
 
+• **Couple / marriage-mission application (exploratory).** The arc can be run with a married couple: each spouse works identity-and-mission (A27) and shadow mission (A30) individually, then they name the overlap to each other — *"What I hear as the intersection of our missions is…"* — back and forth until a joint mission surfaces, refined with A31's clarity work and an A21-style two-round feedback (clarifying questions first, then feedback) before being taken to prayer together. This couple-application complements the marriage-covenant architecture of FL.XXXIV and is held as a thin, founder-developed extension for FotH / couples-context testing.
+
 • **Level II Companion competency for the full arc.** A27's trio facilitation and pattern-recognition-as-collaborative-hearing requires Level II; A30's wound/sin/voice triple-discernment is among the highest-care non-Carpet-Style A-list protocols and requires Level II with substantial reps; A31's covenant-witness reframing requires Level II to hold cleanly. Level I Companions can run individual protocols (especially A27 in its straightforward five-question form and A31 in its question-sequence form) under Level II supervision; the full arc with shadow-mission work is Level II territory.
 
 **When NOT to use the arc or individual protocols (failure modes and contraindications)**
