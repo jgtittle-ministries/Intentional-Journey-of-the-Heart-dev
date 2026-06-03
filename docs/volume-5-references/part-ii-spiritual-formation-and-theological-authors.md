@@ -6,6 +6,15 @@ source: "IJH_Vol5_v5_6_1_1.docx"
 
 # Part II: Spiritual Formation and Theological Authors
 
+## Barkalow, Gary
+*Barkalow, Gary. It’s Your Call: What Are You Doing Here? Colorado Springs, CO: David C. Cook, 2010.*
+
+**Author: **Gary Barkalow is a speaker, author, and advisor on personal calling, and the founder and director of The Noble Heart, a ministry devoted to helping men and women discover and live their calling. Before founding The Noble Heart he served for seven years on the leadership team of John Eldredge’s Ransomed Heart Ministries, and his work stands in the same Wild-at-Heart lineage — narrative, desire-attentive, and oriented to the recovery of the heart — focused specifically on the question of calling.
+
+**Summary: ***It’s Your Call* develops an account of personal calling as something to be discovered and read rather than manufactured — traced through the pattern of a person’s desires, the recurring themes of their story, the impact they have on others, and the opposition (the “assault”) that gathers against what they were made to offer. His Calling Intensive retreats work this through a session arc — Glory, Assault, Mystery, Discovery, Development, Journey — supported by exercises (the Passion Theme and Passion Verb, the Lifeline, the “Rich Uncle” thought experiment, and picture/experience work) designed to surface the shape of a calling from a person’s actual life rather than from abstract aptitude assessment.
+
+**Application: **Barkalow is not cited by name in the IJH volumes — the project’s operational calling-and-mission tools (the Mission-Arc family A27/A30/A31 — Who Are You / Shadow Mission / Mission Stretch) come from the Band of Brothers practice the author developed with Dave Smith. I acknowledge him here because his Calling Intensive work was part of the formative lineage of my own thinking on calling during the years the IJH project was taking shape; I attended and worked his calling retreats across the 2007–2011 period. Several convergences are worth naming. Barkalow’s reading of calling through desire and story parallels the IJH treatment of mission as something surfaced from a person’s wounds, gifts, and life-narrative rather than assigned (Vol 2 Exp 5; the Mission-Arc family). His “assault” — the specific opposition that targets a person’s glory — is the same territory Vol 2 Exp 2B develops as the enemy’s strategy against the heart (drawing on Eldredge). And his discover-then-develop arc matches the multi-month, iterated shape of the Mission-Arc progression. As with the broader Ransomed Heart lineage, the LotS project both draws on this stream and goes further, adding the diagnostic structure, the corporate-witnessed accountability, and the quantitative framing the calling-intensive model does not develop.
+
 ## Blackaby, Henry T., and Claude V. King
 *Blackaby, Henry T., and Claude V. King. Experiencing God: Knowing and Doing the Will of God. Nashville: LifeWay Press, 1990; revised edition, Nashville: B&H Publishing, 2008.*
 
