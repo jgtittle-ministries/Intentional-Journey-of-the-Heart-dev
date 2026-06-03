@@ -24,6 +24,8 @@ From the Eighth Exploration: prayer operates as a waveform. The frequency, direc
 
 A provisional equation structure (at very low confidence, offered as a working hypothesis for the community to test): Effective spiritual force = f(trust stock) × g(authority alignment) × h(prayer resonance). Where f, g, and h are functions I cannot yet specify, and where h operates over time rather than at a single point. This is the beginning of the calculus, not the end. I am holding this at about Speculative certainty on the specific structure, Reasonably Inferred on the general idea that these factors interact multiplicatively rather than additively.
 
+One caution must travel with this equation wherever it goes. It is a *heuristic* — a rough way of describing patterns in the believer's own experience of trust, authority, and prayer under grace. It is **not** a computation of God's response, and God is not a field or a system that the right inputs control. He is a Father who hears and freely answers (Matt. 6:8; Luke 11:13; 1 John 5:14), and He remains free to act above, beyond, or against any pattern we think we see. For that reason this equation stays firmly in the speculative, exploratory layer and must never migrate into the operational Foundational Laws, which describe how God has said things work — not formulas for getting results out of Him.
+
 ## Open Questions
 The most important open questions in the spiritual calculus at this point:
 
