@@ -94,14 +94,17 @@ Before → after examples from the completed sweeps:
 
 ## STATUS — what's done
 
-**Fully swept (16):** FL.XVII, FL.XIX, FL.XXIV, FL.XXVIII, FL.XXXIX (dev `5dbfcdf`,`62ca920`,
+**Fully swept (21):** FL.XVII, FL.XIX, FL.XXIV, FL.XXVIII, FL.XXXIX (dev `5dbfcdf`,`62ca920`,
 `e2aa374`,`46e3afc`,`6ad4033`; mirrored to prod `f25f022`); **FL.II, FL.III, FL.IV, FL.VI,
 FL.VII, FL.VIII** (2026-06-03, dev `254d322`,`61cdab3`,`aec2efb`,`9550d2b`,`c7d537f`,
-`adc5988` — **mirrored to prod `ba6815c`**); **plus FL.X, FL.XI, FL.XII, FL.XIII, FL.XIV**
-(2026-06-03, dev `0361669`,`db22715`,`c94e045`,`d964e5b`,`34f2ff2` — pushed to dev,
-**prod mirror pending John's review**). Catalog tags dropped from FL.III/VI/VII/X/XI/XII/XIII/XIV
-prose; `****,****` bold-marker artifacts cleaned in FL.III and FL.VII; Latin/Greek/Hebrew terms in
-FL.XIV glossed to plain English.
+`adc5988` — **mirrored to prod `ba6815c`**); **FL.X, FL.XI, FL.XII, FL.XIII, FL.XIV**
+(2026-06-03, dev `0361669`,`db22715`,`c94e045`,`d964e5b`,`34f2ff2` — **mirrored to prod
+`e278780`**); **plus FL.XV, FL.XVI, FL.XVIII, FL.XX, FL.XXI** (2026-06-03, dev `88ac44b`,
+`9af80f9`,`e53c089`,`bbac6b8`,`8fa7a31` — pushed to dev, **prod mirror pending John's review**).
+Catalog tags dropped throughout; `****,****` artifacts cleaned in FL.III/FL.VII; Latin/Greek/Hebrew
+terms glossed to plain English in FL.XIV/XV/XVI; medical "metastasis" register plain-rendered in
+FL.XVIII; the dense community/generational chapters (FL.XX gathered-body, FL.XXI household)
+de-jargoned but kept theologically intact.
 
 **Already largely plain from the peer-review edits (light pass or skip):** FL.I (rewritten in #2),
 FL.V (gospel-order edit), FL.IX (Generosity edit), Opening Miracle Frame (#1 — but its Einstein/
@@ -143,11 +146,11 @@ framing chapter (mostly readable), Exploration 8 (#8 — mostly plain now), "A W
 - [x] FL.XII Honor-Authority Flourishing ✓ 2026-06-03
 - [x] FL.XIII Pure-Heart Vision ✓ 2026-06-03
 - [x] FL.XIV Vanity-of-Substitutes ✓ 2026-06-03
-- [ ] FL.XV Hardening
-- [ ] FL.XVI Bondage
-- [ ] FL.XVIII Bitter-Root Community
-- [ ] FL.XX Gathered-Body Discernment
-- [ ] FL.XXI Household Formation
+- [x] FL.XV Hardening ✓ 2026-06-03
+- [x] FL.XVI Bondage ✓ 2026-06-03
+- [x] FL.XVIII Bitter-Root Community ✓ 2026-06-03
+- [x] FL.XX Gathered-Body Discernment ✓ 2026-06-03
+- [x] FL.XXI Household Formation ✓ 2026-06-03
 - [ ] FL.XXII Endurance-Hope
 - [ ] FL.XXIII Sabbath Rest
 - [ ] FL.XXV Restoration-of-the-Erring
