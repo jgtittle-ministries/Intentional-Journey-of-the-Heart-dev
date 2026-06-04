@@ -2,13 +2,14 @@
 
 **Purpose.** Finish de-jargoning the rest of IJH Volume 1 so every chapter reads at a level a
 **scripturally competent 15–16-year-old** can follow — *without changing any theology* and
-*without altering any Scripture quote*. **33 chapters are done: all of List B (the moderate tier),
-the 5 from the prior peer-review session, AND the entire List-A corporate/communal cluster
-FL.XXIX–XXXIV (2026-06-04).** List B is dev+prod in sync; the FL.XXIX–XXXIV batch is **on dev,
-awaiting John's review before the prod mirror.** What remains: **List A's substrate laws
-FL.XXXV–XXXVIII + miracle-cluster FL.XL–XLV (10 chapters)**, and **List C (Explorations +
-supplementals + framing)**. This note is self-contained: a new session can start from here with no
-ramp-up. **NEXT UP: List A substrate laws FL.XXXV–XXXVIII, then the miracle-cluster FL.XL–XLV.**
+*without altering any Scripture quote*. **37 chapters are done: all of List B (the moderate tier),
+the 5 from the prior peer-review session, the List-A corporate/communal cluster FL.XXIX–XXXIV, AND
+the List-A substrate cluster FL.XXXV–XXXVIII (all 2026-06-04).** List B + FL.XXIX–XXXIV are dev+prod
+in sync (corporate cluster mirrored to prod `f24a131`); the **substrate cluster FL.XXXV–XXXVIII is on
+dev, awaiting John's review before the prod mirror.** What remains in List A: the **miracle-cluster
+FL.XL–XLV (6 chapters)**. Then **List C (Explorations + supplementals + framing)**. This note is
+self-contained: a new session can start from here with no ramp-up. **NEXT UP: the miracle-cluster
+FL.XL–XLV** (narrative-heavy, lots of interleaved Gospel quotes — watch the lead-in sentences).
 
 Working repo (dev): `C:\Users\jgtit\claude\_work\Intentional-Journey-of-the-Heart-dev`
 Folder: `docs/volume-1-laws-of-the-spirit/`
@@ -202,10 +203,10 @@ Structure, Marriage Covenant Architecture) — same "operational / P3-or-P4 / GV
 List B community laws (FL.XVIII/XX/XXV/XXVI/XXVII), so those finished chapters are the best
 templates to imitate. Expect the recurring four-point "Why This Is a Foundational Law" block and a
 `***Mirror***` + `***Certainty***` tail in most. Do a handful per session; mirror per John's review.*
-- [ ] FL.XXXV Trust-Substrate
-- [ ] FL.XXXVI Eschatological Glory
-- [ ] FL.XXXVII Worship Alignment
-- [ ] FL.XXXVIII Soul-Restoration
+- [x] FL.XXXV Trust-Substrate ✓ 2026-06-04 (dev `8896da9`)
+- [x] FL.XXXVI Eschatological Glory ✓ 2026-06-04 (dev `0d50be3`)
+- [x] FL.XXXVII Worship Alignment ✓ 2026-06-04 (dev `a5d564d`)
+- [x] FL.XXXVIII Soul-Restoration ✓ 2026-06-04 (dev `7eaf2d8`)
 - [ ] FL.XL Abiding-Fruitfulness
 - [ ] FL.XLI Defilement-Cleansing Reversal
 - [ ] FL.XLII Kingdom-Confrontation Authority
