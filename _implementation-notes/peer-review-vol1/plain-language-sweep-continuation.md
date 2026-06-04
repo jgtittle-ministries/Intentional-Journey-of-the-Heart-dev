@@ -2,8 +2,10 @@
 
 **Purpose.** Finish de-jargoning the rest of IJH Volume 1 so every chapter reads at a level a
 **scripturally competent 15–16-year-old** can follow — *without changing any theology* and
-*without altering any Scripture quote*. Five chapters are done; ~40 sections remain. This note is
-self-contained: a new session can start from here with no ramp-up.
+*without altering any Scripture quote*. **27 chapters are done (all of List B, the moderate tier,
+plus the 5 from the prior peer-review session) — dev + prod in sync.** What remains: **List A (the
+16 densest chapters)** and **List C (Explorations + supplementals + framing)**. This note is
+self-contained: a new session can start from here with no ramp-up. **NEXT UP: List A.**
 
 Working repo (dev): `C:\Users\jgtit\claude\_work\Intentional-Journey-of-the-Heart-dev`
 Folder: `docs/volume-1-laws-of-the-spirit/`
@@ -29,12 +31,43 @@ Related: session memory `project_ijh_vol1_four_tradition_peer_review.md`; the pe
 
 ---
 
-## The method that works (anchored PowerShell splices)
+## The method that works (PROVEN across all 22 List-B chapters — use this)
 
-These files use **straight apostrophes/quotes** (not curly), so full-paragraph string anchors match
-reliably. Replace only prose paragraphs; leave Scripture quote blocks untouched.
+**Use the `Edit` tool, paragraph by paragraph.** This was the actual workflow for the whole List B
+session and it is the recommended one. Why it's safe: the files have **mixed curly + straight
+quotes/apostrophes** (the prose has curly `'` in "David's", curly `"…"` in embedded quotes), and the
+Edit tool matches **byte-exact** — so a mismatch *fails loudly and changes nothing*. There is
+**zero risk of silently corrupting a Scripture quote**: if you reproduce a verse fragment wrong in
+`old_string`, the edit just doesn't apply, and you fix it. (The old PowerShell `Splice` helper below
+still works as a fallback, but you don't need it.)
+
+Per-chapter loop:
+1. `Read` the whole chapter once.
+2. Walk it top to bottom. For each **prose** paragraph, do one `Edit` (old_string = the exact
+   paragraph, new_string = the plain rewrite). **Leave every Scripture quote block untouched.**
+3. **Interleaved Scripture-Ground paragraphs** (shaped `Citation: "verse" commentary`, very common in
+   List A) have TWO editable spans: the **lead-in** before the quote *and* the **commentary** after
+   it. Edit both, and keep the verse fragment **byte-identical** (copy it through unchanged, curly
+   quotes and all). **Gotcha:** it's easy to edit the after-quote commentary and forget the lead-in
+   sentence — the grep in step 4 catches these.
+4. **Verify with a jargon-grep** (Grep tool, `output_mode: content`) over the finished file, e.g.
+   pattern: `\boperational\b|P\d/G[IVX]+|Period \d|the participant|substrate|articulation|the present law|trajectory|constitutive|<any Greek/Latin you glossed>`.
+   It should return **no matches** — except the standard nav-button tier label at the very bottom
+   (`Operational Law of Wide Consent`, capital O), which is correct and stays. Fix anything else it
+   finds, then move on.
+5. One commit per chapter:
+   `Vol 1 FL.XX: plain-language sweep (de-jargon for a 15-16-year-old reader)` +
+   `Co-Authored-By: Claude Opus 4.8 <noreply@anthropic.com>`. Push to dev.
+
+**Mirroring to prod** (after John reviews a batch on the dev site): copy the swept files dev→prod
+with PowerShell `Copy-Item -Force`, then **diff-verify before committing**: `git diff --stat` in the
+prod repo should show **equal insertions and deletions** per file (paragraph swaps), and
+`git diff | grep -E "^[+-]\*?["“]"` should be **empty** (proves no Scripture verse lines changed).
+Commit with `Mirror Vol 1 plain-language sweep from dev (FL.…)`, push. Then update this note's STATUS
+line with the prod hash.
 
 ```powershell
+# Fallback only — the Edit tool is preferred. Anchored splice on quote-free first/last words:
 function Splice($raw, $a, $bIncl, $new, $tag) {
   $s = $raw.IndexOf($a); $e = $raw.IndexOf($bIncl)
   if ($s -lt 0) { throw "$tag start" }; if ($e -lt 0) { throw "$tag end" }
@@ -42,22 +75,12 @@ function Splice($raw, $a, $bIncl, $new, $tag) {
   return $raw.Substring(0, $s) + $new + $raw.Substring($e)
 }
 ```
-- For each jargon paragraph, `Splice` from its first words to its last words with the new plain
-  text. Because start/end are *inside* the paragraph, the surrounding `\n\n` blank lines are
-  preserved (this avoids the paragraph-merge bug — do **not** anchor across blank lines, and don't
-  use a "keep-then-resume" splice unless you re-add the `\n\n` yourself).
-- For a scripture-citation paragraph shaped `Citation: "quote" commentary`, splice only the
-  **commentary** (anchor its first words → its last words); the quote stays verbatim.
-- Write with `[System.IO.File]::WriteAllText($f, $raw, (New-Object System.Text.UTF8Encoding($false)))`.
-- **Verify** after each file: a `[regex]::Matches($raw, 'jargon|terms|here')` count that should be 0,
-  then `Read` the whole file to confirm the quotes are intact and the prose flows.
-- Commit one chapter per commit; message like:
-  `Vol 1 FL.XX: plain-language sweep (de-jargon for a 15-16-year-old reader)` +
-  `Co-Authored-By: Claude Opus 4.8 <noreply@anthropic.com>`.
 
-**Budget reality:** a dense chapter (read + apply + verify) is a real chunk of context. Plan on
-roughly **4–6 dense chapters per session** before quality/error-risk climbs. Likely 2–3 sessions
-total for what remains.
+**Budget reality:** List A chapters are LONG (often 20+ paragraph-edits each: a framing block, 6–8
+interleaved Scripture-Ground paragraphs, a multi-paragraph Mechanism section, a four-point "Why This
+Is a Foundational Law" section, a Proposed Law, a Mirror, and a Certainty line). Plan on a handful
+per session. The PowerShell working dir is `C:\Users\jgtit\claude` (NOT the repo) — use absolute
+paths or `git -C "<repo>"`.
 
 ---
 
@@ -90,11 +113,39 @@ Before → after examples from the completed sweeps:
 - Keep: the bold **Proposed Law** statement, the **Certainty** tier line, Scripture refs, and the
   chapter's section headings. Translate their *prose*, keep their *structure*.
 
+### Additions learned in the List B session (2026-06-03) — these recur heavily in List A
+- **"operational"** is the #1 offender in the dense chapters (operational form/condition/output/
+  mechanism/scope/realism/precision, "operationally important," etc.). Usually **delete** it or
+  recast as "how it works / in practice / what it produces."
+- **Gloss foreign-language terms, don't just drop them.** List A has Greek/Latin/Hebrew (e.g.
+  *thlipsis/hypomonē/dokimē/elpis*, *obduratio*, *gnomic will*, *hebel*, *semper reformanda*,
+  *ressourcement*, *concupiscentia*). Give the plain English meaning inline; keep at most a
+  recognizable term where it genuinely helps, with its meaning right there.
+- **"the participant / the pursuer / the practitioner"** → "a person / you / she / the rescuer," etc.
+- **"trajectory"** → "path / where it's headed / the slide." **"the dynamic"** → "this / the pattern."
+- **"calcify/calcification"** (it's a law NAME — keep the title) → in prose, "harden," and gloss
+  "calcifies" on first use ("like soft tissue turning to bone").
+- **"metastasize"** (FL.XVIII) → "spread / poison."  **"structured cessation"** (FL.XXIII) →
+  "deliberately stopping."  **"embedded practice / substance"** (FL.XXVII) → "built-in practice /
+  the content / the heart of it."
+- **The "four inclusion criteria" block** (recurs verbatim in the dense chapters under "Why This Is
+  a Foundational Law"): render as "meets all four tests for inclusion," then "the backing from many
+  writers… / every mainstream Christian tradition accepts it… / clearly runs in one direction… /
+  works as a principle…"
+- **Mirror heading:** relabel `***Mirror (statement form):***` → `***Mirror (stated form):***`, and
+  open with "The dark, idol-ward face of … is …".
+- **Catalog tags to strip from prose** (expanded list): `P#/G#`, `P3/GV`, `Period 0/3/4`,
+  `Group I/II/IV/V/VI`, `tag V/B`, **`Band 1`**, "scale-invariant" framing sentences, and the stray
+  `****,****` bold-marker artifacts (seen in FL.III/FL.VII). All Period/Group data still lives in the
+  Vol 5 table, so nothing is lost.
+- **Per-chapter diff size** ran ~8–26 changed lines (insertions == deletions). If a prod-mirror diff
+  shows unequal counts or any `+/-` on a verse line, STOP — something touched a quote.
+
 ---
 
 ## STATUS — what's done
 
-**Fully swept (21):** FL.XVII, FL.XIX, FL.XXIV, FL.XXVIII, FL.XXXIX (dev `5dbfcdf`,`62ca920`,
+**Fully swept (27):** FL.XVII, FL.XIX, FL.XXIV, FL.XXVIII, FL.XXXIX (dev `5dbfcdf`,`62ca920`,
 `e2aa374`,`46e3afc`,`6ad4033`; mirrored to prod `f25f022`); **FL.II, FL.III, FL.IV, FL.VI,
 FL.VII, FL.VIII** (2026-06-03, dev `254d322`,`61cdab3`,`aec2efb`,`9550d2b`,`c7d537f`,
 `adc5988` — **mirrored to prod `ba6815c`**); **FL.X, FL.XI, FL.XII, FL.XIII, FL.XIV**
@@ -102,14 +153,14 @@ FL.VII, FL.VIII** (2026-06-03, dev `254d322`,`61cdab3`,`aec2efb`,`9550d2b`,`c7d5
 `e278780`**); **plus FL.XV, FL.XVI, FL.XVIII, FL.XX, FL.XXI** (2026-06-03, dev `88ac44b`,
 `9af80f9`,`e53c089`,`bbac6b8`,`8fa7a31` — **mirrored to prod `e84baab`**); **plus FL.XXII, FL.XXIII,
 FL.XXV, FL.XXVI, FL.XXVII, FL.XLVI** (2026-06-03, dev `370d83a`,`7f50044`,`ad18cb5`,`f076aef`,
-`c56dde8`,`186e472` — **mirrored to prod `9f7b117`**). **List B (the entire
-moderate tier) is now COMPLETE, dev + prod in sync.** Greek/Latin/Hebrew glossed throughout; the heavy "operational/
-substance/the participant/trajectory" register stripped; every chapter jargon-grep-verified after
-editing; catalog tags (P#/G#, Band 1, scale-invariant, etc.) dropped from all prose.
-Catalog tags dropped throughout; `****,****` artifacts cleaned in FL.III/FL.VII; Latin/Greek/Hebrew
-terms glossed to plain English in FL.XIV/XV/XVI; medical "metastasis" register plain-rendered in
-FL.XVIII; the dense community/generational chapters (FL.XX gathered-body, FL.XXI household)
-de-jargoned but kept theologically intact.
+`c56dde8`,`186e472` — **mirrored to prod `9f7b117`**).
+
+**→ List B (the entire moderate tier, 22 chapters) is COMPLETE; dev + prod in sync as of
+2026-06-03.** Across the session: Greek/Latin/Hebrew glossed to plain English; the heavy
+"operational / substance / the participant / trajectory" register stripped; `****,****` bold
+artifacts cleaned (FL.III/VII); "metastasis" plain-rendered (FL.XVIII); every chapter
+jargon-grep-verified; every prod mirror diff-verified (Scripture untouched). The four prod-mirror
+commits this session: `ba6815c`, `e278780`, `e84baab`, `9f7b117`.
 
 **Already largely plain from the peer-review edits (light pass or skip):** FL.I (rewritten in #2),
 FL.V (gospel-order edit), FL.IX (Generosity edit), Opening Miracle Frame (#1 — but its Einstein/
@@ -121,7 +172,18 @@ framing chapter (mostly readable), Exploration 8 (#8 — mostly plain now), "A W
 
 ## REMAINING — the sweep checklist (grouped by density)
 
-### A. Densest (substrate/operational-heavy — handle like FL.XXVIII; ~1–2 per session)
+### A. Densest (substrate/operational-heavy) — **THE NEXT SESSION'S WORK**
+*Orientation: these split into three clusters. (1) **Substrate/soul laws** FL.XXXV–XXXVIII (Trust,
+Eschatological Glory, Worship Alignment, Soul-Restoration) — heaviest on "substrate / operational /
+the participant." (2) **Miracle-cluster** FL.XL–XLV (Abiding-Fruitfulness, Defilement-Cleansing,
+Kingdom-Confrontation Authority, Cross-Boundary Faith-Access, Sign-as-Revelation, Voice-of-Christ-
+Reaches-into-Death) — narrative-heavy, lots of interleaved Gospel quotes; watch the lead-in
+sentences. (3) **Corporate/communal laws** FL.XXIX–XXXIV (Corporate Emotional Integration, Communal
+Soul-Care, Corporate Scriptural Reception, Communal Worship Heart-Alignment, Community Polity-
+Structure, Marriage Covenant Architecture) — same "operational / P3-or-P4 / GV" register as the
+List B community laws (FL.XVIII/XX/XXV/XXVI/XXVII), so those finished chapters are the best
+templates to imitate. Expect the recurring four-point "Why This Is a Foundational Law" block and a
+`***Mirror***` + `***Certainty***` tail in most. Do a handful per session; mirror per John's review.*
 - [ ] FL.XXXV Trust-Substrate
 - [ ] FL.XXXVI Eschatological Glory
 - [ ] FL.XXXVII Worship Alignment
@@ -186,9 +248,20 @@ framing chapter (mostly readable), Exploration 8 (#8 — mostly plain now), "A W
 
 ---
 
-## How to start the new session
+## How to start the new session (List A)
 
-Suggested first message: *"Continue the Vol 1 plain-language sweep per
-`_implementation-notes/peer-review-vol1/plain-language-sweep-continuation.md`. Start with FL.II–FL.IV,
-show me each before pushing."* — then work down list B (moderate) or A (dense) a few at a time,
-pushing to dev per chapter and mirroring to prod in a batch when John has reviewed.
+**Paste this as the first message:**
+
+> *Continue the Vol 1 plain-language sweep per
+> `_implementation-notes/peer-review-vol1/plain-language-sweep-continuation.md`. List B is done and
+> mirrored; start on **List A** (the densest chapters). Begin with the corporate/communal cluster
+> **FL.XXIX–FL.XXXIV** (they mirror the List B community laws I already swept — use those as
+> templates), then the substrate laws FL.XXXV–XXXVIII, then the miracle-cluster FL.XL–XLV. Do a few
+> per turn, one commit per chapter to dev, jargon-grep-verify each, and mirror a batch to prod when
+> I say so.*
+
+Workflow each turn: `Read` chapter → `Edit` prose paragraph-by-paragraph (verses verbatim) →
+jargon-grep-verify → commit to dev → push. Mirror to prod only after John reviews on the dev site
+([https://jgtittle-ministries.github.io/Intentional-Journey-of-the-Heart-dev/](https://jgtittle-ministries.github.io/Intentional-Journey-of-the-Heart-dev/)).
+Update the STATUS line and check the boxes here as you go. After List A, List C remains
+(Explorations + supplementals + framing).
