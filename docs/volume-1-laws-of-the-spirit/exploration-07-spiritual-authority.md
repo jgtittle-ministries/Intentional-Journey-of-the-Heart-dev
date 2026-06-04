@@ -9,17 +9,17 @@ source: "IJH_Vol1_v5_6_1_1.docx"
 
 ![An oak's root system — authority is what holds you, not what subdues you.](images/04-tree-roots-rock.jpg){: .fig-pair}![](images/image-001.png){: .fig-pair}
 
-## The Discovery That Changes the Equations
-Here is something I have had sitting in my notes for years without elevating it to the status of a law. It deserves that status. The discovery is that operating within properly delegated spiritual authority is not just the right thing to do — it amplifies the spiritual force available. Authority is a force multiplier in the spiritual dynamics.
+## The Discovery That Changes the Picture
+Here is something I have had sitting in my notes for years without ever calling it a law. It deserves to be one. The discovery is that working inside spiritual authority that has been properly handed down to you is not just the right thing to do — it multiplies the spiritual power available. Authority is a force multiplier: it makes the same effort count for far more.
 
 ## The Centurion: A Case Study in Authority-Based Faith
 ***Matt. 8:8-10 (ESV)***
 
 *"But the centurion replied, 'Lord, I am not worthy to have you come under my roof, but only say the word, and my servant will be healed. For I too am a man under authority, with soldiers under me. And I say to one, 'Go,' and he goes, and to another, 'Come,' and he comes, and to my servant, 'Do this,' and he does it.' When Jesus heard this, he marveled and said to those who followed him, 'Truly, I tell you, with no one in Israel have I found such great faith.'"*
 
-This is the only person in the gospels of whom Jesus says He marveled at his faith. And what is the centurion demonstrating? He is not showing emotional intensity or spiritual passion. He is showing structural understanding. He understands the authority architecture: he is a man under authority (the Roman chain of command), which is precisely why he can exercise authority over those under him. And he correctly perceives that Jesus operates the same way under the authority of the Father, which is why His word carries power over sickness and creation.
+This is the only person in the gospels of whom Jesus says He marveled at his faith. And what is the centurion demonstrating? He is not showing emotional intensity or spiritual passion. He is showing that he understands how authority works. He gets the chain of command: he is a man under authority (the Roman army), which is exactly why he can give orders to those under him. And he rightly sees that Jesus works the same way, under the authority of the Father, which is why His word carries power over sickness and creation.
 
-The centurion’s faith is so remarkable to Jesus because he grasped something the disciples, who had been watching miracles up close, had not yet grasped: it is the authority structure that makes the command effective, not merely the desire or even the sincerity of the one asking. My career spanning over 21 years in the U.S. Air Force reinforces this insight. I could not, in general, give legal commands to people outside my chain of command. They had their own chain of command. Likewise, someone not above me in my chain of command could not give such commands. A fundamental operational reality that I lived with as a background environment for years.
+The centurion’s faith is so remarkable to Jesus because he grasped something the disciples, who had been watching miracles up close, had not yet grasped: it is the structure of authority that makes the command work, not merely the desire or even the sincerity of the one asking. My career spanning over 21 years in the U.S. Air Force reinforces this insight. I could not, in general, give legal commands to people outside my chain of command. They had their own chain of command. Likewise, someone not above me in my chain of command could not give such commands. A basic fact of life I lived inside, in the background, for years.
 
 ## The Authority Hierarchy
 ***Matt. 28:18 (ESV)***
@@ -40,7 +40,7 @@ It is worth pausing on Jesus' very next sentence, because He attaches His own gu
 
 *"...when he raised him from the dead and seated him at his right hand in the heavenly places, far above all rule and authority and power and dominion, and above every name that is named, not only in this age but also in the one to come. And he put all things under his feet and gave him as head over all things to the church..."*
 
-The structural picture here is: all authority is delegated from the Father to the Son. From the Son, authority is delegated to believers as His representatives, His church, His body. The effectiveness of a believer’s prayer and spiritual action is a function of operating within that delegation correctly.
+The picture here is: all authority is handed down from the Father to the Son. From the Son, authority is handed down to believers as His representatives, His church, His body. How much a believer’s prayer and spiritual action accomplish depends on staying rightly inside that handed-down authority.
 
 The same impact is seen: when the father sins, the family suffers; when the king sins, the kingdom suffers. It is at a minimum a reason to pray for those in authority.
 
@@ -51,15 +51,15 @@ The same impact is seen: when the father sins, the family suffers; when the king
 
 I find this passage both sobering and deeply clarifying. The sons of Sceva used the right name, the right formula — and got beaten up. Why? Because they had no authority relationship with Jesus. They were using His name as a formula rather than operating within a delegated authority structure. The evil spirits recognized the difference. This is the clearest negative proof case I know of for the authority law.
 
-Wayne Grudem’s treatment of church authority and eldership adds a dimension I want to flag here: the Sceva problem in contemporary church life is less often outright occultism and more often what I would call unaccountable authority — believers who believe they are operating within a legitimate spiritual delegation but who have no community structure to test, affirm, or correct that claim. The centurion’s authority was not self-declared; it was conferred, documented, and accountable upward in a chain of command he had not invented. The practical implication for the Laws of the Spirit project is that claims to operate in significant spiritual authority — intercession, healing, prophetic ministry — should be exercised within an accountable community structure rather than as solo exercises. The training plan in Vol 2 and the Fellowship of the Heart curriculum should be understood as providing part of that structure.
+Wayne Grudem’s treatment of church authority and eldership adds a dimension I want to flag here: the Sceva problem in today’s church is less often outright occultism and more often what I would call unaccountable authority — believers who think they are acting on real, handed-down spiritual authority but who have no community around them to test, back up, or correct that claim. The centurion’s authority was not self-declared; it was granted to him, on the record, and answerable up a chain of command he did not invent. The practical takeaway for the Laws of the Spirit project is that claims to operate in significant spiritual authority — intercession, healing, prophetic ministry — should be done inside a community you answer to, not on your own. The training plan in Vol 2 and the Fellowship of the Heart curriculum should be understood as providing part of that structure.
 
-## What This Means for Spiritual Dynamics
-In terms of the spiritual force discussion I am developing later in Vol 3, if faith is the raw spiritual force, then authority is the transmission structure that directs and amplifies that force. Operating outside of proper authority is like trying to run current through a broken circuit — the force may be present, but it does not complete the path to produce useful work. Operating within proper authority is like putting that same force through a working circuit with the right transformer — it arrives at its destination with the full voltage intact, potentially amplified.
+## What This Means for Spiritual Power
+In terms of the spiritual-power discussion I develop later in Vol 3: if faith is the raw spiritual power, then authority is the wiring that aims that power and makes it count for more. Working outside of proper authority is like trying to send electricity through a broken wire — the power is there, but the circuit is not complete, so nothing actually gets done. Working inside proper authority is like sending that same power through a good wire built for the job — it reaches where it is going at full strength, maybe even stronger.
 
-This also means that humility — genuine structural humility, not performed modesty — is not merely virtuous. It is operationally necessary. It is what keeps me positioned correctly within the authority structure so that the force multiplier is actually working.
+This also means that humility — real, deep-down humility, not put-on modesty — is not just a nice virtue. It is necessary for any of this to work. It is what keeps me in the right place inside the chain of authority, so the multiplier actually works.
 
-**Proposed Law (Operational): Spiritual authority is delegated hierarchically from the Father through the Son to believers. Operating within properly delegated authority amplifies the effective spiritual force available — functioning as a force multiplier in the spiritual calculus. Operating outside of delegated authority disconnects the circuit and can produce dangerous results.**
+**Proposed Law (Operational): Spiritual authority is handed down, level by level, from the Father through the Son to believers. Working inside authority that has been properly handed down multiplies the spiritual power that actually gets through — it acts as a force multiplier. Working outside of that authority breaks the circuit and can be dangerous.**
 
-**Certainty: Reasonably Inferred  ***The centurion passage is unambiguous; the Acts 19 negative case is stark. The precise mechanics of "operating within authority" in everyday spiritual life are still being worked out — this is an open trail.*
+**Certainty: Reasonably Inferred  ***The centurion passage is unambiguous; the Acts 19 negative case is stark. Exactly how "working inside authority" plays out in everyday spiritual life is still being worked out — this is an open trail.*
 
 **Eighth Exploration — New Discovery**
