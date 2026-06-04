@@ -2,14 +2,17 @@
 
 **Purpose.** Finish de-jargoning the rest of IJH Volume 1 so every chapter reads at a level a
 **scripturally competent 15–16-year-old** can follow — *without changing any theology* and
-*without altering any Scripture quote*. **37 chapters are done: all of List B (the moderate tier),
-the 5 from the prior peer-review session, the List-A corporate/communal cluster FL.XXIX–XXXIV, AND
-the List-A substrate cluster FL.XXXV–XXXVIII (all 2026-06-04).** List B, FL.XXIX–XXXIV, AND FL.XXXV–XXXVIII
-are all dev+prod in sync (corporate cluster mirrored to prod `f24a131`; substrate cluster mirrored to
-prod `e3735d6`, byte-identical 4/4, balanced 130/130 diff, all Scripture verbatim). What remains in
-List A: the **miracle-cluster FL.XL–XLV (6 chapters)**. Then **List C (Explorations + supplementals + framing)**. This note is
-self-contained: a new session can start from here with no ramp-up. **NEXT UP: the miracle-cluster
-FL.XL–XLV** (narrative-heavy, lots of interleaved Gospel quotes — watch the lead-in sentences).
+*without altering any Scripture quote*. **LIST A IS COMPLETE. 43 chapters are done — all of List B
+(moderate tier), the 5 from the prior peer-review session, and ALL of List A (the 16 densest:
+corporate/communal FL.XXIX–XXXIV, substrate FL.XXXV–XXXVIII, miracle-cluster FL.XL–XLV), all
+2026-06-04.** Everything is **dev + prod IN SYNC**: corporate cluster → prod `f24a131`; substrate
+cluster → prod `e3735d6`; miracle cluster → prod `9ae2de1`. Each prod mirror was byte-identical,
+balanced-diff, and Scripture-verified-verbatim. What remains is **only List C (Explorations +
+supplementals + framing)** plus the separately-tracked Vol 5 tier sync. This note is self-contained:
+a new session can start from here with no ramp-up. **NEXT UP: List C** — e.g. the Taxonomy Key,
+Exploration 1, the review-flagged Supplemental Three Desires, Exploration 7 Spiritual Authority's
+"force multiplier/circuit/voltage" language, Spiritual Force/Energy/Power's systems-dynamics jargon,
+and the Opening Miracle Frame's Einstein/C.S. Lewis paragraphs.
 
 Working repo (dev): `C:\Users\jgtit\claude\_work\Intentional-Journey-of-the-Heart-dev`
 Folder: `docs/volume-1-laws-of-the-spirit/`
@@ -207,12 +210,12 @@ templates to imitate. Expect the recurring four-point "Why This Is a Foundationa
 - [x] FL.XXXVI Eschatological Glory ✓ 2026-06-04 (dev `0d50be3`)
 - [x] FL.XXXVII Worship Alignment ✓ 2026-06-04 (dev `a5d564d`)
 - [x] FL.XXXVIII Soul-Restoration ✓ 2026-06-04 (dev `7eaf2d8`)
-- [ ] FL.XL Abiding-Fruitfulness
-- [ ] FL.XLI Defilement-Cleansing Reversal
-- [ ] FL.XLII Kingdom-Confrontation Authority
-- [ ] FL.XLIII Cross-Boundary Faith-Access
-- [ ] FL.XLIV Sign-as-Revelation
-- [ ] FL.XLV Voice-of-Christ-Reaches-into-Death
+- [x] FL.XL Abiding-Fruitfulness ✓ 2026-06-04
+- [x] FL.XLI Defilement-Cleansing Reversal ✓ 2026-06-04
+- [x] FL.XLII Kingdom-Confrontation Authority ✓ 2026-06-04
+- [x] FL.XLIII Cross-Boundary Faith-Access ✓ 2026-06-04
+- [x] FL.XLIV Sign-as-Revelation ✓ 2026-06-04
+- [x] FL.XLV Voice-of-Christ-Reaches-into-Death ✓ 2026-06-04
 - [x] FL.XXIX Corporate Emotional Integration ✓ 2026-06-04 (dev `4374ddf`)
 - [x] FL.XXX Communal Soul-Care for the Wounded ✓ 2026-06-04 (dev `81a9792`)
 - [x] FL.XXXI Corporate Scriptural Reception ✓ 2026-06-04 (dev `c1fda04`)
