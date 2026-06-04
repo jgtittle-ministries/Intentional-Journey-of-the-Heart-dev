@@ -194,18 +194,19 @@ framing chapter (mostly readable), Exploration 8 (#8 — mostly plain now), "A W
 
 ## REMAINING — the sweep checklist (grouped by density)
 
-### A. Densest (substrate/operational-heavy) — **THE NEXT SESSION'S WORK**
-*Orientation: these split into three clusters. (1) **Substrate/soul laws** FL.XXXV–XXXVIII (Trust,
-Eschatological Glory, Worship Alignment, Soul-Restoration) — heaviest on "substrate / operational /
-the participant." (2) **Miracle-cluster** FL.XL–XLV (Abiding-Fruitfulness, Defilement-Cleansing,
-Kingdom-Confrontation Authority, Cross-Boundary Faith-Access, Sign-as-Revelation, Voice-of-Christ-
-Reaches-into-Death) — narrative-heavy, lots of interleaved Gospel quotes; watch the lead-in
-sentences. (3) **Corporate/communal laws** FL.XXIX–XXXIV (Corporate Emotional Integration, Communal
-Soul-Care, Corporate Scriptural Reception, Communal Worship Heart-Alignment, Community Polity-
-Structure, Marriage Covenant Architecture) — same "operational / P3-or-P4 / GV" register as the
-List B community laws (FL.XVIII/XX/XXV/XXVI/XXVII), so those finished chapters are the best
-templates to imitate. Expect the recurring four-point "Why This Is a Foundational Law" block and a
-`***Mirror***` + `***Certainty***` tail in most. Do a handful per session; mirror per John's review.*
+### A. Densest (substrate/operational-heavy) — **✓ COMPLETE 2026-06-04 (dev + prod in sync)**
+*All 16 done and mirrored to prod in three verified batches: corporate/communal FL.XXIX–XXXIV →
+prod `f24a131`; substrate FL.XXXV–XXXVIII → prod `e3735d6`; miracle-cluster FL.XL–XLV → prod
+`9ae2de1`. Lessons that recurred (apply these in List C too where relevant): strip the catalog
+scaffolding hard — Operator-tag codes (C / C+P / C+T), "Period N / Group N cell," "candidate pass /
+matured catalog," version IDs (`v5_6_0_17`), and the "V/H/B/I tag" taxonomy paragraph — while keeping
+the substantive point each carried (e.g. "this is Christ's own work, we only receive it" for the
+Christ-operated miracle laws). For the Christ-operated laws the Mirror isn't a God-ward/idol-ward
+pair, so I used a plain descriptive label like `***Mirror (Christ's work — the failure is refusing
+it):***`. Removed one stale process-divider line in FL.XLV ("End of the canonical Foundational
+Laws…") since FL.XLVI follows it. Greek/Hebrew/Latin glossed inline throughout (sēmeia, ego eimi,
+talitha cumi [kept — preserved Scripture], ex opere operato, res et sacramentum, unio mystica,
+Nachfolge, simul justus et peccator); "parousia" → "Christ's return."*
 - [x] FL.XXXV Trust-Substrate ✓ 2026-06-04 (dev `8896da9`)
 - [x] FL.XXXVI Eschatological Glory ✓ 2026-06-04 (dev `0d50be3`)
 - [x] FL.XXXVII Worship Alignment ✓ 2026-06-04 (dev `a5d564d`)
@@ -247,22 +248,36 @@ templates to imitate. Expect the recurring four-point "Why This Is a Foundationa
 - [x] FL.XXVII Thick Practice Transmission ✓ 2026-06-03
 - [x] FL.XLVI Communal Truth-Telling ✓ 2026-06-03 (was already the warmest prose — light pass)
 
-**↑ List B COMPLETE (all 22 moderate chapters swept). Remaining: List A (the 16 densest) + List C (Explorations/supplementals).**
+**↑ List B COMPLETE (22 moderate chapters) and List A COMPLETE (16 densest), all dev + prod in sync.
+Only List C remains.**
 
-### C. Explorations / supplementals / framing
-- [ ] Taxonomy Key (Structural vs Operational Law jargon)
-- [ ] Exploration 1 — How to Get Faith
-- [ ] Exploration 2 — My Spirit, Heart, Soul, and Body
-- [ ] Supplemental — The Three Desires (review flagged as weakest; check tier language too)
-- [ ] Exploration 3 — Faith, Hope, and Love
-- [ ] Exploration 4 — Wisdom, Knowledge, Understanding, Discernment
-- [ ] Exploration 5 — The Gateway Condition (Fear of the Lord)
-- [ ] Exploration 6 — The Obedience Channel
-- [ ] Exploration 7 — Spiritual Authority (the "force multiplier / circuit / transformer / voltage" language)
-- [ ] Spiritual Force, Energy, and Power (the "stock / inflow / outflow / reinforcing feedback loop / field equations" systems-dynamics jargon)
-- [ ] Connecting the Dots (check)
-- [ ] Opening Miracle Frame — Einstein/C.S. Lewis paragraphs + "Connections" footnote ("metaphysical presupposition," "bandwidth," "Spirit Stage")
-- [ ] (skip) index.md, periodic-table-see-volume-5.md, A Word to My Kids, read-me-first.md
+### C. Explorations / supplementals / framing — **THE NEXT SESSION'S WORK**
+*Orientation — READ THIS, List C is different from A/B.* These are **essays / teaching chapters, not
+law-entries** — so they do **NOT** have the "Why This Is a Foundational Law" four-criteria block, the
+`***Mirror***`, or the `***Certainty***` tail. No Operator/Period/Group catalog tags to strip either
+(those live only in the law chapters). The jargon here is a **different family**: physics-and-systems
+metaphors (voltage/circuit/transformer; stock/inflow/feedback-loop/field-equations), philosophy-speak
+(Einstein/C.S. Lewis, "metaphysical presupposition," "bandwidth"), and taxonomy abstraction
+("Structural vs Operational Law"). Same standing rules apply (15–16-yr-old reading level; verses
+byte-identical; divine pronouns capitalized; "the catalog" stays). Workflow identical: Read → Edit
+paragraph-by-paragraph → grep-verify (tune the grep to the physics/systems terms below) → commit per
+chapter to dev → push → mirror a batch on John's word. Files live in the same
+`docs/volume-1-laws-of-the-spirit/` folder.
+- [ ] Taxonomy Key — `taxonomy-key-how-this-volume-classifies-its.md` ("Structural vs Operational Law" abstraction)
+- [ ] Exploration 1 — How to Get Faith — `exploration-01-how-to-get-faith.md`
+- [ ] Exploration 2 — My Spirit, Heart, Soul, and Body — `exploration-02-my-spirit-heart-soul-and.md`
+- [ ] Supplemental — The Three Desires — `supplemental-three-desires.md` (peer review flagged as the **weakest** chapter; also check the tier/certainty language)
+- [ ] Exploration 3 — Faith, Hope, and Love — `exploration-03-relationship-of-faith-hope-and.md`
+- [ ] Exploration 4 — Wisdom, Knowledge, Understanding, Discernment — `exploration-04-wisdom-knowledge-understanding-and-discernment.md`
+- [ ] Exploration 5 — The Gateway Condition (Fear of the Lord) — `exploration-05-gateway-condition.md`
+- [ ] Exploration 6 — The Obedience Channel — `exploration-06-obedience-channel.md`
+- [ ] Exploration 7 — Spiritual Authority — `exploration-07-spiritual-authority.md` (the **"force multiplier / circuit / transformer / voltage"** electrical-engineering metaphors)
+- [ ] Spiritual Force, Energy, and Power — `spiritual-force-energy-and-power.md` (the **"stock / inflow / outflow / reinforcing feedback loop / field equations"** systems-dynamics jargon — likely the densest of List C)
+- [ ] Connecting the Dots — `connecting-the-dots-how-the-eight-explorations.md` (check; probably light)
+- [ ] Supplemental — Held Tensions & Shadow Pairs — `supplemental-held-tensions-and-shadow-pairs.md` (NEW to this list — wasn't checked before; cites BSCP per memory; check for jargon)
+- [ ] Opening Miracle Frame — `opening-miracle-frame.md` (Einstein/C.S. Lewis paragraphs + "Connections" footnote: "metaphysical presupposition," "bandwidth," "Spirit Stage" — peer-review item #1's chapter; light sweep)
+- [ ] (check, probably light) "What We Are Being Formed For" Kingdom-Now framing — `what-we-are-being-formed-for-the.md` (STATUS notes it "mostly readable")
+- [ ] (skip) `index.md`, `periodic-table-see-volume-5.md`, `word-to-my-kids-at-the-end.md`, `read-me-first.md`, `foundational-laws-thirty-eight-operational-laws-of-wide.md` (preamble one-liners, fine as-is)
 
 ### D. Separately tracked (NOT part of the language sweep)
 - [ ] **Vol 5 Periodic Table tier sync** — match FL.XXVIII (→ Reasonably Inferred) and FL.XXXIX
@@ -270,21 +285,29 @@ templates to imitate. Expect the recurring four-point "Why This Is a Foundationa
 
 ---
 
-## How to start the new session (List A)
+## How to start the new session (List C — the last list)
 
 **Paste this as the first message:**
 
 > *Continue the Vol 1 plain-language sweep per
-> `_implementation-notes/peer-review-vol1/plain-language-sweep-continuation.md`. List B is done and
-> mirrored, and the List-A corporate/communal cluster **FL.XXIX–FL.XXXIV is done on dev** (awaiting
-> John's review before the prod mirror). Pick up the rest of **List A**: the substrate laws
-> **FL.XXXV–XXXVIII** (Trust-Substrate, Eschatological Glory, Worship Alignment, Soul-Restoration —
-> heaviest on "substrate/operational"), then the miracle-cluster **FL.XL–XLV** (narrative-heavy,
-> lots of interleaved Gospel quotes — watch the lead-in sentences). Do a few per turn, one commit
-> per chapter to dev, jargon-grep-verify each, and mirror a batch to prod when I say so.*
+> `_implementation-notes/peer-review-vol1/plain-language-sweep-continuation.md`. **List B and all of
+> List A are done and dev+prod in sync — only List C (Explorations + supplementals + framing)
+> remains.** Heads-up: List C chapters are essays, NOT law-entries, so there's no four-criteria /
+> Mirror / Certainty structure and no catalog tags — the jargon is physics-and-systems metaphors
+> instead (voltage/circuit in Exploration 7; stock/inflow/feedback-loop/field-equations in Spiritual
+> Force, Energy, and Power; Einstein/C.S. Lewis in the Opening Miracle Frame). Start with the
+> Taxonomy Key and Exploration 1, or go straight at the heaviest (Spiritual Force/Energy/Power and
+> Exploration 7). Do a few per turn, one commit per chapter to dev, grep-verify each (verses
+> byte-identical), and mirror a batch to prod when I say so.*
 
-Workflow each turn: `Read` chapter → `Edit` prose paragraph-by-paragraph (verses verbatim) →
-jargon-grep-verify → commit to dev → push. Mirror to prod only after John reviews on the dev site
-([https://jgtittle-ministries.github.io/Intentional-Journey-of-the-Heart-dev/](https://jgtittle-ministries.github.io/Intentional-Journey-of-the-Heart-dev/)).
-Update the STATUS line and check the boxes here as you go. After List A, List C remains
-(Explorations + supplementals + framing).
+Workflow each turn (unchanged from List A/B): `Read` chapter → `Edit` prose paragraph-by-paragraph
+(verses verbatim) → grep-verify (point the grep at the physics/systems terms, not the catalog terms)
+→ commit per chapter to dev → push. **Prod-mirror discipline** (proven across all 3 List-A batches):
+`Copy-Item -Force` dev→prod, then verify (1) SHA-256 byte-identical dev vs prod, (2) `git diff --stat`
+balanced ins≈del, (3) a Python check that every ≥40-char double-quoted span in HEAD survives verbatim
+in the swept file — only then commit `Mirror … from dev` and push. Mirror only after John reviews on
+the dev site
+([https://jgtittle-ministries.github.io/Intentional-Journey-of-the-Heart-dev/](https://jgtittle-ministries.github.io/Intentional-Journey-of-the-Heart-dev/)),
+or when he says "mirror and continue." Update the STATUS line + check the boxes here as you go.
+**After List C, the whole Vol 1 sweep is finished** — only the separately-tracked Vol 5 tier sync
+(section D) would remain.
