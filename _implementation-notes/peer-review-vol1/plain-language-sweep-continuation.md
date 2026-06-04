@@ -281,8 +281,26 @@ chapter to dev → push → mirror a batch on John's word. Files live in the sam
 - [ ] (skip) `index.md`, `periodic-table-see-volume-5.md`, `word-to-my-kids-at-the-end.md`, `read-me-first.md`, `foundational-laws-thirty-eight-operational-laws-of-wide.md` (preamble one-liners, fine as-is)
 
 ### D. Separately tracked (NOT part of the language sweep)
-- [ ] **Vol 5 Periodic Table tier sync** — match FL.XXVIII (→ Reasonably Inferred) and FL.XXXIX
-      (→ candidate) to the Vol 1 tier drops. Vol 5 not yet touched.
+- [x] **Vol 5 Periodic Table tier sync** — ✓ DONE 2026-06-04 (dev `292cd96` → prod mirror `e42b91d`).
+      Matched FL.XXVIII (→ **Reasonably Inferred**, still a Foundational law — only the certainty
+      dropped) and FL.XXXIX (→ **Candidate, Reasonably Inferred**, matching Vol 1's "Reasonably
+      Inferred (Candidate Law)"). 4 surgical label edits in `periodic-table-of-spiritual-laws-a-summing.md`
+      (2 table cells + 2 per-entry headers); Band/Operator/structural-completeness prose left intact
+      because FL.XXVIII stays Foundational and the P0/GV completeness claim never counted FL.XXXIX.
+      Mirror verified SHA-256 byte-identical, diff 4/4 balanced. Confirmed the note's two-law scope was
+      exactly right: in Vol 1, ONLY FL.XXVIII and FL.XXXIX sit at Reasonably Inferred; FL.XL–XLVI are
+      all Clearly Taught, so their certainty already matched Vol 5.
+
+      **⚠ BROADER DIVERGENCE FOUND (left for John's decision — out of this task's scope):** Vol 5
+      frames the whole catalog as **"46 Foundational Laws"** and labels every per-entry header
+      `(Foundational)` — it has **no "candidate" convention at all**. But Vol 1 treats **FL.XXXIX–XLVI
+      as eight CANDIDATES** ("38 of wide consent + 8 candidates"). So after this sync, FL.XXXIX is the
+      only entry in Vol 5 marked `(Candidate)`, while FL.XL–XLVI still read `(Foundational)` even though
+      Vol 1 calls them candidates too (their *certainty* matches, only their *status* label differs).
+      Fully reconciling that "38-vs-46 / Foundational-vs-candidate" framing across Vol 5 (the line-17
+      count, the structural-completeness claims, 7 more per-entry headers, the catalog-history arc) is a
+      larger structural edit — flagged, not done. This is the same 38-vs-45/46 discrepancy the
+      four-tradition peer review noted (see [[project_ijh_vol1_four_tradition_peer_review]]).
 
 ---
 
