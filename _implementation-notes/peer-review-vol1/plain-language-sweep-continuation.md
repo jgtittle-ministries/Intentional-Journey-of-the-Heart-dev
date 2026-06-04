@@ -94,8 +94,11 @@ Before → after examples from the completed sweeps:
 
 ## STATUS — what's done
 
-**Fully swept (5):** FL.XVII, FL.XIX, FL.XXIV, FL.XXVIII, FL.XXXIX. (dev `5dbfcdf`,`62ca920`,
-`e2aa374`,`46e3afc`,`6ad4033`; mirrored to prod `f25f022`.)
+**Fully swept (11):** FL.XVII, FL.XIX, FL.XXIV, FL.XXVIII, FL.XXXIX (dev `5dbfcdf`,`62ca920`,
+`e2aa374`,`46e3afc`,`6ad4033`; mirrored to prod `f25f022`), **plus FL.II, FL.III, FL.IV, FL.VI,
+FL.VII, FL.VIII** (2026-06-03 session, dev `254d322`,`61cdab3`,`aec2efb`,`9550d2b`,`c7d537f`,
+`adc5988` — pushed to dev, **prod mirror still pending John's review**). Catalog tags dropped from
+FL.III/VI/VII/VIII prose; `****,****` bold-marker artifacts cleaned in FL.III and FL.VII.
 
 **Already largely plain from the peer-review edits (light pass or skip):** FL.I (rewritten in #2),
 FL.V (gospel-order edit), FL.IX (Generosity edit), Opening Miracle Frame (#1 — but its Einstein/
@@ -126,12 +129,12 @@ framing chapter (mostly readable), Exploration 8 (#8 — mostly plain now), "A W
 - [ ] FL.XXXIV Marriage Covenant Architecture
 
 ### B. Moderate (individual + community laws not yet touched)
-- [ ] FL.II Confession-Restoration
-- [ ] FL.III Heart-Throne
-- [ ] FL.IV Humility-Exaltation
-- [ ] FL.VI Hear-and-Obey
-- [ ] FL.VII Drawing-Near Reciprocity
-- [ ] FL.VIII Desire-for-God
+- [x] FL.II Confession-Restoration ✓ 2026-06-03
+- [x] FL.III Heart-Throne ✓ 2026-06-03
+- [x] FL.IV Humility-Exaltation ✓ 2026-06-03
+- [x] FL.VI Hear-and-Obey ✓ 2026-06-03
+- [x] FL.VII Drawing-Near Reciprocity ✓ 2026-06-03
+- [x] FL.VIII Desire-for-God ✓ 2026-06-03
 - [ ] FL.X Ask-Seek-Knock
 - [ ] FL.XI Renewal-of-Mind
 - [ ] FL.XII Honor-Authority Flourishing
