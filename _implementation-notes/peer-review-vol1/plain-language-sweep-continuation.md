@@ -100,7 +100,7 @@ FL.VII, FL.VIII** (2026-06-03, dev `254d322`,`61cdab3`,`aec2efb`,`9550d2b`,`c7d5
 `adc5988` — **mirrored to prod `ba6815c`**); **FL.X, FL.XI, FL.XII, FL.XIII, FL.XIV**
 (2026-06-03, dev `0361669`,`db22715`,`c94e045`,`d964e5b`,`34f2ff2` — **mirrored to prod
 `e278780`**); **plus FL.XV, FL.XVI, FL.XVIII, FL.XX, FL.XXI** (2026-06-03, dev `88ac44b`,
-`9af80f9`,`e53c089`,`bbac6b8`,`8fa7a31` — pushed to dev, **prod mirror pending John's review**).
+`9af80f9`,`e53c089`,`bbac6b8`,`8fa7a31` — **mirrored to prod `e84baab`**).
 Catalog tags dropped throughout; `****,****` artifacts cleaned in FL.III/FL.VII; Latin/Greek/Hebrew
 terms glossed to plain English in FL.XIV/XV/XVI; medical "metastasis" register plain-rendered in
 FL.XVIII; the dense community/generational chapters (FL.XX gathered-body, FL.XXI household)
