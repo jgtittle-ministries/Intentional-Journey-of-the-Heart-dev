@@ -97,7 +97,7 @@ Before → after examples from the completed sweeps:
 **Fully swept (11):** FL.XVII, FL.XIX, FL.XXIV, FL.XXVIII, FL.XXXIX (dev `5dbfcdf`,`62ca920`,
 `e2aa374`,`46e3afc`,`6ad4033`; mirrored to prod `f25f022`), **plus FL.II, FL.III, FL.IV, FL.VI,
 FL.VII, FL.VIII** (2026-06-03 session, dev `254d322`,`61cdab3`,`aec2efb`,`9550d2b`,`c7d537f`,
-`adc5988` — pushed to dev, **prod mirror still pending John's review**). Catalog tags dropped from
+`adc5988` — **mirrored to prod `ba6815c`** 2026-06-03). Catalog tags dropped from
 FL.III/VI/VII/VIII prose; `****,****` bold-marker artifacts cleaned in FL.III and FL.VII.
 
 **Already largely plain from the peer-review edits (light pass or skip):** FL.I (rewritten in #2),
