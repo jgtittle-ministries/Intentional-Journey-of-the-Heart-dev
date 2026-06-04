@@ -102,8 +102,8 @@ FL.VII, FL.VIII** (2026-06-03, dev `254d322`,`61cdab3`,`aec2efb`,`9550d2b`,`c7d5
 `e278780`**); **plus FL.XV, FL.XVI, FL.XVIII, FL.XX, FL.XXI** (2026-06-03, dev `88ac44b`,
 `9af80f9`,`e53c089`,`bbac6b8`,`8fa7a31` — **mirrored to prod `e84baab`**); **plus FL.XXII, FL.XXIII,
 FL.XXV, FL.XXVI, FL.XXVII, FL.XLVI** (2026-06-03, dev `370d83a`,`7f50044`,`ad18cb5`,`f076aef`,
-`c56dde8`,`186e472` — pushed to dev, **prod mirror pending John's review**). **List B (the entire
-moderate tier) is now COMPLETE.** Greek/Latin/Hebrew glossed throughout; the heavy "operational/
+`c56dde8`,`186e472` — **mirrored to prod `9f7b117`**). **List B (the entire
+moderate tier) is now COMPLETE, dev + prod in sync.** Greek/Latin/Hebrew glossed throughout; the heavy "operational/
 substance/the participant/trajectory" register stripped; every chapter jargon-grep-verified after
 editing; catalog tags (P#/G#, Band 1, scale-invariant, etc.) dropped from all prose.
 Catalog tags dropped throughout; `****,****` artifacts cleaned in FL.III/FL.VII; Latin/Greek/Hebrew
