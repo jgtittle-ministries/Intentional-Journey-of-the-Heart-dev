@@ -291,16 +291,20 @@ chapter to dev → push → mirror a batch on John's word. Files live in the sam
       exactly right: in Vol 1, ONLY FL.XXVIII and FL.XXXIX sit at Reasonably Inferred; FL.XL–XLVI are
       all Clearly Taught, so their certainty already matched Vol 5.
 
-      **⚠ BROADER DIVERGENCE FOUND (left for John's decision — out of this task's scope):** Vol 5
-      frames the whole catalog as **"46 Foundational Laws"** and labels every per-entry header
-      `(Foundational)` — it has **no "candidate" convention at all**. But Vol 1 treats **FL.XXXIX–XLVI
-      as eight CANDIDATES** ("38 of wide consent + 8 candidates"). So after this sync, FL.XXXIX is the
-      only entry in Vol 5 marked `(Candidate)`, while FL.XL–XLVI still read `(Foundational)` even though
-      Vol 1 calls them candidates too (their *certainty* matches, only their *status* label differs).
-      Fully reconciling that "38-vs-46 / Foundational-vs-candidate" framing across Vol 5 (the line-17
-      count, the structural-completeness claims, 7 more per-entry headers, the catalog-history arc) is a
-      larger structural edit — flagged, not done. This is the same 38-vs-45/46 discrepancy the
-      four-tradition peer review noted (see [[project_ijh_vol1_four_tradition_peer_review]]).
+      **✓ BROADER "38-vs-46" FRAMING RECONCILIATION — DONE ON DEV 2026-06-04 (dev `af070fa`; PROD
+      MIRROR PENDING John's dev-site review).** Reconciled the whole Vol 5 catalog framing to Vol 1's
+      "38 Foundational Laws of wide consent (FL.I–XXXVIII) + 8 candidate laws under community review
+      (FL.XXXIX–XLVI)." 24 balanced label/prose edits: (1) every count statement (intro line 17,
+      snapshot line 19/67, legend provenance line 83, layer line 93, conclusion 1004/1008/994) now reads
+      "38 Foundational + 8 candidates" (55-law total unchanged: 38+8+8 spec+1 anomaly); (2) all 8
+      per-entry headers FL.XXXIX–XLVI now `(Candidate)`, and their table cells carry a `Candidate` marker;
+      (3) "admitted" reframed to "added as candidates / surfaced," and FL.XLI's body no longer self-calls
+      "admitted Foundational Law"; (4) structural-completeness prose preserved where still true (P3 + P4
+      stay "complete at the Foundational tier" — every Group keeps a genuine FL.I–XXXVIII entry) and
+      recast where a candidate does the work (P0/GI positive-substrate gap + P5/GI now credited to the
+      FL.XL / FL.XLV candidates; P3/GV "densest cell" recast as 3 Foundational + the FL.XLVI candidate).
+      Resolves the 38-vs-45/46 discrepancy the four-tradition peer review noted
+      (see [[project_ijh_vol1_four_tradition_peer_review]]). **NEXT: John reviews on dev → mirror to prod.**
 
 ---
 
