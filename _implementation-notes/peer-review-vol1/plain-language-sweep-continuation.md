@@ -100,7 +100,12 @@ FL.VII, FL.VIII** (2026-06-03, dev `254d322`,`61cdab3`,`aec2efb`,`9550d2b`,`c7d5
 `adc5988` — **mirrored to prod `ba6815c`**); **FL.X, FL.XI, FL.XII, FL.XIII, FL.XIV**
 (2026-06-03, dev `0361669`,`db22715`,`c94e045`,`d964e5b`,`34f2ff2` — **mirrored to prod
 `e278780`**); **plus FL.XV, FL.XVI, FL.XVIII, FL.XX, FL.XXI** (2026-06-03, dev `88ac44b`,
-`9af80f9`,`e53c089`,`bbac6b8`,`8fa7a31` — **mirrored to prod `e84baab`**).
+`9af80f9`,`e53c089`,`bbac6b8`,`8fa7a31` — **mirrored to prod `e84baab`**); **plus FL.XXII, FL.XXIII,
+FL.XXV, FL.XXVI, FL.XXVII, FL.XLVI** (2026-06-03, dev `370d83a`,`7f50044`,`ad18cb5`,`f076aef`,
+`c56dde8`,`186e472` — pushed to dev, **prod mirror pending John's review**). **List B (the entire
+moderate tier) is now COMPLETE.** Greek/Latin/Hebrew glossed throughout; the heavy "operational/
+substance/the participant/trajectory" register stripped; every chapter jargon-grep-verified after
+editing; catalog tags (P#/G#, Band 1, scale-invariant, etc.) dropped from all prose.
 Catalog tags dropped throughout; `****,****` artifacts cleaned in FL.III/FL.VII; Latin/Greek/Hebrew
 terms glossed to plain English in FL.XIV/XV/XVI; medical "metastasis" register plain-rendered in
 FL.XVIII; the dense community/generational chapters (FL.XX gathered-body, FL.XXI household)
@@ -151,12 +156,14 @@ framing chapter (mostly readable), Exploration 8 (#8 — mostly plain now), "A W
 - [x] FL.XVIII Bitter-Root Community ✓ 2026-06-03
 - [x] FL.XX Gathered-Body Discernment ✓ 2026-06-03
 - [x] FL.XXI Household Formation ✓ 2026-06-03
-- [ ] FL.XXII Endurance-Hope
-- [ ] FL.XXIII Sabbath Rest
-- [ ] FL.XXV Restoration-of-the-Erring
-- [ ] FL.XXVI Doctrinal Calcification
-- [ ] FL.XXVII Thick Practice Transmission
-- [ ] FL.XLVI Communal Truth-Telling (review called this the warmest prose already — likely light)
+- [x] FL.XXII Endurance-Hope ✓ 2026-06-03
+- [x] FL.XXIII Sabbath Rest ✓ 2026-06-03
+- [x] FL.XXV Restoration-of-the-Erring ✓ 2026-06-03
+- [x] FL.XXVI Doctrinal Calcification ✓ 2026-06-03
+- [x] FL.XXVII Thick Practice Transmission ✓ 2026-06-03
+- [x] FL.XLVI Communal Truth-Telling ✓ 2026-06-03 (was already the warmest prose — light pass)
+
+**↑ List B COMPLETE (all 22 moderate chapters swept). Remaining: List A (the 16 densest) + List C (Explorations/supplementals).**
 
 ### C. Explorations / supplementals / framing
 - [ ] Taxonomy Key (Structural vs Operational Law jargon)
