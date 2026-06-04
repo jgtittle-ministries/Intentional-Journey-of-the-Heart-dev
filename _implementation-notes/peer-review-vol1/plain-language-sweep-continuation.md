@@ -2,15 +2,13 @@
 
 **Purpose.** Finish de-jargoning the rest of IJH Volume 1 so every chapter reads at a level a
 **scripturally competent 15–16-year-old** can follow — *without changing any theology* and
-*without altering any Scripture quote*. **LISTS A, B, AND C ARE ALL COMPLETE — the entire Vol 1
-plain-language sweep is done.** Lists A + B (38 law-chapters) are **dev + prod IN SYNC** (corporate
-cluster → prod `f24a131`; substrate → prod `e3735d6`; miracle → prod `9ae2de1`; each byte-identical,
-balanced-diff, Scripture-verified). **List C (all 14 Explorations + supplementals + framing chapters)
-is COMPLETE ON DEV as of 2026-06-04 (`ea9b4c9` → `9266015`) — PROD MIRROR PENDING John's review on
-the dev site.** The ONLY remaining items are: (1) the prod mirror of List C, and (2) the
-separately-tracked Vol 5 Periodic Table tier sync (section D). This note is self-contained.
-**NEXT ACTION: John reviews List C on the dev site → then mirror the 14 List C files to prod** using
-the proven mirror discipline below.
+*without altering any Scripture quote*. **LISTS A, B, AND C ARE ALL COMPLETE AND DEV + PROD IN SYNC — the entire Vol 1
+plain-language sweep is DONE.** Lists A + B (38 law-chapters) mirrored earlier (corporate
+cluster → prod `f24a131`; substrate → prod `e3735d6`; miracle → prod `9ae2de1`). **List C (all 14
+Explorations + supplementals + framing chapters) swept on dev 2026-06-04 (`ea9b4c9` → `9266015`) and
+MIRRORED TO PROD `0a297c2`** (byte-identical SHA-256, diff balanced 175/175, all Scripture verified
+verbatim). The ONLY remaining item in the whole effort is the **separately-tracked Vol 5 Periodic
+Table tier sync (section D)** — which is NOT part of the language sweep. This note is self-contained.
 
 Working repo (dev): `C:\Users\jgtit\claude\_work\Intentional-Journey-of-the-Heart-dev`
 Folder: `docs/volume-1-laws-of-the-spirit/`
@@ -248,12 +246,12 @@ Nachfolge, simul justus et peccator); "parousia" → "Christ's return."*
 
 **↑ List B COMPLETE (22 moderate chapters) and List A COMPLETE (16 densest), all dev + prod in sync.**
 
-**↑↑ List C COMPLETE (all 14 essays/supplementals/framing chapters) on dev as of 2026-06-04
-(`ea9b4c9` → `9266015`). PROD MIRROR PENDING John's review on the dev site. With List C done, the
-WHOLE Vol 1 plain-language sweep is finished except the prod mirror of List C and the separately-tracked
-Vol 5 tier sync (section D).**
+**↑↑ List C COMPLETE (all 14 essays/supplementals/framing chapters), dev + prod IN SYNC as of
+2026-06-04 (dev `ea9b4c9` → `9266015`; prod mirror `0a297c2`, balanced 175/175, Scripture verbatim).
+The WHOLE Vol 1 plain-language sweep is now FINISHED — the only remaining task is the
+separately-tracked Vol 5 tier sync (section D), which is not part of the language sweep.**
 
-### C. Explorations / supplementals / framing — **✓ COMPLETE 2026-06-04 (all 14 on dev; PROD MIRROR PENDING John's review)**
+### C. Explorations / supplementals / framing — **✓ COMPLETE 2026-06-04 (all 14; dev + prod IN SYNC — prod mirror `0a297c2`)**
 *All 14 swept and pushed to dev in 14 per-chapter commits (`ea9b4c9` → `9266015`, pushed `f3d82cb..9266015`). Each was jargon-grep-verified and diff-verified (balanced ins==del, no Scripture line altered; embedded inline verse fragments confirmed verbatim where present). Lessons specific to List C: these are essays, so the work was different from A/B — no catalog tags to strip, but a **physics-and-systems metaphor family** instead. The right move on the author's deliberate analogies (electrical "ground reference" in Exp 5; circuit/transformer in Exp 7; stock/feedback-loop and the f×g×h equation in Spiritual Force) was to **keep the analogy and the substance but gloss the technical terms inline** so a teen can follow — NOT to delete them (they're John's own teaching voice, and the Spiritual Force chapter is literally about building toward equations). "Force multiplier" kept as a recognizable idiom. Two scholarly "Open Trails" tradition-notes in Connecting the Dots left as reference apparatus. Renamed a few jargon section-headings to plain ones (e.g. "The Feedback Loop"→"The Loop That Feeds Itself"; "The Time Delay Factor"→"The Time Delay"; "The Discovery That Changes the Equations"→"...the Picture"; "The Developing Dynamics"→"Starting to Put Numbers on It").*
 *Orientation — READ THIS, List C is different from A/B.* These are **essays / teaching chapters, not
 law-entries** — so they do **NOT** have the "Why This Is a Foundational Law" four-criteria block, the
