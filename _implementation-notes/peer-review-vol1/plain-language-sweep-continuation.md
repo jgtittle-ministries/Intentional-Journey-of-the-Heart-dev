@@ -291,8 +291,8 @@ chapter to dev → push → mirror a batch on John's word. Files live in the sam
       exactly right: in Vol 1, ONLY FL.XXVIII and FL.XXXIX sit at Reasonably Inferred; FL.XL–XLVI are
       all Clearly Taught, so their certainty already matched Vol 5.
 
-      **✓ BROADER "38-vs-46" FRAMING RECONCILIATION — DONE ON DEV 2026-06-04 (dev `af070fa`; PROD
-      MIRROR PENDING John's dev-site review).** Reconciled the whole Vol 5 catalog framing to Vol 1's
+      **✓ BROADER "38-vs-46" FRAMING RECONCILIATION — DONE & DEV+PROD IN SYNC 2026-06-04 (dev `af070fa`
+      → prod mirror `e9bab0e`, SHA-256 byte-identical, diff 24/24).** Reconciled the whole Vol 5 catalog framing to Vol 1's
       "38 Foundational Laws of wide consent (FL.I–XXXVIII) + 8 candidate laws under community review
       (FL.XXXIX–XLVI)." 24 balanced label/prose edits: (1) every count statement (intro line 17,
       snapshot line 19/67, legend provenance line 83, layer line 93, conclusion 1004/1008/994) now reads
@@ -304,7 +304,7 @@ chapter to dev → push → mirror a batch on John's word. Files live in the sam
       recast where a candidate does the work (P0/GI positive-substrate gap + P5/GI now credited to the
       FL.XL / FL.XLV candidates; P3/GV "densest cell" recast as 3 Foundational + the FL.XLVI candidate).
       Resolves the 38-vs-45/46 discrepancy the four-tradition peer review noted
-      (see [[project_ijh_vol1_four_tradition_peer_review]]). **NEXT: John reviews on dev → mirror to prod.**
+      (see [[project_ijh_vol1_four_tradition_peer_review]]). **DONE — dev + prod in sync; nothing left.**
 
 ---
 
