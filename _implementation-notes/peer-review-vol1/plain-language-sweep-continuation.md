@@ -2,10 +2,13 @@
 
 **Purpose.** Finish de-jargoning the rest of IJH Volume 1 so every chapter reads at a level a
 **scripturally competent 15–16-year-old** can follow — *without changing any theology* and
-*without altering any Scripture quote*. **27 chapters are done (all of List B, the moderate tier,
-plus the 5 from the prior peer-review session) — dev + prod in sync.** What remains: **List A (the
-16 densest chapters)** and **List C (Explorations + supplementals + framing)**. This note is
-self-contained: a new session can start from here with no ramp-up. **NEXT UP: List A.**
+*without altering any Scripture quote*. **33 chapters are done: all of List B (the moderate tier),
+the 5 from the prior peer-review session, AND the entire List-A corporate/communal cluster
+FL.XXIX–XXXIV (2026-06-04).** List B is dev+prod in sync; the FL.XXIX–XXXIV batch is **on dev,
+awaiting John's review before the prod mirror.** What remains: **List A's substrate laws
+FL.XXXV–XXXVIII + miracle-cluster FL.XL–XLV (10 chapters)**, and **List C (Explorations +
+supplementals + framing)**. This note is self-contained: a new session can start from here with no
+ramp-up. **NEXT UP: List A substrate laws FL.XXXV–XXXVIII, then the miracle-cluster FL.XL–XLV.**
 
 Working repo (dev): `C:\Users\jgtit\claude\_work\Intentional-Journey-of-the-Heart-dev`
 Folder: `docs/volume-1-laws-of-the-spirit/`
@@ -155,6 +158,19 @@ FL.VII, FL.VIII** (2026-06-03, dev `254d322`,`61cdab3`,`aec2efb`,`9550d2b`,`c7d5
 FL.XXV, FL.XXVI, FL.XXVII, FL.XLVI** (2026-06-03, dev `370d83a`,`7f50044`,`ad18cb5`,`f076aef`,
 `c56dde8`,`186e472` — **mirrored to prod `9f7b117`**).
 
+**→ List A corporate/communal cluster (FL.XXIX, XXX, XXXI, XXXII, XXXIII, XXXIV) COMPLETE on dev
+2026-06-04** (dev `4374ddf`,`81a9792`,`c1fda04`,`ce8c8df`,`ee645bd`,`c9ce11e`) — **awaiting John's
+dev-site review before the prod mirror.** Notes from this batch: bidirectional Mirrors relabeled
+`***Mirror (both directions at once):***` (matching swept FL.XVIII); statement-form Mirrors relabeled
+`***Mirror (stated form):***` opening "The dark, idol-ward face of …"; **"Band 2"/"Band 3" labels
+stripped** (like "Band 1") while the substantive principle-vs-specific-form distinction was kept in
+plain words (FL.XXXIII polity-form left to traditions; FL.XXXIV marriage form scripturally specified
+— this contrast preserved); Greek/Hebrew/Latin glossed inline (*barē*/*phortion*, *koinōnia*,
+*episkopos*/*diakonos*/*presbyteros*, *dabaq*, *anam cara*, "the worship working on the soul" for
+*leitourgia*); the jargon section heading "The Broader Dyadic-Pair-Bond Architectural Territory" →
+"Other Close Two-Person Bonds (Beyond Marriage)"; every inline P#/G# tag dropped; "the catalog" kept
+as the live term for the law table. All six jargon-grep-verified clean.
+
 **→ List B (the entire moderate tier, 22 chapters) is COMPLETE; dev + prod in sync as of
 2026-06-03.** Across the session: Greek/Latin/Hebrew glossed to plain English; the heavy
 "operational / substance / the participant / trajectory" register stripped; `****,****` bold
@@ -194,12 +210,12 @@ templates to imitate. Expect the recurring four-point "Why This Is a Foundationa
 - [ ] FL.XLIII Cross-Boundary Faith-Access
 - [ ] FL.XLIV Sign-as-Revelation
 - [ ] FL.XLV Voice-of-Christ-Reaches-into-Death
-- [ ] FL.XXIX Corporate Emotional Integration
-- [ ] FL.XXX Communal Soul-Care for the Wounded
-- [ ] FL.XXXI Corporate Scriptural Reception
-- [ ] FL.XXXII Communal Worship Heart-Alignment
-- [ ] FL.XXXIII Community Polity-Structure
-- [ ] FL.XXXIV Marriage Covenant Architecture
+- [x] FL.XXIX Corporate Emotional Integration ✓ 2026-06-04 (dev `4374ddf`)
+- [x] FL.XXX Communal Soul-Care for the Wounded ✓ 2026-06-04 (dev `81a9792`)
+- [x] FL.XXXI Corporate Scriptural Reception ✓ 2026-06-04 (dev `c1fda04`)
+- [x] FL.XXXII Communal Worship Heart-Alignment ✓ 2026-06-04 (dev `ce8c8df`)
+- [x] FL.XXXIII Community Polity-Structure ✓ 2026-06-04 (dev `ee645bd`)
+- [x] FL.XXXIV Marriage Covenant Architecture ✓ 2026-06-04 (dev `c9ce11e`)
 
 ### B. Moderate (individual + community laws not yet touched)
 - [x] FL.II Confession-Restoration ✓ 2026-06-03
@@ -254,11 +270,12 @@ templates to imitate. Expect the recurring four-point "Why This Is a Foundationa
 
 > *Continue the Vol 1 plain-language sweep per
 > `_implementation-notes/peer-review-vol1/plain-language-sweep-continuation.md`. List B is done and
-> mirrored; start on **List A** (the densest chapters). Begin with the corporate/communal cluster
-> **FL.XXIX–FL.XXXIV** (they mirror the List B community laws I already swept — use those as
-> templates), then the substrate laws FL.XXXV–XXXVIII, then the miracle-cluster FL.XL–XLV. Do a few
-> per turn, one commit per chapter to dev, jargon-grep-verify each, and mirror a batch to prod when
-> I say so.*
+> mirrored, and the List-A corporate/communal cluster **FL.XXIX–FL.XXXIV is done on dev** (awaiting
+> John's review before the prod mirror). Pick up the rest of **List A**: the substrate laws
+> **FL.XXXV–XXXVIII** (Trust-Substrate, Eschatological Glory, Worship Alignment, Soul-Restoration —
+> heaviest on "substrate/operational"), then the miracle-cluster **FL.XL–XLV** (narrative-heavy,
+> lots of interleaved Gospel quotes — watch the lead-in sentences). Do a few per turn, one commit
+> per chapter to dev, jargon-grep-verify each, and mirror a batch to prod when I say so.*
 
 Workflow each turn: `Read` chapter → `Edit` prose paragraph-by-paragraph (verses verbatim) →
 jargon-grep-verify → commit to dev → push. Mirror to prod only after John reviews on the dev site
