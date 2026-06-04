@@ -94,11 +94,14 @@ Before → after examples from the completed sweeps:
 
 ## STATUS — what's done
 
-**Fully swept (11):** FL.XVII, FL.XIX, FL.XXIV, FL.XXVIII, FL.XXXIX (dev `5dbfcdf`,`62ca920`,
-`e2aa374`,`46e3afc`,`6ad4033`; mirrored to prod `f25f022`), **plus FL.II, FL.III, FL.IV, FL.VI,
-FL.VII, FL.VIII** (2026-06-03 session, dev `254d322`,`61cdab3`,`aec2efb`,`9550d2b`,`c7d537f`,
-`adc5988` — **mirrored to prod `ba6815c`** 2026-06-03). Catalog tags dropped from
-FL.III/VI/VII/VIII prose; `****,****` bold-marker artifacts cleaned in FL.III and FL.VII.
+**Fully swept (16):** FL.XVII, FL.XIX, FL.XXIV, FL.XXVIII, FL.XXXIX (dev `5dbfcdf`,`62ca920`,
+`e2aa374`,`46e3afc`,`6ad4033`; mirrored to prod `f25f022`); **FL.II, FL.III, FL.IV, FL.VI,
+FL.VII, FL.VIII** (2026-06-03, dev `254d322`,`61cdab3`,`aec2efb`,`9550d2b`,`c7d537f`,
+`adc5988` — **mirrored to prod `ba6815c`**); **plus FL.X, FL.XI, FL.XII, FL.XIII, FL.XIV**
+(2026-06-03, dev `0361669`,`db22715`,`c94e045`,`d964e5b`,`34f2ff2` — pushed to dev,
+**prod mirror pending John's review**). Catalog tags dropped from FL.III/VI/VII/X/XI/XII/XIII/XIV
+prose; `****,****` bold-marker artifacts cleaned in FL.III and FL.VII; Latin/Greek/Hebrew terms in
+FL.XIV glossed to plain English.
 
 **Already largely plain from the peer-review edits (light pass or skip):** FL.I (rewritten in #2),
 FL.V (gospel-order edit), FL.IX (Generosity edit), Opening Miracle Frame (#1 — but its Einstein/
@@ -135,11 +138,11 @@ framing chapter (mostly readable), Exploration 8 (#8 — mostly plain now), "A W
 - [x] FL.VI Hear-and-Obey ✓ 2026-06-03
 - [x] FL.VII Drawing-Near Reciprocity ✓ 2026-06-03
 - [x] FL.VIII Desire-for-God ✓ 2026-06-03
-- [ ] FL.X Ask-Seek-Knock
-- [ ] FL.XI Renewal-of-Mind
-- [ ] FL.XII Honor-Authority Flourishing
-- [ ] FL.XIII Pure-Heart Vision
-- [ ] FL.XIV Vanity-of-Substitutes
+- [x] FL.X Ask-Seek-Knock ✓ 2026-06-03
+- [x] FL.XI Renewal-of-Mind ✓ 2026-06-03
+- [x] FL.XII Honor-Authority Flourishing ✓ 2026-06-03
+- [x] FL.XIII Pure-Heart Vision ✓ 2026-06-03
+- [x] FL.XIV Vanity-of-Substitutes ✓ 2026-06-03
 - [ ] FL.XV Hardening
 - [ ] FL.XVI Bondage
 - [ ] FL.XVIII Bitter-Root Community
