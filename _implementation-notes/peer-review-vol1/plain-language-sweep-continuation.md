@@ -4,10 +4,10 @@
 **scripturally competent 15–16-year-old** can follow — *without changing any theology* and
 *without altering any Scripture quote*. **37 chapters are done: all of List B (the moderate tier),
 the 5 from the prior peer-review session, the List-A corporate/communal cluster FL.XXIX–XXXIV, AND
-the List-A substrate cluster FL.XXXV–XXXVIII (all 2026-06-04).** List B + FL.XXIX–XXXIV are dev+prod
-in sync (corporate cluster mirrored to prod `f24a131`); the **substrate cluster FL.XXXV–XXXVIII is on
-dev, awaiting John's review before the prod mirror.** What remains in List A: the **miracle-cluster
-FL.XL–XLV (6 chapters)**. Then **List C (Explorations + supplementals + framing)**. This note is
+the List-A substrate cluster FL.XXXV–XXXVIII (all 2026-06-04).** List B, FL.XXIX–XXXIV, AND FL.XXXV–XXXVIII
+are all dev+prod in sync (corporate cluster mirrored to prod `f24a131`; substrate cluster mirrored to
+prod `e3735d6`, byte-identical 4/4, balanced 130/130 diff, all Scripture verbatim). What remains in
+List A: the **miracle-cluster FL.XL–XLV (6 chapters)**. Then **List C (Explorations + supplementals + framing)**. This note is
 self-contained: a new session can start from here with no ramp-up. **NEXT UP: the miracle-cluster
 FL.XL–XLV** (narrative-heavy, lots of interleaved Gospel quotes — watch the lead-in sentences).
 
