@@ -2,17 +2,15 @@
 
 **Purpose.** Finish de-jargoning the rest of IJH Volume 1 so every chapter reads at a level a
 **scripturally competent 15–16-year-old** can follow — *without changing any theology* and
-*without altering any Scripture quote*. **LIST A IS COMPLETE. 43 chapters are done — all of List B
-(moderate tier), the 5 from the prior peer-review session, and ALL of List A (the 16 densest:
-corporate/communal FL.XXIX–XXXIV, substrate FL.XXXV–XXXVIII, miracle-cluster FL.XL–XLV), all
-2026-06-04.** Everything is **dev + prod IN SYNC**: corporate cluster → prod `f24a131`; substrate
-cluster → prod `e3735d6`; miracle cluster → prod `9ae2de1`. Each prod mirror was byte-identical,
-balanced-diff, and Scripture-verified-verbatim. What remains is **only List C (Explorations +
-supplementals + framing)** plus the separately-tracked Vol 5 tier sync. This note is self-contained:
-a new session can start from here with no ramp-up. **NEXT UP: List C** — e.g. the Taxonomy Key,
-Exploration 1, the review-flagged Supplemental Three Desires, Exploration 7 Spiritual Authority's
-"force multiplier/circuit/voltage" language, Spiritual Force/Energy/Power's systems-dynamics jargon,
-and the Opening Miracle Frame's Einstein/C.S. Lewis paragraphs.
+*without altering any Scripture quote*. **LISTS A, B, AND C ARE ALL COMPLETE — the entire Vol 1
+plain-language sweep is done.** Lists A + B (38 law-chapters) are **dev + prod IN SYNC** (corporate
+cluster → prod `f24a131`; substrate → prod `e3735d6`; miracle → prod `9ae2de1`; each byte-identical,
+balanced-diff, Scripture-verified). **List C (all 14 Explorations + supplementals + framing chapters)
+is COMPLETE ON DEV as of 2026-06-04 (`ea9b4c9` → `9266015`) — PROD MIRROR PENDING John's review on
+the dev site.** The ONLY remaining items are: (1) the prod mirror of List C, and (2) the
+separately-tracked Vol 5 Periodic Table tier sync (section D). This note is self-contained.
+**NEXT ACTION: John reviews List C on the dev site → then mirror the 14 List C files to prod** using
+the proven mirror discipline below.
 
 Working repo (dev): `C:\Users\jgtit\claude\_work\Intentional-Journey-of-the-Heart-dev`
 Folder: `docs/volume-1-laws-of-the-spirit/`
@@ -248,10 +246,15 @@ Nachfolge, simul justus et peccator); "parousia" → "Christ's return."*
 - [x] FL.XXVII Thick Practice Transmission ✓ 2026-06-03
 - [x] FL.XLVI Communal Truth-Telling ✓ 2026-06-03 (was already the warmest prose — light pass)
 
-**↑ List B COMPLETE (22 moderate chapters) and List A COMPLETE (16 densest), all dev + prod in sync.
-Only List C remains.**
+**↑ List B COMPLETE (22 moderate chapters) and List A COMPLETE (16 densest), all dev + prod in sync.**
 
-### C. Explorations / supplementals / framing — **THE NEXT SESSION'S WORK**
+**↑↑ List C COMPLETE (all 14 essays/supplementals/framing chapters) on dev as of 2026-06-04
+(`ea9b4c9` → `9266015`). PROD MIRROR PENDING John's review on the dev site. With List C done, the
+WHOLE Vol 1 plain-language sweep is finished except the prod mirror of List C and the separately-tracked
+Vol 5 tier sync (section D).**
+
+### C. Explorations / supplementals / framing — **✓ COMPLETE 2026-06-04 (all 14 on dev; PROD MIRROR PENDING John's review)**
+*All 14 swept and pushed to dev in 14 per-chapter commits (`ea9b4c9` → `9266015`, pushed `f3d82cb..9266015`). Each was jargon-grep-verified and diff-verified (balanced ins==del, no Scripture line altered; embedded inline verse fragments confirmed verbatim where present). Lessons specific to List C: these are essays, so the work was different from A/B — no catalog tags to strip, but a **physics-and-systems metaphor family** instead. The right move on the author's deliberate analogies (electrical "ground reference" in Exp 5; circuit/transformer in Exp 7; stock/feedback-loop and the f×g×h equation in Spiritual Force) was to **keep the analogy and the substance but gloss the technical terms inline** so a teen can follow — NOT to delete them (they're John's own teaching voice, and the Spiritual Force chapter is literally about building toward equations). "Force multiplier" kept as a recognizable idiom. Two scholarly "Open Trails" tradition-notes in Connecting the Dots left as reference apparatus. Renamed a few jargon section-headings to plain ones (e.g. "The Feedback Loop"→"The Loop That Feeds Itself"; "The Time Delay Factor"→"The Time Delay"; "The Discovery That Changes the Equations"→"...the Picture"; "The Developing Dynamics"→"Starting to Put Numbers on It").*
 *Orientation — READ THIS, List C is different from A/B.* These are **essays / teaching chapters, not
 law-entries** — so they do **NOT** have the "Why This Is a Foundational Law" four-criteria block, the
 `***Mirror***`, or the `***Certainty***` tail. No Operator/Period/Group catalog tags to strip either
@@ -263,20 +266,20 @@ byte-identical; divine pronouns capitalized; "the catalog" stays). Workflow iden
 paragraph-by-paragraph → grep-verify (tune the grep to the physics/systems terms below) → commit per
 chapter to dev → push → mirror a batch on John's word. Files live in the same
 `docs/volume-1-laws-of-the-spirit/` folder.
-- [ ] Taxonomy Key — `taxonomy-key-how-this-volume-classifies-its.md` ("Structural vs Operational Law" abstraction)
-- [ ] Exploration 1 — How to Get Faith — `exploration-01-how-to-get-faith.md`
-- [ ] Exploration 2 — My Spirit, Heart, Soul, and Body — `exploration-02-my-spirit-heart-soul-and.md`
-- [ ] Supplemental — The Three Desires — `supplemental-three-desires.md` (peer review flagged as the **weakest** chapter; also check the tier/certainty language)
-- [ ] Exploration 3 — Faith, Hope, and Love — `exploration-03-relationship-of-faith-hope-and.md`
-- [ ] Exploration 4 — Wisdom, Knowledge, Understanding, Discernment — `exploration-04-wisdom-knowledge-understanding-and-discernment.md`
-- [ ] Exploration 5 — The Gateway Condition (Fear of the Lord) — `exploration-05-gateway-condition.md`
-- [ ] Exploration 6 — The Obedience Channel — `exploration-06-obedience-channel.md`
-- [ ] Exploration 7 — Spiritual Authority — `exploration-07-spiritual-authority.md` (the **"force multiplier / circuit / transformer / voltage"** electrical-engineering metaphors)
-- [ ] Spiritual Force, Energy, and Power — `spiritual-force-energy-and-power.md` (the **"stock / inflow / outflow / reinforcing feedback loop / field equations"** systems-dynamics jargon — likely the densest of List C)
-- [ ] Connecting the Dots — `connecting-the-dots-how-the-eight-explorations.md` (check; probably light)
-- [ ] Supplemental — Held Tensions & Shadow Pairs — `supplemental-held-tensions-and-shadow-pairs.md` (NEW to this list — wasn't checked before; cites BSCP per memory; check for jargon)
-- [ ] Opening Miracle Frame — `opening-miracle-frame.md` (Einstein/C.S. Lewis paragraphs + "Connections" footnote: "metaphysical presupposition," "bandwidth," "Spirit Stage" — peer-review item #1's chapter; light sweep)
-- [ ] (check, probably light) "What We Are Being Formed For" Kingdom-Now framing — `what-we-are-being-formed-for-the.md` (STATUS notes it "mostly readable")
+- [x] Taxonomy Key — `taxonomy-key-how-this-volume-classifies-its.md` ✓ 2026-06-04 (dev `ea9b4c9`) — kept the P/G/direction reference key intact (the chapter's whole purpose), plained the explanatory prose around it
+- [x] Exploration 1 — How to Get Faith — `exploration-01-how-to-get-faith.md` ✓ 2026-06-04 (dev `3184cfc`)
+- [x] Exploration 2 — My Spirit, Heart, Soul, and Body — `exploration-02-my-spirit-heart-soul-and.md` ✓ 2026-06-04 (dev `9770dce`) — glossed dichotomist/trichotomist + "forensic"; capitalized two stray lowercase divine pronouns in prose; embedded 1 Thess 5:23 quote verified verbatim
+- [x] Supplemental — The Three Desires — `supplemental-three-desires.md` ✓ 2026-06-04 (dev `8bb04fb`) — readability pass only (didn't re-argue the chapter)
+- [x] Exploration 3 — Faith, Hope, and Love — `exploration-03-relationship-of-faith-hope-and.md` ✓ 2026-06-04 (dev `eac0b9e`) — inline 1 John 4:18 fragment verified
+- [x] Exploration 4 — Wisdom, Knowledge, Understanding, Discernment — `exploration-04-wisdom-knowledge-understanding-and-discernment.md` ✓ 2026-06-04 (dev `ce4a545`)
+- [x] Exploration 5 — The Gateway Condition (Fear of the Lord) — `exploration-05-gateway-condition.md` ✓ 2026-06-04 (dev `cd05ba7`) — kept the author's electrical "ground reference" analogy but glossed voltage/ground for a teen
+- [x] Exploration 6 — The Obedience Channel — `exploration-06-obedience-channel.md` ✓ 2026-06-04 (dev `bd48275`) — "signal/noise/gain/systems" recast plainly; kept the C.S. Lewis paragraph
+- [x] Exploration 7 — Spiritual Authority — `exploration-07-spiritual-authority.md` ✓ 2026-06-04 (dev `ccdebef`) — kept "force multiplier" (recognizable idiom + chapter's name, now glossed); made the circuit/transformer/voltage image plain ("broken wire" vs "good wire built for the job")
+- [x] Spiritual Force, Energy, and Power — `spiritual-force-energy-and-power.md` ✓ 2026-06-04 (dev `657693d`) — densest of List C: "stock"→"reservoir", "inflow/outflow"→"fills/drains", glossed Maxwell/field-equations/conservation/heuristic; KEPT the f×g×h equation but explained "multiply not add" plainly; cleaned a stray `**` artifact; 7 embedded verse fragments all verified verbatim
+- [x] Connecting the Dots — `connecting-the-dots-how-the-eight-explorations.md` ✓ 2026-06-04 (dev `ed25514`) — light; **the three tradition trail-notes (Wesleyan-Holiness / Global Pentecostal / Sacramental) were intentionally LEFT as scholarly "Open Trails / Further reading" pointer material** (annotated bibliography for a researcher carrying the work forward — same treatment bibliography got in Lists A/B). Only the two candidate-law trail bullets (Trust-Direction, Seek-First) had their antecedent/consequent/allusive/propositional jargon plained.
+- [x] Supplemental — Held Tensions & Shadow Pairs — `supplemental-held-tensions-and-shadow-pairs.md` ✓ 2026-06-04 (dev `6a47a97`) — competing-values "pole/deformation/register/orthogonal" plained; BSCP draft quote + all 3 cross-links verified verbatim
+- [x] Opening Miracle Frame — `opening-miracle-frame.md` ✓ 2026-06-04 (dev `146b288`) — Newtonian/Einstein/"projection of a general framework"/"anomalous" recast as plain "smaller picture / bigger picture"; footnote "metaphysical presupposition"/"bandwidth" plained
+- [x] "What We Are Being Formed For" Kingdom-Now framing — `what-we-are-being-formed-for-the.md` ✓ 2026-06-04 (dev `9266015`) — light; "operational/corpus/proof-text/claim registry/epistemic/propositional/directionality/provenance/axioms" plained or glossed; this chapter is very quote-dense — all inline ESV quotes verified byte-identical on every changed line
 - [ ] (skip) `index.md`, `periodic-table-see-volume-5.md`, `word-to-my-kids-at-the-end.md`, `read-me-first.md`, `foundational-laws-thirty-eight-operational-laws-of-wide.md` (preamble one-liners, fine as-is)
 
 ### D. Separately tracked (NOT part of the language sweep)
