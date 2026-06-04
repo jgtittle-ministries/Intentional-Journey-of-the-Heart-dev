@@ -158,9 +158,11 @@ FL.VII, FL.VIII** (2026-06-03, dev `254d322`,`61cdab3`,`aec2efb`,`9550d2b`,`c7d5
 FL.XXV, FL.XXVI, FL.XXVII, FL.XLVI** (2026-06-03, dev `370d83a`,`7f50044`,`ad18cb5`,`f076aef`,
 `c56dde8`,`186e472` — **mirrored to prod `9f7b117`**).
 
-**→ List A corporate/communal cluster (FL.XXIX, XXX, XXXI, XXXII, XXXIII, XXXIV) COMPLETE on dev
-2026-06-04** (dev `4374ddf`,`81a9792`,`c1fda04`,`ce8c8df`,`ee645bd`,`c9ce11e`) — **awaiting John's
-dev-site review before the prod mirror.** Notes from this batch: bidirectional Mirrors relabeled
+**→ List A corporate/communal cluster (FL.XXIX, XXX, XXXI, XXXII, XXXIII, XXXIV) COMPLETE — dev +
+prod IN SYNC 2026-06-04** (dev `4374ddf`,`81a9792`,`c1fda04`,`ce8c8df`,`ee645bd`,`c9ce11e` + dev
+polish `+ punctuation tidy`; **mirrored to prod `f24a131`**). Mirror was byte-identical (6/6 SHA256
+match), diff was 169 ins / 169 del balanced, and every Scripture wording verified present verbatim.
+Notes from this batch: bidirectional Mirrors relabeled
 `***Mirror (both directions at once):***` (matching swept FL.XVIII); statement-form Mirrors relabeled
 `***Mirror (stated form):***` opening "The dark, idol-ward face of …"; **"Band 2"/"Band 3" labels
 stripped** (like "Band 1") while the substantive principle-vs-specific-form distinction was kept in
