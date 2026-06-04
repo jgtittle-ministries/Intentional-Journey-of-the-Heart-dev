@@ -9,60 +9,60 @@ source: "IJH_Vol1_v5_6_1_1.docx"
 Before the explorations begin, I want to name the classification system I use throughout this volume. Every Exploration is tagged with a law type in its header. Here is what those tags mean, and how they connect to the volumes that follow.
 
 ## Structural Laws
-A Structural Law describes what exists in the spiritual world and how its components are organized, architecture, not motion. The relationship between Spirit, Heart, Soul, and Body (Exploration 2) is structural. The Faith-Hope-Love triad (Exploration 3) is structural. The Wisdom cluster (Exploration 4) is structural. These laws are more like topology: they map the territory's shape. They are the necessary preconditions for the operational laws to make sense.
+A Structural Law describes what exists in the spiritual world and how its parts fit together — the shape of things, not how they move. The relationship between Spirit, Heart, Soul, and Body (Exploration 2) is structural. The Faith-Hope-Love triad (Exploration 3) is structural. The Wisdom cluster (Exploration 4) is structural. These laws are like a map: they show the lay of the land. They have to be in place before the Operational Laws below can make any sense.
 
 ## Operational Laws
-An Operational Law describes causation and process, how things move and change over time, and what causes what. Rom. 10:17 (Word → Hearing → Faith) is operational. The Obedience Channel (Exploration 6) is operational. Prayer as Resonance (Exploration 8) is operational. If-then statements are typically operational. These laws are more like dynamics: they describe the forces and flows that move through the structural landscape.
+An Operational Law describes how things move and change over time — what causes what. Rom. 10:17 (Word → Hearing → Faith) is operational. The Obedience Channel (Exploration 6) is operational. Prayer as Resonance (Exploration 8) is operational. If-then statements are usually operational. If the Structural Laws are the map, these are the weather: they describe what moves and flows across the land the structural laws lay out.
 
 ## Mixed Laws (Structural/Operational)
-Some laws are both at once: they describe a structure that also functions as a causal mechanism. The Faith-Hope-Love triad (Exploration 3) is classified as Structural/Operational because it names a fixed architecture that also operates as a self-reinforcing feedback loop. I flag these mixed cases explicitly rather than forcing them into one category.
+Some laws are both at once: they describe a structure that also makes something happen. The Faith-Hope-Love triad (Exploration 3) is tagged Structural/Operational because it names a fixed shape that also feeds itself — each part strengthens the next, around and around. I label these mixed cases plainly instead of forcing them into one box.
 
 ## Gateway Laws (Structural — Gateway)
-A Gateway Law is a special subtype of Structural Law: it describes a condition that is logically prior to an entire cluster of other laws. The Fear of the Lord (Exploration 5) is a Gateway Law; without it, the entire Wisdom cluster fails to orient correctly. Gateway laws function as root conditions rather than component elements.
+A Gateway Law is a special kind of Structural Law: it describes something that has to be in place before a whole group of other laws can work. The Fear of the Lord (Exploration 5) is a Gateway Law; without it, the entire Wisdom cluster never points the right direction. A gateway is the door you go through first, not one of the rooms inside.
 
 ## Reading the Periodic Table Tags
 
-Every Foundational Law header in this volume carries a compact tag in parentheses — e.g., **FL.III — The Heart-Throne Law (P1/GII, B)** — that locates the law in the Periodic Table of Spiritual Laws (developed in full in Vol 5). The tag has three parts.
+Every Foundational Law header in this volume carries a short tag in parentheses — e.g., **FL.III — The Heart-Throne Law (P1/GII, B)** — that shows where the law sits in the Periodic Table of Spiritual Laws (laid out in full in Vol 5). The tag has three parts.
 
-**The Period (P0–P5) — scale of operation.** *Where in the scale of action does this law primarily operate?*
+**The Period (P0–P5) — how big a scale it works on.** *At what size does this law mainly operate?*
 
-- **P0** — Scale-invariant; operates the same way at every scale.
-- **P1** — Individual (sole actor).
-- **P2** — Dyadic / Small Group.
-- **P3** — Community / Congregation.
-- **P4** — Generational / Historical.
-- **P5** — Cosmic / Eschatological.
+- **P0** — Works the same way at every size (scale-invariant).
+- **P1** — One person, on their own.
+- **P2** — Two people or a small group.
+- **P3** — A whole community or congregation.
+- **P4** — Across generations / over history.
+- **P5** — Cosmic / the end of all things.
 
-**The Group (GI–GVI) — dimension of the person primarily addressed.** *Which part of the person is the law primarily working on?*
+**The Group (GI–GVI) — which part of the person it works on.** *Which part of a person is the law mainly working on?*
 
-- **GI** — Spirit (innermost).
-- **GII** — Heart (desire / will).
-- **GIII** — Soul (integration).
-- **GIV** — Mind / Will (cognition).
-- **GV** — Body / Action (embodied).
-- **GVI** — Structural Frame (architecture).
+- **GI** — Spirit (the innermost part).
+- **GII** — Heart (what you desire and choose).
+- **GIII** — Soul (what holds it all together).
+- **GIV** — Mind / Will (thinking).
+- **GV** — Body / Action (what you actually do).
+- **GVI** — Structural Frame (the way it is all built).
 
-**The directionality letter (V / H / B / I) — relational vector.** *Which direction does the law's causation flow between persons and God?*
+**The direction letter (V / H / B / I) — which way it runs.** *Which direction does the law run between people and God?*
 
-- **V** — Vertical (Person ↔ God).
-- **H** — Horizontal (Person ↔ Person).
-- **B** — Both V and H.
-- **I** — Intra-personal.
+- **V** — Vertical (between a person and God).
+- **H** — Horizontal (between one person and another).
+- **B** — Both: up to God and across to others.
+- **I** — Inside one person.
 
-So a tag like **(P1/GII, B)** on FL.III Heart-Throne reads as: an Individual-scale law that operates primarily in the Heart dimension, with both Person↔God and Person↔Person relational vectors. The Vol 5 Periodic Table chapter is the full reference and shows every law arrayed on the two axes at once; the tags here are the locator into that chapter.
+So a tag like **(P1/GII, B)** on FL.III Heart-Throne reads as: a law that works at the size of one person, mainly in the Heart, and runs both ways — between the person and God, and between the person and others. The Vol 5 Periodic Table chapter is the full reference; it lays every law out on both these scales at once, and the tags here are just the address that points you to it.
 
-The Band-of-closeness designation that appears on some Foundational Laws (Band 1, Band 2, Band 3) is described in the Foundational Laws intro's *Inclusion Bar* section; see there for what each Band means.
+The Band-of-closeness label that appears on some Foundational Laws (Band 1, Band 2, Band 3) is explained in the Foundational Laws intro's *Inclusion Bar* section; see there for what each Band means.
 
 ## How This Taxonomy Connects to Volumes 2, 3, and 4
-Volume 1’s structural and operational laws are the foundation. Volume 2 inherits this vocabulary and adds three new law types: Diagnostic Laws (which describe the conditions that block the Vol 1 laws from operating), Tool-Application Laws (which describe how specific clearing tools map to specific blockage types), and Developmental Laws (which describe how the capacity to operate in these laws grows over time). Volume 3 adds a Field/Quantitative layer: it asks how the Vol 1 and 2 laws can be expressed not just qualitatively but as measurable quantities and relational equations. The three volumes together form a single integrated taxonomy: structural → operational → diagnostic → therapeutic → developmental → quantitative. Vol 4 is a notional draft of how to test this whole structure.
+Volume 1’s structural and operational laws are the foundation. Volume 2 keeps this same vocabulary and adds three new kinds of law: Diagnostic Laws (what blocks the Vol 1 laws from working), Tool-Application Laws (which clearing tool fits which kind of blockage), and Developmental Laws (how your ability to live in these laws grows over time). Volume 3 adds a measuring layer: it asks how the Vol 1 and 2 laws might be described not just in words but as measurable amounts and relationships. Together the volumes form one connected system: structure → how it works → what blocks it → how to heal it → how it grows → how to measure it. Vol 4 is a rough draft of how the whole thing might be tested.
 
 Speaking of testing, Vol 2 is the most tested, in real use by the small groups I have been in over the years. Vol 1 (this volume) has been slow to develop over the past two-plus decades, and most of it has been reviewed multiple times by people I trust. There’s some new material from my doctoral research, but the really new idea is the draft Periodic Table of Elements for the laws. Vol 3 has been in notes and bits and pieces for years, but using AI to help generate, organize, and structure it gave me an intelligible, even readable approach I did not have before. It really needs testing by someone with the right qualifications. Vol 4 is just an AI-generated draft of a notional testing plan. If the first three volumes are close to right, then it offers a starting place for a testing plan. If the first three volumes are off base, then a different starting point might be needed.
 
-**VOL 2 CONNECTION: ***Volume 2 uses the Structural/Operational distinction introduced here as its diagnostic foundation. The Heart Soil exploration (Vol 2, Exp. 1) is explicitly a Diagnostic Law that explains why the operational laws of Vol 1 fail to produce fruit in specific soil conditions. When you reach Vol 2’s Part I, you will see that every blockage type maps to a specific way the Vol 1 laws are being interfered with.*
+**VOL 2 CONNECTION: ***Volume 2 builds its diagnosis on the Structural/Operational split introduced here. The Heart Soil exploration (Vol 2, Exp. 1) is a Diagnostic Law: it explains why the working laws of Vol 1 don’t bear fruit in certain kinds of soil. When you reach Vol 2’s Part I, you will see that each kind of blockage matches a specific way one of the Vol 1 laws is being interfered with.*
 
-**VOL 3 CONNECTION:  ***Volume 3 reframes the Structural Laws of this volume as the “landscape” (using Transcendental Field Theory’s configuration space) and the Operational Laws as the “dynamics” that describe movement through that landscape. Every Exploration in Vol 1 has a direct mapping in Vol 3’s quantitative framework: the Faith-Hope-Love triad locates in Truth-Goodness-Beauty space; the Obedience Channel becomes the feedback loop of the spiritual force equation. Note that what is in Vols 1 and 2 does not depend on TFT, but it might be a useful way to understand a larger context for what Vols 1 and 2 propose.*
+**VOL 3 CONNECTION:  ***Volume 3 pictures the Structural Laws of this volume as the “landscape” and the Operational Laws as the “movement” across that landscape (it uses a framework called Transcendental Field Theory). Every Exploration in Vol 1 has a matching place in Vol 3’s measuring framework: the Faith-Hope-Love triad maps onto Truth-Goodness-Beauty; the Obedience Channel becomes the feeding loop in the spiritual-force picture. Note that nothing in Vols 1 and 2 depends on this framework — it might just be a useful way to set what they propose in a larger context.*
 
-**VOL 4 CONNECTION: ***Volume 4 is the newest addition and focuses on developing testing protocols that could be used to see if these things are true (Acts 17:10-11).  Much more to consider: the testing creates a feedback loop to help clarify the definition of what is being tested. This, in turn, might change the testing protocol.*
+**VOL 4 CONNECTION: ***Volume 4 is the newest part. It works on ways to test whether these things are actually true (Acts 17:10-11).  And there is a twist worth noting: testing something feeds back and sharpens what you mean by it — which can then change the test itself.*
 
 **A Note on the Formation Documents**
 
