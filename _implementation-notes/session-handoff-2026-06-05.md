@@ -4,7 +4,7 @@
 "granddaddy voice" pilot (below). Everything else this session is DONE and dev+prod in sync.
 
 Repos (both clean):
-- **dev** `C:\Users\jgtit\claude\_work\Intentional-Journey-of-the-Heart-dev` — HEAD **`151805f`** (granddaddy obs #1–#6 + the Force-chapter pastoral guards; latter NOT yet mirrored)
+- **dev** `C:\Users\jgtit\claude\_work\Intentional-Journey-of-the-Heart-dev` — HEAD **`532354f`** (granddaddy obs #1–#6 + Force-chapter pastoral guards + FL.XVI Deliverer; last two NOT yet mirrored)
 - **prod** `C:\Users\jgtit\claude\_work\Intentional-Journey-of-the-Heart` — HEAD **`f1af643`** (obs #1–#6 all mirrored; **docs content dev+prod IN SYNC** — dev also carries extra `_implementation-notes` notes commits, not mirrored by design)
 - Mirror discipline: push dev → John reviews on the [dev site](https://jgtittle-ministries.github.io/Intentional-Journey-of-the-Heart-dev/) → mirror to prod ONLY on his word, with SHA-256-byte-identical + balanced-diff + (for Scripture chapters) verse-survival verification. Preview repo intentionally stale.
 
@@ -192,11 +192,22 @@ into the working Foundational Laws" disclaimer PRESENT & strong). The remaining 
   apparatus stays in place, now guarded.
 **STANDING PREFERENCE (John, 2026-06-05): avoid tradition-vs-tradition doctrinal debates in the writing
 ("not found them persuasive or useful"); DO prioritize pastoral support — especially for the dry/desolate
-believer.** *Still open from the three-stream review (separate from quantification): the missing
-war/deliverance (partly touched by granddaddy obs #1/#3), prosperity-firewall-to-the-table-entry of FL.IX,
-the Gal 3:13 cross-remedy, FL.VIII Jer 17:9 objection — none implemented.*
+believer.** *Still open from the three-stream review (separate from quantification): prosperity-firewall-to-the-
+table-entry of FL.IX, the Gal 3:13 cross-remedy, FL.VIII Jer 17:9 objection — none implemented.*
 
-**All six granddaddy observations (#1–#6) shipped to prod; the pastoral guards above are dev-only.**
+### ✅ IMPLEMENTED (dev `532354f`, NOT yet mirrored) — FL.XVI: name Christ the Deliverer (pastoral)
+John asked whether war/deliverance was already done; it was NOT (only the *scope-note*, obs #1/#3, which
+*acknowledges and defers* the gap — and FL.XVI's cross-ref actually says deliverance is *out of scope*).
+Verified: FL.XVI had zero deliverance content; FL.XV zero deceiver content. John chose the **pastoral**
+fix only (not the broader "put the war on the map"): added a warm close to **FL.XVI's Mechanism** naming
+**Christ the Deliverer** who sets the captive free (Luke 4:18) — so the bondage law has a *personal* way
+out, not just a mechanism. Kept distinct from the demonic-warfare/casting-out dimension (still deferred by
+the existing cross-ref). Plain gospel, no warfare-experience or doctrinal-debate (per his standing pref).
+**Still deliberately deferred** (the broader "war on the map"): the deceiver/2 Cor 4:4 in FL.XV, a warfare
+law in the 38-law spine / pulling FL.XLII forward, Gal 3:13 up from the Vol 3 speculative basement.
+
+**Prod state: granddaddy obs #1–#6 shipped; the Force-chapter pastoral guards (`151805f`) and the FL.XVI
+Deliverer (`532354f`) are dev-only, awaiting John's "mirror."**
 
 ---
 
