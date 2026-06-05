@@ -44,7 +44,7 @@ The family entry handles three things together: the **sequencing and loop-back s
 
 • **Treating the five-question sequence as therapist-interpretive analysis.** The pattern-recognition step at the end (hearing the connections and disconnections among the five answers) is collaborative-hearing for what the Spirit is highlighting, not therapist-or-self interpretive analysis. The Companion's discipline is to facilitate group hearing, not to interpret the participant's material.
 
-• **Pressing into the optional fifth question (*****Where do you put your energy?*****) when the participant is depleted or not ready.** The v5 refresh made it optional explicitly. When the participant has run out of energy or when the energy-disjunction (stated mission vs. actual energy) seems likely to produce shame, defer the fifth question to a subsequent session.
+• **Pressing into the optional fifth question (***Where do you put your energy?***) when the participant is depleted or not ready.** The v5 refresh made it optional explicitly. When the participant has run out of energy or when the energy-disjunction (stated mission vs. actual energy) seems likely to produce shame, defer the fifth question to a subsequent session.
 
 • **Using the trio format mechanics without the spiritual-direction frame.** The trio (responder / questioner / recorder) is structurally close to Ignatian *director / directee / silent witness*; without the frame, the trio drifts into coaching-pair-plus-secretary which loses the discernment register.
 
@@ -64,7 +64,7 @@ The family entry handles three things together: the **sequencing and loop-back s
 
 • **Stopping the clarity loop before sufficient specificity.** Vague mission articulation is a sign that Vision is still general or that Action has not yet been heard. The clarity questions (*What does X mean to you? / What would that look like? / How will you know?*) loop until the articulated mission is concrete enough to be walked out. Companions who close the loop early produce mission statements that cannot be walked.
 
-• **Pressing the Stretch step's *****Who will you report to?***** when no appropriate partner is available.** Sometimes the right initial reporting partner is the Companion themselves until the group's trust matures; sometimes no partner is the right answer for the immediate cycle and the protocol completes without that step (with the Companion noting that A31 has been partially run and will need its Stretch closing at a subsequent cycle). Forcing a partner-selection that does not fit the participant's current relational landscape produces accountability-in-name-only.
+• **Pressing the Stretch step's ***Who will you report to?*** when no appropriate partner is available.** Sometimes the right initial reporting partner is the Companion themselves until the group's trust matures; sometimes no partner is the right answer for the immediate cycle and the protocol completes without that step (with the Companion noting that A31 has been partially run and will need its Stretch closing at a subsequent cycle). Forcing a partner-selection that does not fit the participant's current relational landscape produces accountability-in-name-only.
 
 **The arc structure and sequencing**
 

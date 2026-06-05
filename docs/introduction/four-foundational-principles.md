@@ -15,4 +15,4 @@ I want to register a caution about my own title before you go further. C.S. Lewi
 
 3.	**These Laws are knowable in all three “worlds” simultaneously **— in my spirit, in my mind and emotions, and in my body and actions. If I have truly grasped a law of the Spirit, my doing will change. Otherwise, I have only memorized it, which is different. Said another way, if I am not changed by God’s word, then I haven’t yet heard God’s word.
 
-4.	**We can operate in these Laws.**** **This is not merely an intellectual exercise. The goal is to live closer to the life Jesus modeled — where miracles are not the exception but the expected fruit of operating in alignment with how God’s world actually works.
+4.	**We can operate in these Laws.** This is not merely an intellectual exercise. The goal is to live closer to the life Jesus modeled — where miracles are not the exception but the expected fruit of operating in alignment with how God’s world actually works.

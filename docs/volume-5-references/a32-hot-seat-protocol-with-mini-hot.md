@@ -121,7 +121,7 @@ The core operational sequence. Steps 1–4 are setup; steps 5–10 are the round
 
 - All: receive what was offered. The participant has received both rounds.
 
-9. **Optional Personal Ownership round — Companion II variant (pending founder decision on ****core**** placement).**
+9. **Optional Personal Ownership round — Companion II variant (pending founder decision on **core** placement).**
 
 - **If deployed:** Companion invites. *"Brothers, as you gave shadow or gold feedback, pick one thing you said and own it for yourself. Say to whichever brother you choose: 'I said you had X and I own that I have X too.' This is the Matt 7:3–5 discipline."*
 

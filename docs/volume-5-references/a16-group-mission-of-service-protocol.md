@@ -180,7 +180,7 @@ The protocol runs across multiple sessions, typically two to four. The session-l
 
 • **Modest first Actions are appropriate.** The 2008 ASC Manual's worked examples (a Thanksgiving food-basket outing for a specific neighborhood; painting a particular church) are appropriately scoped. A body's first A16 cycle should produce an Action the body can complete in two to twelve weeks and reflect on; later cycles can produce longer-horizon Actions.
 
-• **The CtR BoB *****Climbing the Mountain of God Together***** metaphor is available as worked exemplar** if the body finds richly developed group-mission articulations useful as orientation. Other bodies' articulations may also serve. The discipline is that each body develops its own articulation in its own context; worked exemplars illustrate the shape, not the form.
+• **The CtR BoB ***Climbing the Mountain of God Together*** metaphor is available as worked exemplar** if the body finds richly developed group-mission articulations useful as orientation. Other bodies' articulations may also serve. The discipline is that each body develops its own articulation in its own context; worked exemplars illustrate the shape, not the form.
 
 • **For women's groups (FotH), the §5.1(c) gender-framing pastoral-pattern applies.** The protocol's structural moves transfer cleanly. Companion judgment about specific framing language at certain moments may add or substitute words appropriate to the group's culture; the agency-source reversal and the Acts 13 pattern are gender-neutral and apply without adaptation.
 

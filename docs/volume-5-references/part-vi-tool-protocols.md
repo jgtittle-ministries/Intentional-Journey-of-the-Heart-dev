@@ -26,7 +26,7 @@ The Part VI entries are organized into two lists, A and B, and the distinction m
 
 The Companion's discernment selects from both lists for a gathering: an A-list work-option for the work-component; B-list access-modes within or alongside the A-list deployment as the participant's processing-style and the surfacing material require.
 
-**Container Forming: ****What this protocol does**
+**Container Forming: What this protocol does**
 
 The session liturgy is the corpus's core operational form for community formation work — the sequenced whole of *front-notes → formally-marked container opening → clearings → work → formally-marked closing → integration teachings* that operates as one integrated practice across a single gathering. The session as a whole is the unit of formation; its components are sequenced moves within one practice rather than freely substitutable tools. The integrity of the sequence — the order, the marked transitions between components, the closing that integrates the work into life — is structurally constitutive of the formation the session does.
 
@@ -36,9 +36,9 @@ This Part VI entry makes the session liturgy runnable for Companions. A Companio
 
 **When to use it**
 
-• **As the ****core**** operational form for weekly BoB / FotH small-group practice.** The session liturgy is the default form; departures from it (didactic teaching evenings, social gatherings, retreat formats) are operationally different practices serving different purposes.
+• **As the **core** operational form for weekly BoB / FotH small-group practice.** The session liturgy is the default form; departures from it (didactic teaching evenings, social gatherings, retreat formats) are operationally different practices serving different purposes.
 
-• **At weekly rhythm as ****core**** default.** Biweekly or monthly rhythm is acceptable at reduced formation depth; less frequent than monthly typically breaks the formation arc the session liturgy supports.
+• **At weekly rhythm as **core** default.** Biweekly or monthly rhythm is acceptable at reduced formation depth; less frequent than monthly typically breaks the formation arc the session liturgy supports.
 
 • **In groups with established container competency** — the V2.Exp8 refined four-condition discipline (Safe, Present, Clear, Intentional) operates as the structural foundation; new groups develop container competency through their first 4–8 sessions before the full session-liturgy's deeper work-options can be deployed reliably.
 
@@ -252,11 +252,11 @@ Where there are no frictions to clear (which is common in mature bodies that cle
 
 • **Vol 1 cross-references:** V1.Exp2 refined (deliberate attending-and-choosing at community level); V1.Exp1 (Hearing Channel); V1.Exp5 (Obedience Channel).
 
-• **A-list ****core**** work-options:** A33 Mission at Risk; A28 Heart Bible Study with PROAPT; A29 Any Doubts; A26 Tell Your Story; A32 Hot Seat; A5 Council deliberation; A17 + A23 Carpet-Style family; A18–A20 Tell-Show Release family; A24 Blessing Receiving; A25 Breaking the Contracts; A15 7×7 Mortality Visualization; A16 Group Mission of Service; A21 Say Your Mission; A27 + A30 + A31 Mission-Arc family; A12 Splitting a Role; A8 Transforming a Shaming Voice; A22 BoB Onboarding; A6 Fifth Step; A14 De-roling (closing-component requirement); A13 Closing-Affirmation (closing-component substantive ground).
+• **A-list **core** work-options:** A33 Mission at Risk; A28 Heart Bible Study with PROAPT; A29 Any Doubts; A26 Tell Your Story; A32 Hot Seat; A5 Council deliberation; A17 + A23 Carpet-Style family; A18–A20 Tell-Show Release family; A24 Blessing Receiving; A25 Breaking the Contracts; A15 7×7 Mortality Visualization; A16 Group Mission of Service; A21 Say Your Mission; A27 + A30 + A31 Mission-Arc family; A12 Splitting a Role; A8 Transforming a Shaming Voice; A22 BoB Onboarding; A6 Fifth Step; A14 De-roling (closing-component requirement); A13 Closing-Affirmation (closing-component substantive ground).
 
-• **B-list ****core**** work-options:** B18 Heart Prayer Time.
+• **B-list **core** work-options:** B18 Heart Prayer Time.
 
-• **Clearings sub-component ****core**** entries:** B17 PIES Communication and Clearing Model (core clearing-method, Cycle 3 Track 3); A1 MKP Clearing; A2 NVC OFNR.
+• **Clearings sub-component **core** entries:** B17 PIES Communication and Clearing Model (core clearing-method, Cycle 3 Track 3); A1 MKP Clearing; A2 NVC OFNR.
 
 • **Sibling protocols at session-adjacent level:** B21 Invitation (forthcoming Cycle 5; entry into the body upstream of session-liturgy deployment); B22 Group-Lifecycle Closing (forthcoming Cycle 5; closing the body downstream of final session-liturgy deployment); C10 Tool Time (leader-formation gathering; session-liturgy variant).
 

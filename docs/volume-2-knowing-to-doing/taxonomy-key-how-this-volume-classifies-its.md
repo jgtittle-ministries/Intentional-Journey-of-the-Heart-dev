@@ -57,4 +57,4 @@ Three conventions run through this volume that a reader should know about before
 
 *Diagnosis: Why the Channel Gets Blocked*
 
-**Vol 2 — Exploration ****O**** — Tool Import Discipline (Operating Ground)**
+**Vol 2 — Exploration **O** — Tool Import Discipline (Operating Ground)**

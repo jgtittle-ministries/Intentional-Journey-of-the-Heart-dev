@@ -14,7 +14,7 @@ The May 2006 Heart Bible Study document and the 2008 ASC Manual §3.1 add the gr
 
 **When to use it**
 
-• **As the ****core**** scripture-engagement practice in BoB / FotH groups.** PROAPT is the default form of group scripture-engagement; departures from it (lecture-style teaching, didactic Bible study, devotional reading) are operationally different practices serving different purposes. The Companion's discernment is which form fits which moment; for the formation work the corpus is designed for, PROAPT is the default.
+• **As the **core** scripture-engagement practice in BoB / FotH groups.** PROAPT is the default form of group scripture-engagement; departures from it (lecture-style teaching, didactic Bible study, devotional reading) are operationally different practices serving different purposes. The Companion's discernment is which form fits which moment; for the formation work the corpus is designed for, PROAPT is the default.
 
 • **For individual scripture-engagement** in the per-participant six-step form. The participant may run PROAPT alone or with a single accountability partner. The Tell step requires another person but does not require a full group.
 

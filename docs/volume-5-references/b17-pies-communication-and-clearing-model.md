@@ -17,7 +17,7 @@ PIES's two distinctive operational moves beyond A1 and A2: the four-quadrant fra
 
 **When to use it**
 
-• **As the ****core**** clearing-method when the friction's interpretive layer is operationally significant.** PIES's four-quadrant frame and story-externalization move are most operationally helpful when the friction involves substantive interpretation work — where the participant's story-telling about what happened is doing as much work as what happened.
+• **As the **core** clearing-method when the friction's interpretive layer is operationally significant.** PIES's four-quadrant frame and story-externalization move are most operationally helpful when the friction involves substantive interpretation work — where the participant's story-telling about what happened is doing as much work as what happened.
 
 • **For new bodies developing clearing competency.** PIES's explicit four-quadrant structure gives new participants explicit operational language for the clearings work; the structure scaffolds the clearing competency the body develops over its first 4–8 sessions. As the body internalizes the clearings discipline, the Companion may select A1 or A2 for simpler clearings in subsequent practice.
 
@@ -115,7 +115,7 @@ PIES runs in dyadic form (one participant clearing with another specific partici
 
 These are pastoral patterns the Companion may notice and respond to; they are not rules. The Companion's continuing practitioner-level workshopping refines how PIES operates across BoB and FotH bodies; the corpus is open to refinement of these patterns through continuing practice.
 
-**On the Companion-as-witness discipline****.** Throughout PIES, the Companion's stance is witness rather than reframing. The naming work is the participants' work; the Companion holds the room while the naming happens; the Companion offers the Lord's presence rather than the Companion's interpretation; the Companion defers any pastoral redirection to a subsequent conversation. This discipline applies particularly in the story-externalization move (the story is the speaking participant's to name; the Companion does not assess its accuracy) and in the receiving response (the receiving participant's response is what it is; the Companion does not edit it).
+**On the Companion-as-witness discipline.** Throughout PIES, the Companion's stance is witness rather than reframing. The naming work is the participants' work; the Companion holds the room while the naming happens; the Companion offers the Lord's presence rather than the Companion's interpretation; the Companion defers any pastoral redirection to a subsequent conversation. This discipline applies particularly in the story-externalization move (the story is the speaking participant's to name; the Companion does not assess its accuracy) and in the receiving response (the receiving participant's response is what it is; the Companion does not edit it).
 
 **On routing clearings that exceed scope.** The clearings sub-component has structural scope; some material may exceed it. Routing logic:
 
