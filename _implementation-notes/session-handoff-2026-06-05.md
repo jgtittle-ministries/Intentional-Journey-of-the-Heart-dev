@@ -4,7 +4,7 @@
 "granddaddy voice" pilot (below). Everything else this session is DONE and dev+prod in sync.
 
 Repos (both clean):
-- **dev** `C:\Users\jgtit\claude\_work\Intentional-Journey-of-the-Heart-dev` — HEAD **`68b53f7`** (granddaddy obs #1–#4; obs #4 = Vol 3 "what I mean by law")
+- **dev** `C:\Users\jgtit\claude\_work\Intentional-Journey-of-the-Heart-dev` — HEAD **`51c349d`** (granddaddy obs #1–#5; obs #5 = Vol 3 preamble metric-question/BSCP defense, NOT yet mirrored)
 - **prod** `C:\Users\jgtit\claude\_work\Intentional-Journey-of-the-Heart` — HEAD **`ef174fb`** (obs #1–#4 all mirrored; **docs content dev+prod IN SYNC** — dev also carries extra `_implementation-notes` notes commits, not mirrored by design)
 - Mirror discipline: push dev → John reviews on the [dev site](https://jgtittle-ministries.github.io/Intentional-Journey-of-the-Heart-dev/) → mirror to prod ONLY on his word, with SHA-256-byte-identical + balanced-diff + (for Scripture chapters) verse-survival verification. Preview repo intentionally stale.
 
@@ -136,9 +136,21 @@ pushed → dev `68b53f7`. NOT yet mirrored.** *Parked bigger question if John ev
 corpus-wide laws→principles rename is a separate large job (titles, numbering, Periodic Table, tiers)
 — deliberately NOT done.* **Mirrored to prod `ef174fb`** (2026-06-05, SHA-256 byte-identical).
 
-**NEXT when John's ready:** decide whether to scale to the chapter list (FL.III Heart-Throne, FL.VIII
-Desire-for-God, FL.XIV Vanity-of-Substitutes, FL.XXII Endurance-Hope). **All four observations
-(#1–#4) are now shipped to prod; dev+prod docs IN SYNC.**
+### ✅ IMPLEMENTED (dev) — Round 5, observation #5 (defending the quantification track)
+**Dictation:** the quantification track will offend some (he's already gotten pushback), but the
+**metric question** — "how can you tell? how could you measure/prove that's true?" — clears fuzzy
+thinking; physics has had equations predict the unobserved; grounded in his **Balanced Scorecard
+Process** experience measuring *innovation* and *customer trust* by asking the customer "how could you
+tell?", which produced contract-grade numbers (tens of millions/month).
+**Decision (John, 2026-06-05):** **fuller** draft; placed in the **Vol 3 preamble (A Note Before We
+Begin)**, after the "probably yes, partially, not yet" paragraph, before the TFT paragraph. Topic lead
+"A word on the pushback, and why I still ask the metric question." Added (mine, John kept): the
+Dirac/antimatter example + the "put God under a microscope" line. BSCP linked per the Vol 1
+held-tensions convention. **dev `51c349d`, NOT yet mirrored.**
+
+**NEXT when John's ready:** mirror obs #5; decide whether to scale to the chapter list (FL.III
+Heart-Throne, FL.VIII Desire-for-God, FL.XIV Vanity-of-Substitutes, FL.XXII Endurance-Hope). **Obs
+#1–#4 shipped to prod; obs #5 on dev awaiting mirror.**
 
 ---
 
