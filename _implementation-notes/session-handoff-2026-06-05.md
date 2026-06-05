@@ -4,8 +4,8 @@
 "granddaddy voice" pilot (below). Everything else this session is DONE and dev+prod in sync.
 
 Repos (both clean):
-- **dev** `C:\Users\jgtit\claude\_work\Intentional-Journey-of-the-Heart-dev` — HEAD **`6e16138`**
-- **prod** `C:\Users\jgtit\claude\_work\Intentional-Journey-of-the-Heart` — HEAD **`d237d53`**
+- **dev** `C:\Users\jgtit\claude\_work\Intentional-Journey-of-the-Heart-dev` — HEAD **`456161f`** (granddaddy obs #1 + obs #2)
+- **prod** `C:\Users\jgtit\claude\_work\Intentional-Journey-of-the-Heart` — HEAD **`67b4bc8`** (obs #1 mirrored; **obs #2 NOT yet mirrored**)
 - Mirror discipline: push dev → John reviews on the [dev site](https://jgtittle-ministries.github.io/Intentional-Journey-of-the-Heart-dev/) → mirror to prod ONLY on his word, with SHA-256-byte-identical + balanced-diff + (for Scripture chapters) verse-survival verification. Preview repo intentionally stale.
 
 ---
@@ -33,8 +33,11 @@ EACH dictation, return this **four-part contract**:
 **The granddaddy voice spec.** Warm, first-person. ONE concrete memory/confession (or a candid
 scope-note). Plain enough for a 15–16-yr-old. **Divine pronouns capitalized** (He/Him/His for
 Father/Jesus/Spirit) in new prose — book convention (NOTE: the Hearing-God *papers* use lowercase,
-but the Vol 1 *book* uses caps). Set off as an aside (e.g., a bold lead like "**A word from your
-granddad —**" or "**A candid word on X.**"). Ends pointing to Christ/grace, not to himself. Don't
+but the Vol 1 *book* uses caps). Set off as an aside with a bold lead. **STANDING CONVENTION (John's
+call, 2026-06-05): the personal-aside lead is "A word from your Granddaddy." — capital-G "Granddaddy"
+is what his grandkids call him and matches the "A Word to My Kids" signoff ("Daddy and Granddaddy").
+Use a topic lead like "A candid word on X." only for scope-notes (e.g., obs #1).** Ends pointing to
+Christ/grace, not to himself. Don't
 duplicate; fit the law; respect the tiers/theology. The three things John is judging: (a) does the
 draft still sound like HIM (don't over-polish the warmth out); (b) is placement good; (c) does the
 consistency-check actually catch conflicts.
@@ -48,8 +51,16 @@ staging is wanted, use `_implementation-notes/granddaddy-voice-drafts.md` to col
 **Nothing is pushed during the pilot.** Good first chapters (natural homes, well-known): FL.III
 Heart-Throne, FL.VIII Desire-for-God, FL.XIV Vanity-of-Substitutes, FL.XXII Endurance-Hope.
 
-### ⏳ PENDING DECISION — Round 1, observation #1 (spiritual warfare)
-John dictated his first observation: a **candid scope-note answering the Eldredge/Prince "missing
+### ✅ RESOLVED + IMPLEMENTED — Round 1, observation #1 (spiritual warfare)
+**Decision (2026-06-05):** John chose the **Fuller** draft and the **Open Trails + FL.XVI cross-ref**
+placement. **Implemented on dev and pushed → `1ff7f70`** (2 files: the fuller scope-note as a new
+"Some Open Trails" bullet in `connecting-the-dots…` beside the Global-Pentecostal trail; a one-line
+cross-ref in FL.XVI Bondage at the "getting free / set free" point in The Mechanism). **Mirrored to
+prod → `67b4bc8`** (2026-06-05, SHA-256 byte-identical both files, balanced diff). dev+prod IN SYNC.
+The carried flag below
+(this answers "why thin" but does NOT add warfare into the laws) remains open and separate.
+
+Original dictation (for the record): a **candid scope-note answering the Eldredge/Prince "missing
 war" critique** — he's written little on spiritual warfare because he's had little *direct
 experience*; he honors Prince & Eldredge who have and points readers to them; Scripture is plainly
 clear it's real (Daniel, Eph 6, Jesus casting out demons); his rule is to witness only to what the
@@ -64,6 +75,33 @@ draft, and (b) the placement.** The two drafts (keep verbatim — these are his 
 > **Shorter:** **A candid word on spiritual warfare.** You'll notice I say little here about spiritual warfare. Scripture is plain that it is real — Daniel and the prince of Persia, the armor of Ephesians 6, Jesus casting out demons — and I don't doubt any of it. But I've had little direct experience of it myself, and I've kept to a simple rule: write only what the Lord has shown me firsthand, with Scripture underneath. Men I trust — Derek Prince, John Eldredge — have walked there; I'd send you to them. This was never meant to stay one man's walk. As the Fellowship of the Heart grows, I expect others who have lived this part of the battle to add what they've seen. I'll be glad when they do. Praise God.
 
 **Placement recommended:** primary home = the **"Some Open Trails" section of `connecting-the-dots-how-the-eight-explorations.md`** (Vol 1) — it already lists candid gaps incl. tradition trails (Wesleyan-Holiness, Global Pentecostal, Sacramental); a **"Spiritual Warfare and Deliverance"** trail belongs beside the Global-Pentecostal one. PLUS a one-line cross-reference from **FL.XVI Bondage** (the law a warfare-expecting reader lands on). Secondary option: a short scope caveat in the Opening Miracle Frame or `read-me-first`. Consistency: fits the "one man's walk / witness firsthand" frame (read-me-first, A Word to My Kids, Inclusion Bar) + the Vol 6 open-source model; **affirms warfare is real/scriptural** (answers Prince's worry) while keeping scope. **Flag carried:** this candid note answers the "why thin" charge but does NOT add warfare *into the laws* — Eldredge/Prince separately wanted deliverance named in FL.XVI, the deceiver (2 Cor 4:4) in FL.XV, and possibly a warfare law in the spine; those are bigger, separate decisions.
+
+### ✅ RESOLVED + IMPLEMENTED — Round 2, observation #2 (will + attention)
+**Dictation:** accountability before the Lord rests on two foundational things — **the will** (the
+decisions I make around my circumstances) and **the attention** (where I focus) — in a world "full
+of good, bad, and some just plain ugly"; I'm only accountable for what I *choose*, not for what
+happened *to* me. **No spot named** (deliberate Round-2 difficulty).
+
+**The stress-test paid off.** Consistency check caught that this is **near-duplicate of existing
+doctrine**: Exploration 02 already defines the spirit as "the part of you that deliberately pays
+attention and chooses… the part scripture holds you **responsible** for" — i.e., will+attention+
+responsibility is already the book's *abstract* definition of the spirit. Also flagged: theological
+tension with **FL.XVI Bondage** ("only what I choose" vs. the bound will) and a needed guard so
+"not accountable for what happened to me" reads as *moral responsibility*, not "circumstances leave
+no mark" (vs. FL.XI + soul-care material). So the task became **warm up the existing definition,
+not insert a new claim.**
+
+**Decision (John, 2026-06-05):** add the **tighter** draft as a granddaddy aside **right after the
+spirit's job-definition / Certainty card in Exploration 02**, before the Connections block. Lead
+fixed to **"A word from your Granddaddy."** Keeps the Spirit-steadies-the-will guard line.
+**Implemented + pushed → dev `456161f`. NOT mirrored to prod** (awaiting John's dev-site review +
+"mirror" word). The aside as shipped:
+
+> **A word from your Granddaddy.** A great deal has happened to me in this life that I never chose — some of it good, some hard, and some just plain ugly. I've come to believe that before the Lord I'm not finally held to account for most of that. I'm held to account for two things: what I *chose*, and where I let my *attention* rest. Those two are mine to answer for; the rest I bring to Him and leave there. And even those two I can't keep straight for long on my own — it's His Spirit in me who steadies my choosing and turns my eyes back to what is true.
+
+**Pilot status:** both dry-run rounds complete (easy fit + hard/overlap case). Loop proven end-to-end.
+**NEXT when John's ready:** decide whether to scale to the chapter list (FL.III Heart-Throne, FL.VIII
+Desire-for-God, FL.XIV Vanity-of-Substitutes, FL.XXII Endurance-Hope) and whether to mirror obs #2.
 
 ---
 
