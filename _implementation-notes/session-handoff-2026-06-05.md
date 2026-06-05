@@ -5,7 +5,7 @@
 
 Repos (both clean):
 - **dev** `C:\Users\jgtit\claude\_work\Intentional-Journey-of-the-Heart-dev` — HEAD **`68b53f7`** (granddaddy obs #1–#4; obs #4 = Vol 3 "what I mean by law")
-- **prod** `C:\Users\jgtit\claude\_work\Intentional-Journey-of-the-Heart` — HEAD **`9895457`** (obs #1 + obs #2 both mirrored; **docs content dev+prod IN SYNC** — dev also carries extra `_implementation-notes` notes commits, not mirrored by design)
+- **prod** `C:\Users\jgtit\claude\_work\Intentional-Journey-of-the-Heart` — HEAD **`ef174fb`** (obs #1–#4 all mirrored; **docs content dev+prod IN SYNC** — dev also carries extra `_implementation-notes` notes commits, not mirrored by design)
 - Mirror discipline: push dev → John reviews on the [dev site](https://jgtittle-ministries.github.io/Intentional-Journey-of-the-Heart-dev/) → mirror to prod ONLY on his word, with SHA-256-byte-identical + balanced-diff + (for Scripture chapters) verse-survival verification. Preview repo intentionally stale.
 
 ---
@@ -82,7 +82,7 @@ appended to this same warfare bullet — he was never given the sight of **Elish
 ("He would have shown me if I'd needed it"), leaves that aspect to others, and closes with his prayer
 that his kids' journey go **beyond** his ("add what He shows you… let your journey go well beyond
 mine"). Tighter draft, kept as one continuous bullet per John (declined the split-to-A-Word-to-My-Kids
-option). **On dev `bd62309`, NOT yet mirrored.** Consistency: extends (doesn't duplicate) the bullet's
+option). **dev `bd62309` → mirrored prod `ef174fb`** (2026-06-05). Consistency: extends (doesn't duplicate) the bullet's
 "different members different sight" close; the "go beyond me" half overlaps A Word to My Kids' "I do
 not know what you will do with all of this" — kept here per John's call, so watch for echo if that
 chapter is touched.
@@ -134,10 +134,11 @@ echoes Kepler just above and pre-frames the later Newton paragraph. Topic lead "
 calling these 'laws.'" (not the Granddaddy lead — terminology note, like obs #1). **Implemented +
 pushed → dev `68b53f7`. NOT yet mirrored.** *Parked bigger question if John ever wants it: a genuine
 corpus-wide laws→principles rename is a separate large job (titles, numbering, Periodic Table, tiers)
-— deliberately NOT done.*
+— deliberately NOT done.* **Mirrored to prod `ef174fb`** (2026-06-05, SHA-256 byte-identical).
 
-**NEXT when John's ready:** mirror obs #3 + #4; decide whether to scale to the chapter list (FL.III
-Heart-Throne, FL.VIII Desire-for-God, FL.XIV Vanity-of-Substitutes, FL.XXII Endurance-Hope).
+**NEXT when John's ready:** decide whether to scale to the chapter list (FL.III Heart-Throne, FL.VIII
+Desire-for-God, FL.XIV Vanity-of-Substitutes, FL.XXII Endurance-Hope). **All four observations
+(#1–#4) are now shipped to prod; dev+prod docs IN SYNC.**
 
 ---
 
