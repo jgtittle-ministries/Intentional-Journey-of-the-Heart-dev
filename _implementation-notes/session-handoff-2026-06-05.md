@@ -5,7 +5,7 @@
 
 Repos (both clean):
 - **dev** `C:\Users\jgtit\claude\_work\Intentional-Journey-of-the-Heart-dev` — HEAD **`c174259`** (granddaddy obs #1–#6; obs #6 = Vol 3 epilogue "standing where Newton stood", NOT yet mirrored)
-- **prod** `C:\Users\jgtit\claude\_work\Intentional-Journey-of-the-Heart` — HEAD **`7aff100`** (obs #1–#5 all mirrored; **docs content dev+prod IN SYNC** — dev also carries extra `_implementation-notes` notes commits, not mirrored by design)
+- **prod** `C:\Users\jgtit\claude\_work\Intentional-Journey-of-the-Heart` — HEAD **`f1af643`** (obs #1–#6 all mirrored; **docs content dev+prod IN SYNC** — dev also carries extra `_implementation-notes` notes commits, not mirrored by design)
 - Mirror discipline: push dev → John reviews on the [dev site](https://jgtittle-ministries.github.io/Intentional-Journey-of-the-Heart-dev/) → mirror to prod ONLY on his word, with SHA-256-byte-identical + balanced-diff + (for Scripture chapters) verse-survival verification. Preview repo intentionally stale.
 
 ---
@@ -160,13 +160,13 @@ disagreements," + Inclusion Bar "not contested doctrine." So obs #6 DEEPENS with
 illustrations + the "stand in that place" posture; it does not re-announce wide consent.
 **Decision (John, 2026-06-05):** **tighter** draft; placed in the **Vol 3 epilogue (The Invitation
 Forward)**, right before "Pick up a tool," so the posture leads into the call to test. Topic lead "A
-word on standing where Newton stood." **dev `c174259`, NOT yet mirrored.**
+word on standing where Newton stood." **dev `c174259` → mirrored prod `f1af643`** (2026-06-05, SHA-256 byte-identical).
 
-**NEXT when John's ready:** mirror obs #6; decide whether to scale to the chapter list (FL.III
-Heart-Throne, FL.VIII Desire-for-God, FL.XIV Vanity-of-Substitutes, FL.XXII Endurance-Hope). **Obs
-#1–#5 shipped to prod; obs #6 on dev awaiting mirror.** Emergent pattern: **obs #4+#5+#6 now form a
-complete three-beat apologia for Vol 3** — #4 defends the word "law," #5 the method vs. pushback, #6
-the epistemic humility (claim the relationship, hold the interpretation loosely).
+**NEXT when John's ready:** decide whether to scale to the chapter list (FL.III Heart-Throne, FL.VIII
+Desire-for-God, FL.XIV Vanity-of-Substitutes, FL.XXII Endurance-Hope). **All six observations (#1–#6)
+shipped to prod; dev+prod docs IN SYNC.** Emergent pattern: **obs #4+#5+#6 form a complete three-beat
+apologia for Vol 3** — #4 defends the word "law," #5 the method vs. pushback, #6 the epistemic humility
+(claim the relationship, hold the interpretation loosely).
 
 ---
 
