@@ -5,7 +5,7 @@
 
 Repos (both clean):
 - **dev** `C:\Users\jgtit\claude\_work\Intentional-Journey-of-the-Heart-dev` — HEAD **`532354f`** (granddaddy obs #1–#6 + Force-chapter pastoral guards + FL.XVI Deliverer; last two NOT yet mirrored)
-- **prod** `C:\Users\jgtit\claude\_work\Intentional-Journey-of-the-Heart` — HEAD **`f1af643`** (obs #1–#6 all mirrored; **docs content dev+prod IN SYNC** — dev also carries extra `_implementation-notes` notes commits, not mirrored by design)
+- **prod** `C:\Users\jgtit\claude\_work\Intentional-Journey-of-the-Heart` — HEAD **`a37db63`** (obs #1–#6 + Force-chapter pastoral guards + FL.XVI Deliverer all mirrored; **docs content dev+prod IN SYNC** — dev also carries extra `_implementation-notes` notes commits, not mirrored by design)
 - Mirror discipline: push dev → John reviews on the [dev site](https://jgtittle-ministries.github.io/Intentional-Journey-of-the-Heart-dev/) → mirror to prod ONLY on his word, with SHA-256-byte-identical + balanced-diff + (for Scripture chapters) verse-survival verification. Preview repo intentionally stale.
 
 ---
@@ -206,8 +206,9 @@ the existing cross-ref). Plain gospel, no warfare-experience or doctrinal-debate
 **Still deliberately deferred** (the broader "war on the map"): the deceiver/2 Cor 4:4 in FL.XV, a warfare
 law in the 38-law spine / pulling FL.XLII forward, Gal 3:13 up from the Vol 3 speculative basement.
 
-**Prod state: granddaddy obs #1–#6 shipped; the Force-chapter pastoral guards (`151805f`) and the FL.XVI
-Deliverer (`532354f`) are dev-only, awaiting John's "mirror."**
+**Prod state: ALL of it now shipped — granddaddy obs #1–#6 + the Force-chapter pastoral guards (`151805f`)
++ the FL.XVI Deliverer (`532354f`) → mirrored to prod `a37db63` (2026-06-05, SHA-256 byte-identical, 3
+files, balanced diff). dev+prod docs IN SYNC.**
 
 ---
 
