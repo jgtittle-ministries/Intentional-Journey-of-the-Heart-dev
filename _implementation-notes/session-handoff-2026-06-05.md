@@ -4,7 +4,17 @@
 "granddaddy voice" pilot (below). Everything else this session is DONE and dev+prod in sync.
 
 Repos (both clean):
-- **dev** `C:\Users\jgtit\claude\_work\Intentional-Journey-of-the-Heart-dev` — HEAD **`532354f`** (granddaddy obs #1–#6 + Force-chapter pastoral guards + FL.XVI Deliverer; last two NOT yet mirrored)
+- **dev** `C:\Users\jgtit\claude\_work\Intentional-Journey-of-the-Heart-dev` — HEAD **`af8316b`** (everything through the FL.XVI Deliverer mirrored to prod `a37db63`; **NEW dev-only: FL.I granddaddy testimony, obs #7**)
+
+**NEW RHYTHM (John, 2026-06-05):** work the remaining peer-review items **through the granddaddy-voice
+loop, chapter by chapter** — John dictates his thoughts on a chapter; the assistant first surfaces any
+still-open peer-review items that touch THAT chapter (as context for him), then runs the 4-part contract
+on his dictation. Started with **FL.I**: peer-review slate was clear (its Job-4:8/Eliphaz reframe +
+Gal-6:7-9 anchor + prosperity guard were already done in the four-tradition pass); John's dictated
+tithing→hearing-and-obeying testimony organically reinforced the very anti-prosperity guard the reviewers
+wanted strengthened. **obs #7 implemented → dev `af8316b`, NOT yet mirrored.** (See the still-open
+peer-review buckets logged in the FL.XVI/quantification sections above — they get picked up per-chapter
+as John reaches them.)
 - **prod** `C:\Users\jgtit\claude\_work\Intentional-Journey-of-the-Heart` — HEAD **`a37db63`** (obs #1–#6 + Force-chapter pastoral guards + FL.XVI Deliverer all mirrored; **docs content dev+prod IN SYNC** — dev also carries extra `_implementation-notes` notes commits, not mirrored by design)
 - Mirror discipline: push dev → John reviews on the [dev site](https://jgtittle-ministries.github.io/Intentional-Journey-of-the-Heart-dev/) → mirror to prod ONLY on his word, with SHA-256-byte-identical + balanced-diff + (for Scripture chapters) verse-survival verification. Preview repo intentionally stale.
 
