@@ -5,7 +5,7 @@
 
 Repos (both clean):
 - **dev** `C:\Users\jgtit\claude\_work\Intentional-Journey-of-the-Heart-dev` — HEAD **`456161f`** (granddaddy obs #1 + obs #2)
-- **prod** `C:\Users\jgtit\claude\_work\Intentional-Journey-of-the-Heart` — HEAD **`67b4bc8`** (obs #1 mirrored; **obs #2 NOT yet mirrored**)
+- **prod** `C:\Users\jgtit\claude\_work\Intentional-Journey-of-the-Heart` — HEAD **`9895457`** (obs #1 + obs #2 both mirrored; **docs content dev+prod IN SYNC** — dev also carries extra `_implementation-notes` notes commits, not mirrored by design)
 - Mirror discipline: push dev → John reviews on the [dev site](https://jgtittle-ministries.github.io/Intentional-Journey-of-the-Heart-dev/) → mirror to prod ONLY on his word, with SHA-256-byte-identical + balanced-diff + (for Scripture chapters) verse-survival verification. Preview repo intentionally stale.
 
 ---
@@ -94,8 +94,8 @@ not insert a new claim.**
 **Decision (John, 2026-06-05):** add the **tighter** draft as a granddaddy aside **right after the
 spirit's job-definition / Certainty card in Exploration 02**, before the Connections block. Lead
 fixed to **"A word from your Granddaddy."** Keeps the Spirit-steadies-the-will guard line.
-**Implemented + pushed → dev `456161f`. NOT mirrored to prod** (awaiting John's dev-site review +
-"mirror" word). The aside as shipped:
+**Implemented + pushed → dev `456161f`; mirrored to prod `9895457`** (2026-06-05, SHA-256
+byte-identical, balanced diff). dev+prod docs IN SYNC. The aside as shipped:
 
 > **A word from your Granddaddy.** A great deal has happened to me in this life that I never chose — some of it good, some hard, and some just plain ugly. I've come to believe that before the Lord I'm not finally held to account for most of that. I'm held to account for two things: what I *chose*, and where I let my *attention* rest. Those two are mine to answer for; the rest I bring to Him and leave there. And even those two I can't keep straight for long on my own — it's His Spirit in me who steadies my choosing and turns my eyes back to what is true.
 
