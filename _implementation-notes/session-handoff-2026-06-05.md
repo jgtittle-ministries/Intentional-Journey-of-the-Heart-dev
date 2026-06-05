@@ -4,7 +4,7 @@
 "granddaddy voice" pilot (below). Everything else this session is DONE and dev+prod in sync.
 
 Repos (both clean):
-- **dev** `C:\Users\jgtit\claude\_work\Intentional-Journey-of-the-Heart-dev` — HEAD **`c174259`** (granddaddy obs #1–#6; obs #6 = Vol 3 epilogue "standing where Newton stood", NOT yet mirrored)
+- **dev** `C:\Users\jgtit\claude\_work\Intentional-Journey-of-the-Heart-dev` — HEAD **`151805f`** (granddaddy obs #1–#6 + the Force-chapter pastoral guards; latter NOT yet mirrored)
 - **prod** `C:\Users\jgtit\claude\_work\Intentional-Journey-of-the-Heart` — HEAD **`f1af643`** (obs #1–#6 all mirrored; **docs content dev+prod IN SYNC** — dev also carries extra `_implementation-notes` notes commits, not mirrored by design)
 - Mirror discipline: push dev → John reviews on the [dev site](https://jgtittle-ministries.github.io/Intentional-Journey-of-the-Heart-dev/) → mirror to prod ONLY on his word, with SHA-256-byte-identical + balanced-diff + (for Scripture chapters) verse-survival verification. Preview repo intentionally stale.
 
@@ -163,10 +163,40 @@ Forward)**, right before "Pick up a tool," so the posture leads into the call to
 word on standing where Newton stood." **dev `c174259` → mirrored prod `f1af643`** (2026-06-05, SHA-256 byte-identical).
 
 **NEXT when John's ready:** decide whether to scale to the chapter list (FL.III Heart-Throne, FL.VIII
-Desire-for-God, FL.XIV Vanity-of-Substitutes, FL.XXII Endurance-Hope). **All six observations (#1–#6)
-shipped to prod; dev+prod docs IN SYNC.** Emergent pattern: **obs #4+#5+#6 form a complete three-beat
-apologia for Vol 3** — #4 defends the word "law," #5 the method vs. pushback, #6 the epistemic humility
-(claim the relationship, hold the interpretation loosely).
+Desire-for-God, FL.XIV Vanity-of-Substitutes, FL.XXII Endurance-Hope). Emergent pattern: **obs #4+#5+#6
+form a complete three-beat apologia for Vol 3** — #4 defends the word "law," #5 the method vs. pushback,
+#6 the epistemic humility (claim the relationship, hold the interpretation loosely).
+
+### ✅ IMPLEMENTED (dev `151805f`, NOT yet mirrored) — quantification gap-check + pastoral guards
+John asked whether the "challenges to quantification" from the last two peer reviews were all
+answered. **Finding (key):** the reviews aimed *two kinds* of challenge at quantification. **Kind A**
+("is it legitimate to quantify / aren't you overclaiming") = answered by obs #4/#5/#6. **Kind B** ("the
+specific apparatus relocates God's agency to the operator / reads as a technique") = the **unanimous #1
+of all seven reviewers**, and obs #4/#5/#6 do NOT touch it. Verified in live text: the worst over-reaches
+were already fixed in the **four-tradition** implementation (the "more aligned → more miraculous" hinge
+clause GONE; FL.XVII "two-and-a-half orders of magnitude" GONE; Newton-"override" analogy GONE; Three-
+Desires "Newton's laws" GONE; the Force-chapter "not a calculation of God's response / must never slip
+into the working Foundational Laws" disclaimer PRESENT & strong). The remaining Kind-B items were in the
+**un-implemented three-stream punch-list**. **Implemented now** in `spiritual-force-energy-and-power.md`
+(+ pointer in `opening-miracle-frame.md`):
+- **Prince's tether** — governing sentence: the "power/force" is the Holy Spirit *Himself*, a Person who
+  works as He wills (John 3:8; 1 Cor 12:11), not a stored charge. *(John: deliver as plain truth, NOT as
+  the word-faith doctrinal debate — done.)*
+- **Foster's recast** — "Trust as a Reservoir" → "Trust, a Gift We Keep Receiving, Not a Tank We Fill."
+- **"A Word for the Dry Season"** (new H2) — clear, lived-voice pastoral guard so a believer in
+  *prolonged desolation* (distinct from the Miracle Frame's existing *unanswered-prayer* guard) does not
+  read dryness as operator-failure. John's strong personal stake ("I've been in that place several times").
+  Ps 42/88, Job, Paul's thorn, Gethsemane, Ps 139:8, Lam 3:22-23; ends in grace. Miracle Frame now points
+  to it. John approved: "I didn't write it but I could have."
+- **DECLINED:** Eldredge's "move the equation out of the Vol 1 body to Vol 3/appendix" — John said no; the
+  apparatus stays in place, now guarded.
+**STANDING PREFERENCE (John, 2026-06-05): avoid tradition-vs-tradition doctrinal debates in the writing
+("not found them persuasive or useful"); DO prioritize pastoral support — especially for the dry/desolate
+believer.** *Still open from the three-stream review (separate from quantification): the missing
+war/deliverance (partly touched by granddaddy obs #1/#3), prosperity-firewall-to-the-table-entry of FL.IX,
+the Gal 3:13 cross-remedy, FL.VIII Jer 17:9 objection — none implemented.*
+
+**All six granddaddy observations (#1–#6) shipped to prod; the pastoral guards above are dev-only.**
 
 ---
 
