@@ -4,7 +4,7 @@
 "granddaddy voice" pilot (below). Everything else this session is DONE and dev+prod in sync.
 
 Repos (both clean):
-- **dev** `C:\Users\jgtit\claude\_work\Intentional-Journey-of-the-Heart-dev` — HEAD **`456161f`** (granddaddy obs #1 + obs #2)
+- **dev** `C:\Users\jgtit\claude\_work\Intentional-Journey-of-the-Heart-dev` — HEAD **`bd62309`** (granddaddy obs #1 + obs #2 + obs #3 warfare-bullet extension)
 - **prod** `C:\Users\jgtit\claude\_work\Intentional-Journey-of-the-Heart` — HEAD **`9895457`** (obs #1 + obs #2 both mirrored; **docs content dev+prod IN SYNC** — dev also carries extra `_implementation-notes` notes commits, not mirrored by design)
 - Mirror discipline: push dev → John reviews on the [dev site](https://jgtittle-ministries.github.io/Intentional-Journey-of-the-Heart-dev/) → mirror to prod ONLY on his word, with SHA-256-byte-identical + balanced-diff + (for Scripture chapters) verse-survival verification. Preview repo intentionally stale.
 
@@ -75,6 +75,17 @@ draft, and (b) the placement.** The two drafts (keep verbatim — these are his 
 > **Shorter:** **A candid word on spiritual warfare.** You'll notice I say little here about spiritual warfare. Scripture is plain that it is real — Daniel and the prince of Persia, the armor of Ephesians 6, Jesus casting out demons — and I don't doubt any of it. But I've had little direct experience of it myself, and I've kept to a simple rule: write only what the Lord has shown me firsthand, with Scripture underneath. Men I trust — Derek Prince, John Eldredge — have walked there; I'd send you to them. This was never meant to stay one man's walk. As the Fellowship of the Heart grows, I expect others who have lived this part of the battle to add what they've seen. I'll be glad when they do. Praise God.
 
 **Placement recommended:** primary home = the **"Some Open Trails" section of `connecting-the-dots-how-the-eight-explorations.md`** (Vol 1) — it already lists candid gaps incl. tradition trails (Wesleyan-Holiness, Global Pentecostal, Sacramental); a **"Spiritual Warfare and Deliverance"** trail belongs beside the Global-Pentecostal one. PLUS a one-line cross-reference from **FL.XVI Bondage** (the law a warfare-expecting reader lands on). Secondary option: a short scope caveat in the Opening Miracle Frame or `read-me-first`. Consistency: fits the "one man's walk / witness firsthand" frame (read-me-first, A Word to My Kids, Inclusion Bar) + the Vol 6 open-source model; **affirms warfare is real/scriptural** (answers Prince's worry) while keeping scope. **Flag carried:** this candid note answers the "why thin" charge but does NOT add warfare *into the laws* — Eldredge/Prince separately wanted deliverance named in FL.XVI, the deceiver (2 Cor 4:4) in FL.XV, and possibly a warfare law in the spine; those are bigger, separate decisions.
+
+**EXTENDED 2026-06-05 (obs #3, "additional to the warfare discussion"):** John dictated a continuation
+appended to this same warfare bullet — he was never given the sight of **Elisha's servant** (2 Kings
+6:15–17, horses/chariots of fire; he said "Elijah's," corrected to Elisha), is at peace with it
+("He would have shown me if I'd needed it"), leaves that aspect to others, and closes with his prayer
+that his kids' journey go **beyond** his ("add what He shows you… let your journey go well beyond
+mine"). Tighter draft, kept as one continuous bullet per John (declined the split-to-A-Word-to-My-Kids
+option). **On dev `bd62309`, NOT yet mirrored.** Consistency: extends (doesn't duplicate) the bullet's
+"different members different sight" close; the "go beyond me" half overlaps A Word to My Kids' "I do
+not know what you will do with all of this" — kept here per John's call, so watch for echo if that
+chapter is touched.
 
 ### ✅ RESOLVED + IMPLEMENTED — Round 2, observation #2 (will + attention)
 **Dictation:** accountability before the Lord rests on two foundational things — **the will** (the
