@@ -4,7 +4,7 @@
 "granddaddy voice" pilot (below). Everything else this session is DONE and dev+prod in sync.
 
 Repos (both clean):
-- **dev** `C:\Users\jgtit\claude\_work\Intentional-Journey-of-the-Heart-dev` — HEAD **`bd62309`** (granddaddy obs #1 + obs #2 + obs #3 warfare-bullet extension)
+- **dev** `C:\Users\jgtit\claude\_work\Intentional-Journey-of-the-Heart-dev` — HEAD **`68b53f7`** (granddaddy obs #1–#4; obs #4 = Vol 3 "what I mean by law")
 - **prod** `C:\Users\jgtit\claude\_work\Intentional-Journey-of-the-Heart` — HEAD **`9895457`** (obs #1 + obs #2 both mirrored; **docs content dev+prod IN SYNC** — dev also carries extra `_implementation-notes` notes commits, not mirrored by design)
 - Mirror discipline: push dev → John reviews on the [dev site](https://jgtittle-ministries.github.io/Intentional-Journey-of-the-Heart-dev/) → mirror to prod ONLY on his word, with SHA-256-byte-identical + balanced-diff + (for Scripture chapters) verse-survival verification. Preview repo intentionally stale.
 
@@ -111,8 +111,33 @@ byte-identical, balanced diff). dev+prod docs IN SYNC. The aside as shipped:
 > **A word from your Granddaddy.** A great deal has happened to me in this life that I never chose — some of it good, some hard, and some just plain ugly. I've come to believe that before the Lord I'm not finally held to account for most of that. I'm held to account for two things: what I *chose*, and where I let my *attention* rest. Those two are mine to answer for; the rest I bring to Him and leave there. And even those two I can't keep straight for long on my own — it's His Spirit in me who steadies my choosing and turns my eyes back to what is true.
 
 **Pilot status:** both dry-run rounds complete (easy fit + hard/overlap case). Loop proven end-to-end.
-**NEXT when John's ready:** decide whether to scale to the chapter list (FL.III Heart-Throne, FL.VIII
-Desire-for-God, FL.XIV Vanity-of-Substitutes, FL.XXII Endurance-Hope) and whether to mirror obs #2.
+Now in live use — John keeps dictating observations and they ship via the same loop.
+
+### ✅ RESOLVED + IMPLEMENTED — Round 4, observation #4 (what "law" means — gravity before Newton)
+**Dictation:** John has used "laws" throughout but wondered whether "underlying principles" is the
+truer word — these are "relationships that shape our lives whether we are aware of them or not";
+analogy = gravity "worked as God designed it before Newton figured out how to write it out in
+equations." Guessed home: Vol 3.
+
+**Consistency check (load-bearing):** flagged this is **NOT a rename** — "law" is woven through the
+whole corpus (Vol 1 title, FL.I–XLVI, Periodic Table, tier labels, the just-settled "46 Foundational
+Laws" framing); and the gravity analogy *defends* "law" (gravity IS "the law of gravity") rather than
+retracting it. Also half-present already: intro Four-Foundational-Principles #1 ("Laws of the Spirit
+exist… lawful relationships") + its C.S. Lewis law-vs-Lawgiver caveat; Vol 3 Exp 01's Newton/Kepler
+"thinking God's thoughts after Him." New content = the *temporal* point (reality precedes
+quantification) + the explicit laws-vs-principles word-question. ("Principle" is also already taken
+for the four axioms — third reason not to rename.)
+
+**Decision (John, 2026-06-05):** **clarify, keep "laws"** (no rename); **fuller** draft; placed at the
+close of "The Original Vision and Its Source" in **Vol 3 Exp 01 (The Case for Quantification)**, so it
+echoes Kepler just above and pre-frames the later Newton paragraph. Topic lead "A word on why I keep
+calling these 'laws.'" (not the Granddaddy lead — terminology note, like obs #1). **Implemented +
+pushed → dev `68b53f7`. NOT yet mirrored.** *Parked bigger question if John ever wants it: a genuine
+corpus-wide laws→principles rename is a separate large job (titles, numbering, Periodic Table, tiers)
+— deliberately NOT done.*
+
+**NEXT when John's ready:** mirror obs #3 + #4; decide whether to scale to the chapter list (FL.III
+Heart-Throne, FL.VIII Desire-for-God, FL.XIV Vanity-of-Substitutes, FL.XXII Endurance-Hope).
 
 ---
 
