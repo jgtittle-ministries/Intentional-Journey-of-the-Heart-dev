@@ -12,7 +12,7 @@ Contents of Volume 1: Laws of the Spirit. Each entry below opens that section of
 - [What We Are Being Formed For: The Kingdom of God Now](what-we-are-being-formed-for-the.md) — What We Are Being Formed For: The Kingdom of God Now
 - [Taxonomy Key: How This Volume Classifies Its Explorations](taxonomy-key-how-this-volume-classifies-its.md) — Taxonomy Key: How This Volume Classifies Its Explorations
 - [Opening: The Miracle Frame](opening-miracle-frame.md) — Opening Exploration: The Miracle Frame — The Natural World as a Subset
-- [Foundational Laws: Thirty-Eight Laws of Wide Consent (and Eight Candidate Laws)](foundational-laws-thirty-eight-operational-laws-of-wide.md) — Foundational Laws: Thirty-Eight Laws of Wide Consent (and Eight Candidate Laws)
+- [Foundational Laws: The Forty-Six Laws of the Spirit](foundational-laws-thirty-eight-operational-laws-of-wide.md) — Foundational Laws: The Forty-Six Laws of the Spirit
 - [Foundational Law I: The Sowing-and-Reaping Law](foundational-law-i-the-sowing-and-reaping.md) — Foundational Law I: The Sowing-and-Reaping Law
 - [Foundational Law II: The Confession-Restoration Law](foundational-law-ii-the-confession-restoration-law.md) — Foundational Law II: The Confession-Restoration Law
 - [Foundational Law III: The Heart-Throne Law](foundational-law-iii-the-heart-throne-law.md) — Foundational Law III: The Heart-Throne Law

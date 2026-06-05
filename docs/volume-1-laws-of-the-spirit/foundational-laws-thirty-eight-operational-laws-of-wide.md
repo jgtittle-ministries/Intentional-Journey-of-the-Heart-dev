@@ -1,10 +1,10 @@
-# Foundational Laws: Thirty-Eight Laws of Wide Consent (and Eight Candidate Laws)
+# Foundational Laws: The Forty-Six Laws of the Spirit
 
-Before I begin the personal explorations that make up the body of this volume, I want to set out the operational laws that are already broadly accepted across mainstream Christian tradition. There are thirty-eight of these wide-consent laws (FL.I–XXXVIII). These are not my discoveries. They are the floor I am building on. After them I add eight newer **candidate laws** (FL.XXXIX–XLVI) that I believe belong here but that the wider community has not yet tested and confirmed — I keep them clearly marked as candidates, not as settled floor. That brings the full catalog to forty-six.
+Before I begin the personal explorations that make up the body of this volume, I want to set out the forty-six Foundational Laws — the operational laws of the Spirit, already woven through Scripture, that this volume catalogs. These are not my discoveries. They are the floor I am building on. Thirty-eight of them carry wide, centuries-deep consent across the mainstream Christian traditions (FL.I–XXXVIII). The other eight (FL.XXXIX–XLVI) are more recently discerned: I believe they belong here, and they clear the same tests as the rest, but the wider community has not yet had time to weigh and confirm them at the same depth — so I hold them a little more loosely, and say so plainly. All forty-six are set out below.
 
 The Explorations that follow this section are my own investigations into territory I have found less well mapped. Those are propositional claims in the Reasonably Inferred to Clearly Taught tiers. They need testing. The community has not yet weighed in.
 
-But the thirty-eight wide-consent laws are different. Each one has been recognized as foundational across nearly the entire breadth of Christian thought — from the patristic period through the medieval doctors, through the magisterial Reformation, through the modern theological recovery, and into contemporary pastoral practice. They are the operational grammar within which the church's various traditions hold their disagreements about other matters. (The eight candidate laws at the end do not yet carry that same breadth of agreement; that is why I mark them separately.)
+The thirty-eight wide-consent laws carry a special weight. Each one has been recognized as foundational across nearly the entire breadth of Christian thought — from the patristic period through the medieval doctors, through the magisterial Reformation, through the modern theological recovery, and into contemporary pastoral practice. They are the operational grammar within which the church's various traditions hold their disagreements about other matters. The eight newer laws at the end do not yet carry that same centuries-deep breadth of agreement — which is exactly why I still hold them a little more loosely and keep them grouped on their own.
 
 I will state each one in a single sentence. The single-sentence statement is deliberate: it forces the law into its most operational form, the form in which the cause-and-effect relationship is plainly named and the principle-level operation is plainly visible.
 
@@ -22,7 +22,7 @@ Every one of these laws rests on grace, and every one is about God before it is 
 
 ## The Thirty-Eight Wide-Consent Laws
 
-Each law is summarized below in numerical order, with the Period/Group placement, the directionality tag, and the single-sentence operational statement. Each law has its own chapter in this volume. The thirty-eight wide-consent laws come first (FL.I–XXXVIII); the eight candidate laws follow under their own heading (FL.XXXIX–XLVI).
+Each law is summarized below in numerical order, with the Period/Group placement, the directionality tag, and the single-sentence operational statement. Each law has its own chapter in this volume. The thirty-eight wide-consent laws come first (FL.I–XXXVIII); the eight newer laws follow under their own heading (FL.XXXIX–XLVI).
 
 **FL.I — The Sowing-and-Reaping Law (P0/GVI, B).** What is sown is what is reaped (Gal. 6:7–9; Hos. 10:12; 2 Cor. 9:6).
 
@@ -100,9 +100,9 @@ Each law is summarized below in numerical order, with the Period/Group placement
 
 **FL.XXXVIII — The Soul-Restoration Law (P0/GIII, V).** The soul — under the pressures of life and the operations of the world that operate against soul-integration — is restored to and maintained in its integrated state through God's sustained restorative operation on the soul, with the restoration operating through multiple operational forms (the Shepherd's restoring; Christ's giving of rest; the anchor of hope; the steadfast-love-and-mercies that are new every morning; the inner-self-being-renewed) and multiple operational pathways (sustained scripture-engagement; prayer; worship; community; rest; suffering received under God's hand); the substrate operates scale-invariantly across all the catalog's analyzed scales (Ps. 19:7; Ps. 23:3; Ps. 42:5/11; Ps. 43:5; Matt. 11:28–29; Heb. 4:9–11; Heb. 6:18–19; 1 Pet. 2:25; 3 John 1:2; 1 Thess. 5:23; Lam. 3:19–26; Isa. 40:31; Jer. 6:16; Num. 6:24–26; 2 Cor. 4:16–18; Col. 3:15; Rom. 15:13).
 
-## The Eight Candidate Laws (Under Community Review)
+## The Eight Newer Laws (Still Being Tested)
 
-The eight laws below (FL.XXXIX–XLVI) are newer, and I hold them more loosely. Seven of them (FL.XXXIX–XLV) came out of a later study pass working carefully through the Gospel miracle accounts; the eighth (FL.XLVI) came out of work on honest truth-telling in community. They follow the same form as the rest and clear the same Scripture-and-directionality tests — but they do **not** yet carry the centuries-deep, across-the-traditions agreement that the thirty-eight above do. So I set them out as **candidates**: strong proposals offered to the community for testing and confirmation, not yet claimed as settled floor.
+The eight laws below (FL.XXXIX–XLVI) are foundational laws as well, but newer ones, and I hold them a little more loosely. Seven of them (FL.XXXIX–XLV) came out of a later study pass working carefully through the Gospel miracle accounts; the eighth (FL.XLVI) came out of work on honest truth-telling in community. They follow the same form as the rest and clear the same Scripture-and-directionality tests — but they do **not** yet carry the centuries-deep, across-the-traditions agreement that the thirty-eight above do. So I keep them grouped here on their own and hold them out, plainly, for the wider community to test and confirm.
 
 **FL.XXXIX — The Surrender-Multiplication Law (P0/GV, V; Band 1).** What is yielded into Christ's hands operates by a return-mechanism that exceeds proportional scaling — the small offering surrendered to Christ produces operational consequences disproportionate to the offering's native magnitude; absent the yielding, the same substance operates within FL.IX Generosity-Provision's proportional return-regime; the shift from proportional return to disproportionate multiplication is conditioned on the surrender into Christ's operational possession (Matt. 14:13–21; Mark 6:30–44; Luke 9:10–17; John 6:1–14; Matt. 15:32–39; Mark 8:1–10; Matt. 17:24–27; Luke 5:1–11; John 21:1–14; 1 Kgs. 17:8–16; 2 Kgs. 4:1–7; 2 Cor. 9:8–11; Phil. 4:19).
 
@@ -122,4 +122,4 @@ The eight laws below (FL.XXXIX–XLVI) are newer, and I hold them more loosely. 
 
 ## The Floor and the Building
 
-These thirty-eight wide-consent laws are the floor, and the eight candidate laws are my proposed additions to it. The Explorations that follow build on this floor. The rest of the corpus is the building.
+These forty-six Foundational Laws are the floor — thirty-eight already settled by wide consent, and eight newer ones still being tested. The Explorations that follow build on this floor. The rest of the corpus is the building.
