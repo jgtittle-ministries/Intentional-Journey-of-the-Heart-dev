@@ -4,7 +4,7 @@
 "granddaddy voice" pilot (below). Everything else this session is DONE and dev+prod in sync.
 
 Repos (both clean):
-- **dev** `C:\Users\jgtit\claude\_work\Intentional-Journey-of-the-Heart-dev` — HEAD **`af8316b`** (everything through the FL.XVI Deliverer mirrored to prod `a37db63`; **NEW dev-only: FL.I granddaddy testimony, obs #7**)
+- **dev** `C:\Users\jgtit\claude\_work\Intentional-Journey-of-the-Heart-dev` — HEAD **`5532bba`** (through FL.I obs #7 mirrored to prod `2ef375b`; **NEW dev-only: FL.II granddaddy testimony, obs #8** — the people-ward confession-fear word)
 
 **NEW RHYTHM (John, 2026-06-05):** work the remaining peer-review items **through the granddaddy-voice
 loop, chapter by chapter** — John dictates his thoughts on a chapter; the assistant first surfaces any
@@ -12,7 +12,12 @@ still-open peer-review items that touch THAT chapter (as context for him), then 
 on his dictation. Started with **FL.I**: peer-review slate was clear (its Job-4:8/Eliphaz reframe +
 Gal-6:7-9 anchor + prosperity guard were already done in the four-tradition pass); John's dictated
 tithing→hearing-and-obeying testimony organically reinforced the very anti-prosperity guard the reviewers
-wanted strengthened. **obs #7 → dev `af8316b` → mirrored prod `2ef375b`.** **NEXT: FL.II** (John's call).
+wanted strengthened. **obs #7 → dev `af8316b` → mirrored prod `2ef375b`.** **FL.II:** open items were
+mostly handled (it already shows grace outrunning the transaction); John dictated the *people-ward*
+confession-fear word (the dread of confessing to others is unfounded — others are too taken up with
+their own sin to condemn). **obs #8 → dev `5532bba`, NOT yet mirrored.** Still-open FL.II item NOT taken
+(John's story went elsewhere): the gospel-order "confession appropriates Christ's finished pardon, not
+earns it" point (1 John 2:1-2) — available later. **NEXT: FL.III** (John's call).
 (See the still-open
 peer-review buckets logged in the FL.XVI/quantification sections above — they get picked up per-chapter
 as John reaches them.)
