@@ -132,9 +132,9 @@ for the four axioms — third reason not to rename.)
 close of "The Original Vision and Its Source" in **Vol 3 Exp 01 (The Case for Quantification)**, so it
 echoes Kepler just above and pre-frames the later Newton paragraph. Topic lead "A word on why I keep
 calling these 'laws.'" (not the Granddaddy lead — terminology note, like obs #1). **Implemented +
-pushed → dev `68b53f7`. NOT yet mirrored.** *Parked bigger question if John ever wants it: a genuine
-corpus-wide laws→principles rename is a separate large job (titles, numbering, Periodic Table, tiers)
-— deliberately NOT done.* **Mirrored to prod `ef174fb`** (2026-06-05, SHA-256 byte-identical).
+pushed → dev `68b53f7`. NOT yet mirrored.** *A corpus-wide laws→principles rename — **John declined
+this 2026-06-05; dropped, do NOT re-raise.** obs #4 deliberately clarified the term instead, which is
+the settled approach.* **Mirrored to prod `ef174fb`** (2026-06-05, SHA-256 byte-identical).
 
 ### ✅ IMPLEMENTED (dev) — Round 5, observation #5 (defending the quantification track)
 **Dictation:** the quantification track will offend some (he's already gotten pushback), but the
