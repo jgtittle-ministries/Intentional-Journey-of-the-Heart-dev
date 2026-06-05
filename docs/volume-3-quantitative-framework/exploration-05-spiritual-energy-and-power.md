@@ -20,7 +20,7 @@ Proposed spiritual parallels:
 
 The word for power here is dunamis — the same root as dynamite, the capacity for explosive effect. This is not spiritual force (F_s) in my taxonomy; it is the Spirit-given amplification of spiritual power (P_s) — the rate at which the disciples could effectively release spiritual energy in witness and in the charismatic gifts. Pentecost dramatically increased P_s; the Vol 2 channel-clearing work increases the efficiency with which P_s can flow.
 
-**TFT CONNECTION: ***TFT classifies Power (**δύν**αμις) as the potential energy or driving term **V(**φ, χ, η) in the Lagrangian — the stored energy that becomes kinetic when released. This maps directly onto my taxonomy: spiritual energy as stored potential, spiritual power as the kinetic release of that potential. TFT also notes that Power without Holiness becomes demonic, which is the constraint equation **H(**φ, χ, η) ≥ 0 limiting the accessible regions of configuration space. Vol 1’s Holiness as gateway law is TFT’s boundary condition in action.*
+**TFT CONNECTION:** *TFT classifies Power (**δύν**αμις) as the potential energy or driving term **V(**φ, χ, η) in the Lagrangian — the stored energy that becomes kinetic when released. This maps directly onto my taxonomy: spiritual energy as stored potential, spiritual power as the kinetic release of that potential. TFT also notes that Power without Holiness becomes demonic, which is the constraint equation **H(**φ, χ, η) ≥ 0 limiting the accessible regions of configuration space. Vol 1’s Holiness as gateway law is TFT’s boundary condition in action.*
 
 **EXEGETICAL GROUNDING NOTE — The NT Vocabulary of Energy:  **The Greek word family built on the root energe- — energeia (active working, operation), energeo (to work, to be at work in), energēma (the result of working) — appears repeatedly in Paul’s letters in contexts that bear directly on what this Exploration is trying to name. God is the one who energei in believers both to will and to act (Phil. 2:13). Paul labors, striving according to his [God’s] energeian that works powerfully in him (Col. 1:29). The surpassing greatness of God’s power toward believers is described through three compounding terms — energeia, kratos, ischus — in Eph. 1:19–20, and the same energeia that raised Christ from the dead is the operative force. In Eph. 3:20 it is God’s dynamis working (energoumenēn) within us that accomplishes “more than all we ask or imagine.”
 
@@ -43,7 +43,7 @@ This scripture is not exhortation alone; it is a systems design principle. The w
 
 **Certainty: Reasonably Inferred ***The finite bandwidth observation is consistently supported by scripture and by the experience of extended spiritual ministry. The specific depletion mechanism and replenishment rates are open trails. The cost of maintaining emotional knots is my inference from Vol 2’s model, medium confidence.*
 
-**OPEN TRAIL: ***Can spiritual energy depletion and replenishment rates be estimated from longitudinal data? What are the primary replenishment inputs and their relative magnitudes? This would be a significant contribution to spiritual formation literature.*
+**OPEN TRAIL:** *Can spiritual energy depletion and replenishment rates be estimated from longitudinal data? What are the primary replenishment inputs and their relative magnitudes? This would be a significant contribution to spiritual formation literature.*
 
 **PART III**
 
