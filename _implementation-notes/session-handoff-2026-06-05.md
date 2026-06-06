@@ -4,7 +4,7 @@
 "granddaddy voice" pilot (below). Everything else this session is DONE and dev+prod in sync.
 
 Repos (both clean):
-- **dev** `C:\Users\jgtit\claude\_work\Intentional-Journey-of-the-Heart-dev` — HEAD **`4a3f8b1`** (through FL.III obs #9 mirrored to prod `75021c4`; **NEW dev-only: FL.IV granddaddy testimony obs #10** — offer-the-work→flow→"I feel His pleasure"=exaltation; redemptive other half of FL.III; **2 files**: FL.IV + Vol 5 *Flow*/Csikszentmihalyi bibliography entry)
+- **dev** `C:\Users\jgtit\claude\_work\Intentional-Journey-of-the-Heart-dev` — HEAD **`4d9b005`** (through FL.IV obs #10 mirrored to prod `45bd158`; **NEW dev-only: FL.V granddaddy testimony obs #11** — the 3 layers of depth: poison-you-drink / forgiveness≠trust (abused-wife safeguard, trust earned by proven behavior) / God-allowed offense → the Joseph "what is He up to" question)
 
 **NEW RHYTHM (John, 2026-06-05):** work the remaining peer-review items **through the granddaddy-voice
 loop, chapter by chapter** — John dictates his thoughts on a chapter; the assistant first surfaces any
@@ -31,7 +31,11 @@ be). **obs #10 → dev `4a3f8b1` → mirrored prod `45bd158` (2 files: FL.IV + V
 **FL.V:** the high-priority gospel-order item turned out to be **ALREADY fully implemented** (FL.V leads
 with "God forgives us first… our forgiving is the overflow, not the price that buys it"; Willard's "grace
 received and grace withheld cannot live in the same heart"; AND the forgiveness-vs-reconciliation
-distinction) — so FL.V is a clean slate. **NEXT: FL.V** dictation (John's call). (See the still-open
+distinction) — so FL.V was a clean slate. John dictated the **three layers of depth** (poison-you-drink;
+forgiveness≠trust with the abused-wife safeguard — forgive at once but trust is rebuilt only on proven
+behavior; the God-allowed offense → Joseph's "what is He up to" question, Gen 50:20). Institutions left
+unnamed (discretion); saying unattributed; sovereignty framed pastorally not as theodicy debate. **obs #11
+→ dev `4d9b005`, NOT yet mirrored.** **NEXT: FL.VI** (John's call). (See the still-open
 peer-review buckets logged in the FL.XVI/quantification sections above — they get picked up per-chapter
 as John reaches them.)
 - **prod** `C:\Users\jgtit\claude\_work\Intentional-Journey-of-the-Heart` — HEAD **`45bd158`** (everything through FL.I–IV granddaddy testimonies obs #7–#10 + Vol 5 *Flow* entry mirrored; **docs content dev+prod IN SYNC** — dev also carries extra `_implementation-notes` notes commits, not mirrored by design)
