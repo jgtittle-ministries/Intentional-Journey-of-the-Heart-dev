@@ -15,13 +15,13 @@ tithing→hearing-and-obeying testimony organically reinforced the very anti-pro
 wanted strengthened. **obs #7 → dev `af8316b` → mirrored prod `2ef375b`.** **FL.II:** open items were
 mostly handled (it already shows grace outrunning the transaction); John dictated the *people-ward*
 confession-fear word (the dread of confessing to others is unfounded — others are too taken up with
-their own sin to condemn). **obs #8 → dev `5532bba`, NOT yet mirrored.** Still-open FL.II item NOT taken
+their own sin to condemn). **obs #8 → dev `5532bba` → mirrored prod `26f0265`.** Still-open FL.II item NOT taken
 (John's story went elsewhere): the gospel-order "confession appropriates Christ's finished pardon, not
 earns it" point (1 John 2:1-2) — available later. **NEXT: FL.III** (John's call).
 (See the still-open
 peer-review buckets logged in the FL.XVI/quantification sections above — they get picked up per-chapter
 as John reaches them.)
-- **prod** `C:\Users\jgtit\claude\_work\Intentional-Journey-of-the-Heart` — HEAD **`2ef375b`** (obs #1–#6 + Force-chapter pastoral guards + FL.XVI Deliverer + FL.I obs #7 testimony all mirrored; **docs content dev+prod IN SYNC** — dev also carries extra `_implementation-notes` notes commits, not mirrored by design)
+- **prod** `C:\Users\jgtit\claude\_work\Intentional-Journey-of-the-Heart` — HEAD **`26f0265`** (everything through FL.I obs #7 + FL.II obs #8 mirrored; **docs content dev+prod IN SYNC** — dev also carries extra `_implementation-notes` notes commits, not mirrored by design)
 - Mirror discipline: push dev → John reviews on the [dev site](https://jgtittle-ministries.github.io/Intentional-Journey-of-the-Heart-dev/) → mirror to prod ONLY on his word, with SHA-256-byte-identical + balanced-diff + (for Scripture chapters) verse-survival verification. Preview repo intentionally stale.
 
 ---
