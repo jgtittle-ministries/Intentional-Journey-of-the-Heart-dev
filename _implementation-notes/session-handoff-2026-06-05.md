@@ -27,11 +27,14 @@ taken; still available). John dictated the **redemptive other half of FL.III** �
 the Lord (not to human approval) drops him into *flow* (Csikszentmihalyi), where he feels God's pleasure
 (Eric Liddell, *Chariots of Fire*, "when I run, I feel His pleasure"); "that is what being exalted means."
 Lands as the lived answer to FL.IV's own Certainty open-question (what kind the lifting up turns out to
-be). **obs #10 → dev `4a3f8b1` (2 files: FL.IV + Vol 5 *Flow* bib entry), NOT yet mirrored.** **NEXT: FL.V**
-(John's call). (See the still-open
+be). **obs #10 → dev `4a3f8b1` → mirrored prod `45bd158` (2 files: FL.IV + Vol 5 *Flow* bib entry).**
+**FL.V:** the high-priority gospel-order item turned out to be **ALREADY fully implemented** (FL.V leads
+with "God forgives us first… our forgiving is the overflow, not the price that buys it"; Willard's "grace
+received and grace withheld cannot live in the same heart"; AND the forgiveness-vs-reconciliation
+distinction) — so FL.V is a clean slate. **NEXT: FL.V** dictation (John's call). (See the still-open
 peer-review buckets logged in the FL.XVI/quantification sections above — they get picked up per-chapter
 as John reaches them.)
-- **prod** `C:\Users\jgtit\claude\_work\Intentional-Journey-of-the-Heart` — HEAD **`75021c4`** (everything through FL.I/II/III granddaddy testimonies obs #7–#9 mirrored; **docs content dev+prod IN SYNC** — dev also carries extra `_implementation-notes` notes commits, not mirrored by design)
+- **prod** `C:\Users\jgtit\claude\_work\Intentional-Journey-of-the-Heart` — HEAD **`45bd158`** (everything through FL.I–IV granddaddy testimonies obs #7–#10 + Vol 5 *Flow* entry mirrored; **docs content dev+prod IN SYNC** — dev also carries extra `_implementation-notes` notes commits, not mirrored by design)
 - Mirror discipline: push dev → John reviews on the [dev site](https://jgtittle-ministries.github.io/Intentional-Journey-of-the-Heart-dev/) → mirror to prod ONLY on his word, with SHA-256-byte-identical + balanced-diff + (for Scripture chapters) verse-survival verification. Preview repo intentionally stale.
 
 ---
