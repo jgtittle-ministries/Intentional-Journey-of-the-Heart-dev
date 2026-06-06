@@ -42,11 +42,22 @@ unnamed (discretion); saying unattributed; sovereignty framed pastorally not as 
 the backbone of Vol 2/FotH (hear with the heart, obey from it; Four Connects "Garden of Your Heart" from
 Leanne Payne ~40 yrs ago); the hard lesson — even when you obey the outcome can look different (praying
 for the sick, nothing obvious happens) — my job is obedience, He's the Healer. **obs #12 → dev `84e6246`
-(2 files: FL.VI + Payne Part-II bib update), NOT yet mirrored.** (Optional, declined-for-now: a Scripture
-anchor Matt 5:10-12 / Heb 11.) **NEXT: FL.VII** (John's call). (See the still-open
+→ mirrored prod `eea9f55` (2 files: FL.VI + Payne Part-II bib update).** (Optional, declined-for-now: a
+Scripture anchor Matt 5:10-12 / Heb 11.)
+
+### ⏸️ PAUSED FOR THE NIGHT 2026-06-05 — clean stopping point
+**Granddaddy chapter-by-chapter walk through Vol 1 spine: FL.I–VI done + all mirrored to prod (obs #7–#12).
+dev+prod docs IN SYNC.** **NEXT: FL.VII** (Drawing-Near Reciprocity) — surface open peer-review items
+touching it, then John dictates. Rhythm: John dictates a chapter's thoughts → assistant surfaces any
+open peer-review items touching THAT chapter → 4-part contract → implement (close-of-chapter testimony,
+"A word from your Granddaddy." lead) → push dev → John says "mirror" → byte-identical mirror to prod.
+**Pending tiny option:** swap "your grandmother and I" → **Carolyn** in FL.I (already on prod) if John
+wants; use Carolyn in future asides. Still-open Vol-1 peer-review buckets (warfare law-level, FL.IX
+prosperity-to-table, Gal 3:13, FL.VIII Jer 17:9, force-multiplier soften, contemplative-stillness law,
+trail-map note) get picked up per-chapter as John reaches them. (See the still-open
 peer-review buckets logged in the FL.XVI/quantification sections above — they get picked up per-chapter
 as John reaches them.)
-- **prod** `C:\Users\jgtit\claude\_work\Intentional-Journey-of-the-Heart` — HEAD **`f44d118`** (everything through FL.I–V granddaddy testimonies obs #7–#11 + Vol 5 *Flow* entry mirrored; **docs content dev+prod IN SYNC** — dev also carries extra `_implementation-notes` notes commits, not mirrored by design)
+- **prod** `C:\Users\jgtit\claude\_work\Intentional-Journey-of-the-Heart` — HEAD **`eea9f55`** (everything through FL.I–VI granddaddy testimonies obs #7–#12 + Vol 5 *Flow* entry + Payne FL.VI cite mirrored; **docs content dev+prod IN SYNC** — dev also carries extra `_implementation-notes` notes commits, not mirrored by design)
 - Mirror discipline: push dev → John reviews on the [dev site](https://jgtittle-ministries.github.io/Intentional-Journey-of-the-Heart-dev/) → mirror to prod ONLY on his word, with SHA-256-byte-identical + balanced-diff + (for Scripture chapters) verse-survival verification. Preview repo intentionally stale.
 
 ---
