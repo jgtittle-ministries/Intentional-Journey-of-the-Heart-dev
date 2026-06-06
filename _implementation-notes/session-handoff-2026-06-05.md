@@ -4,7 +4,7 @@
 "granddaddy voice" pilot (below). Everything else this session is DONE and dev+prod in sync.
 
 Repos (both clean):
-- **dev** `C:\Users\jgtit\claude\_work\Intentional-Journey-of-the-Heart-dev` — HEAD **`9d4c722`** (through FL.II obs #8 mirrored to prod `26f0265`; **NEW dev-only: FL.III granddaddy confession, obs #9** — achievement-on-the-throne, his most personal yet, still active)
+- **dev** `C:\Users\jgtit\claude\_work\Intentional-Journey-of-the-Heart-dev` — HEAD **`4a3f8b1`** (through FL.III obs #9 mirrored to prod `75021c4`; **NEW dev-only: FL.IV granddaddy testimony obs #10** — offer-the-work→flow→"I feel His pleasure"=exaltation; redemptive other half of FL.III; **2 files**: FL.IV + Vol 5 *Flow*/Csikszentmihalyi bibliography entry)
 
 **NEW RHYTHM (John, 2026-06-05):** work the remaining peer-review items **through the granddaddy-voice
 loop, chapter by chapter** — John dictates his thoughts on a chapter; the assistant first surfaces any
@@ -21,7 +21,13 @@ earns it" point (1 John 2:1-2) — available later. **FL.III:** cleanest slate (
 *praised*, zero open items). John dictated his most personal confession — **achievement / the approval
 of others as the functional savior on his throne his whole career, still active even as he writes these
 volumes**; models the chapter's repentance mechanism; ends with a forward word to the kids ("you'll have
-a throne too… for the rest of your life"). **obs #9 → dev `9d4c722` → mirrored prod `75021c4`.** **NEXT: FL.IV**
+a throne too… for the rest of your life"). **obs #9 → dev `9d4c722` → mirrored prod `75021c4`.**
+**FL.IV:** one open item flagged (humility as grace-prompted / response to seeing God, Isa 6:5 — NOT
+taken; still available). John dictated the **redemptive other half of FL.III** — offering the work to
+the Lord (not to human approval) drops him into *flow* (Csikszentmihalyi), where he feels God's pleasure
+(Eric Liddell, *Chariots of Fire*, "when I run, I feel His pleasure"); "that is what being exalted means."
+Lands as the lived answer to FL.IV's own Certainty open-question (what kind the lifting up turns out to
+be). **obs #10 → dev `4a3f8b1` (2 files: FL.IV + Vol 5 *Flow* bib entry), NOT yet mirrored.** **NEXT: FL.V**
 (John's call). (See the still-open
 peer-review buckets logged in the FL.XVI/quantification sections above — they get picked up per-chapter
 as John reaches them.)
