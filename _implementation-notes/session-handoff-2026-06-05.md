@@ -4,7 +4,7 @@
 "granddaddy voice" pilot (below). Everything else this session is DONE and dev+prod in sync.
 
 Repos (both clean):
-- **dev** `C:\Users\jgtit\claude\_work\Intentional-Journey-of-the-Heart-dev` — HEAD **`4d9b005`** (through FL.IV obs #10 mirrored to prod `45bd158`; **NEW dev-only: FL.V granddaddy testimony obs #11** — the 3 layers of depth: poison-you-drink / forgiveness≠trust (abused-wife safeguard, trust earned by proven behavior) / God-allowed offense → the Joseph "what is He up to" question)
+- **dev** `C:\Users\jgtit\claude\_work\Intentional-Journey-of-the-Heart-dev` — HEAD **`84e6246`** (through FL.V obs #11 mirrored to prod `f44d118`; **NEW dev-only: FL.VI granddaddy testimony obs #12** — FL.VI is the backbone of Vol 2/FotH; the hard lesson: obey is my job, He's the Healer, the outcome can look different (carries the cruciform/non-payoff peer-review fix experientially); **2 files**: FL.VI + Vol 5 Part-II Payne bib entry updated to cite FL.VI). **NOTE: wife's name is Carolyn** (per read-me-first) — FL.I tithing testimony still says "your grandmother and I"; John can have it swapped to Carolyn anytime.
 
 **NEW RHYTHM (John, 2026-06-05):** work the remaining peer-review items **through the granddaddy-voice
 loop, chapter by chapter** — John dictates his thoughts on a chapter; the assistant first surfaces any
@@ -35,8 +35,15 @@ distinction) — so FL.V was a clean slate. John dictated the **three layers of 
 forgiveness≠trust with the abused-wife safeguard — forgive at once but trust is rebuilt only on proven
 behavior; the God-allowed offense → Joseph's "what is He up to" question, Gen 50:20). Institutions left
 unnamed (discretion); saying unattributed; sovereignty framed pastorally not as theodicy debate. **obs #11
-→ dev `4d9b005` → mirrored prod `f44d118`.** **NEXT: FL.VI** (John's call — carries a real open item: the
-Deut-28 covenant-transition "operates identically"→"analogically" fix). (See the still-open
+→ dev `4d9b005` → mirrored prod `f44d118`.**
+**FL.VI:** the Deut-28 "operates identically" wording was already gone; the remaining open piece was the
+*cruciform* one (new-covenant obedience's "blessing" can include suffering for righteousness — Matt
+5:10-12, Heb 11 — not always this-life payoff). John's dictation carried it **experientially**: FL.VI is
+the backbone of Vol 2/FotH (hear with the heart, obey from it; Four Connects "Garden of Your Heart" from
+Leanne Payne ~40 yrs ago); the hard lesson — even when you obey the outcome can look different (praying
+for the sick, nothing obvious happens) — my job is obedience, He's the Healer. **obs #12 → dev `84e6246`
+(2 files: FL.VI + Payne Part-II bib update), NOT yet mirrored.** (Optional, declined-for-now: a Scripture
+anchor Matt 5:10-12 / Heb 11.) **NEXT: FL.VII** (John's call). (See the still-open
 peer-review buckets logged in the FL.XVI/quantification sections above — they get picked up per-chapter
 as John reaches them.)
 - **prod** `C:\Users\jgtit\claude\_work\Intentional-Journey-of-the-Heart` — HEAD **`f44d118`** (everything through FL.I–V granddaddy testimonies obs #7–#11 + Vol 5 *Flow* entry mirrored; **docs content dev+prod IN SYNC** — dev also carries extra `_implementation-notes` notes commits, not mirrored by design)
