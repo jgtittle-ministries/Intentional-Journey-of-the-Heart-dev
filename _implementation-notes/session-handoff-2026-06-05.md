@@ -21,11 +21,11 @@ earns it" point (1 John 2:1-2) — available later. **FL.III:** cleanest slate (
 *praised*, zero open items). John dictated his most personal confession — **achievement / the approval
 of others as the functional savior on his throne his whole career, still active even as he writes these
 volumes**; models the chapter's repentance mechanism; ends with a forward word to the kids ("you'll have
-a throne too… for the rest of your life"). **obs #9 → dev `9d4c722`, NOT yet mirrored.** **NEXT: FL.IV**
+a throne too… for the rest of your life"). **obs #9 → dev `9d4c722` → mirrored prod `75021c4`.** **NEXT: FL.IV**
 (John's call). (See the still-open
 peer-review buckets logged in the FL.XVI/quantification sections above — they get picked up per-chapter
 as John reaches them.)
-- **prod** `C:\Users\jgtit\claude\_work\Intentional-Journey-of-the-Heart` — HEAD **`26f0265`** (everything through FL.I obs #7 + FL.II obs #8 mirrored; **docs content dev+prod IN SYNC** — dev also carries extra `_implementation-notes` notes commits, not mirrored by design)
+- **prod** `C:\Users\jgtit\claude\_work\Intentional-Journey-of-the-Heart` — HEAD **`75021c4`** (everything through FL.I/II/III granddaddy testimonies obs #7–#9 mirrored; **docs content dev+prod IN SYNC** — dev also carries extra `_implementation-notes` notes commits, not mirrored by design)
 - Mirror discipline: push dev → John reviews on the [dev site](https://jgtittle-ministries.github.io/Intentional-Journey-of-the-Heart-dev/) → mirror to prod ONLY on his word, with SHA-256-byte-identical + balanced-diff + (for Scripture chapters) verse-survival verification. Preview repo intentionally stale.
 
 ---
