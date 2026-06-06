@@ -41,4 +41,6 @@ Four passages from four different sources (the Gospel of Matthew, the Letter to 
 
 **Certainty: Clearly Taught  ***Strong backing from several writers across both Testaments. Seeing God has both a here-and-now side (Matt. 5:8; Ps. 24) and an at-the-end side (1 John 3:2–3; Heb. 12:14). The direction it runs — purity is the gate to the seeing — isn't in dispute.*
 
+**A word from your Granddaddy.** When I say I see God in my life, I mean it plainly: I see Him around me and all through my day. I see Him in creation. I see His hand on the events of my life, and looking back, I can make out His footprints in the places He carried me when I could not walk on my own. I did not see much of this early in my faith walk — the eyes for it come slowly. But I see Him more and more, and the reason is no secret: the deeper I focus on Him and set myself to walk in His ways, the clearer He becomes. That is this law from the inside — the purer my heart becomes, the more my seeing grows. I invite you to come along on the same journey of discovery; He is there to be found, and there is always more of Him to see.
+
 [**Foundational Law XIV — Operational Law of Wide Consent →**](foundational-law-xiv-the-vanity-of-substitutes-law.md){: .md-button .md-button--primary }
