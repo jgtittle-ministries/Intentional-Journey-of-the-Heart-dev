@@ -86,7 +86,7 @@ Laws that articulate the operational cause-and-effect mechanisms by which the pa
 
 **Vol 1 | FL.VII Drawing-Near Reciprocity Law | Operational** [Clearly Taught] *[Layer Operation · Range 1 – 120 · Op P]* | Active movement toward God evokes God's movement toward the person; turning away evokes withdrawal. Canonical example of reciprocity-of-response. Operates as the inverse-direction articulation of FL.XV Hardening Law at the individual scale (the moving-away substrate at scale-invariant; the drawing-near direction at the individual scale).
 
-**Vol 1 | FL.IX Generosity-Provision Law | Operational** [Clearly Taught] *[Layer Substrate · Range 1 – eschatological · Op P]* | Generous giving evokes provision toward the giver; withholding evokes the inverse. Scale-invariant. The idol-ward face is mammon-as-throne — the love of money operating as a competing sovereignty (Matt. 6:24; 1 Tim. 6:10).
+**Vol 1 | FL.IX Generosity-Provision Law | Operational** [Clearly Taught] *[Layer Substrate · Range 1 – eschatological · Op P]* | Generous giving evokes God's provision back toward the giver — in varied forms, over time, and aimed at continued generosity and thanks to God rather than the giver's enrichment, not a prosperity-gospel payout; withholding evokes the inverse. Scale-invariant. The idol-ward face is mammon-as-throne — the love of money operating as a competing sovereignty (Matt. 6:24; 1 Tim. 6:10).
 
 **Vol 1 | FL.X Ask-Seek-Knock Law | Operational** [Clearly Taught] *[Layer Operation · Range 1 – 70 · Op P]* | Persistent, faith-filled asking in alignment with God's character produces receiving; asking from wrong motive does not (Matt. 7:7–11; Luke 11:9–13; Jas. 4:3). Threshold form of the prayer mechanism.
 

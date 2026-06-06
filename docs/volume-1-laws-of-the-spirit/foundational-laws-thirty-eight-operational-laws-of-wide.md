@@ -40,7 +40,7 @@ Each law is summarized below in numerical order, with the Period/Group placement
 
 **FL.VIII — The Desire-for-God Law (P1/GII, V).** Sustained desire for God produces increased capacity to receive God (Ps. 42:1–2; Ps. 63:1; Matt. 5:6).
 
-**FL.IX — The Generosity-Provision Law (P0/GV, B).** Generosity produces proportional provision; stinginess produces proportional withholding (Luke 6:38; 2 Cor. 9:6–11; Prov. 11:24–25).
+**FL.IX — The Generosity-Provision Law (P0/GV, B).** Generous giving opens the way for God's provision to return — in varied forms, over time, and aimed at continued generosity and thanks to God rather than the giver's enrichment; withholding closes the channel. The return is structural reciprocity, not a prosperity-gospel payout (2 Cor. 9:6–11; Luke 6:35, 38; Prov. 11:24–25).
 
 **FL.X — The Ask-Seek-Knock Law (P1/GI, V).** Persistent, faith-filled asking in alignment with God's character produces receiving; asking from wrong motive does not (Matt. 7:7–8; Luke 11:9–10; John 14:13–14; Jas. 1:5; Jas. 4:2–3).
 

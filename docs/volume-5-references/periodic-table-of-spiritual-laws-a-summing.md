@@ -227,7 +227,7 @@ The Period 0 row articulates a proportionality-of-cause-and-effect dynamic acros
 
 **FL.VI Hear-and-Obey Blessing Law (P0/GV):** Articulates the proportionality dynamic at the embodied-action dimension. Hearing the word of God and doing it produces blessedness in proportion to the obedience.
 
-**FL.IX Generosity-Provision Law (P0/GV):** Articulates the proportionality dynamic at the embodied-action dimension's generosity-and-provision specialization. Generous giving evokes provision toward the giver in proportion to the generosity.
+**FL.IX Generosity-Provision Law (P0/GV):** Articulates the proportionality dynamic at the embodied-action dimension's generosity-and-provision specialization. Generous giving evokes provision toward the giver in proportion to the generosity — the provision aimed at continued giving and thanks to God, not the giver's enrichment, and never the prosperity-gospel payout the law is so often misread as.
 
 **FL.XV Hardening Law (P0/GI):** Articulates the proportionality dynamic at the Spirit dimension's refusal-substrate. Sustained refusal of God-ward orientation progressively reduces the heart's responsiveness in proportion to the refusal's depth and duration.
 
