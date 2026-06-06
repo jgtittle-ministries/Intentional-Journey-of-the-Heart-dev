@@ -4,7 +4,7 @@
 "granddaddy voice" pilot (below). Everything else this session is DONE and dev+prod in sync.
 
 Repos (both clean):
-- **dev** `C:\Users\jgtit\claude\_work\Intentional-Journey-of-the-Heart-dev` — HEAD **`5532bba`** (through FL.I obs #7 mirrored to prod `2ef375b`; **NEW dev-only: FL.II granddaddy testimony, obs #8** — the people-ward confession-fear word)
+- **dev** `C:\Users\jgtit\claude\_work\Intentional-Journey-of-the-Heart-dev` — HEAD **`9d4c722`** (through FL.II obs #8 mirrored to prod `26f0265`; **NEW dev-only: FL.III granddaddy confession, obs #9** — achievement-on-the-throne, his most personal yet, still active)
 
 **NEW RHYTHM (John, 2026-06-05):** work the remaining peer-review items **through the granddaddy-voice
 loop, chapter by chapter** — John dictates his thoughts on a chapter; the assistant first surfaces any
@@ -17,8 +17,12 @@ mostly handled (it already shows grace outrunning the transaction); John dictate
 confession-fear word (the dread of confessing to others is unfounded — others are too taken up with
 their own sin to condemn). **obs #8 → dev `5532bba` → mirrored prod `26f0265`.** Still-open FL.II item NOT taken
 (John's story went elsewhere): the gospel-order "confession appropriates Christ's finished pardon, not
-earns it" point (1 John 2:1-2) — available later. **NEXT: FL.III** (John's call).
-(See the still-open
+earns it" point (1 John 2:1-2) — available later. **FL.III:** cleanest slate (a chapter both panels
+*praised*, zero open items). John dictated his most personal confession — **achievement / the approval
+of others as the functional savior on his throne his whole career, still active even as he writes these
+volumes**; models the chapter's repentance mechanism; ends with a forward word to the kids ("you'll have
+a throne too… for the rest of your life"). **obs #9 → dev `9d4c722`, NOT yet mirrored.** **NEXT: FL.IV**
+(John's call). (See the still-open
 peer-review buckets logged in the FL.XVI/quantification sections above — they get picked up per-chapter
 as John reaches them.)
 - **prod** `C:\Users\jgtit\claude\_work\Intentional-Journey-of-the-Heart` — HEAD **`26f0265`** (everything through FL.I obs #7 + FL.II obs #8 mirrored; **docs content dev+prod IN SYNC** — dev also carries extra `_implementation-notes` notes commits, not mirrored by design)
