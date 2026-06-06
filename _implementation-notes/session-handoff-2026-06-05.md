@@ -35,10 +35,11 @@ distinction) — so FL.V was a clean slate. John dictated the **three layers of 
 forgiveness≠trust with the abused-wife safeguard — forgive at once but trust is rebuilt only on proven
 behavior; the God-allowed offense → Joseph's "what is He up to" question, Gen 50:20). Institutions left
 unnamed (discretion); saying unattributed; sovereignty framed pastorally not as theodicy debate. **obs #11
-→ dev `4d9b005`, NOT yet mirrored.** **NEXT: FL.VI** (John's call). (See the still-open
+→ dev `4d9b005` → mirrored prod `f44d118`.** **NEXT: FL.VI** (John's call — carries a real open item: the
+Deut-28 covenant-transition "operates identically"→"analogically" fix). (See the still-open
 peer-review buckets logged in the FL.XVI/quantification sections above — they get picked up per-chapter
 as John reaches them.)
-- **prod** `C:\Users\jgtit\claude\_work\Intentional-Journey-of-the-Heart` — HEAD **`45bd158`** (everything through FL.I–IV granddaddy testimonies obs #7–#10 + Vol 5 *Flow* entry mirrored; **docs content dev+prod IN SYNC** — dev also carries extra `_implementation-notes` notes commits, not mirrored by design)
+- **prod** `C:\Users\jgtit\claude\_work\Intentional-Journey-of-the-Heart` — HEAD **`f44d118`** (everything through FL.I–V granddaddy testimonies obs #7–#11 + Vol 5 *Flow* entry mirrored; **docs content dev+prod IN SYNC** — dev also carries extra `_implementation-notes` notes commits, not mirrored by design)
 - Mirror discipline: push dev → John reviews on the [dev site](https://jgtittle-ministries.github.io/Intentional-Journey-of-the-Heart-dev/) → mirror to prod ONLY on his word, with SHA-256-byte-identical + balanced-diff + (for Scripture chapters) verse-survival verification. Preview repo intentionally stale.
 
 ---
