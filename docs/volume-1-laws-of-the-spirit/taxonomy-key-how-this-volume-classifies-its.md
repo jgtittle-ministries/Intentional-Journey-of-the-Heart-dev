@@ -42,6 +42,8 @@ Every Foundational Law header in this volume carries a short tag in parentheses 
 - **GV** — Body / Action (what you actually do).
 - **GVI** — Structural Frame (the way it is all built).
 
+These six name distinct **jobs** within one whole person — not six separate substances. The difference between them is one of function, not of stuff (see [Exploration 2](exploration-02-my-spirit-heart-soul-and.md): "the difference … is one of job, not of substance"); where the Formation Documents speak of spirit, soul, and heart as distinct realities, this volume reads that distinction the same functional way.
+
 **The direction letter (V / H / B / I) — which way it runs.** *Which direction does the law run between people and God?*
 
 - **V** — Vertical (between a person and God).
