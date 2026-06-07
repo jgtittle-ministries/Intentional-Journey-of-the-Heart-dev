@@ -70,7 +70,7 @@ A growing set of companion academic papers runs alongside the volumes. Each is f
 
 **Model of Spiritual Formation for Individuals and Small Groups (MSFIG). **Integrates all three taxonomies with Old and New Testament formation theology and extends the framework to small groups and congregations. It is where the Affective Taxonomy is mapped onto the Parable of the Sower — the primary scriptural test of the taxonomy. The most comprehensive of the papers.
 
-**Measuring Spiritual Formation at Scale (MSF). **Applies the affective taxonomy as a diagnostic of existing measurement instruments—Natural Church Development, REVEAL, the Faith Maturity Scale, and others. Argues that they cluster at Levels 1–3 and reliably fail at Levels 4–5.
+**Measuring Spiritual Formation at Scale (MSF). **Applies the affective taxonomy across organizational scales — individual, small group, congregation, denomination, and the universal church — showing the same internalization dynamics at every scale.
 
 **The Formation Companion (FC). **Proposes the synthesis role of the person who facilitates this formation in others, drawing on four established Christian care traditions. Three-level developmental progression with a capstone competency of real-time mode-switching among the four traditions.
 
@@ -78,7 +78,7 @@ A growing set of companion academic papers runs alongside the volumes. Each is f
 
 **Attachment Theory and the Biblical Triad (ATB). **Brings attachment theory into the project’s formation framework, reading the soils of the Sower as attachment profiles and tying secure attachment to God to the capacity to be formed.
 
-**The Hearing-God Papers (MSM, CSM, CTG, BFP). **A four-part sub-series developing the affective-taxonomy core at publication length: Measuring (MSM) spiritual maturity in hearing God, Cultivating (CSM) its growth, then working that growth out through the lower levels of internalization — Receiving, Responding, Valuing — in Clearing the Ground (CTG), and the upper levels — Organization and Characterization — in Bearing Fruit (BFP).
+**The Hearing-God Papers (MSM, CSM, CTG, BFP). **A four-part sub-series developing the affective-taxonomy core at publication length: Measuring (MSM) spiritual maturity in hearing God — surveying instruments such as Natural Church Development, REVEAL, and the Faith Maturity Scale and showing they cluster at Levels 1–3 and rarely reach 4–5 — Cultivating (CSM) its growth, then working that growth out through the lower levels of internalization — Receiving, Responding, Valuing — in Clearing the Ground (CTG), and the upper levels — Organization and Characterization — in Bearing Fruit (BFP).
 
 These papers don’t replace the volumes; they run alongside them. The volumes ask how the laws work. The Formation Documents ask what it looks like, from the inside, to be formed by them. You’ll find them in full in Volume 5.
 
