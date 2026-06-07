@@ -3,8 +3,8 @@
 Clean, self-contained pickup for the next session. Everything below is **done + mirrored to prod** unless explicitly marked open/deferred.
 
 ## Repo state (in sync)
-- **IJH dev** `C:\Users\jgtit\claude\_work\Intentional-Journey-of-the-Heart-dev` — HEAD **`097bf15`**
-- **IJH prod** `C:\Users\jgtit\claude\_work\Intentional-Journey-of-the-Heart` — HEAD **`d51db5f`**
+- **IJH dev** `C:\Users\jgtit\claude\_work\Intentional-Journey-of-the-Heart-dev` — HEAD **`805dfb8`**
+- **IJH prod** `C:\Users\jgtit\claude\_work\Intentional-Journey-of-the-Heart` — HEAD **`c7f33d9`**
 - **dev ↔ prod docs are in sync** — the ONLY difference is `docs/index.md` (prod is clean; dev carries the intentional `!!! danger "YOU ARE VIEWING THE DEV PREVIEW SITE"` banner). **Never mirror `docs/index.md`.** dev also carries extra `_implementation-notes/` notes that are not mirrored by design.
 - IJH dev+prod are the **static "warm reader"** (index.html / reader.js / manifest.js / search-index.js) — **NOT MkDocs** (no mkdocs.yml). Live site: https://jgtittle-ministries.github.io/Intentional-Journey-of-the-Heart-dev/
 
@@ -37,6 +37,7 @@ John dictates a warm, first-person personal observation tied to a specific FL ch
 - **FL.XXVI** Doctrinal-Calcification — complete certainty closes you down (a 1.0 prior can't update); Israel's Judges cycle; *pain* is what reliably breaks calcification (org-change parallel).
 - **FL.XXVII** Thick-Practice Transmission — Truro Episcopal liturgy, Rite 2 ×3, J.K.A. Smith's *Desiring the Kingdom*; "liturgy without the Spirit is dull, filled with the Spirit gives life." (+ carried the **ex-opere-operato fix**, below.)
 - **FL.XXIX** Corporate-Emotional-Integration — grief after his daughter passed; the ones who **sat with him in the pain** (not fix/fade it) truly helped; Job's friends right for 7 days' silence (Job 2:13) then erred; "go sit with them — don't fix it." Lands on Christ weeping (John 11).
+- **FL.XXX** Communal Soul-Care for the Wounded — he prayed with/sat beside many never healed this side of heaven; the deeper battle is trusting He is good/hears/cares and that the one taken Home is healed completely; "I am the one who prays, and He is the Healer." *(tighter)* **+ carried the four-tradition #6 fix:** built the **never-healed pastoral guard** into the Proposed Law (two faithful endpoints — "until she is able to carry it again, **or, when the wound does not heal this side of heaven, all the way home**"), so the recovery telos no longer reads the never-healed as a failure-state. dev `80d5bbd`+`805dfb8` → prod mirror `c7f33d9`.
 
 **FL.I–VI** were done in earlier sessions (obs #7–#12). **FL.XXVIII was skipped** this session per John. **Sequence is John's call** — he's been jumping around (next he may continue FL.XXX, or go back to FL.VII, or anywhere).
 
