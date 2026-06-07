@@ -12,7 +12,8 @@ Contents of Volume 2: Knowing to Doing. Each entry below opens that section of t
 - [The Larger Story: Where This Volume Sits](larger-story-where-this-volume-sits.md) — The Larger Story: Where This Volume Sits
 - [Introduction: The Bridge from Knowing to Doing](introduction-the-bridge-from-knowing-to-doing.md) — Introduction: The Bridge from Knowing to Doing
 - [Taxonomy Key: How This Volume Classifies Its Explorations](taxonomy-key-how-this-volume-classifies-its.md) — Taxonomy Key: How This Volume Classifies Its Explorations
-- [Exploration O: The Christian Companion's Framework](exploration-o-the-christian-companions-framework-tool.md) — Exploration O: The Christian Companion's Framework — Tool Import Discipline
+- [Exploration 0: The Christian Companion's Framework](exploration-o-the-christian-companions-framework-tool.md) — Exploration 0: The Christian Companion's Framework — Tool Import Discipline
+- [Exploration 0B: The Contemplative Substrate](exploration-0b-contemplative-substrate.md) — Exploration 0B: The Contemplative Substrate — Foundational Practice (Operating Ground)
 - [1. The Heart Soil](exploration-01-heart-soil.md) — First Exploration: The Heart Soil — A Diagnostic Map
 - [1B. Wound vs. Sin](exploration-01b-wound-vs-sin.md) — First Exploration (B): Wound vs. Sin — The Structural Distinction
 - [2. Emotional Knots](exploration-02-emotional-knots.md) — Second Exploration: Emotional Knots — The Energetic Blockage Law

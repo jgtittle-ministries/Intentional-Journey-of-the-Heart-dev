@@ -336,6 +336,10 @@ window.VOLUME_CHAPTERS = {
         "title": "Exploration 0: The Christian Companion's Framework — Tool Import Discipline"
       },
       {
+        "path": "docs/volume-2-knowing-to-doing/exploration-0b-contemplative-substrate.md",
+        "title": "Exploration 0B: The Contemplative Substrate"
+      },
+      {
         "path": "docs/volume-2-knowing-to-doing/exploration-01-heart-soil.md",
         "title": "First Exploration: The Heart Soil — A Diagnostic Map"
       },
@@ -1431,6 +1435,15 @@ window.PATH_TO_INFO = {
     "folder": "volume-2-knowing-to-doing",
     "title": "Exploration 0: The Christian Companion's Framework — Tool Import Discipline",
     "prev": "docs/volume-2-knowing-to-doing/taxonomy-key-how-this-volume-classifies-its.md",
+    "next": "docs/volume-2-knowing-to-doing/exploration-0b-contemplative-substrate.md"
+  },
+  "docs/volume-2-knowing-to-doing/exploration-0b-contemplative-substrate.md": {
+    "volume": 2,
+    "volumeName": "Volume 2: Knowing to Doing",
+    "volumeFile": "Volume 2.html",
+    "folder": "volume-2-knowing-to-doing",
+    "title": "Exploration 0B: The Contemplative Substrate",
+    "prev": "docs/volume-2-knowing-to-doing/exploration-o-the-christian-companions-framework-tool.md",
     "next": "docs/volume-2-knowing-to-doing/exploration-01-heart-soil.md"
   },
   "docs/volume-2-knowing-to-doing/exploration-01-heart-soil.md": {
@@ -1439,7 +1452,7 @@ window.PATH_TO_INFO = {
     "volumeFile": "Volume 2.html",
     "folder": "volume-2-knowing-to-doing",
     "title": "First Exploration: The Heart Soil — A Diagnostic Map",
-    "prev": "docs/volume-2-knowing-to-doing/exploration-o-the-christian-companions-framework-tool.md",
+    "prev": "docs/volume-2-knowing-to-doing/exploration-0b-contemplative-substrate.md",
     "next": "docs/volume-2-knowing-to-doing/exploration-01b-wound-vs-sin.md"
   },
   "docs/volume-2-knowing-to-doing/exploration-01b-wound-vs-sin.md": {

@@ -1,5 +1,5 @@
 ---
-title: "Exploration O: The Christian Companion's Framework — Tool Import Discipline"
+title: "Exploration 0: The Christian Companion's Framework — Tool Import Discipline"
 volume: 2
 source: "IJH_Vol2_v5_6_1_1.docx"
 ---
