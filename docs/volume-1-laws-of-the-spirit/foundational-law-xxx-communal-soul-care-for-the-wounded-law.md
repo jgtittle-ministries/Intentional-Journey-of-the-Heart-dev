@@ -54,4 +54,6 @@ This law belongs with the community's inner life — its real work is the shared
 
 ***Certainty: Clearly Taught.*** *The backing is strong: four or more biblical writers across both Testaments (Paul, James, Luke, Mark, and the writer of Job), with the letters' care for widows and orphans and the Gospel stories of Jesus receiving the wounded showing how far it reaches. Acceptance is uncontested across mainstream Christian traditions — they differ on the exact forms but agree on the underlying claim. The law clearly runs in one direction. And it works as a principle, above any single custom.*
 
+***A word from your Granddaddy.*** *I have prayed with and sat beside more people than I can count who were never healed this side of heaven. I wanted it, I asked for it, I cried out for God to act — and still it didn't come. The hardest part isn't the waiting; it's standing in trust that He is good, that He hears, that He cares — and that when He takes one of His own home, that one is healed completely, the prayer answered beyond anything I knew to ask. I learned it the hard way: I am the one who prays, and He is the Healer. The healing was never mine to give.*
+
 [**Foundational Law XXXI — Operational Law of Wide Consent →**](foundational-law-xxxi-corporate-scriptural-reception-law.md){: .md-button .md-button--primary }
