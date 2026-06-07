@@ -3,8 +3,8 @@
 Clean, self-contained pickup for the next session. Everything below is **done + mirrored to prod** unless explicitly marked open/deferred.
 
 ## Repo state (in sync)
-- **IJH dev** `C:\Users\jgtit\claude\_work\Intentional-Journey-of-the-Heart-dev` — HEAD **`9678320`**
-- **IJH prod** `C:\Users\jgtit\claude\_work\Intentional-Journey-of-the-Heart` — HEAD **`f85d403`**
+- **IJH dev** `C:\Users\jgtit\claude\_work\Intentional-Journey-of-the-Heart-dev` — HEAD **`ff00b32`**
+- **IJH prod** `C:\Users\jgtit\claude\_work\Intentional-Journey-of-the-Heart` — HEAD **`3e1dd0a`**
 - **dev ↔ prod docs are in sync** — the ONLY difference is `docs/index.md` (prod is clean; dev carries the intentional `!!! danger "YOU ARE VIEWING THE DEV PREVIEW SITE"` banner). **Never mirror `docs/index.md`.** dev also carries extra `_implementation-notes/` notes that are not mirrored by design.
 - IJH dev+prod are the **static "warm reader"** (index.html / reader.js / manifest.js / search-index.js) — **NOT MkDocs** (no mkdocs.yml). Live site: https://jgtittle-ministries.github.io/Intentional-Journey-of-the-Heart-dev/
 
@@ -39,6 +39,7 @@ John dictates a warm, first-person personal observation tied to a specific FL ch
 - **FL.XXIX** Corporate-Emotional-Integration — grief after his daughter passed; the ones who **sat with him in the pain** (not fix/fade it) truly helped; Job's friends right for 7 days' silence (Job 2:13) then erred; "go sit with them — don't fix it." Lands on Christ weeping (John 11).
 - **FL.XXX** Communal Soul-Care for the Wounded — he prayed with/sat beside many never healed this side of heaven; the deeper battle is trusting He is good/hears/cares and that the one taken Home is healed completely; "I am the one who prays, and He is the Healer." *(tighter)* **+ carried the four-tradition #6 fix:** built the **never-healed pastoral guard** into the Proposed Law (two faithful endpoints — "until she is able to carry it again, **or, when the wound does not heal this side of heaven, all the way home**"), so the recovery telos no longer reads the never-healed as a failure-state. dev `80d5bbd`+`805dfb8` → prod mirror `c7f33d9`.
 - **FL.XXXI** Corporate Scriptural Reception — corporate listening seen in two of his own practices, **PROAPT** (Pray/Read/Observe/Apply/Pray/Tell; V2.Exp7) and **Heart Bible Study** (A28, slow/imagery-based); "you hear how God spoke to a brother or sister in that verse and it opens the verse for you — but only done in the Spirit, not a room trading opinions, but one body hearing the one Word together." *(tighter)* dev `9678320` → prod mirror `f85d403`. **Truro kept OUT** (FL.XXVII + V2.Exp7 already use it). **Reification one-liner DEFERRED to the cluster pass** (see OPEN/DEFERRED).
+- **FL.XXXII** Communal Worship Heart-Alignment — corporate worship sets him in heaven's throne room (*Revelation Song*, Kari Jobe leading); at the Father's feet before he meant to be, hands raised; the same song alone doesn't do it; the gathered church is caught up into the worship that never stops around His throne. *(fuller)* dev `ff00b32` → prod mirror `3e1dd0a`. Lands on Rev. 4–5 (the chapter's own proof text). **Reification one-liner DEFERRED.** ⭐ **Cluster milestone: all three reification chapters (XXIX/XXXI/XXXII) now carry their testimonies — only the joint Spirit/Christ-binds-the-shared-soul/mind/heart one-liner remains to close four-tradition #6.**
 
 **FL.I–VI** were done in earlier sessions (obs #7–#12). **FL.XXVIII was skipped** this session per John. **Sequence is John's call** — he's been jumping around (next he may continue FL.XXX, or go back to FL.VII, or anywhere).
 
