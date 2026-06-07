@@ -60,19 +60,25 @@ The six volumes are the core record of what I believe the Lord has shown me. The
 **Volume 6: Governance. **The framework under which this work is stewarded, refined, and extended beyond my own participation. Volume 6 contains the governance model, a Council of Stewards, a contributor process, a succession letter, and a machine-readable claim registry that encodes every proposition in Volumes 1–4 with its confidence level and dependencies. Volume 6 is the most institutional of the six volumes, on purpose, because it is the part of the work that has to outlast me. The Council of Stewards is the body that will keep the record honest once I am no longer the one keeping it honest.
 
 ## Layer 2: The Formation Documents
-Six companion papers run alongside the volumes. They are formalized as academic papers and address questions that benefit from formal academic treatment. Each paper takes one piece of the larger framework and develops it for an academic audience.
+A growing set of companion academic papers runs alongside the volumes. Each is formalized for an academic audience and develops one piece of the larger framework in depth.
 
 **Theological Anthropology (TA). **What scripture means by heart, spirit, soul, and mind, and the argument that each is observably distinct and developmentally trainable. This paper is the foundation; the three taxonomies that follow are built on it.
 
-**Heart Formation Theology (HFT). **Maps the affective taxonomy onto the Parable of the Sower and proposes trust in scripture as the right test case for measuring heart formation. The first piece of the framework that is rigorous enough to publish.
+**Heart Formation Theology (HFT). **Applies the affective taxonomy as a framework for heart formation and proposes trust in scripture as the tractable test case for measuring it, worked out through a small-group PROAPT process. The first piece of the framework that is rigorous enough to publish.
 
 **Soul and Spirit Taxonomies (SST). **Five-stage developmental maps for both the soul and the spirit, parallel to the affective taxonomy but tracking different dimensions of formation.
 
-**Model of Spiritual Formation for Individuals and Small Groups (MSFIG). **Integrates all three taxonomies with Old and New Testament formation theology and extends the framework to small groups and congregations. The most comprehensive of the papers.
+**Model of Spiritual Formation for Individuals and Small Groups (MSFIG). **Integrates all three taxonomies with Old and New Testament formation theology and extends the framework to small groups and congregations. It is where the Affective Taxonomy is mapped onto the Parable of the Sower — the primary scriptural test of the taxonomy. The most comprehensive of the papers.
 
-**Heart Formation Measurement Theory (HFMT). **Applies the affective taxonomy as a diagnostic of existing measurement instruments—Natural Church Development, REVEAL, the Faith Maturity Scale, and others. Argues that they cluster at Levels 1–3 and reliably fail at Levels 4–5.
+**Measuring Spiritual Formation at Scale (MSF). **Applies the affective taxonomy as a diagnostic of existing measurement instruments—Natural Church Development, REVEAL, the Faith Maturity Scale, and others. Argues that they cluster at Levels 1–3 and reliably fail at Levels 4–5.
 
 **The Formation Companion (FC). **Proposes the synthesis role of the person who facilitates this formation in others, drawing on four established Christian care traditions. Three-level developmental progression with a capstone competency of real-time mode-switching among the four traditions.
+
+**The Four Connects (4Cs). **Formalizes the Four Connects — connecting with self, others, God, and mission — the foundational sequence that opens the heart-formation work and anchors the entry stage of the cohort curriculum.
+
+**Attachment Theory and the Biblical Triad (ATB). **Brings attachment theory into the project’s formation framework, reading the soils of the Sower as attachment profiles and tying secure attachment to God to the capacity to be formed.
+
+**The Hearing-God Papers (MSM, CSM, CTG, BFP). **A four-part sub-series developing the affective-taxonomy core at publication length: Measuring (MSM) spiritual maturity in hearing God, Cultivating (CSM) its growth, then working that growth out through the lower levels of internalization — Receiving, Responding, Valuing — in Clearing the Ground (CTG), and the upper levels — Organization and Characterization — in Bearing Fruit (BFP).
 
 These papers don’t replace the volumes; they run alongside them. The volumes ask how the laws work. The Formation Documents ask what it looks like, from the inside, to be formed by them. You’ll find them in full in Volume 5.
 
@@ -97,7 +103,7 @@ Skip to Volume 2. The processes there have been tested in small groups for many 
 A cohort version of the heart-formation work — *Fellowship of the Heart* — has been prepared for the first pilot at Covenant Christian Academy of Warrenton. It runs three sequential series across about a year of Tuesday evenings: **Getting Started** (10 weeks introducing the four Connects from Volume 2), **Going Deeper** (12 weeks of the deeper Volume 2 work, anchored in Hebrews 12), and **Going Out** (12 weeks of the body sent into household, vocational, third-place, and "beyond" contexts). The full curriculum — Companion Lesson Plans, handbooks, and shared participant materials — is at [jgtittle-ministries.github.io/fellowship-of-the-heart-pilot-at-cca](https://jgtittle-ministries.github.io/fellowship-of-the-heart-pilot-at-cca/). Start with the *Start here* page; if the room you would gather is approximately parent-and-teen pairs, the pilot was prepared for exactly that shape.
 
 ## If you want the formal academic framework
-Read the Heart Formation Measurement Theory paper first. It is the most concentrated piece of the academic framework and stands alone. Then read the Heart Formation Theology paper for the foundational mapping of the affective taxonomy onto the Parable of the Sower. Then, depending on your interest, the Formation Companion paper (for the operational side) or the Model of Spiritual Formation for Individuals and Small Groups paper (for the comprehensive synthesis).
+Read the Heart Formation Theology (HFT) paper first — the foundational framing of heart formation with the affective taxonomy and trust in scripture. Then Measuring Spiritual Formation at Scale (MSF) for the diagnostic of existing instruments, and the Formation Companion (FC) for the operational side or the Model of Spiritual Formation for Individuals and Small Groups (MSFIG) for the comprehensive synthesis.
 
 ## If you are considering becoming a contributor
 Read Volume 6 first. It contains the governance model, the Council description, the contributor guide, and the proposal template. It will tell you what kind of community this is, what kind of contribution is invited, and what is expected of contributors. The contribution process is open: anyone can submit a proposed refinement using the template, and the Council reviews proposals against the four-factor derivation that the project uses for all of its claims.

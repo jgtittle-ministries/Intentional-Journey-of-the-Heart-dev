@@ -25,19 +25,19 @@ And one of the detailed dependencies is visually presented. Both of these are in
 
 Documents that I have developed, but not yet fully incorporated, are included as appendices or attachments. Each offers a future trail for deeper investigation.
 
-Alongside the five volumes, six companion papers have grown up as part of the same exploration. I call them the Formation Documents. These are some of the research I have done, formalized as academic papers.
+Alongside the five volumes, a growing set of companion papers has grown up as part of the same exploration. I call them the Formation Documents. These are some of the research I have done, formalized as academic papers. The principal ones are described below; the full current list — including the Four Connects, Attachment Theory and the Biblical Triad, and the four-part Hearing-God Papers — is in Volume 5.
 
 **The Theological Anthropology paper** is the foundational one. It examines what scripture means by heart, spirit, soul, and mind, and argues that each is distinct and trainable. The three taxonomy papers that follow are built on its framework.
 
-**The Heart Formation Theology paper** takes the Affective Taxonomy of Krathwohl, Bloom, and Masia — a five-level developmental framework from educational psychology that I’ll refer to throughout these volumes — and maps it onto the Parable of the Sower, proposing trust in scripture as the right test case for measuring heart formation.
+**The Heart Formation Theology paper** takes the Affective Taxonomy of Krathwohl, Bloom, and Masia — a five-level developmental framework from educational psychology that I’ll refer to throughout these volumes — and proposes trust in scripture as the right test case for measuring heart formation, worked out through a small-group PROAPT process.
 
 **The Soul and Spirit Taxonomies paper** proposes five-stage developmental maps for both the soul and the spirit, parallel to the Affective Taxonomy on the heart side.
 
-**The Model of Spiritual Formation for Individuals and Small Groups** is the most comprehensive of the six. It integrates all three taxonomies with Old and New Testament formation theology and extends them to small groups and congregations.
+**The Model of Spiritual Formation for Individuals and Small Groups** is the most comprehensive of the set. It integrates all three taxonomies with Old and New Testament formation theology and extends them to small groups and congregations, and it is where the Affective Taxonomy is mapped onto the Parable of the Sower — the primary scriptural test of the taxonomy.
 
 **The Formation Companion paper** proposes that the person who facilitates this formation in others is a synthesis role, drawing on four established Christian spiritual care traditions, with a three-level developmental progression and a capstone competency of real-time mode-switching.
 
-**The Heart Formation Measurement Theory paper** explains how the core Affective Taxonomy can be applied and measured across scales — individual, small group, church, denomination, and finally the one, holy, catholic, and apostolic church. This directly addresses the need for structure and accountability at each level.
+**The Measuring Spiritual Formation at Scale paper (MSF)** explains how the core Affective Taxonomy can be applied and measured across scales — individual, small group, church, denomination, and finally the one, holy, catholic, and apostolic church. This directly addresses the need for structure and accountability at each level.
 
 Practically, these documents and the small groups that have been the test bed for development have all been under the spiritual authority of my local church and pastor. I really understand the need for being under authority and have made sure this was true about me personally, and any small group I was working with was also under authority.
 
