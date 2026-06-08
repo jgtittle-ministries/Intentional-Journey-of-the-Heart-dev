@@ -61,6 +61,10 @@ window.VOLUME_CHAPTERS = {
         "title": "Taxonomy Key: How This Volume Classifies Its Explorations"
       },
       {
+        "path": "docs/volume-1-laws-of-the-spirit/properties-of-spiritual-law.md",
+        "title": "The Properties of Spiritual Law as Used in This Work"
+      },
+      {
         "path": "docs/volume-1-laws-of-the-spirit/opening-miracle-frame.md",
         "title": "Opening Exploration: The Miracle Frame — The Natural World as a Subset"
       },
@@ -832,6 +836,15 @@ window.PATH_TO_INFO = {
     "folder": "volume-1-laws-of-the-spirit",
     "title": "Taxonomy Key: How This Volume Classifies Its Explorations",
     "prev": "docs/volume-1-laws-of-the-spirit/what-we-are-being-formed-for-the.md",
+    "next": "docs/volume-1-laws-of-the-spirit/properties-of-spiritual-law.md"
+  },
+  "docs/volume-1-laws-of-the-spirit/properties-of-spiritual-law.md": {
+    "volume": 1,
+    "volumeName": "Volume 1: Laws of the Spirit",
+    "volumeFile": "Volume 1.html",
+    "folder": "volume-1-laws-of-the-spirit",
+    "title": "The Properties of Spiritual Law as Used in This Work",
+    "prev": "docs/volume-1-laws-of-the-spirit/taxonomy-key-how-this-volume-classifies-its.md",
     "next": "docs/volume-1-laws-of-the-spirit/opening-miracle-frame.md"
   },
   "docs/volume-1-laws-of-the-spirit/opening-miracle-frame.md": {
@@ -840,7 +853,7 @@ window.PATH_TO_INFO = {
     "volumeFile": "Volume 1.html",
     "folder": "volume-1-laws-of-the-spirit",
     "title": "Opening Exploration: The Miracle Frame — The Natural World as a Subset",
-    "prev": "docs/volume-1-laws-of-the-spirit/taxonomy-key-how-this-volume-classifies-its.md",
+    "prev": "docs/volume-1-laws-of-the-spirit/properties-of-spiritual-law.md",
     "next": "docs/volume-1-laws-of-the-spirit/foundational-laws-thirty-eight-operational-laws-of-wide.md"
   },
   "docs/volume-1-laws-of-the-spirit/foundational-laws-thirty-eight-operational-laws-of-wide.md": {
