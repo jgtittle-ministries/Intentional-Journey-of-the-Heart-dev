@@ -42,6 +42,8 @@ I connect this to the Sixth Exploration (the Obedience Channel): obedience to th
 
 **Certainty: Reasonably Inferred  ***Strong scriptural grounding. The exact way that willingness to obey turns the general Word into a personal one is confirmed in experience but not yet pinned to a single ESV verse. Community testing needed.*
 
+***A word from your Granddaddy.*** *Your grandmother and I were teaching a Sunday-school class of sixth-grade girls, and they were all bent over a project around the table when one of them asked me — almost idly, not even looking up — “Mr. Tittle, do you believe the Bible is really true?” Something in that simple question stopped time. It felt as though I had all the room I needed to weigh it honestly, though it could only have been a second or two before I heard myself answer, “Yes. I do.” And here is what I want you to see: I wasn’t reaching for an argument or one more piece of evidence. In that quiet moment I simply let the question land — and discovered I already believed it, more surely than I had known. That is how faith so often comes: not by figuring out one more thing, but by being willing, right then, to believe what was already true. The faith was there all along; the Spirit was standing at the door, and a child’s honest question swung it open.*
+
 **Connections**
 
 **Vol 2. ***The Word → Hearing → Faith chain is the main thing Vol 2 works on: Part I**, which diagnoses the four soil conditions that block the chain at different points. Part II gives the clearing tools, and Part III gives **the practices that keep the chain open.*
