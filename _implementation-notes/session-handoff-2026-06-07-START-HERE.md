@@ -3,8 +3,8 @@
 Clean, self-contained pickup for the next session. Everything below is **done + mirrored to prod** unless explicitly marked open/deferred.
 
 ## Repo state (in sync)
-- **IJH dev** `C:\Users\jgtit\claude\_work\Intentional-Journey-of-the-Heart-dev` — HEAD **`eceeb3c`**
-- **IJH prod** `C:\Users\jgtit\claude\_work\Intentional-Journey-of-the-Heart` — HEAD **`713cbec`**
+- **IJH dev** `C:\Users\jgtit\claude\_work\Intentional-Journey-of-the-Heart-dev` — HEAD **`67896f0`**
+- **IJH prod** `C:\Users\jgtit\claude\_work\Intentional-Journey-of-the-Heart` — HEAD **`b6bb433`**
 - **dev ↔ prod docs are in sync** — the ONLY difference is `docs/index.md` (prod is clean; dev carries the intentional `!!! danger "YOU ARE VIEWING THE DEV PREVIEW SITE"` banner). **Never mirror `docs/index.md`.** dev also carries extra `_implementation-notes/` notes that are not mirrored by design.
 - IJH dev+prod are the **static "warm reader"** (index.html / reader.js / manifest.js / search-index.js) — **NOT MkDocs** (no mkdocs.yml). Live site: https://jgtittle-ministries.github.io/Intentional-Journey-of-the-Heart-dev/
 
@@ -55,6 +55,17 @@ John dictates a warm, first-person personal observation tied to a specific FL ch
 **How to resume a chapter:** read the FL.md; surface any still-open peer-review item touching it (see the punch-lists in `_implementation-notes/peer-review-vol1/`); note what it is + why it fits him; invite his dictation; run the contract.
 
 ---
+
+## ⭐ NEW WORKSTREAM — searchability tightening (over-cap chapters)
+The search index (`_gen_search_index.js`) caps each chapter's indexed text at **24,000 processed chars**; anything past that is **not searchable**. **22 chapters** were over (2026-06-08). John wants the **prose chapters** tightened under the cap; **going-forward criterion: every Foundational Law / Exploration chapter stays under 24K** (when a granddaddy voice would push it over, trim to compensate). FotH note: FL.XXXVI was *under* until the *fuller* testimony pushed it over.
+
+**AUDIENCE GUIDE for trims (John, 2026-06-08):** the reader is a **scripturally literate 15–16-year-old who can look things up**. So **short phrases that point to the larger passage are fine** — trim long block-quotes to their load-bearing lines + the reference; condense verse-by-verse lists; merge digressions. Preserve all doctrine, references, cross-refs, and the granddaddy testimony.
+
+**Tool:** `node C:\Users\jgtit\claude\_work\_analyze_chapter_lengths.js "<repo>" [threshold]` reports chapters over `threshold` (default 24000) in manifest order with exact processed lengths — use a lower threshold (e.g. 20000) to read a trimmed chapter's headroom. Measure → iterate → aim ~23,300–23,600 (≥400 headroom).
+
+**Two groups:**
+- **Group A — prose, TRIM these:** ~~FL.XXXIV (was +2,819)~~ **DONE 2026-06-08** (26,819→23,564; 12 cuts; dev `67896f0`→prod `b6bb433`). Remaining: **FL.XXXVI (+873), FL.XXXVIII (+1,900), V2.Exp0B (+3,548), V2.Exp7 Hearing-with-Understanding (+7,223).**
+- **Group B — reference/structural docs, long BY NATURE (do NOT gut; handle separately — raise cap or accept partial index):** Vol 3 Master Law Index (+15,895); Vol 4 Sec 3/4/5 + Appendix; Vol 5 Part I Sources (**+64,224**), Part II (+19,630), Part VI, A25, Mission-Arc, B11, B15, **Periodic Table (+156,741)**, Corporate Person-Structure; Vol 6 Gov Part 1/2, Catalog History (+13,710).
 
 ## Mechanics (the mirror + build loop)
 **Per granddaddy chapter:** Edit the FL.md (close-of-chapter, before the nav button) → regen dev search-index → commit + push dev → on "mirror": `cp` dev file → prod, regen prod search-index, commit ("Mirror from dev: …"), push.
