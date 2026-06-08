@@ -3,8 +3,8 @@
 Clean, self-contained pickup for the next session. Everything below is **done + mirrored to prod** unless explicitly marked open/deferred.
 
 ## Repo state (in sync)
-- **IJH dev** `C:\Users\jgtit\claude\_work\Intentional-Journey-of-the-Heart-dev` — HEAD **`1dadc3c`**
-- **IJH prod** `C:\Users\jgtit\claude\_work\Intentional-Journey-of-the-Heart` — HEAD **`5a3d129`**
+- **IJH dev** `C:\Users\jgtit\claude\_work\Intentional-Journey-of-the-Heart-dev` — HEAD **`675e574`**
+- **IJH prod** `C:\Users\jgtit\claude\_work\Intentional-Journey-of-the-Heart` — HEAD **`616ddb8`**
 - **dev ↔ prod docs are in sync** — the ONLY difference is `docs/index.md` (prod is clean; dev carries the intentional `!!! danger "YOU ARE VIEWING THE DEV PREVIEW SITE"` banner). **Never mirror `docs/index.md`.** dev also carries extra `_implementation-notes/` notes that are not mirrored by design.
 - IJH dev+prod are the **static "warm reader"** (index.html / reader.js / manifest.js / search-index.js) — **NOT MkDocs** (no mkdocs.yml). Live site: https://jgtittle-ministries.github.io/Intentional-Journey-of-the-Heart-dev/
 
@@ -64,7 +64,8 @@ The search index (`_gen_search_index.js`) caps each chapter's indexed text at **
 **Tool:** `node C:\Users\jgtit\claude\_work\_analyze_chapter_lengths.js "<repo>" [threshold]` reports chapters over `threshold` (default 24000) in manifest order with exact processed lengths — use a lower threshold (e.g. 20000) to read a trimmed chapter's headroom. Measure → iterate → aim ~23,300–23,600 (≥400 headroom).
 
 **Two groups:**
-- **Group A — prose, TRIM these:** ~~FL.XXXIV (was +2,819)~~ **DONE** (26,819→23,564; dev `67896f0`→prod `b6bb433`). ~~FL.XXXVI (was +873)~~ **DONE** (24,873→23,500; 8 quote-trims; dev `8b06e43`→prod `3f68a04`). Remaining: **FL.XXXVIII (+1,900), V2.Exp0B (+3,548), V2.Exp7 Hearing-with-Understanding (+7,223).**
+- **Group A — over-cap prose:** ~~FL.XXXIV~~ DONE (→23,564, prod `b6bb433`). ~~FL.XXXVI~~ DONE (→23,500, prod `3f68a04`). ~~FL.XXXVIII~~ DONE (25,900→23,737, prod `92c2db8`). Remaining over-cap prose: **V2.Exp0B (+3,548), V2.Exp7 Hearing-with-Understanding (+7,223)** — Vol 2, not yet done.
+- **⭐ NEW DIRECTIVE 2026-06-08 — "review the longer Foundational laws from FL1 forward for high-payoff simplification, my choice which."** These are *quality* trims (all already searchable via the raised cap): cut repetition + long quotes per the audience guide; **preserve testimonies + prior fixes** (e.g. FL.XXVII's Spirit-governor / ex-opere-operato). Standing authorization to pick the next-highest-payoff and tighten it, presenting each on dev for "mirror". DONE: **FL.XXVII** (21,769→19,698, prod `5b8f14b`), **FL.XXXIII** (21,013→19,265, prod `616ddb8`). **NEXT down the list (by length): FL.XX Gathered-Body (18,427), FL.XXIII Sabbath (18,322), FL.XXI Household (17,777), FL.XXVI Doctrinal Calcification (17,255), FL.XVIII Bitter-Root (16,208), FL.XXII Endurance (16,088).** (Run `_analyze_chapter_lengths.js <repo> 13000 | grep "Foundational Law"` for the live list.)
 - **✅ Group B — reference/structural docs (long BY NATURE) — CAP RAISED & DONE 2026-06-08.** `_gen_search_index.js` **CAP 24000 → 200000** (above the largest doc, the ~180,741 Periodic Table). Both indexes regenerated: **capped chapters 20 → 0**, all reference docs (Periodic Table, Vol 5 bibliographies, Master Law Index, Vol 4 testing, Vol 6 governance) now fully searchable. Index 2.05→2.44 MB uncompressed (~780 KB gzipped). **No page-load cost** — `app.js loadIndex()` is lazy (loads on first search only, then cached). dev `1dadc3c` → prod `5a3d129`. ⚠️ The generator (`_work/_gen_search_index.js`) is shared/not in either repo, so the CAP=200000 is already in effect for all future regens. **Group-A prose 24K target is now a *quality/readability* discipline, not a searchability necessity** (check with `_analyze_chapter_lengths.js <repo> 24000`).
 
 ## Mechanics (the mirror + build loop)
