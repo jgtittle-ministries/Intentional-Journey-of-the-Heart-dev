@@ -7,7 +7,7 @@ source: "IJH_Vol2_v5_6_1_1.docx"
 # Sixth Exploration: The Tool Map — Matching the Right Tool to the Right Blockage
 
 ## Why the Map Matters
-I have a long list of tools and processes that I have found effective in various contexts. The list includes GRH, TPM, Inner Healing in the Payne/Bennett tradition, shadow work, voice dialogue, psychodrama, the Wild at Heart materials, Warrior Monk processes, and more. The list is not the problem. The problem is that without a map showing which tool addresses which blockage type, I end up applying tools at random — and a well-intentioned but wrong tool can make things worse. GRH and TPM have explicit mappings of tools, which are helpful. What follows is my mapping as I have used the tools.
+I have a long list of tools and processes that I have found effective in various contexts. The list includes GRH, TPM, Inner Healing in the Payne/Bennett tradition, shadow work, voice dialogue, psychodrama, the Wild at Heart materials, Warrior Monk processes, and more. The list is not the problem. The problem is that without a map showing which tool addresses which blockage type, I end up applying tools at random — and a well-intentioned but wrong tool can make things worse. GRH and TPM have explicit mappings of tools, which are helpful. What follows is my mapping as I have used the tools. That caution has an outer limit: when what surfaces is beyond what these tools and a lay Companion can hold — acute crisis, abuse, trauma at depth — the right "tool" is a referral to a licensed clinician, not another process. See the Container chapter's note on the limits of "safe."
 
 ![A craftsman's tool cabinet — the right tool, used on the right material, at the right time.](images/07-tool-bench.jpg)
 

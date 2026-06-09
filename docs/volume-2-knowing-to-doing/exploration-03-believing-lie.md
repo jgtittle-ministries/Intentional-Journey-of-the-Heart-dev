@@ -9,6 +9,8 @@ source: "IJH_Vol2_v5_6_1_1.docx"
 ## The Root Beneath the Root
 Every emotional knot has a cognitive root — a belief about God, about myself, or about others that is false but that I have accepted as true, usually as a result of a wound or a repeated experience in which the lie was confirmed. TPM — Transformation Prayer Ministry — is built on this specific insight, and in my observation, it is correct: the Holy Spirit does not merely soothe the pain of a wound. He replaces the lie at the root of the wound with His truth. The soothing is the consequence of the replacement, not the mechanism.
 
+*(On where this work ends and clinical care begins — when to stop and refer — see the Container chapter's note on the limits of "safe.")*
+
 This distinction is important because it explains why some inner healing work lasts and some doesn’t. If the prayer gets to the lie and the Spirit speaks truth into that specific place, the knot releases and stays released. If the prayer produces emotional relief without reaching the lie, the relief is real but temporary — the lie is still running underneath, and the knot will re-form.
 
 ![](images/believing-a-lie-mirror.jpg)

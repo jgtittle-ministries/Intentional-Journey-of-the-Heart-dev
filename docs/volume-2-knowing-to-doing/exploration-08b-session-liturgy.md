@@ -11,6 +11,8 @@ For many years the corpus has named the pieces of the work — the four connects
 
 The session has been operationally practiced in Band of Brothers and Fellowship of the Heart bodies since at least February 2004 (TGL's Band of Brothers Group Session Protocol is the earliest written form I know of) and in the *Field Manual: How to Start and Sustain a God-Focused Men's Small Group* (Tittle with Smith, 2008) as the practitioner-level operational depth. The 2004 protocol named what the practice has carried for decades, and the 2008 *Field Manual* gave the practitioner-level depth. What was missing until 2026 was the canonical-claim altitude statement of what the session *is*.
 
+*(On where this work ends and clinical care begins — when to stop and refer — see the Container chapter's note on the limits of "safe.")*
+
 ## The Components of a Session
 A session has front-notes (orientation to what the work is and who is doing it); a formally-marked opening that establishes the container in the sense of Exploration 8; clearings that surface and address what would interfere with the work (PIES is the canonical clearing-method here — Exploration 8B's clearing sub-component is treated at depth in Vol 5 Part VI's B17 entry); the work itself, which the Companion has discerned for *this* gathering from the corpus's menu (a tool from Exploration 6's Map, a hearing exercise from Exploration 7, an Exploration 2/2A/2B/2C diagnostic move, a connection-work move from Exploration 5, the specific protocol the Companion has discerned the gathering needs); the formally-marked closing that integrates the work into life (the de-roling work, the closing affirmation, the marked release); and the teachings the body has learned to receive at the close.
 

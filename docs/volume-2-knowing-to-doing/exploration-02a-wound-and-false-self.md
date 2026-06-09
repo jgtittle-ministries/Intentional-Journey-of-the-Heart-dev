@@ -12,6 +12,8 @@ source: "IJH_Vol2_v5_6_1_1.docx"
 ## The Layer Beneath the Knots
 After working with men for many years in the Band of Brothers context, and after living through my own interior clearing work, I have come to believe there is a category of blockage that sits beneath the emotional knots of Exploration 2. It is not just that I carry grief, shame, fear, or anger. It is that, over time, those knots shape a whole alternative version of me — a constructed identity that I begin to manage my life out of, rather than the real self the Father designed and is restoring. John Eldredge, in Wild at Heart (2001), gave me the clearest language I have found for this dynamic, and I want to give it its own formal law here.
 
+*(On where this work ends and clinical care begins — when to stop and refer — see the Container chapter's note on the limits of "safe.")*
+
 Every man (woman) receives a wound — usually early, usually from someone he needed to be safe. The wound arrives with an interpretation, and that interpretation becomes the organizing story of his life if it goes unaddressed. Eldredge argues, and I agree, that the wound almost always strikes at the same question that sits at the center of every man’s heart: Do I have what it takes? The answer the wound delivers — delivered not by reason but by experience — is “No”. And the heart, in its understandable attempt to survive that verdict, constructs a false self to manage around it. There is an equivalent dynamic for women that John and his wife, Stasi, discuss in their book “Captivating”.
 
 ***Proverbs 4:23 (ESV)***
