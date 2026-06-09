@@ -70,7 +70,7 @@ window.VOLUME_CHAPTERS = {
       },
       {
         "path": "docs/volume-1-laws-of-the-spirit/foundational-laws-thirty-eight-operational-laws-of-wide.md",
-        "title": "Foundational Laws: Forty-Five Operational Laws of Wide Consent"
+        "title": "Foundational Laws: The Forty-Six Laws of the Spirit"
       },
       {
         "path": "docs/volume-1-laws-of-the-spirit/supplemental-held-tensions-and-shadow-pairs.md",
@@ -861,7 +861,7 @@ window.PATH_TO_INFO = {
     "volumeName": "Volume 1: Laws of the Spirit",
     "volumeFile": "Volume 1.html",
     "folder": "volume-1-laws-of-the-spirit",
-    "title": "Foundational Laws: Forty-Five Operational Laws of Wide Consent",
+    "title": "Foundational Laws: The Forty-Six Laws of the Spirit",
     "prev": "docs/volume-1-laws-of-the-spirit/opening-miracle-frame.md",
     "next": "docs/volume-1-laws-of-the-spirit/supplemental-held-tensions-and-shadow-pairs.md"
   },

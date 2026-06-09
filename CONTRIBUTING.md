@@ -45,6 +45,10 @@ Three confidence tiers receive different governance treatment:
 
 See Volume 6 §5 and §6 for the full procedures.
 
+## Source of truth
+
+The published Markdown under `docs/` is the **canonical source** for the volumes' prose. Each chapter's `source:` front-matter field names the originating `.docx` (under `source-documents/`) for **provenance only** — those documents are historical and have since diverged from the published Markdown as the volumes have been edited in place (testimonies, doctrinal guards, cross-references, and other refinements live only in the Markdown). **Do not regenerate a chapter from its `source:` document**; doing so would silently discard those later edits. Edit the Markdown directly, and keep the dev and prod repositories in sync via the mirror workflow.
+
 ## License and contributor agreement
 
 This work is licensed under
