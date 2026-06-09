@@ -49,6 +49,16 @@ See Volume 6 §5 and §6 for the full procedures.
 
 The published Markdown under `docs/` is the **canonical source** for the volumes' prose. Each chapter's `source:` front-matter field names the originating `.docx` (under `source-documents/`) for **provenance only** — those documents are historical and have since diverged from the published Markdown as the volumes have been edited in place (testimonies, doctrinal guards, cross-references, and other refinements live only in the Markdown). **Do not regenerate a chapter from its `source:` document**; doing so would silently discard those later edits. Edit the Markdown directly, and keep the dev and prod repositories in sync via the mirror workflow.
 
+## Consistency checks (run after edits)
+
+A doctrinal fix often lands in a chapter but not in its summaries or the registry. Three quick checks in `_implementation-notes/` catch that drift; run the relevant one after content changes:
+
+- **`_link_audit.py`** — orphan files, manifest-vs-disk, and broken `.md`/PDF/image links.
+- **`_anchor_audit.py`** — every `#fragment` link resolves to a real `##`/`###` heading.
+- **`_tier_audit.py`** — each Foundational Law's certainty tier agrees across all four places it is stated: the **chapter**, the **Master Law Index**, the **Periodic Table**, and the **claim registry** (`vol1-claims.yml`). Run this after any tier or doctrinal change.
+
+Always re-run the search-index generator after editing `docs/`.
+
 ## License and contributor agreement
 
 This work is licensed under
