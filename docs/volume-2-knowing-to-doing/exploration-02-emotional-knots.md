@@ -59,7 +59,7 @@ Emotional knots are weights. They may have sin mixed into them often; there may 
 
 *"...and you will know the truth, and the truth will set you free."*
 
-This is the mechanism statement. The truth that sets free is not information; it is revelation delivered by the Spirit of Truth to the specific part of the heart that is holding the knot. The setting free is an event, not a process of intellectual persuasion. I have seen this happen many times — in my own life and in the lives of men I have prayed with. The knot releases. The valley levels out. The bandwidth returns. Sometimes this comes suddenly, when the Spirit speaks the specific truth into the specific place; sometimes it comes slowly; and sometimes, in His wisdom, not on our timetable at all. What is *clearly taught* here is the mechanism — that it is the Spirit's delivered truth that sets free — not the timing or the visibility of the release.
+This is the mechanism statement. The truth that sets free is not information; it is revelation delivered by the Spirit of Truth to the specific part of the heart that is holding the knot. The setting free is an event, not a process of intellectual persuasion. I have seen this happen many times — in my own life and in the lives of men I have prayed with. The knot releases. The valley levels out. The bandwidth returns. Sometimes this comes suddenly, when the Spirit speaks the specific truth into the specific place; sometimes slowly; and sometimes, in His wisdom, not on our timetable at all (see the standing word above).
 
 ***Prov. 4:23 (ESV)***
 
