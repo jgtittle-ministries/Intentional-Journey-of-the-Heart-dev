@@ -3,17 +3,21 @@
 Self-contained pickup. Everything below is shipped and in sync; nothing is mid-flight. **Work the NEXT-SESSION QUEUE in order.**
 
 ## Repo state (in sync)
-- **IJH dev** `C:\Users\jgtit\claude\_work\Intentional-Journey-of-the-Heart-dev` — HEAD **`8e3fb19`**
-- **IJH prod** `C:\Users\jgtit\claude\_work\Intentional-Journey-of-the-Heart` — HEAD **`a75778c`**
+- **IJH dev** `C:\Users\jgtit\claude\_work\Intentional-Journey-of-the-Heart-dev` — HEAD **`4967441`** (big-guard; notes commit `5264ae8` beneath)
+- **IJH prod** `C:\Users\jgtit\claude\_work\Intentional-Journey-of-the-Heart` — HEAD **`9338695`** (big-guard mirror)
 - **dev ↔ prod docs in sync** — only `docs/index.md` differs (dev DEV-banner). **Never mirror `index.md`.** Static **warm reader** (manifest.js + search-index.js), not MkDocs.
 
 ## ⭐ NEXT-SESSION QUEUE (John's order)
 
-### 1. The "big-guard" session — core-text de-mechanize for FL.XXXIX + FL.XIX
+### 1. ✅ DONE — The "big-guard" session — core-text de-mechanize for FL.XXXIX + FL.XIX
+**Landed dev `4967441` → mirrored prod `9338695` (2026-06-09, byte-identical blobs, 37+/31−).** Both chapters were already fully guarded; the lag was only in the registry `core_text` (+ FL.XXXIX Master Index prose). FL.XXXIX: dropped "return-mechanism that exceeds proportional scaling"/"conditioned on the surrender" → Christ's free sovereign doing + John 12:24 cruciform + Mark 12 widow's-mite + explicit prosperity-fence. FL.XIX: dropped "increased magnitude where the operational conditions are properly observed"/"magnitude depends on posture" → same KIND, double-portion = inheritance (Deut. 21:17) not power, sovereign Spirit not bound to means (Acts 10:44–46), fan-into-flame = develop. Stripped both obsolete `confidence_rationale` deferral flags. Tier/link/anchor audits clean; search-index regenerated. **Next session starts at item 2.**
+
+<details><summary>(original brief, for reference)</summary>
 Tiers are already synced to Reasonably Inferred everywhere; what remains is the **doctrinal wording** in the chapter/core-text/summaries. Both are flagged in their `vol1-claims.yml` `confidence_rationale`.
 - **FL.XXXIX (Surrender-Multiplication)** — the contentious one (John deferred it before). De-mechanize the "**conditioned on the surrender**" / "return-mechanism that exceeds proportional scaling" wording so it can't read as a technique that obligates God; add the **cruciform counterweight** (John 12:24 the grain of wheat; the widow's mite, Mark 12); make sure chapter + core_text + the Master Index/Periodic Table summaries all carry the explicit **prosperity-fence**. Registry core_text currently still carries the un-guarded framing.
 - **FL.XIX (Spirit-Anointing-Transmission)** — align the registry `core_text` (and re-check the chapter): drop "**increased magnitude where the operational conditions of impartation are properly observed**" and "magnitude depends on the receiving party's posture (Elisha's double-portion asking)"; align to the chapter's settled reading — same **kind** of anointing, "double portion" = **inheritance language, not a measure of power**, the sovereign Spirit not bound to the means (Acts 10:44–46), "fan into flame" = develop, not engineer-more.
 - After editing: run `_tier_audit.py` + link/anchor audits, regen search-index, mirror dev→prod.
+</details>
 
 ### 2. Coverage — Vol 2 review (do A, then B; decide on C after)
 Vol 2 is the operational/clearing/inner-healing volume done *with wounded people* — most pastorally consequential, least scrutinized (the 7-author pass hit Vol 1 + Formation Docs).
@@ -52,8 +56,8 @@ Per chapter: John dictates → 4-part contract → his pick → dev → "mirror"
 - **Still without a granddaddy testimony:** FL **XVIII, XXVIII, XXXIX, XLII, XLIII, XLIV, XLV**; parked: FL **IX, XIX**, Exp **06**. (FL.XLIII/XXVIII got doctrinal guards this session but not testimonies.)
 
 ## Open peer-review (status after this session)
-- **Closed/handled:** FL.XLI (baptism), FL.XXVIII (pastoral guard + tier), FL.V (works-wire + reconciliation), FL.XIX/XXXIX **tiers** (cores pending in big-guard).
-- **Still open:** **FL.XII** (split certainty tier — parental command CT vs civil/ecclesial; re-embed Rom. 13); **Three Desires supplemental** (downgrade structural-law/Newton → pastoral typology; imago-Dei; feminine-heart section); the big-guard core-texts (item 1).
+- **Closed/handled:** FL.XLI (baptism), FL.XXVIII (pastoral guard + tier), FL.V (works-wire + reconciliation), FL.XIX/XXXIX **tiers + core-texts** (big-guard done, prod `9338695`).
+- **Still open:** **FL.XII** (split certainty tier — parental command CT vs civil/ecclesial; re-embed Rom. 13); **Three Desires supplemental** (downgrade structural-law/Newton → pastoral typology; imago-Dei; feminine-heart section).
 - **Smaller three-stream:** FL.XVI 2 Cor 4:4 (**deliberately deferred** — warfare), FL.XLII↔XVI link, FL.VI Deut 28, Exp1/FL.II confession-of-mouth, FL.X importunate prayer.
 
 ## Conventions (don't re-derive)
