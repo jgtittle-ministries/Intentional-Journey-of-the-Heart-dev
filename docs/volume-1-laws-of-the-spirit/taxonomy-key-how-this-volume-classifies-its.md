@@ -6,7 +6,7 @@ source: "IJH_Vol1_v5_6_1_1.docx"
 
 # Taxonomy Key: How This Volume Classifies Its Explorations
 
-Before the explorations begin, I want to name the classification system I use throughout this volume. Every Exploration is tagged with a law type in its header. Here is what those tags mean, and how they connect to the volumes that follow.
+Before the explorations begin, I want to name the classification system I use throughout this volume. Every Exploration is tagged with a law type in its header. Here is what those tags mean, and how they connect to the volumes that follow. A companion chapter, [The Properties of Spiritual Law](properties-of-spiritual-law.md), comes right after this one; where this key says *where* each law sits, that companion asks *how* the laws behave as laws.
 
 ## Structural Laws
 A Structural Law describes what exists in the spiritual world and how its parts fit together — the shape of things, not how they move. The relationship between Spirit, Heart, Soul, and Body (Exploration 2) is structural. The Faith-Hope-Love triad (Exploration 3) is structural. The Wisdom cluster (Exploration 4) is structural. These laws are like a map: they show the lay of the land. They have to be in place before the Operational Laws below can make any sense.
