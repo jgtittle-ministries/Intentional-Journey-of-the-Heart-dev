@@ -19,16 +19,26 @@ Tiers are already synced to Reasonably Inferred everywhere; what remains is the 
 - After editing: run `_tier_audit.py` + link/anchor audits, regen search-index, mirror dev→prod.
 </details>
 
-### 2. Coverage — Vol 2 review (do A, then B; decide on C after)
+### 2. ⏳ Vol 2 review — 8-AUTHOR REVIEW DONE; awaiting John's digestion, NO edits yet
+**The full multi-agent 8-author review ran 2026-06-09** (Keller/Stott/Fee/Willard + Foster/Eldredge/Prince/**Lewis**, Lewis added at John's request). Artifact **`_implementation-notes/peer-review-vol2/peer-review-vol2-eight-authors.md`** + `.docx` sibling, committed dev `1d53ff0`/`8b8067a` (dev-only, NOT mirrored; Vol 2 itself untouched — diagnostic only). 8 authors · 70 presses → 26 concerns · **19 verified real**; the adversarial verifier downgraded the broad "mechanism register" charge to LOW and refuted/downgraded several panel over-reaches (so trust the surviving severities, not raw heat).
+- **Two gating pastoral-safety faults** (both survived verification): **(#1, HIGH, 7/8)** NO clinical-referral/do-no-harm guard anywhere in a volume that sends lay peers into trauma/abuse/dissociation work — *the gate on the pilot*; John already wrote the move in 0B (refer to wider church), needs a clinical analogue. **(#2, MEDIUM, all 8)** non-release routed back onto the sufferer; no sovereignty/Dark-Night off-ramp travels with the protocol (the lament material exists but lives in the wrong place).
+- **Editor's one-line diagnosis:** *the right theology lives in the wrong place* — surface existing guards at the point of use.
+- **Tier sweep:** all 12 core tiers agree w/ registry; fixes = Exp9 "about Speculative"→"65% (RI)", Tool Map footer "6A"→"6", Exp4 + Exp6 registry `core_text` now narrower than published (claim drift).
+- **Punch-list in the artifact:** Tier A (11 cheap) · Tier B (10 targeted) · Tier C (2 safety gates + Tool Map rewrite + 2C victim-agency guard + governance/taxonomy relocation call).
+- **4 judgment calls need John** (not wording): deliverance grammar; sudden-vs-gradual release as a truth-claim; relocate registry/taxonomy apparatus?; 2A man-centric framing now vs. wait for the women's revision.
+- **John's call 2026-06-09: digest first** — read the artifact, come back with which findings to action. Offered start-points when he's ready: the two safety gates / cheap Tier-A wins / resolve the 4 judgment calls.
+
+<details><summary>(original plan, for reference)</summary>
 Vol 2 is the operational/clearing/inner-healing volume done *with wounded people* — most pastorally consequential, least scrutinized (the 7-author pass hit Vol 1 + Formation Docs).
 - **A (start here):** consistency sweep — chapter ↔ `vol2-claims.yml` tier/claim drift (build a Vol-2 analog of `_tier_audit.py`, or generalize it). Almost certainly surfaces lag like Vol 1 did.
 - **B:** targeted pastoral-safety read of the highest-stakes chapters — clearing/container (V2.Exp8/8B), tool map (V2.Exp6), adversary (V2.Exp2B), emotional-knots (V2.Exp2) — for the de-mechanize/technique trap and the safety guards (never-healed; too-big-for-the-container → refer to professional help; the dry/unanswered believer).
 - **C:** full simulated 7-author review only if A/B warrant it — and track its open-items disciplinedly (the Vol 1 review's open-list went partly stale, which is what this whole sync exercise had to clean up).
+</details>
 
-### 3. #5 — Preview repo staleness
-The `-preview` repo is intentionally frozen at `4110ed1`; it's now far behind (missing the Properties essay, the 11 testimonies, all guards/syncs). Decide whether to plan a refresh. **Standing rule: do not mirror to preview unasked.**
+### 3. ⏸️ #5 — Preview repo staleness — PARKED by John 2026-06-09
+**"Leave preview stale until I say otherwise."** Do not plan a refresh; do not mirror to preview unasked. (Still frozen at `4110ed1`, far behind dev/prod.)
 
-### 4. #6 — Testimony-set coherence
+### 4. ⏸️ #6 — Testimony-set coherence — PARKED for a future pass (John 2026-06-09, "good idea")
 Read the granddaddy testimonies **as a set** (not per-chapter): **Truro, the Four Connects, the Garden of the Heart, electrical engineering, June 14 1982** recur across several. Feature (one consistent life) or thinning (repetition)? Decide whether any need diversifying.
 
 ### 5. #7 — Deploy check
