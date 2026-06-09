@@ -1,0 +1,65 @@
+# Session handoff — START HERE (2026-06-09, end-of-day)
+
+Self-contained pickup. Everything below is shipped and in sync; nothing is mid-flight. **Work the NEXT-SESSION QUEUE in order.**
+
+## Repo state (in sync)
+- **IJH dev** `C:\Users\jgtit\claude\_work\Intentional-Journey-of-the-Heart-dev` — HEAD **`8e3fb19`**
+- **IJH prod** `C:\Users\jgtit\claude\_work\Intentional-Journey-of-the-Heart` — HEAD **`a75778c`**
+- **dev ↔ prod docs in sync** — only `docs/index.md` differs (dev DEV-banner). **Never mirror `index.md`.** Static **warm reader** (manifest.js + search-index.js), not MkDocs.
+
+## ⭐ NEXT-SESSION QUEUE (John's order)
+
+### 1. The "big-guard" session — core-text de-mechanize for FL.XXXIX + FL.XIX
+Tiers are already synced to Reasonably Inferred everywhere; what remains is the **doctrinal wording** in the chapter/core-text/summaries. Both are flagged in their `vol1-claims.yml` `confidence_rationale`.
+- **FL.XXXIX (Surrender-Multiplication)** — the contentious one (John deferred it before). De-mechanize the "**conditioned on the surrender**" / "return-mechanism that exceeds proportional scaling" wording so it can't read as a technique that obligates God; add the **cruciform counterweight** (John 12:24 the grain of wheat; the widow's mite, Mark 12); make sure chapter + core_text + the Master Index/Periodic Table summaries all carry the explicit **prosperity-fence**. Registry core_text currently still carries the un-guarded framing.
+- **FL.XIX (Spirit-Anointing-Transmission)** — align the registry `core_text` (and re-check the chapter): drop "**increased magnitude where the operational conditions of impartation are properly observed**" and "magnitude depends on the receiving party's posture (Elisha's double-portion asking)"; align to the chapter's settled reading — same **kind** of anointing, "double portion" = **inheritance language, not a measure of power**, the sovereign Spirit not bound to the means (Acts 10:44–46), "fan into flame" = develop, not engineer-more.
+- After editing: run `_tier_audit.py` + link/anchor audits, regen search-index, mirror dev→prod.
+
+### 2. Coverage — Vol 2 review (do A, then B; decide on C after)
+Vol 2 is the operational/clearing/inner-healing volume done *with wounded people* — most pastorally consequential, least scrutinized (the 7-author pass hit Vol 1 + Formation Docs).
+- **A (start here):** consistency sweep — chapter ↔ `vol2-claims.yml` tier/claim drift (build a Vol-2 analog of `_tier_audit.py`, or generalize it). Almost certainly surfaces lag like Vol 1 did.
+- **B:** targeted pastoral-safety read of the highest-stakes chapters — clearing/container (V2.Exp8/8B), tool map (V2.Exp6), adversary (V2.Exp2B), emotional-knots (V2.Exp2) — for the de-mechanize/technique trap and the safety guards (never-healed; too-big-for-the-container → refer to professional help; the dry/unanswered believer).
+- **C:** full simulated 7-author review only if A/B warrant it — and track its open-items disciplinedly (the Vol 1 review's open-list went partly stale, which is what this whole sync exercise had to clean up).
+
+### 3. #5 — Preview repo staleness
+The `-preview` repo is intentionally frozen at `4110ed1`; it's now far behind (missing the Properties essay, the 11 testimonies, all guards/syncs). Decide whether to plan a refresh. **Standing rule: do not mirror to preview unasked.**
+
+### 4. #6 — Testimony-set coherence
+Read the granddaddy testimonies **as a set** (not per-chapter): **Truro, the Four Connects, the Garden of the Heart, electrical engineering, June 14 1982** recur across several. Feature (one consistent life) or thinning (repetition)? Decide whether any need diversifying.
+
+### 5. #7 — Deploy check
+~30+ commits pushed to dev+prod this arc. Eyeball the live **dev + prod** GitHub Pages sites (and GH Actions) to confirm the builds succeeded. See [[feedback_wait_for_deploy_before_reinvestigating]].
+
+## ⏰ Time-sensitive (independent of the queue)
+**Mustard Seed enactment** — comment period closes **2026-06-15**. Apply-ready checklist: `_implementation-notes/mustard-seed-close-enactment-2026-06-15.md`. A reminder fires in John's app **2026-06-16**; **JD owns it** via assigned dev **issue #8**. John chose to **let the pre-set V1.Exp8 = 80 ride** (treats the comment period as confirmatory). On enactment, also fold `_implementation-notes/mustard-seed-resolution/phase-7-gospel-faith-cases-corroboration.md` into the worked-resolution **§5**.
+
+## ✅ DONE this session (2026-06-09) — do not redo
+1. **Properties of Spiritual Law essay** — enriched (testability ↔ the lived testimonies woven through Vol 1). [[reference_ijh_properties_of_spiritual_law]]
+2. **Faith-as-reception insight** (John's reflection) — new **Exp 01** section "What faith does — the reception that releases (and its limits)"; **FL.XLIII** "Who does the work here?" guard (faith receives, never compels; Cana timing; sovereign-freedom cases; dry-season pastoral guard); + `phase-7` corroboration note in the Mustard Seed trail. All dev+prod.
+3. **Spiritual-warfare closure** — Research Register trail ("awaiting a contributor with scripture + experience") + FL.XLII pointer to the candid scope-note in *Connecting the Dots* (which already holds John's full posture; FL.XVI also points to it).
+4. **Status hygiene** — FL-intro nav title "Forty-Five"→**"The Forty-Six Laws of the Spirit"**; `vol1-claims.yml` header 38→46; **CONTRIBUTING "Source of truth"**: Markdown canonical, `source:` docx is provenance only (don't regenerate from it).
+5. **Chapter↔summary↔registry sync (the big #4 finding — fixes were landing in chapters but not summaries/registry):**
+   - **FL.XLI** baptism faith-instrument guard (chapter, earlier) + summaries.
+   - **FL.XXVIII** — pastoral guard ("God restores the belonging; no one is cut off") added to all 3 summaries; tier CT→**RI** in Master Index + registry (90→75) + rationale.
+   - **FL.V** — works-righteousness wire de-mechanized in Master Index + registry core_text ("overflow/evidence, not precondition"); chapter "reinstated" clarified; reconciliation note in registry.
+   - **FL.XIX + FL.XXXIX** — tier synced to **RI** across Master Index / Periodic Table / registry (90→75). (Core-text de-mechanizes → the big-guard session, item 1.)
+   - **Standing check added:** `_implementation-notes/_tier_audit.py` (chapter/Master Index/Periodic Table/registry tier agreement) — now 0 mismatches across all 46 laws. Documented in CONTRIBUTING "Consistency checks".
+6. **New reusable tools** in `_work/`: `_link_audit_any.py`, `_anchor_audit_any.py`, `_tier_sweep.py` (all take a repo-path arg; dev-local in-place copies in `_implementation-notes/`).
+
+## Granddaddy-loop pass — still open (the other ongoing thread, paused while doing #4)
+Per chapter: John dictates → 4-part contract → his pick → dev → "mirror" → prod. **Full spec (4-part contract, voice, mechanics) in the prior handoff `session-handoff-2026-06-08-START-HERE.md` — unchanged.**
+- **This session shipped testimonies:** FL **VIII, XIV, XV, XVI, XLI, XLVI** + Exp **01, 03, 04, 05, 07** (Exp 02 already had one; Exp 08 covered by its prayer-language body story). [Note: these were from the earlier part of today's arc.]
+- **Still without a granddaddy testimony:** FL **XVIII, XXVIII, XXXIX, XLII, XLIII, XLIV, XLV**; parked: FL **IX, XIX**, Exp **06**. (FL.XLIII/XXVIII got doctrinal guards this session but not testimonies.)
+
+## Open peer-review (status after this session)
+- **Closed/handled:** FL.XLI (baptism), FL.XXVIII (pastoral guard + tier), FL.V (works-wire + reconciliation), FL.XIX/XXXIX **tiers** (cores pending in big-guard).
+- **Still open:** **FL.XII** (split certainty tier — parental command CT vs civil/ecclesial; re-embed Rom. 13); **Three Desires supplemental** (downgrade structural-law/Newton → pastoral typology; imago-Dei; feminine-heart section); the big-guard core-texts (item 1).
+- **Smaller three-stream:** FL.XVI 2 Cor 4:4 (**deliberately deferred** — warfare), FL.XLII↔XVI link, FL.VI Deut 28, Exp1/FL.II confession-of-mouth, FL.X importunate prayer.
+
+## Conventions (don't re-derive)
+- **Markdown under `docs/` is canonical**; never regenerate a chapter from its `source:` docx. [[reference_ijh_dev_prod_mirror_workflow]]
+- **Run the consistency checks after edits** (`_link_audit.py`, `_anchor_audit.py`, `_tier_audit.py`); when you change a law's tier or add a guard, fix the **Master Index + Periodic Table + registry**, not just the chapter.
+- dev-first → review → **"mirror" on John's word** → SHA-verify byte-identical → push. Regen search-index after docs edits (`node C:\Users\jgtit\claude\_work\_gen_search_index.js "<abs repo>"`).
+- Divine pronouns capitalized in book prose, lowercase in scripture quotes — **check the referent**. [[convention_divine_pronoun_capitalization]]
+- John uses the Claude desktop app; ELI5 git/CLI. Chat links use markdown `[text](URL)`. Avoid doctrinal debates; pastoral core for the dry/desolate believer.
+- JD (Epithetical / vertidog@gmail.com) is John's son — human teammate on the governance/cron side; reachable via GitHub issues on the repo.
