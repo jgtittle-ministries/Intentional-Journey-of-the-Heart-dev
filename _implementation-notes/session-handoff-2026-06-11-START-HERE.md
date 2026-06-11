@@ -7,8 +7,8 @@ Self-contained pickup. Everything below is **shipped to dev + prod and in sync**
 |---|---|---|
 | **IJH dev** | `C:\Users\jgtit\claude\_work\Intentional-Journey-of-the-Heart-dev` | `86f67ca` |
 | **IJH prod** | `C:\Users\jgtit\claude\_work\Intentional-Journey-of-the-Heart` | `068c727` |
-| **FotH dev** | `C:\Users\jgtit\claude\_work\fellowship-of-the-heart-pilot-at-cca-dev` | `0fd36de` |
-| **FotH prod** | `C:\Users\jgtit\claude\_work\fellowship-of-the-heart-pilot-at-cca` | `9dae8d0` |
+| **FotH dev** | `C:\Users\jgtit\claude\_work\fellowship-of-the-heart-pilot-at-cca-dev` | `244d455` |
+| **FotH prod** | `C:\Users\jgtit\claude\_work\fellowship-of-the-heart-pilot-at-cca` | `2c38754` |
 
 IJH dev↔prod in sync except the intentional `docs/index.md` DEV banner (dev carries extra notes commits). FotH dev↔prod in sync except **`docs/start-here.md`** (one line — dev links the IJH **-dev** site, prod links IJH prod) and `docs/index.md` (DEV banner). Both use the **static warm reader** (manifest.js + search-index), not MkDocs.
 
@@ -37,7 +37,7 @@ Aligned the registry `core_text` (+ FL.XXXIX Master Index prose) to the already-
 - **Tier B draftable** (B1 inline crisis SSOT terminal in GD §6; B3 per-room competency floor + junior depth-floor [VERIFIED HIGH]; B5 external-correction at GO Wk8 landing; B6 taxonomy out of participant targets) → dev `77bd32d`/prod `ca62c9f`.
 - **B2 + B4 SCAFFOLDED** with `[fill in]` placeholders (the launch gates only John/JD can finish) → dev `0fd36de`/prod `9dae8d0`.
 
-**FotH — STILL OPEN:** Tier C judgment calls (deliverance grammar, justice stream, etc.); the deferred Tier A micro-polish (H8.2/GO-Wk8 canon one-liners, body-sent-beyond "sent means opposed", shadow-mission gift-not-fixed, shame belovedness reorder, A12).
+**FotH — content remainder COMPLETE** (dev `244d455` → prod `2c38754`, 2026-06-11, 11 docs byte-identical, `start-here.md` untouched). Closed the deferred Tier A micro-polish (A6 H8.2 canon line + Block 8 "not overruled" spoken close + GO-Wk8 Acts-13 humility note; A10/C5 body-sent-beyond "sent means opposed" — teaching-only, no deliverance scripts for minors; A13 gift-not-fixed + shame belovedness frame + Appendix D citation; A12 gospel-verb-leads confession + John 8:44 demoted) AND all draftable Tier C (C1 "A word on our words" + "drop the architecture"; C2 restrained cross beat in Wk1 Block 6 — John's call; C3 Examen gratitude rebalance; C4 Keller *Generous Justice* reading — John's call; C5 settled at teaching-only level via A10). **Only FotH items left = the operational launch-blockers A1/B2/B4 below (John/JD's lane, not curriculum).**
 
 ---
 
