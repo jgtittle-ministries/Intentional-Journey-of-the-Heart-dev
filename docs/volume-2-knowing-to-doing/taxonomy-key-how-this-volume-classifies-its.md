@@ -6,6 +6,8 @@ source: "IJH_Vol2_v5_6_1_1.docx"
 
 # Taxonomy Key: How This Volume Classifies Its Explorations
 
+*A word before the machinery — how to read past the scaffolding.* What follows is bookkeeping: labels, types, and tiers that help the Council keep this work orderly and honest. It is genuinely useful, but it is not the point, and you do not need any of it to be healed. No one was ever set free because they knew which *type* of law their wound was filed under. If the categories help you, use them; if they begin to feel like a system you must master before you are allowed to come to God, set them down and walk straight past them to the chapters themselves. The Father "has hidden these things from the wise and understanding and revealed them to little children" (Matt. 11:25); "knowledge puffs up, but love builds up" (1 Cor. 8:1); and the one thing worth guarding all along is "a sincere and pure devotion to Christ" (2 Cor. 11:3). The scaffolding serves the house. It is not the house.
+
 Volume 2 builds on the Structural and Operational law types from Volume 1 and adds three new categories. This is the complete taxonomy for this volume, showing how each type relates to the investigations in Volumes 1 and 3.
 
 ## Inherited: Structural and Operational Laws

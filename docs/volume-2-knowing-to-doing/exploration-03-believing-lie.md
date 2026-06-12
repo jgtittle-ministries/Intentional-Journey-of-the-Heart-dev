@@ -22,7 +22,7 @@ The most persistent lies are not ones I consciously adopted. They were installed
 
 *"...He was a murderer from the beginning, and does not **stand in** the truth, because there is no truth in him. When he lies, he speaks out of his own character, for he is a liar and the father of lies."*
 
-The adversary’s primary weapon is not temptation to gross sin; it is the installation of a small, plausible-sounding lie in a moment of vulnerability. The lie is most effective when it is delivered in a moment of genuine pain, because pain reduces my interpretive capacity and makes me more likely to accept the first available explanation for what is happening. That first available explanation is almost always worse than the truth.
+Jesus names the devil's character here — "a liar and the father of lies" — and Paul names his method: he "has blinded the minds of the unbelievers" (2 Cor. 4:4) and works "by his cunning," as "the serpent deceived Eve" (2 Cor. 11:3). The adversary’s primary weapon, then, is not temptation to gross sin; it is the installation of a small, plausible-sounding lie in a moment of vulnerability. The lie is most effective when it is delivered in a moment of genuine pain, because pain reduces my interpretive capacity and makes me more likely to accept the first available explanation for what is happening. That first available explanation is almost always worse than the truth.
 
 ***Eph. 4:22-24 (ESV)***
 
@@ -42,7 +42,7 @@ Smith adds the observation that vows made from wounds eventually become internal
 
 ## The TPM Process as a Law Application
 
-Transformation Prayer Ministry gives the Holy Spirit access to specific memories where particular lies were accepted and invites Him to speak His truth into those places. The process is essentially a focused application of John 8:32: creating the conditions for the Spirit of Truth to replace a specific lie with specific truth.
+Transformation Prayer Ministry gives the Holy Spirit access to specific memories where particular lies were accepted and invites Him to speak His truth into those places. The process is essentially a focused application of the promise that the Spirit of truth "will guide you into all the truth" (John 16:13; cf. John 8:32): creating the conditions for Him to replace a specific lie with specific truth.
 
 The sequence: I identify a present emotional disturbance — something that is activating a knot right now. I follow that emotion backward to its earliest associated memory. In that memory, I identify the belief I formed — the lie I accepted about what the event meant about God, myself, or others. I invite the Holy Spirit to speak. He speaks. The lie is replaced. The emotion in the present shifts, often dramatically and immediately.
 
