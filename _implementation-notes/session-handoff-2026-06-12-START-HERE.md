@@ -5,8 +5,8 @@ Self-contained pickup. Everything below is **shipped to dev + prod and in sync**
 ## Repo states (all clean, in sync)
 | Repo | Path | HEAD |
 |---|---|---|
-| **IJH dev** | `C:\Users\jgtit\claude\_work\Intentional-Journey-of-the-Heart-dev` | `90aa6d6` (+ this handoff commit on top) |
-| **IJH prod** | `C:\Users\jgtit\claude\_work\Intentional-Journey-of-the-Heart` | `806240b` |
+| **IJH dev** | `C:\Users\jgtit\claude\_work\Intentional-Journey-of-the-Heart-dev` | `1bbef5f` (+ handoff commits on top) |
+| **IJH prod** | `C:\Users\jgtit\claude\_work\Intentional-Journey-of-the-Heart` | `f771fa7` |
 | **FotH dev** | `C:\Users\jgtit\claude\_work\fellowship-of-the-heart-pilot-at-cca-dev` | `244d455` |
 | **FotH prod** | `C:\Users\jgtit\claude\_work\fellowship-of-the-heart-pilot-at-cca` | `2c38754` |
 | **BSCP dev / prod** | `…balanced-scorecard-process[-dev]` | `5c9236f` / `419d56e` (untouched this session) |
@@ -32,6 +32,13 @@ Closed the entire content remainder of the FotH eight-author review: the deferre
 - **Tier B spine**: **B1** the non-operable sovereignty term — `F_s = G × [ f(trust) × g(authority) × h(resonance) × i(channel clarity) ]`, G = God's free self-giving, four factors = conditions of reception (Exod 33:19; 1 Cor 12:11; 2 Cor 12:8-9); **B2** "A Word for the Dry Season" ported into Exp 3 (cross-links Vol 1); **B3** Reformed sanctification grammar restored in Exp 9 (Spirit a Person not "the vector field"; Gal 5:25; Phil 2:12-13; Col 1:27).
 - **Tier B mediums B4-B12**: prayer-resonance disclaimer; epilogue whole-arc Christological anchor; Affective-Taxonomy demoted to "proxy" + "measures formation, never standing" (Rom 8:1; 1 Sam 16:7); Talents re-rooted in distrust-of-Master; abundance-default qualified; miracle two-stage test grace; Mark 5:30 as the incarnate Son's act; worship/disciplines as means-of-grace not levers; "dimensionless placeholders, not physics" banner.
 - **Divided points (author's calls)**: DP1 TFT appendix reordered to **lead with TFT Challenged** (manifest.js nav **and** prev/next chain) + equations stamped "unverified AI-assisted transcription"; DP2 local divine-freedom clause (John 3:8; Rom 9:15-16) in note-before-we-begin; DP3 miracles-horizon 2 Cor 12:9 counterweight in open-trails; DP4 targeted copula softening in Exp 2. Items 2 (equations PDF) & 3 (name-drops) decided — no edits.
+
+---
+
+## ✅ Arc 3 — IJH Vol 4 consistency audit + guards (dev `1bbef5f` → prod `f771fa7`)
+After the Vol 1/2/3 edits, ran a cross-volume **consistency audit** of Vol 4 (the Testing Framework — the measurement volume, so the most exposed to the Vol 3 changes). Finding: Vol 4 came through well — the AT-integration-not-replacement reading and the Spirit-as-uncontrollable-agent framing are already propagated (§2), and there's no stale Vol 2/3 dependency drift — but it lacked the two guards the Vol 3 review just made explicit for measurement. **Both ported:**
+- **"Measures formation, never standing before God"** (Rom 8:1; 1 Sam 16:7) — §1 framing + §5d participant-care; a low/closure-flagged score is never a verdict on acceptance, said plainly when a profile is read back. Cross-links Vol 3 Exp 4.
+- **Dry-season / spiral-trajectory caveat** — §3 OV1 + §3 Month-6 review + §4 Group OV1: a dipping/stalled profile may be roots driving deeper (a dark night's reorientation), not regression. Cross-links Vol 3 Exp 7.
 
 ---
 
