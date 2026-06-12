@@ -5,8 +5,8 @@ Self-contained pickup. Everything below is **shipped to dev + prod and in sync**
 ## Repo states (all clean, in sync)
 | Repo | Path | HEAD |
 |---|---|---|
-| **IJH dev** | `C:\Users\jgtit\claude\_work\Intentional-Journey-of-the-Heart-dev` | `1bbef5f` (+ handoff commits on top) |
-| **IJH prod** | `C:\Users\jgtit\claude\_work\Intentional-Journey-of-the-Heart` | `f771fa7` |
+| **IJH dev** | `C:\Users\jgtit\claude\_work\Intentional-Journey-of-the-Heart-dev` | `c1c7215` (+ handoff commits on top) |
+| **IJH prod** | `C:\Users\jgtit\claude\_work\Intentional-Journey-of-the-Heart` | `26c113a` |
 | **FotH dev** | `C:\Users\jgtit\claude\_work\fellowship-of-the-heart-pilot-at-cca-dev` | `244d455` |
 | **FotH prod** | `C:\Users\jgtit\claude\_work\fellowship-of-the-heart-pilot-at-cca` | `2c38754` |
 | **BSCP dev / prod** | `…balanced-scorecard-process[-dev]` | `5c9236f` / `419d56e` (untouched this session) |
@@ -35,10 +35,15 @@ Closed the entire content remainder of the FotH eight-author review: the deferre
 
 ---
 
-## ✅ Arc 3 — IJH Vol 4 consistency audit + guards (dev `1bbef5f` → prod `f771fa7`)
-After the Vol 1/2/3 edits, ran a cross-volume **consistency audit** of Vol 4 (the Testing Framework — the measurement volume, so the most exposed to the Vol 3 changes). Finding: Vol 4 came through well — the AT-integration-not-replacement reading and the Spirit-as-uncontrollable-agent framing are already propagated (§2), and there's no stale Vol 2/3 dependency drift — but it lacked the two guards the Vol 3 review just made explicit for measurement. **Both ported:**
+## ✅ Arc 3 — Cross-volume consistency sweep after the Vol 3 review (Vol 4, then Vol 5/6)
+
+**Vol 4** (dev `1bbef5f` → prod `f771fa7`). Audited the Testing Framework (the measurement volume, most exposed). It came through well — AT-integration-not-replacement and Spirit-as-uncontrollable-agent already propagated (§2), no stale dependency drift — but lacked the two guards Vol 3 made explicit for measurement. **Both ported:**
 - **"Measures formation, never standing before God"** (Rom 8:1; 1 Sam 16:7) — §1 framing + §5d participant-care; a low/closure-flagged score is never a verdict on acceptance, said plainly when a profile is read back. Cross-links Vol 3 Exp 4.
 - **Dry-season / spiral-trajectory caveat** — §3 OV1 + §3 Month-6 review + §4 Group OV1: a dipping/stalled profile may be roots driving deeper (a dark night's reorientation), not regression. Cross-links Vol 3 Exp 7.
+
+**Vol 5 + Vol 6** (dev `c1c7215` → prod `26c113a`). Both came through well — the matured catalog had *absorbed* the Force-equation forward-reference, so the Periodic Table needs no change (the proportionality pattern + FL.IX/FL.XXXIX already carry the grace guards); TFT and Glory are absorbed/pastoral there; AT-integration is propagated. Three small fixes: (1) Vol 6 `mustard-seed-worked-resolution` Force equation updated to `F_s = G × [ f × g × h × i ]`; (2) Vol 5 MSF + MSM measurement chapters got the "measures formation, never standing before God" guard (Rom 8:1) in their integration admonition boxes (meta-box only; MSF body is "not on the revision path"); (3) Vol 6 `part-1-governance-model` notes V3.Exp3 now leads with the sovereignty term G (not an 11th dependency; tier unchanged).
+
+**Net: all six IJH volumes + FotH are now internally consistent with the Vol 3 nine-author review.** The matured catalog did most of the insulating; the residual was small ports of language Vol 3 already established.
 
 ---
 
