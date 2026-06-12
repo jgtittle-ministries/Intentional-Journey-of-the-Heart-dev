@@ -5,8 +5,10 @@ Self-contained pickup. Everything below is **shipped to dev + prod and in sync**
 ## Repo states (all clean, in sync)
 | Repo | Path | HEAD |
 |---|---|---|
-| **IJH dev** | `C:\Users\jgtit\claude\_work\Intentional-Journey-of-the-Heart-dev` | `e5f2012` (+ this handoff commit on top) |
-| **IJH prod** | `C:\Users\jgtit\claude\_work\Intentional-Journey-of-the-Heart` | `345840f` |
+| **IJH dev** | `C:\Users\jgtit\claude\_work\Intentional-Journey-of-the-Heart-dev` | `1011f80` (+ this handoff commit on top) |
+| **IJH prod** | `C:\Users\jgtit\claude\_work\Intentional-Journey-of-the-Heart` | `345840f` — **2 commits behind dev, pending mirror** |
+
+> **⚠ Pending mirror (dev-only, awaiting John's "mirror"):** (1) **FL.II dark-night guard** `711072d`; (2) **Vol 6 "The Scripture-Grounding Standard"** new chapter `1011f80` (+ manifest nav/prev-next + search index). The Vol 2 remainder (`e5f2012`) IS already mirrored to prod `345840f`. Diagnostic audit reports under `_implementation-notes/scripture-grounding-audit/` are dev-only (never mirrored).
 | **FotH dev** | `C:\Users\jgtit\claude\_work\fellowship-of-the-heart-pilot-at-cca-dev` | `244d455` |
 | **FotH prod** | `C:\Users\jgtit\claude\_work\fellowship-of-the-heart-pilot-at-cca` | `2c38754` |
 | **BSCP dev / prod** | `…balanced-scorecard-process[-dev]` | `5c9236f` / `419d56e` (untouched this session) |
@@ -49,6 +51,11 @@ Closed the entire content remainder of the FotH eight-author review: the deferre
 
 ## ✅ Arc 4 — IJH Vol 2 peer-review remainder COMPLETE (dev `e5f2012` → prod `345840f`, 2026-06-12)
 Closed the entire Vol 2 eight-author-review remainder in one dev→mirror cycle (12 docs + search index, byte-identical). John made the four divided-point calls live this session: **#3 Tool Map → restructure in place** (Spirit-clause to the front, plain-warm law statement, readable 3-dimension list, A24/A25/B11/B14 codes demoted to a closing practitioner parenthetical); **#13/#19 → one restrained line** (delegated authority Luke 10:19 grounded in Christ's finished victory Col 2:15 in Exp 2B, pointing to Exp 7's resistance; light generational nod Ezek 18:20 + Gal 3:13 under 7A in 2C); **#16/#21 → demote in place** ("read past the scaffolding" warm note heading the Taxonomy Key — Matt 11:25 / 1 Cor 8:1 / 2 Cor 11:3; session liturgy reframed "downstream of and under" the canon, certainty split gathering=CT / this-protocol=RI); **#10 → minimal inline repair** (woman's core question *Am I lovely? / Worth fighting for?* — Isa 62:4, Zeph 3:17 — + her portraits in 2A; "every man's heart" qualified to one lens; reserved fuller women's revision untouched). Plus the clear-cut items: **#6** Ps 66:18 reframed in its thanksgiving + dry/scrupulous guard; **#12** Container pause/decline/exit; **#8** Sower parable-governs-taxonomy (1 Cor 4:6) + 3-tier certainty + grace guard; **#15** proof-texts re-anchored (John 16:13; 2 Cor 4:4/11:3; 0b left as-is); **#20** Bilgere shadow/gold through the Exp 0 import discipline. Audits clean (link/anchor/tier). **This closes IJH Vol 2 entirely.** (Earlier-this-session #6 + #12 + the four judgment-call decisions were collected via AskUserQuestion before implementing.)
+
+---
+
+## ✅ Arc 5 — Scripture-grounding audit (Vols 1–3) + the Scripture-Grounding Standard (2026-06-12)
+Answering John's "next best way to ground IJH better in Scripture." Ran an exegesis-in-context audit (generalizing the Vol 2 #15 proof-text fix) as a **POC on Vol 1's Foundational Laws**, then scaled it. **Result: the corpus is far better-grounded than feared.** Vol 1 laws are multi-witness, genre-aware, self-correcting (FL.VII/X/XIX exemplary). Vol 2 was already swept by #15 (light residue only). **Vol 3 — the most mechanism-heavy volume — is the BEST-grounded**, because the nine-author review forced an explicit "analogy I lay over the verse, not a claim it makes" discipline through every chapter (James 5:16, Talents, persistent widow, Mark 5:30). **One real gap in three volumes: FL.II lacked the dark-night guard its sibling FL.VII + its Vol 2 child carry → fixed (dev `711072d`).** The audit's durable product = the rubric itself, now codified as a new Vol 6 chapter **"The Scripture-Grounding Standard"** (five tests: multi-witness / genre-aware / analogy-vs-text / calibrated certainty / guarded-at-the-edge), wired to the Proposal Template as its enforcement hook (dev `1011f80`). Three diagnostic reports at `_implementation-notes/scripture-grounding-audit/` (vol1-POC, vol2, vol3). **Open/optional:** extend the sweep to Vols 4–6 + Formation-Document PDFs (expect light, per the pattern); the Vol 2 Exp 2 certainty split (#8-style, LOW). **Both FL.II + the Standard chapter are pending John's "mirror" to prod.**
 
 ---
 
