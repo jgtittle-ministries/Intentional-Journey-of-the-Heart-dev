@@ -6,6 +6,8 @@ source: "IJH_Vol3_v5_6_1_1.docx"
 
 # Appendix: Transcendental Field Theory Equations
 
+> **Read these as dimensionless formal placeholders, not physics.** The fields, masses, and coupling constants below carry no units; the space they live on is an abstract, non-metric one; and nothing here predicts a measurable number with a unit attached. What is meant to transfer is the *shape* of a relationship — coupling, threshold, curvature, attractor — not the measuring machinery of physics. Taken as literal quantum field theory this material would over-claim badly; it is a structured analogy, and the companion *TFT Challenged* appendix (its “Analogy Boundary Principle”) marks where the analogy stops. See also the second critique in [Exploration 2](exploration-02-transcendental-field-theory-as-vol.md).
+
 Three editions of the TFT equations material are available. Pick by what you need:
 
 [TFT Equations — Reconstructed (pdf) ↗](source-pdfs/tft-equations-reconstructed.pdf){: .md-button .md-button--primary .pdf-popup data-pdf-label="TFT — Equations (Reconstructed)" }
