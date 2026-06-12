@@ -5,8 +5,8 @@ Self-contained pickup. Everything below is **shipped to dev + prod and in sync**
 ## Repo states (all clean, in sync)
 | Repo | Path | HEAD |
 |---|---|---|
-| **IJH dev** | `C:\Users\jgtit\claude\_work\Intentional-Journey-of-the-Heart-dev` | `c1c7215` (+ handoff commits on top) |
-| **IJH prod** | `C:\Users\jgtit\claude\_work\Intentional-Journey-of-the-Heart` | `26c113a` |
+| **IJH dev** | `C:\Users\jgtit\claude\_work\Intentional-Journey-of-the-Heart-dev` | `e5f2012` (+ this handoff commit on top) |
+| **IJH prod** | `C:\Users\jgtit\claude\_work\Intentional-Journey-of-the-Heart` | `345840f` |
 | **FotH dev** | `C:\Users\jgtit\claude\_work\fellowship-of-the-heart-pilot-at-cca-dev` | `244d455` |
 | **FotH prod** | `C:\Users\jgtit\claude\_work\fellowship-of-the-heart-pilot-at-cca` | `2c38754` |
 | **BSCP dev / prod** | `…balanced-scorecard-process[-dev]` | `5c9236f` / `419d56e` (untouched this session) |
@@ -47,10 +47,15 @@ Closed the entire content remainder of the FotH eight-author review: the deferre
 
 ---
 
+## ✅ Arc 4 — IJH Vol 2 peer-review remainder COMPLETE (dev `e5f2012` → prod `345840f`, 2026-06-12)
+Closed the entire Vol 2 eight-author-review remainder in one dev→mirror cycle (12 docs + search index, byte-identical). John made the four divided-point calls live this session: **#3 Tool Map → restructure in place** (Spirit-clause to the front, plain-warm law statement, readable 3-dimension list, A24/A25/B11/B14 codes demoted to a closing practitioner parenthetical); **#13/#19 → one restrained line** (delegated authority Luke 10:19 grounded in Christ's finished victory Col 2:15 in Exp 2B, pointing to Exp 7's resistance; light generational nod Ezek 18:20 + Gal 3:13 under 7A in 2C); **#16/#21 → demote in place** ("read past the scaffolding" warm note heading the Taxonomy Key — Matt 11:25 / 1 Cor 8:1 / 2 Cor 11:3; session liturgy reframed "downstream of and under" the canon, certainty split gathering=CT / this-protocol=RI); **#10 → minimal inline repair** (woman's core question *Am I lovely? / Worth fighting for?* — Isa 62:4, Zeph 3:17 — + her portraits in 2A; "every man's heart" qualified to one lens; reserved fuller women's revision untouched). Plus the clear-cut items: **#6** Ps 66:18 reframed in its thanksgiving + dry/scrupulous guard; **#12** Container pause/decline/exit; **#8** Sower parable-governs-taxonomy (1 Cor 4:6) + 3-tier certainty + grace guard; **#15** proof-texts re-anchored (John 16:13; 2 Cor 4:4/11:3; 0b left as-is); **#20** Bilgere shadow/gold through the Exp 0 import discipline. Audits clean (link/anchor/tier). **This closes IJH Vol 2 entirely.** (Earlier-this-session #6 + #12 + the four judgment-call decisions were collected via AskUserQuestion before implementing.)
+
+---
+
 ## ⚠ Open threads (carried forward — none blocking)
 1. **Vol 3 equations PDF**: the 69-page typeset `tft-equations-reconstructed.pdf` still carries ~3 trailing "what would you like next?" OCR lines. Can't be scrubbed without a LaTeX source/toolchain (none on this machine). **John: accept-as-flagged** for now (the appendix is stamped "unverified AI-assisted transcription" + leads with TFT Challenged). Regenerate cleanly whenever a toolchain is on hand.
 2. **FotH launch-blockers A1/B2/B4** — John/JD's lane (real-world facts: Companion contact, Virginia mandatory-reporting review + signatures, teen-leading-minors legal review). Drop into the existing `[fill in]` placeholders when the facts exist.
-3. **IJH Vol 2 remainder** (from the 2026-06-11 handoff, still open): Tool-Map rewrite #3 + remaining Tier B softenings + 4 judgment calls.
+3. **IJH Vol 2 remainder — CLOSED 2026-06-12** (was: Tool-Map #3 + Tier B + 4 judgment calls). Only optional leftover: a deeper book-wide per-chapter "lead with the human reality, type-tag as a footnote" demotion sweep (the #16 "demote in place" was satisfied by the Taxonomy-Key orienting note + the tags already being quiet bottom-of-chapter footers). Not started; offer if John wants it.
 
 ---
 
