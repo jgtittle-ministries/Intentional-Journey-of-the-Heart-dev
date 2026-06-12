@@ -10,12 +10,12 @@ source: "IJH_Vol3_v5_6_1_1.docx"
 ![](images/image-007.jpeg)
 
 ## Why We Need Distance Before Force
-Newton built dynamics on top of Galileo’s kinematics. You cannot define force (F = mA) until you have defined acceleration, and you cannot define acceleration until you have defined velocity, and you cannot define velocity until you have defined distance and time. The Vol 3 program requires the same sequence. Spiritual force requires spiritual acceleration, which requires spiritual velocity, which requires spiritual distance.
+Newton built dynamics on top of Galileo’s kinematics. Newton’s second law expresses force as F = ma, so making force precise leans on acceleration, which leans on velocity, which leans on distance and time. The Vol 3 program requires the same sequence. Spiritual force requires spiritual acceleration, which requires spiritual velocity, which requires spiritual distance.
 
 This leaves spiritual time open to discussion and exploration. The concept that the world of the Spirit needs only one extra dimension, beyond our recognized four, to understand the spiritual math is a superset of our natural laws. Not sure how this extends to time in the world of the Spirit.
 
 ## Distance as Degree of Entanglement
-The most interesting concept in the Vol 3 draft notes is the quantum entanglement analogy for spiritual distance. In quantum mechanics, entanglement is a form of correlation that is stronger than classical correlation and that does not diminish with physical distance. Two entangled particles, separated by any physical distance, respond to each other instantaneously. The analogy I want to propose: spiritual closeness to God is not well-described by a spatial metaphor (how far away is He?) but by an entanglement metaphor (how deeply correlated are my states with His?).
+The most interesting concept in the Vol 3 draft notes is the quantum entanglement analogy for spiritual distance. In quantum mechanics, entanglement is a form of correlation that is stronger than classical correlation and that does not diminish with physical distance. Two entangled particles, separated by any distance, remain correlated — measure one and you immediately know something about the other — yet nothing actually passes between them, and neither is changed by what happens to the other (this is the no-signaling principle). The link is correlation, not influence. The analogy I want to propose: spiritual closeness to God is not well-described by a spatial metaphor (how far away is He?) but by an entanglement metaphor (how deeply correlated are my states with His?).
 
 ***John 17:21 (ESV)***
 
@@ -50,7 +50,7 @@ The five levels of the taxonomy (Receiving, Responding, Valuing, Organization, C
 Three things make this particularly useful for the Vol 3 measurement program:
 
 - It is operationalizable now, without waiting for the full three-axis spiritual distance measure to be developed. The Affective Taxonomy can be used to specifically measure the depth of trust in scripture, and the hearing/obeying internalization, which is the primary inflow variable in the faith stock.
-- It has research precedent. The MOVE study (Hawkins and Parkinson, 2011) found that reflective Bible study is the one practice that appears as a catalyst at every stage and every movement between stages, which is precisely what the Affective Taxonomy would predict if trust in scripture is the master variable. The two frameworks are mutually confirming.
+- It has research precedent. The MOVE study (Hawkins and Parkinson, 2011) found that reflective Bible study is the one practice that appears as a catalyst at every stage and every movement between stages, which is precisely what the Affective Taxonomy would predict if trust in scripture is the master variable. The two frameworks are mutually consistent — though, since they draw on overlapping intuitions rather than independent data, this is consistency, not independent confirmation.
 - It generates testable predictions. If spiritual distance decreases as Affective Taxonomy level increases, we should see measurable correlations between taxonomy stage and REVEAL stage across a community. If the taxonomy's Level 3 threshold (intrinsic valuing) corresponds to the MOVE transition from “Growing” to “Close to Christ,” that would be a significant result. This is runnable research.
 **OPEN TRAIL:** *Can the Affective Taxonomy level (measured through the PROAPT-based small group assessment protocol described in Vol 2) be correlated with the REVEAL stage across a congregation? If the Level 3 threshold maps to the Growing-to-Close transition, this would provide the first quantitative bridge between the affective formation literature and the empirical church growth literature.*
 
