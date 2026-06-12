@@ -491,20 +491,20 @@ window.VOLUME_CHAPTERS = {
         "title": "Epilogue: The Invitation Forward"
       },
       {
-        "path": "docs/volume-3-quantitative-framework/appendix-transcendental-field-theory-equations.md",
-        "title": "Appendix: Transcendental Field Theory Equations"
-      },
-      {
-        "path": "docs/volume-3-quantitative-framework/appendix-tft-interpreted-analogies.md",
-        "title": "Appendix: TFT Interpreted Analogies"
+        "path": "docs/volume-3-quantitative-framework/appendix-tft-challenged.md",
+        "title": "Appendix: TFT Challenged"
       },
       {
         "path": "docs/volume-3-quantitative-framework/appendix-tft-explained.md",
         "title": "Appendix: TFT Explained"
       },
       {
-        "path": "docs/volume-3-quantitative-framework/appendix-tft-challenged.md",
-        "title": "Appendix: TFT Challenged"
+        "path": "docs/volume-3-quantitative-framework/appendix-tft-interpreted-analogies.md",
+        "title": "Appendix: TFT Interpreted Analogies"
+      },
+      {
+        "path": "docs/volume-3-quantitative-framework/appendix-transcendental-field-theory-equations.md",
+        "title": "Appendix: Transcendental Field Theory Equations"
       },
       {
         "path": "docs/volume-3-quantitative-framework/appendix-master-law-index.md",
@@ -1772,33 +1772,6 @@ window.PATH_TO_INFO = {
     "folder": "volume-3-quantitative-framework",
     "title": "Epilogue: The Invitation Forward",
     "prev": "docs/volume-3-quantitative-framework/open-trails-what-vol-3-cannot-yet.md",
-    "next": "docs/volume-3-quantitative-framework/appendix-transcendental-field-theory-equations.md"
-  },
-  "docs/volume-3-quantitative-framework/appendix-transcendental-field-theory-equations.md": {
-    "volume": 3,
-    "volumeName": "Volume 3: Spiritual Dynamics",
-    "volumeFile": "Volume 3.html",
-    "folder": "volume-3-quantitative-framework",
-    "title": "Appendix: Transcendental Field Theory Equations",
-    "prev": "docs/volume-3-quantitative-framework/epilogue-the-invitation-forward.md",
-    "next": "docs/volume-3-quantitative-framework/appendix-tft-interpreted-analogies.md"
-  },
-  "docs/volume-3-quantitative-framework/appendix-tft-interpreted-analogies.md": {
-    "volume": 3,
-    "volumeName": "Volume 3: Spiritual Dynamics",
-    "volumeFile": "Volume 3.html",
-    "folder": "volume-3-quantitative-framework",
-    "title": "Appendix: TFT Interpreted Analogies",
-    "prev": "docs/volume-3-quantitative-framework/appendix-transcendental-field-theory-equations.md",
-    "next": "docs/volume-3-quantitative-framework/appendix-tft-explained.md"
-  },
-  "docs/volume-3-quantitative-framework/appendix-tft-explained.md": {
-    "volume": 3,
-    "volumeName": "Volume 3: Spiritual Dynamics",
-    "volumeFile": "Volume 3.html",
-    "folder": "volume-3-quantitative-framework",
-    "title": "Appendix: TFT Explained",
-    "prev": "docs/volume-3-quantitative-framework/appendix-tft-interpreted-analogies.md",
     "next": "docs/volume-3-quantitative-framework/appendix-tft-challenged.md"
   },
   "docs/volume-3-quantitative-framework/appendix-tft-challenged.md": {
@@ -1807,7 +1780,34 @@ window.PATH_TO_INFO = {
     "volumeFile": "Volume 3.html",
     "folder": "volume-3-quantitative-framework",
     "title": "Appendix: TFT Challenged",
+    "prev": "docs/volume-3-quantitative-framework/epilogue-the-invitation-forward.md",
+    "next": "docs/volume-3-quantitative-framework/appendix-tft-explained.md"
+  },
+  "docs/volume-3-quantitative-framework/appendix-tft-explained.md": {
+    "volume": 3,
+    "volumeName": "Volume 3: Spiritual Dynamics",
+    "volumeFile": "Volume 3.html",
+    "folder": "volume-3-quantitative-framework",
+    "title": "Appendix: TFT Explained",
+    "prev": "docs/volume-3-quantitative-framework/appendix-tft-challenged.md",
+    "next": "docs/volume-3-quantitative-framework/appendix-tft-interpreted-analogies.md"
+  },
+  "docs/volume-3-quantitative-framework/appendix-tft-interpreted-analogies.md": {
+    "volume": 3,
+    "volumeName": "Volume 3: Spiritual Dynamics",
+    "volumeFile": "Volume 3.html",
+    "folder": "volume-3-quantitative-framework",
+    "title": "Appendix: TFT Interpreted Analogies",
     "prev": "docs/volume-3-quantitative-framework/appendix-tft-explained.md",
+    "next": "docs/volume-3-quantitative-framework/appendix-transcendental-field-theory-equations.md"
+  },
+  "docs/volume-3-quantitative-framework/appendix-transcendental-field-theory-equations.md": {
+    "volume": 3,
+    "volumeName": "Volume 3: Spiritual Dynamics",
+    "volumeFile": "Volume 3.html",
+    "folder": "volume-3-quantitative-framework",
+    "title": "Appendix: Transcendental Field Theory Equations",
+    "prev": "docs/volume-3-quantitative-framework/appendix-tft-interpreted-analogies.md",
     "next": "docs/volume-3-quantitative-framework/appendix-master-law-index.md"
   },
   "docs/volume-3-quantitative-framework/appendix-master-law-index.md": {
@@ -1816,7 +1816,7 @@ window.PATH_TO_INFO = {
     "volumeFile": "Volume 3.html",
     "folder": "volume-3-quantitative-framework",
     "title": "Appendix: Master Law Index",
-    "prev": "docs/volume-3-quantitative-framework/appendix-tft-challenged.md",
+    "prev": "docs/volume-3-quantitative-framework/appendix-transcendental-field-theory-equations.md",
     "next": "docs/volume-4-testing-framework/index.md"
   },
   "docs/volume-4-testing-framework/index.md": {
