@@ -1,6 +1,6 @@
 ---
 title: "FC Development-Structure Peer Review — Design & Start-Here"
-status: "design locked with John 2026-06-13; review NOT yet run (held for a fresh session)"
+status: "RUN 2026-06-13 (Powlison filled the open coherence slot). 8 reviewers; 48 findings survived verification (1 high, 12 medium, 35 low). Artifact: peer-review-fc-development-structure-eight-authors.md. DIAGNOSTIC — no chapter edits yet; awaiting John's go on the punch-list."
 purpose: "Stress-test the Formation Companion's DEVELOPMENT STRUCTURE (the four-tradition synthesis, the 3-level progression, the mode-switching capstone), distinct from the prior general-theology FC review."
 ---
 
@@ -38,3 +38,10 @@ His six threads (Truro PROAPT/Howe · CSC facilitation · Payne→Bennett→TPM 
 
 ## Method (match the Vol 1–3 reviews)
 Multi-agent workflow: per-reviewer structured findings → adversarial verification (a refuter per consequential finding) → editor synthesis. Diagnostic; output = a prioritized punch-list for revising the now-mainline FC (which CAN now be edited directly, unlike the PDF). **Confirm with John before launching** (expensive). Artifact → this folder.
+
+## Implemented / deferred (2026-06-13)
+**Review RUN** with the panel above (Powlison filled the coherence slot). 8 reviewers → adversarial refuter per consequential finding → editor synthesis. **48 findings survived (1 high, 12 medium, 35 low); 0 fully refuted** (the verifiers downgraded "high" claims to medium/low rather than dropping them). Full ranked punch-list + every verifier's reasoning in `peer-review-fc-development-structure-eight-authors.md`.
+
+**Implemented on dev (2026-06-13) — only the single HIGH finding, LANGBERG-1.** The Level III capstone's childhood-memory illustration was inverted so a surfacing/active/unresolved trauma triggers *stabilize-and-refer* (slow down, stay present, discern, refer) instead of a reactive "shift into TPM-style work"; added a no-exceptions rule that a Companion never mode-switches *toward* trauma on the fly (the move into deep-process work always waits for screening, consent, setup). Files: `docs/volume-5-references/the-formation-companion.md` (capstone section) + regenerated `search-index.js`. **Not mirrored to prod.**
+
+**Deferred to a future considered pass (John's call, 2026-06-13):** the 12 mediums + 35 lows. **Priority item John explicitly flagged to carry into that pass: LANGBERG-2 — the SAFEGUARDING ARCHITECTURE.** Build it into the chapter's reserved **Character Prerequisites** section (≈ line 118, held open for Council work) rather than bolting it on earlier — informed consent + right to stop; conduct rules barring dual/sexual relationships; a named body that *receives* complaints, distinct from its readiness-assessment role; a documented grievance + removal/restriction process; and a witness/debrief norm for solo high-intensity work. Other notable mediums for the same pass: the certifiable-vs-recognized split for the mode-switching capstone (#5); re-voicing the psychomotor matrix away from operator verbs (#6); the in-session re-consent step (#2); Level II per-tool contraindications (#4); affective-stage diction vs. its MSM backbone (#7); and wiring the through-line into the directive modes (#9). The four-seam verdicts and commendations-to-protect are in the artifact's Part 1.
