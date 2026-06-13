@@ -26,7 +26,7 @@ It also includes the Formation Documents referenced throughout the first four vo
 - HFT - Heart Formation Theology [(pdf)](source-pdfs/hft-heart-formation-theology.pdf){: .pdf-popup data-pdf-label="HFT — Heart Formation Theology" }
 - SST - Soul and Spirit Taxonomies [(pdf)](source-pdfs/sst-soul-spirit-taxonomies.pdf){: .pdf-popup data-pdf-label="SST — Soul and Spirit Taxonomies" }
 - MSFIG - Model of Spiritual Formation for Individuals and Small Groups [(pdf)](source-pdfs/msfig-model-spiritual-formation.pdf){: .pdf-popup data-pdf-label="MSFIG — Model of Spiritual Formation for Individuals and Small Groups" }
-- FC - Formation Companion [(pdf)](source-pdfs/fc-formation-companion.pdf){: .pdf-popup data-pdf-label="FC — Formation Companion" }
+- FC - Formation Companion [(mainline chapter)](the-formation-companion.md)
 - 4Cs - Four Connects [(pdf)](source-pdfs/4cs-four-connects.pdf){: .pdf-popup data-pdf-label="4Cs — Four Connects" }
 - MSF - Measuring Spiritual Formation at Scale [(pdf)](source-pdfs/msf-measuring-spiritual-formation-at-scale.pdf){: .pdf-popup data-pdf-label="MSF — Measuring Spiritual Formation at Scale" }
 - ATB - Attachment Theory and the Biblical Triad [(pdf)](source-pdfs/atb-attachment-theory-and-the-biblical-triad.pdf){: .pdf-popup data-pdf-label="ATB — Attachment Theory and the Biblical Triad" }
