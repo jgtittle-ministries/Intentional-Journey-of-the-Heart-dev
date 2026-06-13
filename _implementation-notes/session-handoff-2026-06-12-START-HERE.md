@@ -5,10 +5,11 @@ Self-contained pickup. Everything below is **shipped to dev + prod and in sync**
 ## Repo states (all clean, in sync)
 | Repo | Path | HEAD |
 |---|---|---|
-| **IJH dev** | `C:\Users\jgtit\claude\_work\Intentional-Journey-of-the-Heart-dev` | `6b6e7ee` (+ this handoff commit on top) |
-| **IJH prod** | `C:\Users\jgtit\claude\_work\Intentional-Journey-of-the-Heart` | `0a20e21` — **in sync** |
+| **IJH dev** | `C:\Users\jgtit\claude\_work\Intentional-Journey-of-the-Heart-dev` | `8fdb389` (+ this handoff commit on top) |
+| **IJH prod** | `C:\Users\jgtit\claude\_work\Intentional-Journey-of-the-Heart` | `0a20e21` — **FC migration pending mirror** |
 
-> **All this session's content is mirrored to prod and in sync.** Mirror history: Vol 2 remainder → prod `345840f`; FL.II guard + Scripture-Grounding Standard → prod `04c93a4`; corporate-person-structure calibration → prod `056e9ec`. Diagnostic audit reports under `_implementation-notes/scripture-grounding-audit/` are dev-only (never mirrored).
+> **Mirrored & in sync through `0a20e21`** (Vol 2 remainder → `345840f`; FL.II + Scripture-Grounding Standard → `04c93a4`; corporate-person-structure calibration → `056e9ec`; acronym key + MSFIG consistency → `0a20e21`).
+> **⚠ NOT yet mirrored (dev-only, awaiting John's "mirror"): the FC migration** (commits `083374b` + `8fdb389`) — see Arc 7. Diagnostic artifacts under `_implementation-notes/` are dev-only (never mirrored).
 | **FotH dev** | `C:\Users\jgtit\claude\_work\fellowship-of-the-heart-pilot-at-cca-dev` | `244d455` |
 | **FotH prod** | `C:\Users\jgtit\claude\_work\fellowship-of-the-heart-pilot-at-cca` | `2c38754` |
 | **BSCP dev / prod** | `…balanced-scorecard-process[-dev]` | `5c9236f` / `419d56e` (untouched this session) |
@@ -61,6 +62,14 @@ Answering John's "next best way to ground IJH better in Scripture." Ran an exege
 
 ## ✅ Arc 6 — Key to Acronyms & Abbreviations (2026-06-12/13, done + mirrored)
 New **Vol 5 chapter "Key to Acronyms & Abbreviations"** (placed after the Introduction; wired into manifest nav + prev/next): ~40 acronyms in five grouped tables — Formation Documents, frameworks/source models, tools/processes/clearing methods, Vol 4 testing instruments, and project/structural notation. All expansions harvested from the corpus text (incl. **GATS** = Group Affective Taxonomy Stage, **CCA** = Covenant Christian Academy — the two that weren't expanded anywhere in the docs, supplied by John). Discovery pointers added in **read-me-first** and the **Vol 5 introduction**. Also fixed a standing **MSFIG-expansion inconsistency**: standardized corpus-wide to the no-article form "Model of Spiritual Formation for Individuals and Small Groups" (matches the acronym + filename; all 12 data-pdf-labels now uniform). Dev `6b6e7ee` → prod `0a20e21`, byte-identical, in sync. (If John ever wants the article form "A Model…" as the paper's title, it's a one-line flip.)
+
+---
+
+## ✅ Arc 7 — The Formation Companion (FC): PDF → mainline Vol 5 chapter (2026-06-13, dev-only, PENDING MIRROR)
+John decided to promote FC from a PDF to a mainline chapter ahead of a fresh peer review of its development structure. **Done on dev** (`083374b` chapter+wiring; `8fdb389` sweep+bibliography): faithful migration from the latest .docx (5/17 GitHub-source) → `docs/volume-5-references/the-formation-companion.md` (preserves the paper's lowercase divine-pronoun register; the Exploration-0B section replaced by a pointer to the canonical, refined Vol 2 chapter to avoid a stale duplicate). Wired into manifest nav + prev/next (after corporate-person-structure). **All 8 corpus FC references repointed** from the PDF popup to the inline chapter; FC PDF unlinked/archived in place. Bibliography (Vol 5 Part II): new **Howe, John** acknowledgment entry (Truro / PROAPT lineage) + **Tom Herrick** added to the Nemeck-Coombs entry + "Combe"→"Coombs" typo fix. Audits clean (173 chapters). Migration scripts in `_implementation-notes/fc-migration/`. **John's standing decisions to honor: (a) confirm or reverse the 0B-pointer (he implicitly accepted by greenlighting the sweep); (b) mirror when he says so.**
+
+### ⏭ NEXT (held for a fresh session, per John): the FC development-structure peer review
+**Full design is locked at `_implementation-notes/peer-review-fc-development-structure/DESIGN-START-HERE.md`** — panel (Benner/Haugk/Patricia-Benner/Langberg/Willard-or-Powlison + John's sources Howe, Ed Smith, Dmitry Bilgere), the secular-provenance seam to PUSH, history-as-provenance-not-shield, Council-development-paths framing, and the multi-agent method. It's a Workflow (expensive) → confirm with John before launching; run after FC is mirrored/settled.
 
 ---
 
