@@ -20,7 +20,7 @@ The companion papers (Volume 5) and the Volume 3 framework. Their full PDFs are 
 | **FC** | The Formation Companion | The practitioner paper on what a Companion is and is not ("This Is Not Therapy"). |
 | **HFT** | Heart Formation Theology | Grounds the Affective-Taxonomy reading of heart formation. |
 | **MSF** | Measuring Spiritual Formation at Scale | The congregation-scale measurement paper. |
-| **MSFIG** | A Model of Spiritual Formation for Individuals and Small Groups | The integrated formation model; the home of the named small-group taxonomy. |
+| **MSFIG** | Model of Spiritual Formation for Individuals and Small Groups | The integrated formation model; the home of the named small-group taxonomy. |
 | **MSM** | Measuring Spiritual Maturity in Hearing God | The "measuring" parent paper of the Hearing-God series. |
 | **SST** | Soul and Spirit Taxonomies | The soul/spirit developmental framework. |
 | **TA** | Theological Anthropology | The anthropology paper underlying the person-structure. |
@@ -66,6 +66,7 @@ The Pilot-Ready measurement core and its companions.
 | **IoG** | Image of God | The participant's working picture of God (the NRP-IoG "4Rs" profile). |
 | **PSFA** | Personal Spiritual Formation Assessment | An individual AT-stage assessment (largely superseded by the Facilitator SIP). |
 | **CSFA** | Collective Spiritual Formation Assessment | A brief whole-group assessment at baseline, Month 6, and Month 12. |
+| **GATS** | Group Affective Taxonomy Stage | The small-group stage rating used in Volume 4 §4 group testing. |
 
 ## Project & Structural Notation
 
@@ -77,6 +78,7 @@ The corpus's own short-forms. For the fuller treatment of law types, certainty t
 | **FotH** | Fellowship of the Heart | The community of practice carrying the work forward (the pilot's living form). |
 | **BoB** | Band of Brothers | The earlier men's-group form from which FotH grew. |
 | **BSCP** | Balanced Scorecard Process | The author's consulting methodology, cited as a forerunner in Volume 1. |
+| **CCA** | Covenant Christian Academy | Warrenton, VA; host of the first Fellowship of the Heart pilot cohort. |
 | **FL** | Foundational Law | A numbered law of Volume 1 (e.g., FL.XIX = the nineteenth). |
 | **V1 / V2 / V3 …** | Volume 1 / 2 / 3 … | Cross-volume references — e.g., V2.Exp7 = Volume 2, Exploration 7. |
 | **Exp** | Exploration | A chapter within a volume. |
