@@ -82,6 +82,8 @@ A growing set of companion academic papers runs alongside the volumes. Each is f
 
 These papers don’t replace the volumes; they run alongside them. The volumes ask how the laws work. The Formation Documents ask what it looks like, from the inside, to be formed by them. You’ll find them in full in Volume 5.
 
+And if the initials start piling up — these papers, the tools, the notation — don’t worry about holding them in your head. There is a [Key to Acronyms & Abbreviations](volume-5-references/key-to-acronyms-and-abbreviations.md) in Volume 5 that gathers every short-form in one place, so you can always look one up cold.
+
 ## Layer 3: The community
 The third layer is the community of practitioners who have been testing this material in their own lives, in their own small groups, and in their own ministries. Some of them have been with me from the early days. Some are recent. The Council of Stewards described in Volume 6 is the formal body that will steward the work going forward; the broader community of contributors is what feeds the Council and what keeps the work honest. This document, like the work as a whole, is offered to that community as much as to anyone else.
 
