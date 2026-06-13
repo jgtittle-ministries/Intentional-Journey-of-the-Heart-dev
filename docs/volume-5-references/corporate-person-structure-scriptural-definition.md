@@ -6,7 +6,7 @@ The investigation that follows works element by element through the corporate Sp
 
 ## The Person-Structure Parallel at the Corporate Scale
 
-Scripture's witness on the corporate scale uses person-structure language extensively. Each of the six elements of the individual person-structure has explicit corporate articulation across the canonical witness. The articulations are not metaphorical extensions or theological inferences; they are direct scriptural treatments of the church as having a corporate spirit, a corporate heart, a corporate soul, a corporate mind, a corporate body, and a corporate structural frame.
+Scripture's witness on the corporate scale uses person-structure language extensively. Each of the six elements of the individual person-structure has explicit corporate articulation across the canonical witness — the corporate heart (Acts 4:32), the corporate spirit (Rev. 1–3; 1 Cor. 12:13), the corporate body (1 Cor. 12:27), the corporate soul (Phil. 2:2), and the corporate mind (Phil. 2:5; 1 Cor. 2:16) are named in the texts, not invented. Two things must be held apart, though. The individual corporate articulations are **direct scriptural treatments** — the body-of-Christ element firmest of all, which Scripture treats as more than metaphor (1 Cor. 12:27; Eph. 5:30). The further claim — that these articulations compose a single six-part corporate person-structure precisely mirroring the individual one — is a **disciplined structural inference**: held as such, and tested below ("Does the Existing Group Structure Map onto the Scriptural Corporate Structure?"), not a datum the text hands over whole.
 
 ### Corporate Spirit
 
@@ -123,7 +123,7 @@ While the existing Group structure maps onto the scriptural corporate structure,
 
 ## Implications for the Catalog's Community-Scale Work
 
-The structural-foundation work confirms the existing Group designations as operationally sound for candidate stress-testing at the community scale. Candidates can proceed without structural-axes modification. The refinements above provide the operational features each corporate Group requires for the stress-test articulation, and candidates can be evaluated against the scriptural corporate structure rather than against an assumed parallel.
+The structural-foundation work confirms the existing Group designations as operationally sound for candidate stress-testing at the community scale. Candidates can proceed without structural-axes modification. The refinements above provide the operational features each corporate Group requires for the stress-test articulation, and candidates can be evaluated against this scripturally-grounded corporate structure — its individual elements direct, its systematic parallel held as a disciplined inference — rather than against an ad hoc or merely assumed one.
 
 Two additional implications affect the catalog's continued community-scale work:
 
