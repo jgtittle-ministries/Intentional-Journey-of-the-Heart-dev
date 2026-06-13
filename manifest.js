@@ -669,6 +669,10 @@ window.VOLUME_CHAPTERS = {
         "title": "The Corporate Person-Structure: A Scriptural Definition"
       },
       {
+        "path": "docs/volume-5-references/the-formation-companion.md",
+        "title": "The Formation Companion"
+      },
+      {
         "path": "docs/volume-5-references/measuring-spiritual-formation-at-scale.md",
         "title": "Measuring Spiritual Formation at Scale"
       },
@@ -2149,6 +2153,15 @@ window.PATH_TO_INFO = {
     "folder": "volume-5-references",
     "title": "The Corporate Person-Structure: A Scriptural Definition",
     "prev": "docs/volume-5-references/periodic-table-of-spiritual-laws-a-summing.md",
+    "next": "docs/volume-5-references/the-formation-companion.md"
+  },
+  "docs/volume-5-references/the-formation-companion.md": {
+    "volume": 5,
+    "volumeName": "Volume 5: References",
+    "volumeFile": "Volume 5.html",
+    "folder": "volume-5-references",
+    "title": "The Formation Companion",
+    "prev": "docs/volume-5-references/corporate-person-structure-scriptural-definition.md",
     "next": "docs/volume-5-references/measuring-spiritual-formation-at-scale.md"
   },
   "docs/volume-5-references/measuring-spiritual-formation-at-scale.md": {
@@ -2157,7 +2170,7 @@ window.PATH_TO_INFO = {
     "volumeFile": "Volume 5.html",
     "folder": "volume-5-references",
     "title": "Measuring Spiritual Formation at Scale",
-    "prev": "docs/volume-5-references/corporate-person-structure-scriptural-definition.md",
+    "prev": "docs/volume-5-references/the-formation-companion.md",
     "next": "docs/volume-5-references/attachment-theory-and-the-biblical-triad.md"
   },
   "docs/volume-5-references/attachment-theory-and-the-biblical-triad.md": {
