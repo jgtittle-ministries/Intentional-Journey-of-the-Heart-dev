@@ -5,11 +5,10 @@ Self-contained pickup. Everything below is **shipped to dev + prod and in sync**
 ## Repo states (all clean, in sync)
 | Repo | Path | HEAD |
 |---|---|---|
-| **IJH dev** | `C:\Users\jgtit\claude\_work\Intentional-Journey-of-the-Heart-dev` | `8fdb389` (+ this handoff commit on top) |
-| **IJH prod** | `C:\Users\jgtit\claude\_work\Intentional-Journey-of-the-Heart` | `0a20e21` — **FC migration pending mirror** |
+| **IJH dev** | `C:\Users\jgtit\claude\_work\Intentional-Journey-of-the-Heart-dev` | `5aee434` (+ this handoff commit on top) |
+| **IJH prod** | `C:\Users\jgtit\claude\_work\Intentional-Journey-of-the-Heart` | `b3bae5b` — **in sync** |
 
-> **Mirrored & in sync through `0a20e21`** (Vol 2 remainder → `345840f`; FL.II + Scripture-Grounding Standard → `04c93a4`; corporate-person-structure calibration → `056e9ec`; acronym key + MSFIG consistency → `0a20e21`).
-> **⚠ NOT yet mirrored (dev-only, awaiting John's "mirror"): the FC migration** (commits `083374b` + `8fdb389`) — see Arc 7. Diagnostic artifacts under `_implementation-notes/` are dev-only (never mirrored).
+> **Mirrored & in sync through `b3bae5b`** (Vol 2 remainder → `345840f`; FL.II + Scripture-Grounding Standard → `04c93a4`; corporate-person-structure calibration → `056e9ec`; acronym key + MSFIG consistency → `0a20e21`; **FC migration → `b3bae5b`**). Diagnostic artifacts under `_implementation-notes/` are dev-only (never mirrored).
 | **FotH dev** | `C:\Users\jgtit\claude\_work\fellowship-of-the-heart-pilot-at-cca-dev` | `244d455` |
 | **FotH prod** | `C:\Users\jgtit\claude\_work\fellowship-of-the-heart-pilot-at-cca` | `2c38754` |
 | **BSCP dev / prod** | `…balanced-scorecard-process[-dev]` | `5c9236f` / `419d56e` (untouched this session) |
@@ -65,8 +64,8 @@ New **Vol 5 chapter "Key to Acronyms & Abbreviations"** (placed after the Introd
 
 ---
 
-## ✅ Arc 7 — The Formation Companion (FC): PDF → mainline Vol 5 chapter (2026-06-13, dev-only, PENDING MIRROR)
-John decided to promote FC from a PDF to a mainline chapter ahead of a fresh peer review of its development structure. **Done on dev** (`083374b` chapter+wiring; `8fdb389` sweep+bibliography): faithful migration from the latest .docx (5/17 GitHub-source) → `docs/volume-5-references/the-formation-companion.md` (preserves the paper's lowercase divine-pronoun register; the Exploration-0B section replaced by a pointer to the canonical, refined Vol 2 chapter to avoid a stale duplicate). Wired into manifest nav + prev/next (after corporate-person-structure). **All 8 corpus FC references repointed** from the PDF popup to the inline chapter; FC PDF unlinked/archived in place. Bibliography (Vol 5 Part II): new **Howe, John** acknowledgment entry (Truro / PROAPT lineage) + **Tom Herrick** added to the Nemeck-Coombs entry + "Combe"→"Coombs" typo fix. Audits clean (173 chapters). Migration scripts in `_implementation-notes/fc-migration/`. **John's standing decisions to honor: (a) confirm or reverse the 0B-pointer (he implicitly accepted by greenlighting the sweep); (b) mirror when he says so.**
+## ✅ Arc 7 — The Formation Companion (FC): PDF → mainline Vol 5 chapter (2026-06-13, DONE + MIRRORED prod `b3bae5b`)
+John decided to promote FC from a PDF to a mainline chapter ahead of a fresh peer review of its development structure. **Done dev (`083374b` chapter+wiring; `8fdb389` sweep+bibliography) → mirrored prod `b3bae5b`** (12 blobs byte-identical): faithful migration from the latest .docx (5/17 GitHub-source) → `docs/volume-5-references/the-formation-companion.md` (preserves the paper's lowercase divine-pronoun register; the Exploration-0B section replaced by a pointer to the canonical, refined Vol 2 chapter to avoid a stale duplicate). Wired into manifest nav + prev/next (after corporate-person-structure). **All 8 corpus FC references repointed** from the PDF popup to the inline chapter; FC PDF unlinked/archived in place. Bibliography (Vol 5 Part II): new **Howe, John** acknowledgment entry (Truro / PROAPT lineage) + **Tom Herrick** added to the Nemeck-Coombs entry + "Combe"→"Coombs" typo fix. Audits clean (173 chapters). Migration scripts in `_implementation-notes/fc-migration/`. **One open option John can still flip: the FC Exploration-0B section is a pointer to the canonical Vol 2 chapter, not a duplicated copy — restore the full 0B text into FC if he ever prefers it (one edit + re-mirror).**
 
 ### ⏭ NEXT (held for a fresh session, per John): the FC development-structure peer review
 **Full design is locked at `_implementation-notes/peer-review-fc-development-structure/DESIGN-START-HERE.md`** — panel (Benner/Haugk/Patricia-Benner/Langberg/Willard-or-Powlison + John's sources Howe, Ed Smith, Dmitry Bilgere), the secular-provenance seam to PUSH, history-as-provenance-not-shield, Council-development-paths framing, and the multi-agent method. It's a Workflow (expensive) → confirm with John before launching; run after FC is mirrored/settled.
