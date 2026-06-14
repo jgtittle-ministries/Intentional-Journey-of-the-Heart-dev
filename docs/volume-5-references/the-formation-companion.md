@@ -182,7 +182,7 @@ The recognized credentialing pathways, by mode:
 ### Stephen-Style Lay Care
 - Stephen Ministry's formal Leader's Training Course (one week residential) and ongoing local training for Stephen Ministers (fifty hours).
 ### Group Mode Deep-Process Work
-- Shadow Work facilitator certification through Shadow Work Seminars (recognized as a non-Christian-grounded methodology to be used within a Christian framework per the discerning-use section above); inner healing training through schools such as Pastoral Care Ministries (Leanne Payne), Elijah House, or equivalent; group facilitation training through secular programs (e.g., Institute of Cultural Affairs) for the container-forming and group-dynamics competencies.
+- Shadow Work facilitator certification through Shadow Work Seminars (a methodology of non-Christian, Jungian origin used within a Christian framework per the discerning-use section above); inner healing training through schools such as Pastoral Care Ministries (Leanne Payne), Elijah House, or equivalent; group facilitation training through secular programs (e.g., Institute of Cultural Affairs) for the container-forming and group-dynamics competencies.
 No single pathway is required. What is required is that a Companion II or III has received training at working depth in at least one of these pathways for their primary mode and is in ongoing supervision with a practitioner more mature than themselves.
 # The Four Connects as the Companion's Own Formation
 The Companion is themselves a pilgrim. The Four Connects architecture described in Vol 2 applies to the Companion's own life as much as to any pilgrim they serve. The Companion who is not connecting with self cannot help another connect with self. The Companion who is not connecting with God in an ongoing and honest way cannot help another connect with God. The Companion who is isolated from a real community of peers cannot model the Connect-with-Others axis they are trying to facilitate in others. The Companion who has no mission beyond companioning has stopped becoming.
@@ -200,7 +200,7 @@ The author holds this paper at Speculative confidence as a first draft with fort
 # References
 In addition to the references carried forward from TA, HFT, SST, and MSFIG (all in Vol 5), this paper draws on the following for the mode-specialization and credentialing content:
 - Barry, C. (1993 and subsequent). Shadow Work Seminars facilitator training curriculum. Mendocino, CA: Shadow Work Seminars.
-- Bilgere, D. (2013). Gateways to God. Self-published, later integrated with Christian inner healing practice. [Already in Vol 5.]
+- Bilgere, D. (2013). Gateways to God. Self-published. An explicitly Christian work (the five Christian Gateways) by Dmitri Bilgere, a Christian practitioner who has re-grounded men's-work and shadow-work tools in the experience of God's love and mercy. [Already in Vol 5.]
 - Bennett, R. (1984 and subsequent editions). Emotionally Free. Old Tappan, NJ: Chosen Books. [Already in Vol 5.]
 - The Crucible Project. (2002, ongoing). Christ-centered transformational retreats and soul groups for men and women; an adaptation of the secular experiential men's-work tradition (ManKind Project / New Warrior lineage) re-grounded in a Christian framework. https://thecrucibleproject.org/
 - Eldredge, J. (2001, 2010, 2018). Wild at Heart and subsequent works on masculine spirituality and the Band of Brothers framework. Nashville: Thomas Nelson. [Already in Vol 5.]
