@@ -10,6 +10,7 @@ source: "IJH_Vol5_v5_6_1_1.docx"
 Contents of Volume 5: References. Each entry below opens that section of the volume.
 
 - [Introduction](introduction.md) — Introduction
+- [Key to Acronyms & Abbreviations](key-to-acronyms-and-abbreviations.md) — A key to the corpus's acronyms and abbreviations.
 - [Part I: Scholarly and Academic Sources](part-i-scholarly-and-academic-sources.md) — Part I: Scholarly and Academic Sources
 - [Part II: Spiritual Formation and Theological Authors](part-ii-spiritual-formation-and-theological-authors.md) — Part II: Spiritual Formation and Theological Authors
 - [Part III: Processes and Ministry Tools](part-iii-processes-and-ministry-tools.md) — Part III: Processes and Ministry Tools
@@ -35,5 +36,11 @@ Contents of Volume 5: References. Each entry below opens that section of the vol
 - [B15 Pull-out Work](b15-pull-out-work.md) — B15 Pull-out Work
 - [Interrogating Reality: Naming What the Body Already Knows](interrogating-reality-naming-what-the-body-knows.md) — Surfacing and working a corporate knot (Fierce Conversations, re-grounded)
 - [The Periodic Table of Spiritual Laws](periodic-table-of-spiritual-laws-a-summing.md) — The Periodic Table of Spiritual Laws — A Summing and Organizing Reference
+- [The Corporate Person-Structure: A Scriptural Definition](corporate-person-structure-scriptural-definition.md) — A scriptural definition of the corporate person.
+- [The Formation Companion](the-formation-companion.md) — The who of formation: a synthesis role.
 - [Measuring Spiritual Formation at Scale](measuring-spiritual-formation-at-scale.md) — Measuring Spiritual Formation at Scale
 - [Attachment Theory and the Biblical Triad](attachment-theory-and-the-biblical-triad.md) — Attachment Theory and the Biblical Triad
+- [Measuring Spiritual Maturity in Hearing God](measuring-spiritual-maturity-in-hearing-god.md) — The diagnostic paper.
+- [Cultivating Spiritual Maturity in Hearing God](cultivating-spiritual-maturity-in-hearing-god.md) — The prescriptive paper.
+- [Clearing the Ground (Lower Levels)](clearing-the-ground-lower-levels.md) — Forming the heart: Receiving, Responding, Valuing.
+- [Bearing Fruit with Patience (Upper Levels)](bearing-fruit-with-patience-upper-levels.md) — Forming the heart: Organization, Characterization.
