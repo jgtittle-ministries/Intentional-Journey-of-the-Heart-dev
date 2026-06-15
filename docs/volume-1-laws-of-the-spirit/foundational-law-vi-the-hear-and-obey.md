@@ -34,6 +34,10 @@ Second, the law runs both ways, but not evenly. The bright side — hear and do,
 
 Third, what this law produces — “blessing,” or “blessedness” — is bigger than the “more of God's leading” that the Obedience Channel produces, and bigger than just having more money or things. The Deut. 28 list includes children, harvest, peace, protection, and a place of honor among the nations; James 1:25 points to something more inward: “blessed in his doing.” The law doesn't promise one set shape of flourishing. It promises the kind of flourishing that fits whoever is living it — a person, a family, a church, a nation.
 
+## A Word on Reading the Old-Covenant Promise
+
+Deuteronomy 28 sits inside Moses' covenant with Israel — a national arrangement of blessings for obedience and curses for disobedience. So it has to be read across the turn from the old covenant to the new, or it curdles into the idea that obedience *buys* God's blessing. Under the new covenant the order is reversed: the blessing comes first. Paul opens Ephesians by saying God "has blessed us in Christ with every spiritual blessing in the heavenly places" (Eph. 1:3) — already given, already ours, before any obedience of ours. So hearing-and-doing is not the price we pay to get blessed; it is the grateful response of people already blessed in Christ — the way a child obeys a Father he already belongs to, not a stranger he is trying to win over. The law still runs — hear and do, and a flourishing life follows — but under grace it runs downstream of the gift, never upstream of it. (FL.IX handles the tithe promise of Malachi 3 with the same care.)
+
 ## The Shadow Pair
 
 This law ties two actions (*hear* and *do*) to a result (*blessing*). It only works when both actions are held together. Drop one of them and the promise falls apart — not because God took it back, but because the thing it depends on isn't there anymore. (See [Supplemental: Reading the Laws as Held Tensions](supplemental-held-tensions-and-shadow-pairs.md) for the broader framing.)
