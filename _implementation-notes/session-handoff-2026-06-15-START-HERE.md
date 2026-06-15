@@ -1,6 +1,6 @@
 # Session handoff — START HERE (2026-06-15)
 
-Self-contained pickup. Everything below is **shipped to dev + prod and in sync** unless marked otherwise. The one **mid-flight task is the FL-traceability analysis** (§1) — start there.
+Self-contained pickup. Everything below is **shipped to dev + prod and in sync** unless marked otherwise. The previously mid-flight **FL-traceability analysis is now DONE** (§1) — finished as a dev-only note; no open mid-flight task remains.
 
 ## Repo states
 | Repo | Path | HEAD |
@@ -13,7 +13,9 @@ IJH dev↔prod in sync except the intentional `docs/index.md` DEV banner + dev-o
 
 ---
 
-## §1 ⏳ IN-PROGRESS — FL traceability to the "hear and obey God" core (RESUME HERE)
+## §1 ✅ DONE — FL traceability to the "hear and obey God" core
+
+**RESOLVED 2026-06-15.** Full analysis written as a dev-only note: `_implementation-notes/fl-traceability-to-hear-and-obey-2026-06-15.md` (verified against each Reference-List mechanism, not law names). **Result: Direct 12 / Adjacent 10 / Less 24 → strict line 12 / 34, inclusive line 22 / 24.** Verification moved exactly one law off the provisional pass below — **FL.XVI Bondage → Direct** (it's the obey-mechanism inverted, the explicit Mirror of FL.VI). Diagnostic only; no catalog edits. The provisional pass below is retained for history but is **superseded by the note.**
 
 **John's question:** Of the **46 Foundational Laws (FL.I–FL.XLVI)**, how many **directly trace** to IJH's basic "hear and obey God" focus, and how many are **less than directly traceable**?
 
