@@ -1,12 +1,15 @@
-# FL Traceability to the "Hear and Obey God" Core — Analysis Note
+# Traceability to the "Hear and Obey God" Core — Foundational Laws + Explorations
 
 **Status:** Diagnostic only. Dev-only working note (never mirrored to prod). No catalog edits made.
-**Date:** 2026-06-15
-**Source verified against:** `docs/volume-5-references/periodic-table-of-spiritual-laws-a-summing.md` (Reference List — each law's core cause→effect claim, not just its title).
+**Date:** 2026-06-15 (Part A — Laws, then Part B — Explorations, same day).
+**Scope:** Two catalog tiers, each classified by how directly its entries trace to IJH's "hear and obey God" core — **Part A:** the 46 Foundational Laws; **Part B:** the 19 main Explorations (Vol 1's 8 + the V1.Open Miracle Frame + Vol 2's 10). Out of scope: Vol 2's lettered sub-explorations and all of Vol 3 (the latter are physics-language restatements that don't classify cleanly).
+**Sources verified against:** `docs/volume-5-references/periodic-table-of-spiritual-laws-a-summing.md` Reference List (for the Laws) + each Exploration chapter's "Proposed Law"/core claim (for the Explorations). Every call made on the entry's core cause→effect mechanism, not its title.
 
 ---
 
-## John's question
+## Part A — The 46 Foundational Laws
+
+### John's question
 
 Of the **46 Foundational Laws (FL.I–FL.XLVI)**, how many **directly trace** to IJH's basic "hear and obey God" focus, and how many are **less than directly traceable**?
 
@@ -108,8 +111,49 @@ The provisional first-pass (in `session-handoff-2026-06-15-START-HERE.md` §1) h
 
 The Periodic Table is organized by **Scale (Period 0–5) × Dimension (Group I–VI)**, *not* by relation-to-hear-and-obey, so this traceability count is an interpretive overlay, not something the catalog asserts. The catalog does name a "faith-family at GII Trust-Substrate and GV Hear-and-Obey" and a GV "obedience-and-authority" family, which corroborate the Direct cluster but do not by themselves fix the boundary.
 
+## Part B — The Explorations (Vol 1 + Vol 2)
+
+**Question:** Of the 19 main Explorations (Vol 1's Exp 1–8 + the V1.Open Miracle Frame + Vol 2's Exp 1–10), how many trace directly to hear-and-obey? Same criterion as Part A; classification on each chapter's "Proposed Law"/core claim.
+
+**Headline:** strict line **5 direct / 14 less-than-direct**; inclusive line (Direct + Adjacent) **17 / 2**. The Exploration tier is overwhelmingly the hear-and-obey investigation itself.
+
+**Tally:** Direct 5 · Adjacent 12 · Less 2. (**★** = swing entry.)
+
+| Exp | Core mechanism | Tier |
+|---|---|---|
+| V1.Exp1 How to Get Faith | Word heard *with willingness to obey* → faith; obedience opens the channel to the next word | Direct |
+| V1.Exp6 Obedience Channel | Obeying what God has shown → the next thing opens; disobedience clogs it | Direct |
+| V2.Exp7 Hearing with Understanding | The *hearing faculty itself* develops through the five affective stages | Direct |
+| V2.Exp1 Heart Soil Diagnostic | The heart's soil-condition decides whether the word is received and bears fruit | Direct ★ |
+| V1.Exp8 Prayer as Resonance | Persistent, rightly-aimed prayer → God who hears acts (outsized) | Direct ★ |
+| V1.Exp5 Fear of the Lord | Awe of the holy is the ground from which all true knowing of God begins | Adjacent ★ |
+| V1.Exp4 Wisdom Cluster | Knowledge→understanding→wisdom→discernment, gated by the Fear of the Lord | Adjacent ★ |
+| V1.Exp3 Faith-Hope-Love | Faith→hope→love→faith reinforcing loop (faith = the trust pole of reception) | Adjacent ★ |
+| V1.Exp7 Spiritual Authority | Working inside handed-down authority lets more of God's power through | Adjacent ★ |
+| V2.Exp2 Emotional Knots | A knot drains the bandwidth for hearing; the Spirit's truth into the knot releases it | Adjacent ★ |
+| V2.Exp3 Believing the Lie | Every knot has a lie at its root; the Spirit speaking truth into the memory clears it | Adjacent |
+| V2.Exp4 Confession & Restoration | Unconfessed sin loads the circuit; confession clears the channel | Adjacent |
+| V2.Exp5 Four Connects | Self→Others→God→Mission; skipping the steps yields performance, not real connection with God | Adjacent ★ |
+| V2.Exp6 Tool Map | Match the right tool to the wound; the Spirit heals, the tools only open the door | Adjacent ★ |
+| V2.Exp8 Container | The four relational conditions implement the hearing-channel law for a group | Adjacent ★ |
+| V2.Exp9 Community as Amplifier | Community amplifies hearing/faith and keeps discernment honest (closed loop → gnostic) | Adjacent ★ |
+| V2.Exp10 Training Plan | Operating in the Laws is a learnable skill across cognitive/affective/action | Adjacent ★ |
+| V1.Exp2 Nested Person Structure | The spirit/heart/soul/mind/body map; change must reach the heart (inside-out) | Less |
+| V1.Open Miracle Frame | The natural world is a small part of God's larger reality; miracles act from it | Less |
+
+**Swing notes:** the 5-vs-17 gap is almost the whole story — Vol 2's middle is a wall of "conditions/clears the hearing channel" entries (knots, lies, sin-blockage, container, community, tools), filed Adjacent because each is one step removed from the act of hearing; a reader who counts "anything that serves hearing" as direct pushes toward 17. The two Direct ★'s (Heart Soil, Prayer Resonance) are reception diagnostics/dynamics rather than the bare act (stricter reader → 3). The two "Less" entries are stable: Nested Person Structure is the *anthropology* (the map of the person, parallel to the GVI structural-frame Laws) and the Miracle Frame is the *cosmology* — both are the frame everything else runs inside, not hear-and-obey mechanisms.
+
+## Comparison — Laws vs Explorations
+
+| Tier | Direct | Adjacent | Less | Direct+Adjacent share |
+|---|---|---|---|---|
+| 46 Foundational Laws | 12 | 10 | 24 | 22/46 ≈ 48% |
+| 19 Explorations (V1+V2) | 5 | 12 | 2 | 17/19 ≈ 90% |
+
+The two tiers do different jobs. The **Explorations are the hear-and-obey investigation** — Vol 1's original how-faith-and-obedience-work inquiry, plus Vol 2's entire diagnose-and-clear-the-hearing-channel program; only the anthropology (V1.Exp2) and cosmology (V1.Open) sit outside. The **Foundational Laws are the broader catalog** — roughly half are the hear-and-obey core and its machinery, the other half run on other spiritual dynamics (forgiveness/offense, generational transmission, marriage, polity, sabbath, sowing-reaping, suffering, eschatology). So the corpus *narrows toward the core* as you move from the Laws tier down into the Exploration tier.
+
 ## Possible next steps (not done)
 
-- Promote to a finished trail in the Vol 6 `research-register.md` if John wants it on the standing record.
+- Promote either or both analyses to a finished trail in the Vol 6 `research-register.md` if John wants them on the standing record.
 - Render as a colored grid over the actual Period × Group layout.
-- Revisit if/when the 3-stream Vol 1 peer review (Foster/Eldredge/Prince) is implemented, since it adds deliverance/"missing war" material that could touch FL.XLII and the generational-laws cluster.
+- Extend Part B to Vol 2's lettered sub-explorations (02a, 06b, 07a, …) and/or Vol 3's ~9 quantitative explorations, if wanted (Vol 3 flagged as physics-language restatements that classify only loosely).
