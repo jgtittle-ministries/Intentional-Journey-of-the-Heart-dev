@@ -2,7 +2,7 @@
 
 **Status:** Diagnostic only. Dev-only working note (never mirrored to prod). No catalog edits made.
 **Date:** 2026-06-15 (Part A — Laws, then Part B — Explorations, same day).
-**Scope:** Two catalog tiers, each classified by how directly its entries trace to IJH's "hear and obey God" core — **Part A:** the 46 Foundational Laws; **Part B:** the 19 main Explorations (Vol 1's 8 + the V1.Open Miracle Frame + Vol 2's 10). Out of scope: Vol 2's lettered sub-explorations and all of Vol 3 (the latter are physics-language restatements that don't classify cleanly).
+**Scope:** Two catalog tiers, each classified by how directly its entries trace to IJH's "hear and obey God" core — **Part A:** the 46 Foundational Laws; **Part B:** the 19 main Explorations (Vol 1's 8 + the V1.Open Miracle Frame + Vol 2's 10); **Part C:** Volume 3's 9 quantitative explorations, *qualitatively only* (physics-language restatements that don't classify cleanly per-entry). Out of scope: Vol 2's lettered sub-explorations.
 **Sources verified against:** `docs/volume-5-references/periodic-table-of-spiritual-laws-a-summing.md` Reference List (for the Laws) + each Exploration chapter's "Proposed Law"/core claim (for the Explorations). Every call made on the entry's core cause→effect mechanism, not its title.
 
 ---
@@ -143,17 +143,24 @@ The Periodic Table is organized by **Scale (Period 0–5) × Dimension (Group I�
 
 **Swing notes:** the 5-vs-17 gap is almost the whole story — Vol 2's middle is a wall of "conditions/clears the hearing channel" entries (knots, lies, sin-blockage, container, community, tools), filed Adjacent because each is one step removed from the act of hearing; a reader who counts "anything that serves hearing" as direct pushes toward 17. The two Direct ★'s (Heart Soil, Prayer Resonance) are reception diagnostics/dynamics rather than the bare act (stricter reader → 3). The two "Less" entries are stable: Nested Person Structure is the *anthropology* (the map of the person, parallel to the GVI structural-frame Laws) and the Miracle Frame is the *cosmology* — both are the frame everything else runs inside, not hear-and-obey mechanisms.
 
-## Comparison — Laws vs Explorations
+## Part C — Volume 3 (qualitative only)
 
-| Tier | Direct | Adjacent | Less | Direct+Adjacent share |
-|---|---|---|---|---|
-| 46 Foundational Laws | 12 | 10 | 24 | 22/46 ≈ 48% |
-| 19 Explorations (V1+V2) | 5 | 12 | 2 | 17/19 ≈ 90% |
+Volume 3's 9 quantitative explorations are **deliberately not given a per-entry tier table.** 7 of the 9 explicitly state they are physics/math *restatements* of Vol 1-2 mechanisms rather than new ones, and Vol 3 never states the bare act of hearing/obeying — it always states a *model of* it. That one-rung-up abstraction means a strict pass yields **zero "Direct" entries** (Adjacent 5 — Force, Distance, Energy, Systems-Dynamics, Miracles; Less 4 — Case-for-Quantification, the TFT terrain-map, Conservation, the Glory Attractor [= FL.XXXVI]). That 0-Direct count is an **abstraction artifact** that *understates* the reality and invites misreading.
 
-The two tiers do different jobs. The **Explorations are the hear-and-obey investigation** — Vol 1's original how-faith-and-obedience-work inquiry, plus Vol 2's entire diagnose-and-clear-the-hearing-channel program; only the anthropology (V1.Exp2) and cosmology (V1.Open) sit outside. The **Foundational Laws are the broader catalog** — roughly half are the hear-and-obey core and its machinery, the other half run on other spiritual dynamics (forgiveness/offense, generational transmission, marriage, polity, sabbath, sowing-reaping, suffering, eschatology). So the corpus *narrows toward the core* as you move from the Laws tier down into the Exploration tier.
+The reality: **trust/faith is Vol 3's master variable** — the `f()` factor that, set to zero, zeroes the whole spiritual-force equation; the energy *stock*; the field excitation that moves the system; the Faith-Obedience loop named "the engine of spiritual growth." So Vol 3 is the corpus's **most trust-saturated tier underneath**, even though on the surface it reads as models (Adjacent) and frames/telos/methodology (Less). Net: Vol 3 *inherits and concentrates* its sources' traceability to the hear-and-obey core; it introduces no dynamics that pull away from it. Genuinely new (non-restatement) material is limited to Exp 6's anti-conservation "use-it-or-lose-it" dynamic and Exp 7's spiral-trajectory refinement.
+
+## Comparison — across all three tiers
+
+| Tier | Direct | Adjacent | Less | D+A share | Character |
+|---|---|---|---|---|---|
+| 46 Foundational Laws | 12 | 10 | 24 | ≈48% | the broad catalog |
+| 19 Explorations (V1+V2) | 5 | 12 | 2 | ≈90% | the hear-and-obey investigation |
+| 9 Explorations (V3) | 0 | 5 | 4 | ≈56% | trust-saturated, stated as *models* (0-Direct is an abstraction artifact) |
+
+The tiers do different jobs. The **Explorations (V1-2) are the hear-and-obey investigation** — Vol 1's original how-faith-and-obedience-work inquiry, plus Vol 2's entire diagnose-and-clear-the-hearing-channel program; only the anthropology (V1.Exp2) and cosmology (V1.Open) sit outside. The **Foundational Laws are the broader catalog** — roughly half are the hear-and-obey core and its machinery, the other half run on other spiritual dynamics (forgiveness/offense, generational transmission, marriage, polity, sabbath, sowing-reaping, suffering, eschatology). **Vol 3** sits underneath all of it as the quantitative model layer, built on trust as its master variable. So the core is densest in the Exploration investigation, more diffuse across the Law catalog, and the formal substrate of Vol 3's models throughout.
 
 ## Possible next steps (not done)
 
 - Promote either or both analyses to a finished trail in the Vol 6 `research-register.md` if John wants them on the standing record.
 - Render as a colored grid over the actual Period × Group layout.
-- Extend Part B to Vol 2's lettered sub-explorations (02a, 06b, 07a, …) and/or Vol 3's ~9 quantitative explorations, if wanted (Vol 3 flagged as physics-language restatements that classify only loosely).
+- Extend Part B to Vol 2's lettered sub-explorations (02a, 06b, 07a, …) if wanted. (Vol 3 is now covered qualitatively in Part C; a per-entry Vol 3 table was deliberately not produced.)
