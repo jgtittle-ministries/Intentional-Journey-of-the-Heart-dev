@@ -1,16 +1,16 @@
 ---
-title: "Seventh Exploration: Spiritual Authority — The Force Multiplier"
+title: "Seventh Exploration: Spiritual Authority — Working Inside What Christ Hands Down"
 volume: 1
 source: "IJH_Vol1_v5_6_1_1.docx"
 ---
 
-# Seventh Exploration: Spiritual Authority — The Force Multiplier
+# Seventh Exploration: Spiritual Authority — Working Inside What Christ Hands Down
 
 
 ![An oak's root system — authority is what holds you, not what subdues you.](images/04-tree-roots-rock.jpg){: .fig-pair}![](images/image-001.png){: .fig-pair}
 
 ## The Discovery That Changes the Picture
-Here is something I have had sitting in my notes for years without ever calling it a law. It deserves to be one. The discovery is that working inside spiritual authority that has been properly handed down to you is not just the right thing to do — it multiplies the spiritual power available. Authority is a force multiplier: it makes the same effort count for far more.
+Here is something I have had sitting in my notes for years without ever calling it a law. It deserves to be one. The discovery is that working inside spiritual authority that has been properly handed down to you is not just the right thing to do — it lets far more of what God is doing actually reach its mark. Not because the authority is a power you generate (it never is), but because standing inside Christ's handed-down authority is what lets His power move through you instead of past you. You could even call it a kind of multiplier — as long as you remember that what is multiplied is His work, never your own.
 
 ## The Centurion: A Case Study in Authority-Based Faith
 ***Matt. 8:8-10 (ESV)***
@@ -34,7 +34,7 @@ The centurion’s faith is so remarkable to Jesus because he grasped something t
 
 *"Nevertheless, do not rejoice in this, that the spirits are subject to you, but rejoice that your names are written in heaven."*
 
-It is worth pausing on Jesus' very next sentence, because He attaches His own guardrail to the authority He has just given. The disciples come back thrilled that even the demons submit to them — and Jesus gently redirects them: the thing to rejoice in is not the power, but belonging to God. Spiritual authority is real, and this exploration takes it seriously; but the moment it becomes excitement about *our* power rather than gratitude for *His* grace, it has already started to go wrong. Keep the joy where Jesus put it.
+It is worth pausing on Jesus' very next sentence, because He attaches His own guardrail to the authority He has just given. The disciples come back thrilled that even the demons submit to them — and Jesus gently redirects them: the thing to rejoice in is not the power, but belonging to God. Spiritual authority is real, and this exploration takes it seriously; but the moment it becomes excitement about *our* power rather than gratitude for *His* grace, it has already started to go wrong. Keep the joy where Jesus put it. And notice what the authority is *for*: Jesus gives it "over all the power of the enemy" (Luke 10:19) — this is authority for the fight, the same confronting authority that [FL.XLII Kingdom-Confrontation](foundational-law-xlii-the-kingdom-confrontation-authority-law.md) describes at full scale.
 
 ***Eph. 1:20-22 (ESV)***
 
@@ -56,11 +56,11 @@ Wayne Grudem’s treatment of church authority and eldership adds a dimension I 
 ## What This Means for Spiritual Power
 One thing has to be said before any wiring picture — the same thing I say wherever I speak of spiritual "power": it is never a current I store up and switch on. It is the Holy Spirit Himself — a Person, who works as He wills (John 3:8; 1 Cor. 12:11). Authority does not amplify a force I own; it keeps me standing where the Spirit's own working can reach through me. Keep Him in view as a Person, and the wiring picture below is safe to use.
 
-In terms of the spiritual-power discussion I develop later in Vol 3: if faith is the raw spiritual power, then authority is the wiring that aims that power and makes it count for more. Working outside of proper authority is like trying to send electricity through a broken wire — the power is there, but the circuit is not complete, so nothing actually gets done. Working inside proper authority is like sending that same power through a good wire built for the job — it reaches where it is going at full strength, maybe even stronger.
+In terms of the spiritual-power discussion I develop later in Vol 3: if trust is what the Spirit's power flows through, then authority is the wiring that aims that power and lets it count for more. Working outside of proper authority is like trying to send electricity through a broken wire — the power is there, but the circuit is not complete, so nothing actually gets done. Working inside proper authority is like sending that same power through a good wire built for the job — it reaches where it is going at full strength, maybe even stronger.
 
-This also means that humility — real, deep-down humility, not put-on modesty — is not just a nice virtue. It is necessary for any of this to work. It is what keeps me in the right place inside the chain of authority, so the multiplier actually works.
+This also means that humility — real, deep-down humility, not put-on modesty — is not just a nice virtue. It is necessary for any of this to work. It is what keeps me in the right place inside the chain of authority, so the authority actually holds.
 
-**Proposed Law (Operational): Spiritual authority is handed down, level by level, from the Father through the Son to believers. Working inside authority that has been properly handed down multiplies the spiritual power that actually gets through — it acts as a force multiplier. Working outside of that authority breaks the circuit and can be dangerous.**
+**Proposed Law (Operational): Spiritual authority is handed down, level by level, from the Father through the Son to believers. Working inside authority that has been properly handed down lets far more of God's power actually get through — the same effort counts for more, not because the believer generates the power but because she is standing inside Christ's authority rather than outside it. Working outside of that authority breaks the circuit and can be dangerous.**
 
 **Certainty: Reasonably Inferred  ***The centurion passage is unambiguous; the Acts 19 negative case is stark. Exactly how "working inside authority" plays out in everyday spiritual life is still being worked out — this is an open trail.*
 

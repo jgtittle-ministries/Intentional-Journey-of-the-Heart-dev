@@ -290,7 +290,7 @@ window.VOLUME_CHAPTERS = {
       },
       {
         "path": "docs/volume-1-laws-of-the-spirit/exploration-07-spiritual-authority.md",
-        "title": "Seventh Exploration: Spiritual Authority — The Force Multiplier"
+        "title": "Seventh Exploration: Spiritual Authority — Working Inside What Christ Hands Down"
       },
       {
         "path": "docs/volume-1-laws-of-the-spirit/exploration-08-prayer-as-resonance-phenomenon.md",
@@ -1368,7 +1368,7 @@ window.PATH_TO_INFO = {
     "volumeName": "Volume 1: Laws of the Spirit",
     "volumeFile": "Volume 1.html",
     "folder": "volume-1-laws-of-the-spirit",
-    "title": "Seventh Exploration: Spiritual Authority — The Force Multiplier",
+    "title": "Seventh Exploration: Spiritual Authority — Working Inside What Christ Hands Down",
     "prev": "docs/volume-1-laws-of-the-spirit/exploration-06-obedience-channel.md",
     "next": "docs/volume-1-laws-of-the-spirit/exploration-08-prayer-as-resonance-phenomenon.md"
   },
