@@ -36,9 +36,11 @@ Ask-Seek-Knock and Prayer Resonance are two laws about the same thing, one build
 *“You do not have, because you do not ask. You ask and do not receive, because you ask wrongly, to spend it on your passions.”*
 
 ## The Mechanism
-Two things stand out. First, this is a doorway law (Matt. 7:7–8): either the asking happens or it doesn't. The basic statement says nothing about more-asking-getting-more — it is yes-or-no. Either the asking is real, faith-filled, and aimed at things that fit God's character, and then the receiving follows; or it isn't, and then (as James 4:3 says) it doesn't. How prayer grows stronger over time belongs to the Prayer Resonance Law, not this one.
+Three things stand out. First, this is a doorway law (Matt. 7:7–8): either the asking happens or it doesn't. The basic statement says nothing about more-asking-getting-more — it is yes-or-no. Either the asking is real, faith-filled, and aimed at things that fit God's character, and then the receiving follows; or it isn't, and then (as James 4:3 says) it doesn't. How prayer grows stronger over time belongs to the Prayer Resonance Law, not this one.
 
 Second, the law has a built-in safety catch (James 4:3): asking with the wrong motive doesn't receive. That catch is what keeps this from being read as a vending machine. It does the same job as the “in my name” phrase in John 14:13: asking in line with Jesus' character and the Father's purposes. “In my name” isn't a magic password you tack onto a request; it describes where the asker's heart is aimed.
+
+Third, "ask, seek, knock" is a call to keep on, not to ask once and quit. Jesus frames it that way on purpose: right before the Luke 11 version He tells of the friend who bangs on the door at midnight until his neighbor finally gets up — "yet because of his impudence he will rise and give him whatever he needs" (Luke 11:8). And elsewhere He tells of the widow who wears down the unjust judge, a parable Luke says was told "to the effect that they ought always to pray and not lose heart" (Luke 18:1). Both run from the lesser to the greater: if a grumpy neighbor and an unjust judge finally answer persistence, how much more a good Father who delights to give (Luke 11:13)? This is not piling up words to wear *God* down — it is refusing to lose heart and quit at the door. (How persistent prayer can actually grow stronger over time is the next law's territory, the Prayer Resonance Law, V1.Exp8; here the point is simply: keep knocking.)
 
 ## The Shadow Pair
 
