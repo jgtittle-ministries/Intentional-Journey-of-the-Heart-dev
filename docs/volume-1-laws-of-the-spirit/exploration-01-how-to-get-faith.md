@@ -36,6 +36,8 @@ The process itself — whether it is the “Any Doubts?” exercise, a TPM sessi
 
 Here is the practical application: when the faith chain is stalled, the question is not “what more information do I need?” It is “what am I not yet willing to believe is true?” That is the door. The Spirit is standing at it.
 
+And there is something to keep straight here so I do not take the credit: the very seeing that lets a word land as true is itself the Spirit's gift, not my achievement. Left to myself I am “not able to understand them because they are spiritually discerned” (1 Cor. 2:14); so the hearing this whole journey runs on is something I ask Him for, not something I manufacture (developed in [Vol 2, Exploration 7](../volume-2-knowing-to-doing/exploration-07-hearing-with-understanding.md)).
+
 I connect this to the Sixth Exploration (the Obedience Channel): obedience to the last word I received is the condition for the channel to be open to receive the next word. The two explorations are closely linked.
 
 ## What faith does — the reception that releases (and its limits)
