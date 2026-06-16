@@ -20,6 +20,8 @@ The more searching reading is this: the four soil types describe four conditions
 
 Notice what Jesus is saying about each soil type in terms of the Volume 1 hearing chain. The hard path: the word lands but is immediately taken. The channel closes before anything takes root. The rocky soil: the word enters, faith begins to form, and then tribulation applies pressure that the shallow root system cannot support. The thorny soil: the word enters, something begins to grow, but the energy of the thorns — cares, deceitfulness of riches, desires for other things — chokes it before it can produce fruit. Only the good soil completes the full chain: word in, genuine hearing, acceptance, fruit.
 
+And Scripture names the posture that makes a heart good soil: to "receive with meekness the implanted word, which is able to save your souls" (Jas. 1:21). Meek, unguarded reception is the good soil's mark — the opposite of the hardened, shallow, or distracted hearing the other three soils picture. (At the gathered-body scale this same receptive posture is FL.XXXI Corporate Scriptural Reception; its root is the reverence of [the Fear of the Lord](../volume-1-laws-of-the-spirit/exploration-05-gateway-condition.md).)
+
 The thorny soil is the most important category for Vol 2’s purposes. The thorns are not sin in the simple sense — they are competing energetic loads. The word got in. Something is growing. But the thorns are consuming the available energy and attention, and the result is no fruit. This is exactly the condition I am calling an emotional knot, and it is the subject of the next exploration.
 
 ## The Diagnostic Questions
