@@ -261,6 +261,10 @@ window.VOLUME_CHAPTERS = {
         "title": "Foundational Law XLVI: The Communal Truth-Telling Law"
       },
       {
+        "path": "docs/volume-1-laws-of-the-spirit/foundational-law-xlvii-the-words-efficacy-law.md",
+        "title": "Foundational Law XLVII: The Word's-Efficacy Law"
+      },
+      {
         "path": "docs/volume-1-laws-of-the-spirit/exploration-01-how-to-get-faith.md",
         "title": "First Exploration: How to Get Faith"
       },
@@ -1298,6 +1302,15 @@ window.PATH_TO_INFO = {
     "folder": "volume-1-laws-of-the-spirit",
     "title": "Foundational Law XLVI: The Communal Truth-Telling Law",
     "prev": "docs/volume-1-laws-of-the-spirit/foundational-law-xlv-the-voice-of-christ-reaches-into-death-law.md",
+    "next": "docs/volume-1-laws-of-the-spirit/foundational-law-xlvii-the-words-efficacy-law.md"
+  },
+  "docs/volume-1-laws-of-the-spirit/foundational-law-xlvii-the-words-efficacy-law.md": {
+    "volume": 1,
+    "volumeName": "Volume 1: Laws of the Spirit",
+    "volumeFile": "Volume 1.html",
+    "folder": "volume-1-laws-of-the-spirit",
+    "title": "Foundational Law XLVII: The Word's-Efficacy Law",
+    "prev": "docs/volume-1-laws-of-the-spirit/foundational-law-xlvi-the-communal-truth-telling-law.md",
     "next": "docs/volume-1-laws-of-the-spirit/exploration-01-how-to-get-faith.md"
   },
   "docs/volume-1-laws-of-the-spirit/exploration-01-how-to-get-faith.md": {
@@ -1306,7 +1319,7 @@ window.PATH_TO_INFO = {
     "volumeFile": "Volume 1.html",
     "folder": "volume-1-laws-of-the-spirit",
     "title": "First Exploration: How to Get Faith",
-    "prev": "docs/volume-1-laws-of-the-spirit/foundational-law-xlvi-the-communal-truth-telling-law.md",
+    "prev": "docs/volume-1-laws-of-the-spirit/foundational-law-xlvii-the-words-efficacy-law.md",
     "next": "docs/volume-1-laws-of-the-spirit/exploration-02-my-spirit-heart-soul-and.md"
   },
   "docs/volume-1-laws-of-the-spirit/exploration-02-my-spirit-heart-soul-and.md": {

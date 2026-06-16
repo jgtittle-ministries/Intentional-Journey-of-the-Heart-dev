@@ -59,6 +59,7 @@ Contents of Volume 1: Laws of the Spirit. Each entry below opens that section of
 - [Foundational Law XLIV: The Sign-as-Revelation Law](foundational-law-xliv-the-sign-as-revelation-law.md) — Foundational Law XLIV: The Sign-as-Revelation Law
 - [Foundational Law XLV: The Voice-of-Christ-Reaches-into-Death Law](foundational-law-xlv-the-voice-of-christ-reaches-into-death-law.md) — Foundational Law XLV: The Voice-of-Christ-Reaches-into-Death Law
 - [Foundational Law XLVI: The Communal Truth-Telling Law](foundational-law-xlvi-the-communal-truth-telling-law.md) — Foundational Law XLVI: The Communal Truth-Telling Law
+- [Foundational Law XLVII: The Word's-Efficacy Law](foundational-law-xlvii-the-words-efficacy-law.md) — Foundational Law XLVII: The Word's-Efficacy Law
 - [1. How to Get Faith](exploration-01-how-to-get-faith.md) — First Exploration: How to Get Faith
 - [2. My Spirit, Heart, Soul, and Body](exploration-02-my-spirit-heart-soul-and.md) — Second Exploration: My Spirit, Heart, Soul, and Body
 - [Supplemental: The Three Desires](supplemental-three-desires.md) — Supplemental Exploration: The Three Desires — Design Specifications of the Human Heart
