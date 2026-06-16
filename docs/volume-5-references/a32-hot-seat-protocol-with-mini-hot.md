@@ -1,7 +1,7 @@
 ---
 title: "A32 Hot Seat Protocol (with Mini Hot Seat as named variant)"
 volume: 5
-source: "IJH_Vol5_v5_6_1_1.docx"
+source: "IJH_Vol5_v5_7_2_1.docx"
 ---
 
 # A32 Hot Seat Protocol (with Mini Hot Seat as named variant)

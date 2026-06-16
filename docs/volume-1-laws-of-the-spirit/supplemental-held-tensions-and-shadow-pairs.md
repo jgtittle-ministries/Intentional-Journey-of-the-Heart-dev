@@ -1,7 +1,7 @@
 ---
 title: "Supplemental Exploration: Reading the Laws as Held Tensions — A Competing-Values Lens"
 volume: 1
-source: "IJH_Vol1_v5_6_1_2.docx"
+source: "IJH_Vol1_v5_7_2_1.docx"
 ---
 
 # Supplemental Exploration: Reading the Laws as Held Tensions — A Competing-Values Lens

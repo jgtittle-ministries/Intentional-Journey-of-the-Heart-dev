@@ -1,7 +1,7 @@
 ---
 title: "Second Exploration: Emotional Knots — The Energetic Blockage Law"
 volume: 2
-source: "IJH_Vol2_v5_6_1_1.docx"
+source: "IJH_Vol2_v5_7_2_1.docx"
 ---
 
 # Second Exploration: Emotional Knots — The Energetic Blockage Law

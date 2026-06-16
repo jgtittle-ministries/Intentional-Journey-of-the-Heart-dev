@@ -1,7 +1,7 @@
 ---
 title: "Second Exploration: My Spirit, Heart, Soul, and Body"
 volume: 1
-source: "IJH_Vol1_v5_6_1_1.docx"
+source: "IJH_Vol1_v5_7_2_1.docx"
 ---
 
 # Second Exploration: My Spirit, Heart, Soul, and Body

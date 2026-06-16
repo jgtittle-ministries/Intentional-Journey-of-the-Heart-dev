@@ -1,7 +1,7 @@
 ---
 title: "Sixth Exploration: The Tool Map — Matching the Right Tool to the Right Blockage"
 volume: 2
-source: "IJH_Vol2_v5_6_1_1.docx"
+source: "IJH_Vol2_v5_7_2_1.docx"
 ---
 
 # Sixth Exploration: The Tool Map — Matching the Right Tool to the Right Blockage

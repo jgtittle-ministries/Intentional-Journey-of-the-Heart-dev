@@ -1,7 +1,7 @@
 ---
 title: "Fourth Exploration: Confession and Restoration — Clearing the Sin Blockage"
 volume: 2
-source: "IJH_Vol2_v5_6_1_1.docx"
+source: "IJH_Vol2_v5_7_2_1.docx"
 ---
 
 # Fourth Exploration: Confession and Restoration — Clearing the Sin Blockage

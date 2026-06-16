@@ -1,7 +1,7 @@
 ---
 title: "A24 Blessing Receiving Protocol (with the God-Split for Shame Removal)"
 volume: 5
-source: "IJH_Vol5_v5_6_1_1.docx"
+source: "IJH_Vol5_v5_7_2_1.docx"
 ---
 
 # A24 Blessing Receiving Protocol (with the God-Split for Shame Removal)

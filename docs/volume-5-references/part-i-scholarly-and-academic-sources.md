@@ -1,7 +1,7 @@
 ---
 title: "Part I: Scholarly and Academic Sources"
 volume: 5
-source: "IJH_Vol5_v5_6_1_1.docx"
+source: "IJH_Vol5_v5_7_2_1.docx"
 ---
 
 # Part I: Scholarly and Academic Sources

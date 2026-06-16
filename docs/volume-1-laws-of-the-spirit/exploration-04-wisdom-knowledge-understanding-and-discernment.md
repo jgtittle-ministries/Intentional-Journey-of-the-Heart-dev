@@ -1,7 +1,7 @@
 ---
 title: "Fourth Exploration: Wisdom, Knowledge, Understanding, and Discernment"
 volume: 1
-source: "IJH_Vol1_v5_6_1_1.docx"
+source: "IJH_Vol1_v5_7_2_1.docx"
 ---
 
 # Fourth Exploration: Wisdom, Knowledge, Understanding, and Discernment

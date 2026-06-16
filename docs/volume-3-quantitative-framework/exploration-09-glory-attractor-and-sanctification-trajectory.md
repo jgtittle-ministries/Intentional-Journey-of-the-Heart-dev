@@ -1,7 +1,7 @@
 ---
 title: "Ninth Exploration: The Glory Attractor and the Sanctification Trajectory"
 volume: 3
-source: "IJH_Vol3_v5_6_1_1.docx"
+source: "IJH_Vol3_v5_7_2_1.docx"
 ---
 
 # Ninth Exploration: The Glory Attractor and the Sanctification Trajectory

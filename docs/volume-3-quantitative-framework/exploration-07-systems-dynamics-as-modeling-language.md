@@ -1,7 +1,7 @@
 ---
 title: "Seventh Exploration: Systems Dynamics as the Modeling Language"
 volume: 3
-source: "IJH_Vol3_v5_6_1_1.docx"
+source: "IJH_Vol3_v5_7_2_1.docx"
 ---
 
 # Seventh Exploration: Systems Dynamics as the Modeling Language
