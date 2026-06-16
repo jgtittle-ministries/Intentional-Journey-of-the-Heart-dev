@@ -1,6 +1,6 @@
 # WORKING DRAFT — "The Grammar of Creation" (Speculative)
 
-**STATUS:** Speculative brainstorm draft, 2026-06-16. **NOT part of the live corpus.** Dev-only working artifact (per the `_implementation-notes/` convention — never mirrored to prod). Drafted for John's review; placement (Vol 1 Exploration vs. Vol 5 framing essay) undecided. Branches A and B (see end) are NOT yet written; Branch C (the inclusion-criteria stress-test) IS included below as an appendix.
+**STATUS:** Speculative brainstorm draft, 2026-06-16. **NOT part of the live corpus.** Dev-only working artifact (per the `_implementation-notes/` convention — never mirrored to prod). Drafted for John's review; placement (Vol 1 Exploration vs. Vol 5 framing essay) undecided. Branches A and B (see end) are NOT yet written; Branch C (the inclusion-criteria stress-test) IS included below as an appendix. Granddaddy note filled in by John 2026-06-16 (his own words).
 
 ---
 
@@ -74,7 +74,7 @@ Three honest cautions, or the notion curdles into something it should not become
 
 **Certainty: Speculative.** *Offered for the interest of it, not built upon. The general claim — that creation comes through a rational, ordering Word, so the world is intelligible — is strongly and widely taught (Gen. 1; Ps. 33; John 1; Heb. 1; Heb. 11; Col. 1). The specific claim — that the divine utterance is, at root, the physical laws themselves — is an inference well outside what any text establishes, and is best held as a worshipful hunch, not a doctrine. It earns its seat the way a good question does: by opening the others up.*
 
-> **A word from your Granddaddy** — *[placeholder for John]*: a short reflection in your own voice would seat this beautifully — the moment in your life when the lawfulness of the world first struck you as *spoken* rather than merely *there* (a night sky, a classroom, a worship service). Left blank deliberately rather than inventing a memory.
+***A word from your Granddaddy.*** *This notion has been with me since I first started studying scripture seriously. I'm always looking for connections and the deeper things behind the surface we see. I find this not just interesting, but it tugs at my heart and makes me smile.*
 
 ---
 
