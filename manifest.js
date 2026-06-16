@@ -565,6 +565,10 @@ window.VOLUME_CHAPTERS = {
         "title": "Introduction"
       },
       {
+        "path": "docs/volume-5-references/the-grammar-of-creation.md",
+        "title": "The Grammar of Creation: Did God Speak the Laws of Physics?"
+      },
+      {
         "path": "docs/volume-5-references/key-to-acronyms-and-abbreviations.md",
         "title": "Key to Acronyms & Abbreviations"
       },
@@ -1923,6 +1927,15 @@ window.PATH_TO_INFO = {
     "folder": "volume-5-references",
     "title": "Introduction",
     "prev": "docs/volume-5-references/index.md",
+    "next": "docs/volume-5-references/the-grammar-of-creation.md"
+  },
+  "docs/volume-5-references/the-grammar-of-creation.md": {
+    "volume": 5,
+    "volumeName": "Volume 5: References",
+    "volumeFile": "Volume 5.html",
+    "folder": "volume-5-references",
+    "title": "The Grammar of Creation: Did God Speak the Laws of Physics?",
+    "prev": "docs/volume-5-references/introduction.md",
     "next": "docs/volume-5-references/key-to-acronyms-and-abbreviations.md"
   },
   "docs/volume-5-references/key-to-acronyms-and-abbreviations.md": {
@@ -1931,7 +1944,7 @@ window.PATH_TO_INFO = {
     "volumeFile": "Volume 5.html",
     "folder": "volume-5-references",
     "title": "Key to Acronyms & Abbreviations",
-    "prev": "docs/volume-5-references/introduction.md",
+    "prev": "docs/volume-5-references/the-grammar-of-creation.md",
     "next": "docs/volume-5-references/part-i-scholarly-and-academic-sources.md"
   },
   "docs/volume-5-references/part-i-scholarly-and-academic-sources.md": {
