@@ -483,6 +483,10 @@ window.VOLUME_CHAPTERS = {
         "title": "Seventh Exploration: Systems Dynamics as the Modeling Language"
       },
       {
+        "path": "docs/volume-3-quantitative-framework/the-complete-causal-loop-set.md",
+        "title": "The Complete Causal-Loop Set: How the Laws Move Together"
+      },
+      {
         "path": "docs/volume-3-quantitative-framework/exploration-08-miracles.md",
         "title": "Eighth Exploration: Miracles — Resonance Points in the Spiritual System"
       },
@@ -1778,6 +1782,15 @@ window.PATH_TO_INFO = {
     "folder": "volume-3-quantitative-framework",
     "title": "Seventh Exploration: Systems Dynamics as the Modeling Language",
     "prev": "docs/volume-3-quantitative-framework/exploration-06-conservation-laws.md",
+    "next": "docs/volume-3-quantitative-framework/the-complete-causal-loop-set.md"
+  },
+  "docs/volume-3-quantitative-framework/the-complete-causal-loop-set.md": {
+    "volume": 3,
+    "volumeName": "Volume 3: Spiritual Dynamics",
+    "volumeFile": "Volume 3.html",
+    "folder": "volume-3-quantitative-framework",
+    "title": "The Complete Causal-Loop Set: How the Laws Move Together",
+    "prev": "docs/volume-3-quantitative-framework/exploration-07-systems-dynamics-as-modeling-language.md",
     "next": "docs/volume-3-quantitative-framework/exploration-08-miracles.md"
   },
   "docs/volume-3-quantitative-framework/exploration-08-miracles.md": {
@@ -1786,7 +1799,7 @@ window.PATH_TO_INFO = {
     "volumeFile": "Volume 3.html",
     "folder": "volume-3-quantitative-framework",
     "title": "Eighth Exploration: Miracles — Resonance Points in the Spiritual System",
-    "prev": "docs/volume-3-quantitative-framework/exploration-07-systems-dynamics-as-modeling-language.md",
+    "prev": "docs/volume-3-quantitative-framework/the-complete-causal-loop-set.md",
     "next": "docs/volume-3-quantitative-framework/exploration-09-glory-attractor-and-sanctification-trajectory.md"
   },
   "docs/volume-3-quantitative-framework/exploration-09-glory-attractor-and-sanctification-trajectory.md": {

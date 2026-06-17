@@ -1,0 +1,79 @@
+<svg viewBox="0 0 960 660" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="t d">
+<title id="t">Map of the complete causal-loop set</title>
+<desc id="d">God's free self-giving (G) feeds the system from outside as an exogenous input. The Faith-Obedience engine sits at the center, coupled to four loop-families — vertical (person and God), interior (clearing), horizontal (community), and generational. The heart's throne is the master switch beneath them all. The whole nested system trends rightward toward the Glory attractor, with suffering as the swing-input.</desc>
+<defs>
+<marker id="ag" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#C9851F"/></marker>
+<marker id="as" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#6E7C8E"/></marker>
+<marker id="asd" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#6E7C8E"/></marker>
+</defs>
+<rect x="3" y="3" width="954" height="654" rx="14" fill="#FBFAF7" stroke="#E7E2D9" stroke-width="1.5"/>
+<text x="480" y="32" text-anchor="middle" fill="#2B2E34" font-family="Georgia, serif" font-size="20" font-weight="600">The Complete Set — a Map of Maps</text>
+
+<!-- G exogenous -->
+<rect x="300" y="50" width="360" height="44" rx="9" fill="#FFFFFF" stroke="#6E7C8E" stroke-width="1.4"/>
+<text x="480" y="77" text-anchor="middle" fill="#2B2E34" font-family="Georgia, serif" font-size="12.5" font-weight="600">G — God's free self-giving · exogenous (the Hand)</text>
+<g fill="none" stroke="#6E7C8E" stroke-width="1.6" stroke-dasharray="4 4">
+  <path d="M 440,94 C 430,180 420,250 412,294" marker-end="url(#as)"/>
+  <path d="M 372,94 C 320,130 250,165 222,196" marker-end="url(#as)"/>
+  <path d="M 560,94 C 600,125 630,155 632,188" marker-end="url(#as)"/>
+</g>
+
+<!-- engine hub -->
+<rect x="322" y="298" width="176" height="64" rx="12" fill="#FFFFFF" stroke="#C9851F" stroke-width="2"/>
+<text x="410" y="324" text-anchor="middle" fill="#C9851F" font-family="Georgia, serif" font-size="14" font-weight="700">The Engine (R)</text>
+<text x="410" y="344" text-anchor="middle" fill="#2B2E34" font-family="Georgia, serif" font-size="11.5">Faith ⇄ Obedience</text>
+
+<!-- coupling arrows (double-headed) -->
+<g fill="none" stroke="#6E7C8E" stroke-width="1.6">
+  <line x1="345" y1="302" x2="285" y2="271" marker-start="url(#asd)" marker-end="url(#asd)"/>
+  <line x1="488" y1="304" x2="548" y2="260" marker-start="url(#asd)" marker-end="url(#asd)"/>
+  <line x1="345" y1="358" x2="287" y2="405" marker-start="url(#asd)" marker-end="url(#asd)"/>
+  <line x1="488" y1="356" x2="548" y2="409" marker-start="url(#asd)" marker-end="url(#asd)"/>
+</g>
+
+<!-- families -->
+<g font-family="Georgia, serif">
+  <rect x="85" y="199" width="210" height="72" rx="9" fill="#FFFFFF" stroke="#6E7C8E" stroke-width="1.4"/>
+  <text x="190" y="220" text-anchor="middle" fill="#2B2E34" font-size="11.5" font-weight="600">Vertical loops (person ↔ God)</text>
+  <text x="190" y="237" text-anchor="middle" fill="#6B7280" font-size="9.5">Drawing-Near · Trust · Worship</text>
+  <text x="190" y="252" text-anchor="middle" fill="#6B7280" font-size="9.5">Desire · Prayer · Humility · Abiding</text>
+
+  <rect x="525" y="192" width="200" height="66" rx="9" fill="#FFFFFF" stroke="#6E7C8E" stroke-width="1.4"/>
+  <text x="625" y="213" text-anchor="middle" fill="#2B2E34" font-size="11.5" font-weight="600">Interior loops (clearing)</text>
+  <text x="625" y="230" text-anchor="middle" fill="#6B7280" font-size="9.5">Knot-Bandwidth · Confession</text>
+  <text x="625" y="245" text-anchor="middle" fill="#6B7280" font-size="9.5">Renewal of Mind</text>
+
+  <rect x="85" y="405" width="210" height="80" rx="9" fill="#FFFFFF" stroke="#6E7C8E" stroke-width="1.4"/>
+  <text x="190" y="426" text-anchor="middle" fill="#2B2E34" font-size="11.5" font-weight="600">Horizontal loops (community)</text>
+  <text x="190" y="443" text-anchor="middle" fill="#6B7280" font-size="9.5">Amplification · Forgiveness</text>
+  <text x="190" y="457" text-anchor="middle" fill="#6B7280" font-size="9.5">Bitter-Root · Generosity</text>
+  <text x="190" y="471" text-anchor="middle" fill="#6B7280" font-size="9.5">Truth-Telling · Soul-Care</text>
+
+  <rect x="525" y="409" width="200" height="72" rx="9" fill="#FFFFFF" stroke="#6E7C8E" stroke-width="1.4"/>
+  <text x="625" y="430" text-anchor="middle" fill="#2B2E34" font-size="11.5" font-weight="600">Generational loops</text>
+  <text x="625" y="447" text-anchor="middle" fill="#6B7280" font-size="9.5">Household ⇄ Cascade</text>
+  <text x="625" y="462" text-anchor="middle" fill="#6B7280" font-size="9.5">Calcification · Transmission</text>
+</g>
+
+<!-- macro trajectory to Glory -->
+<line x1="500" y1="330" x2="812" y2="330" stroke="#C9851F" stroke-width="2.6" marker-end="url(#ag)"/>
+<text x="656" y="320" text-anchor="middle" fill="#C9851F" font-family="Georgia, serif" font-size="11">the macro-trajectory</text>
+<text x="656" y="350" text-anchor="middle" fill="#6B7280" font-family="Georgia, serif" font-size="10">suffering = swing-input (FL.XXII)</text>
+<circle cx="858" cy="330" r="33" fill="#C9851F" fill-opacity="0.13"/>
+<circle cx="858" cy="330" r="17" fill="#C9851F" fill-opacity="0.18"/>
+<circle cx="858" cy="330" r="7" fill="#C9851F"/>
+<text x="858" y="385" text-anchor="middle" fill="#2B2E34" font-family="Georgia, serif" font-size="11.5" font-weight="600">Glory attractor</text>
+<text x="858" y="400" text-anchor="middle" fill="#6B7280" font-family="Georgia, serif" font-size="10">FL.XXXVI</text>
+
+<!-- throne switch -->
+<rect x="175" y="600" width="470" height="42" rx="9" fill="#FFFFFF" stroke="#6E7C8E" stroke-width="1.4"/>
+<text x="410" y="626" text-anchor="middle" fill="#2B2E34" font-family="Georgia, serif" font-size="12" font-weight="600">Heart's throne (FL.III) — master switch: sets every loop's sign</text>
+<path d="M 410,600 C 410,500 410,420 410,366" fill="none" stroke="#6E7C8E" stroke-width="1.8" marker-end="url(#as)"/>
+
+<!-- legend -->
+<g font-family="Georgia, serif" font-size="9.5" fill="#6B7280">
+  <text x="752" y="612">⇄ couples to engine</text>
+  <text x="752" y="626">R reinforcing · B balancing</text>
+  <text x="752" y="640">dashed = exogenous (G) · ‖ delay</text>
+</g>
+</svg>
