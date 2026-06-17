@@ -491,6 +491,10 @@ window.VOLUME_CHAPTERS = {
         "title": "Open Trails: What Vol 3 Cannot Yet Answer"
       },
       {
+        "path": "docs/volume-3-quantitative-framework/the-role-atlas-where-each-law-lives.md",
+        "title": "The Role Atlas: Where Each Law Lives in the Field"
+      },
+      {
         "path": "docs/volume-3-quantitative-framework/epilogue-the-invitation-forward.md",
         "title": "Epilogue: The Invitation Forward"
       },
@@ -1792,6 +1796,15 @@ window.PATH_TO_INFO = {
     "folder": "volume-3-quantitative-framework",
     "title": "Open Trails: What Vol 3 Cannot Yet Answer",
     "prev": "docs/volume-3-quantitative-framework/exploration-09-glory-attractor-and-sanctification-trajectory.md",
+    "next": "docs/volume-3-quantitative-framework/the-role-atlas-where-each-law-lives.md"
+  },
+  "docs/volume-3-quantitative-framework/the-role-atlas-where-each-law-lives.md": {
+    "volume": 3,
+    "volumeName": "Volume 3: Spiritual Dynamics",
+    "volumeFile": "Volume 3.html",
+    "folder": "volume-3-quantitative-framework",
+    "title": "The Role Atlas: Where Each Law Lives in the Field",
+    "prev": "docs/volume-3-quantitative-framework/open-trails-what-vol-3-cannot-yet.md",
     "next": "docs/volume-3-quantitative-framework/epilogue-the-invitation-forward.md"
   },
   "docs/volume-3-quantitative-framework/epilogue-the-invitation-forward.md": {
@@ -1800,7 +1813,7 @@ window.PATH_TO_INFO = {
     "volumeFile": "Volume 3.html",
     "folder": "volume-3-quantitative-framework",
     "title": "Epilogue: The Invitation Forward",
-    "prev": "docs/volume-3-quantitative-framework/open-trails-what-vol-3-cannot-yet.md",
+    "prev": "docs/volume-3-quantitative-framework/the-role-atlas-where-each-law-lives.md",
     "next": "docs/volume-3-quantitative-framework/appendix-tft-challenged.md"
   },
   "docs/volume-3-quantitative-framework/appendix-tft-challenged.md": {
