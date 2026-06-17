@@ -40,4 +40,6 @@ It also includes the Formation Documents referenced throughout the first four vo
 
 The annotation format follows the structure used in my academic work: an Author section identifying who the person is or was; a Summary section describing the relevant work, idea, or contribution; and an Application section explaining specifically how this person’s work connects to the LotS project, with volume and exploration references where applicable. The goal is not an exhaustive academic literature review but a working reference document — one that a future researcher, a family member continuing this exploration, could use to locate and evaluate the sources that shaped this project.
 
+This volume also carries one piece that is not a reference at all: a short, speculative framing essay, [The Grammar of Creation: Did God Speak the Laws of Physics?](the-grammar-of-creation.md), which asks whether the lawful order we read off the universe is itself something God *spoke*. It is offered for reflection, at the speculative edge of the project.
+
 Ministry tools with institutional rather than single-author origins are gathered in Part III.
