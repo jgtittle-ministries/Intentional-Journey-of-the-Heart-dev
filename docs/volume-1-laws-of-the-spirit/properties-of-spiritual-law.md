@@ -24,6 +24,17 @@ A physical law is an impersonal regularity. Gravity does not love you; it does n
 
 Those five are enough to earn the word law. This is not loose metaphor; it is a real, describable regularity. (That is the honest answer to anyone who asks whether these are “really” laws.)
 
+## How a passage becomes a law (and how it doesn’t)
+
+There is a prior question hiding under all of this, and it deserves a straight answer: by what right do I move from a verse to a *law* — from “Scripture says this happened, or commands this here” to “this is a settled regularity that holds across times and lives”? That move can be done badly. Pull a single detail out of one story, or one stray sentence, and announce it as a universal law, and you have not found a law of the Spirit; you have proof-texted. So the work runs by a rule, and it is worth stating plainly. A pattern earns the word *law* only when several things line up:
+
+- **Convergence across many witnesses.** The pattern is taught or enacted across multiple biblical authors and, for the highest tier, across both Testaments — not resting on a single verse or a single episode. One instance is an example; a pattern many Spirit-carried writers return to, independently, is something closer to a law.
+- **It is asserted, not merely narrated.** Scripture *recording* that something happened once is not the same as Scripture *teaching* that it characteristically happens. The laws are drawn from the teaching, promise, and command forms — “whoever does X will find Y” — not from lifting a descriptive detail out of a narrative and making it normative.
+- **Consistency with the whole counsel of Scripture and the character of God.** A candidate pattern has to sit comfortably inside the rest of what God has revealed about Himself. A “pattern” that would require Him to act against His revealed character is disqualified, however many proof-texts seem to line up behind it.
+- **Confirmed in the agreement of the great traditions and in lives observed over time** — the same convergent, lifetime-scale testing the *testable* property above describes.
+
+This is exactly why the catalog does not treat every claim as equally settled. The patterns drawn from the widest, most convergent witness are held at the Clearly Taught tier and make up the thirty-eight of wide consent; the ones resting on thinner or more recent ground are marked as newer and still being tested, or carried lower at Reasonably Inferred or Speculative. The confidence tier on each law *is* the honest record of how fully the move from passage to law has been earned in that case. (For the related but different distinction between laws that describe what the spiritual world *is* and laws that describe how it *moves*, see the Introduction’s [A Note on Two Kinds of Laws](../introduction/note-on-two-kinds-of-laws.md).)
+
 ## The ways they are not like physical laws (and where each one points)
 
 Here is the striking part. Every place a spiritual law breaks from a physical one, the break points back to the personal God behind it.
