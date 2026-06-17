@@ -60,6 +60,8 @@ Here the notion stops being a curiosity about physics and becomes part of *this*
 
 If God spoke the physical laws that govern atoms, and also spoke the spiritual laws that govern hearts, then the catalog in these volumes and the equations in a physics textbook are *the same kind of thing* — two sets of standing words from one speaking God. Physical law is the grammar of matter; spiritual law is the grammar of the heart; both are intelligible for the same reason: a rational God said them, and they stood firm. The Foundational Laws of this work would then be not a metaphor borrowed from physics but a *sibling* of it — the other half of a single spoken order. Where each of those spiritual laws then sits within that order is the question this volume closes on — see [The Role Atlas](the-role-atlas-where-each-law-lives.md).
 
+This is no lonely hunch. The late **John Polkinghorne** — a Cambridge mathematical physicist who resigned his chair to be ordained an Anglican priest — spent his later life arguing its mainstream form: that the world's deep rational order, the very thing that lets physics work at all, is intelligible *because* a rational God is its source. He held it, as this essay tries to, inside a personal and Trinitarian faith rather than letting it dissolve into bare mathematics. He is just the kind of "scripturally grounded mathematical physicist" the [Research Register](../volume-6-governance/research-register.md) says this trail still needs.
+
 ## Where The Idea Must Be Handled With Care
 
 Three honest cautions, or the notion curdles into something it should not become.
@@ -90,7 +92,7 @@ The honest discipline of this work is to grade even a beloved idea against the f
 |---|---|---|---|
 | **(1) Aligns with Scripture** | Strained — asserts more than (arguably against) what the text presents; the category error and the Gen-1-light problem | Yes — a consistent interpretive overlay; contradicts nothing | **Yes** — mainstream doctrine of creation |
 | **(2) Spirit's witness, through & confirming Scripture** (Jn 16:13–15; 1 Cor 2:10–14) | No clear witness — Scripture does not establish utterance = equation | Indirect / neutral — a human synthesis the Spirit neither confirms nor denies | **Yes** — the historic confession of the church |
-| **(3) Recognized by a community of practitioners** | No — idiosyncratic (the *general* order-idea is recognized; the literal recitation is not) | Partial — the broad instinct (Augustine, Kepler, Galileo, physicist-theologians) is widely held, but not *as a law* | **Yes** — catholic doctrine + the physicist-theologian stream |
+| **(3) Recognized by a community of practitioners** | No — idiosyncratic (the *general* order-idea is recognized; the literal recitation is not) | Partial — the broad instinct (Augustine, Kepler, Galileo, physicist-theologians like John Polkinghorne) is widely held, but not *as a law* | **Yes** — catholic doctrine + the physicist-theologian stream |
 | **(4) Testable in the natural** (notice it at work; never put God to the test) | No — not operated in accord with; pressing it for proof drifts toward testing God | Weak — reinterprets existing facts; makes no prediction one could live by | Partial — the cosmos's lawful intelligibility *is* an observable confirming sign |
 | **Resulting tier** | **Speculative — hold loosely, do not build on** | **Speculative — the best-guarded form** | **Clearly Taught (core) → Reasonably Inferred (the intelligibility corollary)** |
 
