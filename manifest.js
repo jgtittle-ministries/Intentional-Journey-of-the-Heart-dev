@@ -10,6 +10,10 @@ window.VOLUME_CHAPTERS = {
         "title": "Introduction"
       },
       {
+        "path": "docs/introduction/if-you-come-weary-read-this-first.md",
+        "title": "If You Come Weary, Read This First"
+      },
+      {
         "path": "docs/introduction/founders-genesis-how-this-work-came-together.md",
         "title": "Founders’ Genesis: How This Work Came Together"
       },
@@ -765,6 +769,15 @@ window.PATH_TO_INFO = {
     "volumeFile": "Introduction.html",
     "folder": "introduction",
     "title": "Introduction",
+    "next": "docs/introduction/if-you-come-weary-read-this-first.md"
+  },
+  "docs/introduction/if-you-come-weary-read-this-first.md": {
+    "volume": 0,
+    "volumeName": "Introduction",
+    "volumeFile": "Introduction.html",
+    "folder": "introduction",
+    "title": "If You Come Weary, Read This First",
+    "prev": "docs/introduction/index.md",
     "next": "docs/introduction/founders-genesis-how-this-work-came-together.md"
   },
   "docs/introduction/founders-genesis-how-this-work-came-together.md": {
@@ -773,7 +786,7 @@ window.PATH_TO_INFO = {
     "volumeFile": "Introduction.html",
     "folder": "introduction",
     "title": "Founders’ Genesis: How This Work Came Together",
-    "prev": "docs/introduction/index.md",
+    "prev": "docs/introduction/if-you-come-weary-read-this-first.md",
     "next": "docs/introduction/introduction-what-i-am-trying-to-do.md"
   },
   "docs/introduction/introduction-what-i-am-trying-to-do.md": {

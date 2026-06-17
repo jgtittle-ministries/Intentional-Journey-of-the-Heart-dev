@@ -93,7 +93,10 @@ The fourth layer is the practical answer to a question the volumes do not by the
 
 ## Where to start: a reading plan
 
-Reading the project end-to-end is not necessary, and depending on what you came for, may not even be wise. Here are five reading plans, depending on what you most want from the project.
+Reading the project end-to-end is not necessary, and depending on what you came for, may not even be wise. Here are six reading plans, depending on what you most want from the project.
+
+## If you come weary, or are walking through a dry season
+Before any other plan, this one. If you have come tired — dry, in a hard season, not sure whether God is near — read [If You Come Weary, Read This First](introduction/if-you-come-weary-read-this-first.md) before anything else, and let the rest of the project keep until you are ready for it. It is the shortest thing in the work, and some days it is the only part that matters. Nothing in these volumes was ever meant to measure how loved you are.
 
 ## If you want to know what the project is about
 Read this introduction. Then read the introduction to Volume 1 (the first thirty pages) for the laws themselves and the introduction to Volume 2 (the first twenty pages) for the heart-work side. That is enough to know what you are looking at and to decide whether you want to go further.
