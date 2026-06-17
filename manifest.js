@@ -447,6 +447,10 @@ window.VOLUME_CHAPTERS = {
         "title": "A Note Before We Begin: What This Volume Is and Is Not"
       },
       {
+        "path": "docs/volume-3-quantitative-framework/the-grammar-of-creation.md",
+        "title": "The Grammar of Creation: Did God Speak the Laws of Physics?"
+      },
+      {
         "path": "docs/volume-3-quantitative-framework/taxonomy-key-how-this-volume-classifies-its.md",
         "title": "Taxonomy Key: How This Volume Classifies Its Explorations"
       },
@@ -567,10 +571,6 @@ window.VOLUME_CHAPTERS = {
       {
         "path": "docs/volume-5-references/introduction.md",
         "title": "Introduction"
-      },
-      {
-        "path": "docs/volume-5-references/the-grammar-of-creation.md",
-        "title": "The Grammar of Creation: Did God Speak the Laws of Physics?"
       },
       {
         "path": "docs/volume-5-references/key-to-acronyms-and-abbreviations.md",
@@ -1697,6 +1697,15 @@ window.PATH_TO_INFO = {
     "folder": "volume-3-quantitative-framework",
     "title": "A Note Before We Begin: What This Volume Is and Is Not",
     "prev": "docs/volume-3-quantitative-framework/index.md",
+    "next": "docs/volume-3-quantitative-framework/the-grammar-of-creation.md"
+  },
+  "docs/volume-3-quantitative-framework/the-grammar-of-creation.md": {
+    "volume": 3,
+    "volumeName": "Volume 3: Spiritual Dynamics",
+    "volumeFile": "Volume 3.html",
+    "folder": "volume-3-quantitative-framework",
+    "title": "The Grammar of Creation: Did God Speak the Laws of Physics?",
+    "prev": "docs/volume-3-quantitative-framework/note-before-we-begin.md",
     "next": "docs/volume-3-quantitative-framework/taxonomy-key-how-this-volume-classifies-its.md"
   },
   "docs/volume-3-quantitative-framework/taxonomy-key-how-this-volume-classifies-its.md": {
@@ -1705,7 +1714,7 @@ window.PATH_TO_INFO = {
     "volumeFile": "Volume 3.html",
     "folder": "volume-3-quantitative-framework",
     "title": "Taxonomy Key: How This Volume Classifies Its Explorations",
-    "prev": "docs/volume-3-quantitative-framework/note-before-we-begin.md",
+    "prev": "docs/volume-3-quantitative-framework/the-grammar-of-creation.md",
     "next": "docs/volume-3-quantitative-framework/exploration-01-case-for-quantification.md"
   },
   "docs/volume-3-quantitative-framework/exploration-01-case-for-quantification.md": {
@@ -1940,15 +1949,6 @@ window.PATH_TO_INFO = {
     "folder": "volume-5-references",
     "title": "Introduction",
     "prev": "docs/volume-5-references/index.md",
-    "next": "docs/volume-5-references/the-grammar-of-creation.md"
-  },
-  "docs/volume-5-references/the-grammar-of-creation.md": {
-    "volume": 5,
-    "volumeName": "Volume 5: References",
-    "volumeFile": "Volume 5.html",
-    "folder": "volume-5-references",
-    "title": "The Grammar of Creation: Did God Speak the Laws of Physics?",
-    "prev": "docs/volume-5-references/introduction.md",
     "next": "docs/volume-5-references/key-to-acronyms-and-abbreviations.md"
   },
   "docs/volume-5-references/key-to-acronyms-and-abbreviations.md": {
@@ -1957,7 +1957,7 @@ window.PATH_TO_INFO = {
     "volumeFile": "Volume 5.html",
     "folder": "volume-5-references",
     "title": "Key to Acronyms & Abbreviations",
-    "prev": "docs/volume-5-references/the-grammar-of-creation.md",
+    "prev": "docs/volume-5-references/introduction.md",
     "next": "docs/volume-5-references/part-i-scholarly-and-academic-sources.md"
   },
   "docs/volume-5-references/part-i-scholarly-and-academic-sources.md": {
