@@ -22,6 +22,8 @@ Put it beside the force and you get the first clean relationship — a spiritual
 
 This is the most pastorally important sentence in the chapter, so it has to be said carefully. The *same* outpouring — the same sermon, the same prayer, the same hour in the Word — moves the soft heart visibly and barely stirs the entrenched one. The difference is **inertia, not the strength of the force, and never the worth of the person.** A reading of mₛ is never a verdict on a soul; it is a description of how much the ground has set.
 
+And mₛ is not only something done *to* a soul — raised by hardening, dropped in a moment by the gift of faith. It is also lowered the slow way, by the ordinary apprenticeship: the disciplines, the small repeated obediences, the steady keeping-company with God by which a person cooperates with grace until the ground softens over years. That gradual softening is most of the Christian life, and it is the believer's real part in this relation — not to generate the force, but to become, little by little, less resistant to it.
+
 And here is the part that keeps inertia from being merely a problem: **it is dual-valenced.** The very thing that resists a soul *leaving* its local minimum is the thing that, once the soul is established on the Glory trajectory, resists its being *knocked off*. High inertia in the rut is the hardened heart; high inertia on the road is steadfastness — the [endurance](foundational-law-xxii-the-endurance-hope-law.md) of the saint who cannot be deflected, the Stage-5 character that no longer wobbles. Same quantity, opposite blessing, depending on which side of the barrier you are standing. This is exactly the "easy down, hard up" asymmetry the [Properties of Spiritual Law](../volume-1-laws-of-the-spirit/properties-of-spiritual-law.md) names, read as a property of mass.
 
 ## Time — the clock that runs on encounter
@@ -69,6 +71,8 @@ With energy, inertia, and time in hand, a revival stops being a mystery and beco
 5. The moving body **lowers the barrier for those still in the well** — the [Community-as-Amplifier](../volume-2-knowing-to-doing/exploration-09-community-as-amplifier.md) law and prayer's [resonance](exploration-08-miracles.md) seen as energy — so the thing propagates as a *cascade* rather than a sum of individuals. But here the borrowed image must be reined hard: unlike a phase transition in matter, where the parts *must* follow the bulk once the critical point is passed, no soul is ever compelled — each yes is still freely given, and a body can be warmed all around a person who is not yet ready. It is the contagion of grace, not the overriding of a will.
 6. **High-inertia souls move last, or least** — observed in every awakening, and never a verdict; only mₛ.
 7. **Afterward**, those who reached Stage 4–5 have acquired *good* inertia — steadfastness — that holds them on the trajectory when the outpouring recedes. Which is why **the fruit of a revival is measured not by its peak but by who is still moving a year later.**
+
+And our part in all of this is not to run the sequence — not one of its steps is ours to trigger — but to be the kind of soul, and the kind of body, an outpouring can move: to abide, to attend, to keep the channel clear and the ground soft, and so to be found ready when God pours out. In a revival the believer's work is *readiness*, not ignition.
 
 ## Friction — why the tide goes out
 
