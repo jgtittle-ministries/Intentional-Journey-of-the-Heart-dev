@@ -499,6 +499,10 @@ window.VOLUME_CHAPTERS = {
         "title": "Ninth Exploration: The Glory Attractor and the Sanctification Trajectory"
       },
       {
+        "path": "docs/volume-3-quantitative-framework/the-engine-beneath-the-force-energy-time-inertia.md",
+        "title": "The Engine Beneath the Force: Spiritual Energy, Time, and Inertia"
+      },
+      {
         "path": "docs/volume-3-quantitative-framework/open-trails-what-vol-3-cannot-yet.md",
         "title": "Open Trails: What Vol 3 Cannot Yet Answer"
       },
@@ -1822,6 +1826,15 @@ window.PATH_TO_INFO = {
     "folder": "volume-3-quantitative-framework",
     "title": "Ninth Exploration: The Glory Attractor and the Sanctification Trajectory",
     "prev": "docs/volume-3-quantitative-framework/exploration-08-miracles.md",
+    "next": "docs/volume-3-quantitative-framework/the-engine-beneath-the-force-energy-time-inertia.md"
+  },
+  "docs/volume-3-quantitative-framework/the-engine-beneath-the-force-energy-time-inertia.md": {
+    "volume": 3,
+    "volumeName": "Volume 3: Spiritual Dynamics",
+    "volumeFile": "Volume 3.html",
+    "folder": "volume-3-quantitative-framework",
+    "title": "The Engine Beneath the Force: Spiritual Energy, Time, and Inertia",
+    "prev": "docs/volume-3-quantitative-framework/exploration-09-glory-attractor-and-sanctification-trajectory.md",
     "next": "docs/volume-3-quantitative-framework/open-trails-what-vol-3-cannot-yet.md"
   },
   "docs/volume-3-quantitative-framework/open-trails-what-vol-3-cannot-yet.md": {
@@ -1830,7 +1843,7 @@ window.PATH_TO_INFO = {
     "volumeFile": "Volume 3.html",
     "folder": "volume-3-quantitative-framework",
     "title": "Open Trails: What Vol 3 Cannot Yet Answer",
-    "prev": "docs/volume-3-quantitative-framework/exploration-09-glory-attractor-and-sanctification-trajectory.md",
+    "prev": "docs/volume-3-quantitative-framework/the-engine-beneath-the-force-energy-time-inertia.md",
     "next": "docs/volume-3-quantitative-framework/the-role-atlas-where-each-law-lives.md"
   },
   "docs/volume-3-quantitative-framework/the-role-atlas-where-each-law-lives.md": {

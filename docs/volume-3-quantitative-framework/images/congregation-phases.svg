@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 408" role="img" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">
+<title>A congregation's phases</title>
+<desc>A body's collective state mapped by temperature (cold to hot) and coupling (loose to knit): frozen (cold and knit) is dead orthodoxy; lukewarm (cold and loose) is Laodicea; gas (hot and loose) scatters; revival (hot and knit) breaks and re-forms. The healthy center is liquid — warm and knit — which all four phases must move toward.</desc>
+<defs><marker id="ahc2" markerWidth="9" markerHeight="9" refX="6" refY="3" orient="auto"><path d="M0 0 L6 3 L0 6 z" fill="#5b6573"/></marker></defs>
+<rect x="1.5" y="1.5" width="677" height="405" rx="14" fill="#faf9f5" stroke="#e6e1d6" stroke-width="1.5"/>
+<text x="340" y="28" text-anchor="middle" font-size="15" font-weight="600" fill="#233044">A congregation's phases</text>
+<text x="340" y="48" text-anchor="middle" font-size="12.5" fill="#5b6573">what state is the body in — and which way must it move?</text>
+<rect x="150" y="95" width="185" height="98" rx="10" fill="#f4f2ec" stroke="#ddd8cc" stroke-width="1.5"/>
+<text x="242" y="133" text-anchor="middle" font-size="14" font-weight="600" fill="#233044">Frozen</text><text x="242" y="154" text-anchor="middle" font-size="12" fill="#5b6573">dead orthodoxy — add heat</text>
+<rect x="375" y="95" width="185" height="98" rx="10" fill="#f4f2ec" stroke="#ddd8cc" stroke-width="1.5"/>
+<text x="467" y="133" text-anchor="middle" font-size="14" font-weight="600" fill="#233044">Revival</text><text x="467" y="154" text-anchor="middle" font-size="12" fill="#5b6573">intense — must re-form</text>
+<rect x="150" y="241" width="185" height="98" rx="10" fill="#f4f2ec" stroke="#ddd8cc" stroke-width="1.5"/>
+<text x="242" y="279" text-anchor="middle" font-size="14" font-weight="600" fill="#233044">Lukewarm</text><text x="242" y="300" text-anchor="middle" font-size="12" fill="#5b6573">Laodicea — heat + bond</text>
+<rect x="375" y="241" width="185" height="98" rx="10" fill="#f4f2ec" stroke="#ddd8cc" stroke-width="1.5"/>
+<text x="467" y="279" text-anchor="middle" font-size="14" font-weight="600" fill="#233044">Gas</text><text x="467" y="300" text-anchor="middle" font-size="12" fill="#5b6573">zeal scatters — gather it</text>
+<path d="M335 186 L347 209" stroke="#5b6573" stroke-width="1.8" marker-end="url(#ahc2)"/>
+<path d="M375 186 L363 209" stroke="#5b6573" stroke-width="1.8" marker-end="url(#ahc2)"/>
+<path d="M335 248 L347 225" stroke="#5b6573" stroke-width="1.8" marker-end="url(#ahc2)"/>
+<path d="M375 248 L363 225" stroke="#5b6573" stroke-width="1.8" marker-end="url(#ahc2)"/>
+<circle cx="355" cy="216" r="12" fill="#0e8a7d"/>
+<text x="355" y="233" text-anchor="middle" font-size="12" fill="#5b6573">Liquid</text>
+<text transform="rotate(-90 104 217)" x="104" y="217" text-anchor="middle" font-size="12" fill="#8a8678">looser ← coupling (κ) → tighter</text>
+<text x="355" y="360" text-anchor="middle" font-size="12" fill="#8a8678">cooler ← temperature (Tₛ) → hotter</text>
+<circle cx="168" cy="380" r="6" fill="#0e8a7d"/>
+<text x="182" y="384" text-anchor="start" font-size="12" fill="#5b6573">Liquid = warm + knit — the healthy body all four phases move toward</text>
+</svg>
