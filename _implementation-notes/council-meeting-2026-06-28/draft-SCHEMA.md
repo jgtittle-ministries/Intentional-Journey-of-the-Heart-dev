@@ -6,6 +6,10 @@
 
 # SCHEMA.md — The IJH Claim-Registry Schema
 
+*In plain English, before the tables.* A "schema" is simply the agreed **form** every claim in the project is written in — like a library catalog card, where every book gets the same labeled lines (author, title, subject, call number) so anyone can find, compare, and cross-reference them. This document is that catalog-card design for the project's claims. Each claim — an axiom, a Foundational Law, a testable hypothesis — is kept with the same labeled fields: what it says, how confident we are, which Scriptures ground it, what other claims it depends on, and what would have to be true for us to change our minds. Writing every claim to one shared form is what lets the project do things plain prose cannot: hold an honest disagreement without erasing the losing side, see at a glance what a single change would ripple into, and make sure nothing is ever quietly overwritten. The tables below are just the field-by-field details of that one shared form. **You do not need to be technical to vote on this** — you are approving the *form* the project's beliefs are kept in, and the rule that the form itself can be changed only by a two-thirds vote.
+
+---
+
 This document defines the schema for the *Intentional Journey of the Heart* claim registry — the four YAML files (`vol1-claims.yml` through `vol4-claims.yml`) that are the project's authoritative, machine-readable record of what it claims and at what confidence. It is the reference both a human contributor and the CI validator check an entry against.
 
 **Governance status.** Per Part 1 §3, the schema definition *itself* is governed under the same **two-thirds supermajority** rule as the constitution. Changing this document — adding a field, adding a claim `type`, changing an enumeration — is a governance-amendment-level act, not an editorial one. **CI validation should reject any claim entry that does not conform to the current schema**, so that schema drift cannot accumulate silently as contributors add entries in idiosyncratic formats.
