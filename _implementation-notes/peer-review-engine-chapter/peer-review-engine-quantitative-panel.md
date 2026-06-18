@@ -1,7 +1,7 @@
 # Peer Review — "The Engine Beneath the Force" (Vol 3 companion chapter)
 ## Panel: the quantitative nine (Theology 5 + Physics 4)
 
-*Working artifact, 2026-06-17. Charitable-strengthening simulated review of `docs/volume-3-quantitative-framework/the-engine-beneath-the-force-energy-time-inertia.md` (live: dev `7168398` / prod `d735ffe`). Panel run per the [Peer-Review Panel Registry] method. **Diagnostic only — no edits without the author's go.** Every finding was checked against the actual chapter text; none was refuted.*
+*Working artifact, 2026-06-17. Charitable-strengthening simulated review of `docs/volume-3-quantitative-framework/the-engine-beneath-the-force-energy-time-inertia.md` (live: dev `7168398` / prod `d735ffe`). Panel run per the [Peer-Review Panel Registry] method. **Originally diagnostic; now RESOLVED — the full punch-list below was adjudicated with the author, implemented dev-first, and mirrored to prod on 2026-06-17 (chapter now live at dev `62148ba` / prod `8d01617`). See the Resolution table at the end.** Every finding was checked against the actual chapter text; none was refuted.*
 
 **Reviewers.** *Theology:* Tim Keller, C. S. Lewis, Richard Foster, Wayne Grudem, Dallas Willard. *Physics:* Steven Weinberg, Gerard 't Hooft, Roger Penrose, Sean Carroll.
 
@@ -59,4 +59,19 @@ So every finding below targets *this chapter's new material*, and the leaks clus
 - "God reads the integral" — own it as a deliberate, named exception (a real quantity) rather than smuggling it (Carroll).
 
 ## Disposition
-Diagnostic. The headline is that the chapter's *own* guards are excellent and simply need to **reach one level up — from the individual soul to the congregation — and one level in — into the new quantities.** None of the fixes touch the structural analogies (the Role Atlas / CLD kind), which all nine affirm. Recommended order if implemented: **H1 → H2 → M1/M2 → M3 → M4/M5 → lows.** Adjudicate with the author (and, going forward, the Council); implement dev-first; mirror on the author's word.
+The headline was that the chapter's *own* guards are excellent and simply needed to **reach one level up — from the individual soul to the congregation — and one level in — into the new quantities.** None of the fixes touched the structural analogies (the Role Atlas / CLD kind), which all nine affirmed.
+
+## Resolution — implemented & mirrored (2026-06-17)
+All nine reviewers' findings were adjudicated with the author and implemented dev-first, one item at a time, then mirrored to prod. The chapter is live at **dev `62148ba` / prod `8d01617`**; the structural analogies were left untouched.
+
+| Finding | Status | Dev commit |
+|---|---|---|
+| **H1** — extend the guards from the soul to the congregation | ✓ Closed | `e2c1373` |
+| **H2** — repair the gift-of-faith section (1 Cor 12:7/11 charism frame; "suddenly possible"; barrier Eₐ only) | ✓ Closed | `74f760b` |
+| **M1** — tighten the boundary to ordinal-not-cardinal + police the symbols | ✓ Closed | `0dacdd5` |
+| **M2** — fix the temperature picture (ordered ardor; Spirit-as-reservoir; fruit-not-target) | ✓ Closed | `cbbb077` |
+| **M3** — name the believer's responsive part | ✓ Closed | `b00237b` |
+| **M4/M5** — *energeia* precision + commensurability caution | ✓ Closed | `85dd8dc` |
+| **LOWS** (×5) — sentence-level fixes | ✓ Closed | `62148ba` |
+
+Prod mirror commit: **`8d01617`**. This was the Peer-Review Panel Registry's first live run, end-to-end.
