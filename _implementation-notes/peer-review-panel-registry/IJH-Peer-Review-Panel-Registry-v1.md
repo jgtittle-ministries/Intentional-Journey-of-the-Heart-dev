@@ -10,6 +10,7 @@ A few honest qualifications, so the Council knows exactly what it is looking at:
 
 - These are **simulated personas**, reconstructed from each figure's writings — not the persons themselves, and several are no longer living. They are a *diagnostic instrument*, not endorsements by those authors.
 - The method is deliberately **charitable** — it strengthens, it does not demolish — and it is **diagnostic only**: nothing is ever changed in the manuscript on a panel's say-so. Findings are adjudicated by the author (and, going forward, by this Council).
+- **What the panels are *for*.** This work is, at heart, the author's **testimony** to his children and grandchildren — what he has discovered of how God works — not an apologetic for skeptics. The panels therefore exist to keep that testimony **true, pastorally safe, and clear** for the family it is written to. They are not here to win arguments or to armor the work against opponents.
 - A simulated panel **does not replace** this Council, nor real outside expert review, nor the testing program of Vol 4. It is a way to hear, early and cheaply, what a thoughtful reader from a given tradition would most likely press.
 
 **The Council is invited to extend this bench.** Section 6 names the lenses we have and the lenses we lack, and leaves room for each Steward to nominate the reviewers they would most want consulted on future material.
@@ -87,7 +88,7 @@ Twenty-four personas have been seated across the seven reviews. Several recur ac
 | **Practitioner / care-role** material (FC-like) | Benner·Smith·Haugk·Howe·Bilgere·P. Benner·Langberg·Powlison | tradition-fidelity + safeguarding + teachability |
 | A **cross-volume / quick conscience** pass | McGrath · Peterson · Polkinghorne | the tight three-voice panel |
 
-*Immediate application:* the new Vol 3 chapter **"The Engine Beneath the Force"** has not yet been panel-reviewed. Its natural empanelment is the **quantitative** panel (at minimum Peterson + Polkinghorne), which would, among other things, seat the physics guards in the chapter itself rather than relying on the Vol-1 migration the Vol 3 panel flagged.
+*First live run (done):* the new Vol 3 chapter **"The Engine Beneath the Force"** was reviewed by the **quantitative** panel — the registry's first end-to-end use. The nine-author panel produced nine findings; all were adjudicated, implemented dev-first one at a time, and mirrored to prod, and the review artifact is marked resolved (`_implementation-notes/peer-review-engine-chapter/`). The empanelment, method, verification, and mirror all worked as designed.
 
 ## 6. Invitation to the Council — extend the bench
 
@@ -105,7 +106,8 @@ The bench above is strong but uneven. Stewards are asked to **nominate additiona
 | **Majority-world / global-South voice** | The project aspires to be "the church catholic's framework," not a Western one | |
 | **Analytic philosopher of religion** | To stress the *arguments* (e.g., the descriptive→normative move) harder than a sympathetic panel does | |
 | **Old-Testament / biblical-theology & hermeneutics specialist** | The "by what warrant does a passage become a law?" question deserves a dedicated exegete | |
-| **An openly adversarial panel** (a cessationist; a skeptic of "spiritual laws"; a category-error philosopher) | Every panel so far has been broadly sympathetic; one hostile-to-the-premises panel would test the foundations, not the finish | |
+
+*One kind of panel has been deliberately **set aside** — not offered for the Council to fill: an openly adversarial / apologetic panel. This work is the author's **testimony** to his family, not a defense for skeptics; the panels keep it true, pastorally safe, and clear, and do not exist to stress the foundations against an opponent.*
 
 ## 7. How a review is run, in one line
 
