@@ -32,7 +32,7 @@ Spiritual movement does not run on the wall clock. Scripture says so plainly —
 
 > **τ = ∫ (engagement) dt** — the clock ticks when a soul actually hears, trusts, and obeys, not when the hour passes.
 
-The rate **dτ⁄dt** — how much spiritual time passes per ordinary hour — is itself a variable. On the dry path it is near zero; a year goes by and almost no τ has elapsed. In a revival, a crisis, or a "suddenly," it spikes — a weekend can hold years. This is also where the delay every one of these laws carries comes from: a harvest needs enough *τ*, and enough τ may take many ordinary years to accumulate (Elijah's [seven prayers](exploration-03-spiritual-force.md) are τ piling up to a threshold). Velocity toward God, then, is cleaner measured against this clock: **vₛ = dd⁄dτ**.
+The integral is honest shorthand, not a computation: by its own definition the rate **dτ⁄dt** simply *is* the engagement, so τ is just engagement-weighted time — its running total. That rate is itself a variable. On the dry path it is near zero; a year goes by and almost no τ has elapsed. In a revival, a crisis, or a "suddenly," it spikes — a weekend can hold years. This is also where the delay every one of these laws carries comes from: a harvest needs enough *τ*, and enough τ may take many ordinary years to accumulate (Elijah's [seven prayers](exploration-03-spiritual-force.md) are τ piling up to a threshold). Velocity toward God, then, is cleaner measured against this clock: **vₛ = dd⁄dτ**.
 
 ## Energy — what does the moving
 
@@ -48,7 +48,7 @@ And the word itself is no loan from physics. The *energy* in *ἐνεργῶν* 
 
 One more node closes the web. Power is the rate of doing work — and the [Third Exploration](exploration-03-spiritual-force.md) already said as much, that power is "the rate at which force produces work":
 
-> **Pₛ = Fₛ · vₛ = dEₛ⁄dτ** — the rate of formation. It is what spikes in a revival.
+> **Pₛ = Fₛ · vₛ = dEₛ⁄dτ** — the rate of formation (measured, fittingly, against *kairos*: formation per unit of *engaged* time, not per clock-hour). It is what spikes in a revival.
 
 ![A potential-energy landscape: souls rest in a shallow local minimum behind an activation barrier (the mustard-seed threshold); the Glory attractor is the deep well to the right. Revival is the Spirit (G) supplying energy that lifts the room over the barrier, after which potential becomes kinetic and the soul gains momentum toward God.](images/energy-landscape.svg)
 
@@ -58,11 +58,11 @@ Force is what drives; **work** is what a movement *costs*. In mechanics, work is
 
 Scripture measures exactly this, and measures it against where the person is standing — not by the size of the visible act. When the widow drops in two small coins, Jesus says she "put in more than all of them," for "they all contributed out of their abundance, but she out of her poverty has put in all she had to live on" (Luke 21:3–4). Her *quantity* was least; her *work* was greatest, because she crossed nearly the whole of her landscape. The rich young ruler met a single command that was, for him, an enormous climb out of a deep well, and "went away sorrowful" (Mark 10:22) — not a different gospel, a costlier work given where he stood. And in Gethsemane the Lord did the steepest work ever done — "not my will, but yours, be done" — and "being in agony he prayed more earnestly" (Luke 22:42–44).
 
-The pastoral weight of this is real: **two people performing the same outward act do very different amounts of spiritual work**, so an obedience that looks small but costs someone everything may be the widow's mite, weighed greatest in heaven. We compare displacements; God reads the integral. And even the work is, in the end, supplied — "I worked harder than any of them, though it was not I, but the grace of God that is with me" (1 Cor. 15:10). G furnishes the very energy the work consumes.
+The pastoral weight of this is real: **two people performing the same outward act do very different amounts of spiritual work**, so an obedience that looks small but costs someone everything may be the widow's mite, weighed greatest in heaven. We compare displacements; God reads the integral — and here, of all the pictures in this chapter, the figure points at something real: there is a true weight to a life's costliest obediences, and He alone reads it. Even so, the work is in the end supplied — "I worked harder than any of them, though it was not I, but the grace of God that is with me" (1 Cor. 15:10); G furnishes the very energy the work consumes. And His yoke is easy and His burden light (Matt. 11:30) — not because the climb is short, but because the One who made the steepest climb of all now pulls in the traces beside us.
 
 ## Revival — the anatomy of an outpouring
 
-With energy, inertia, and time in hand, a revival stops being a mystery and becomes a sequence — without ever stopping being a gift:
+With energy, inertia, and time in hand, a revival shows an anatomy without ceasing to be a mystery — a sequence we can sketch, though never one we could run at will:
 
 1. **G injects energy** — a sovereign outpouring, never summoned by technique.
 2. **dτ⁄dt spikes** — spiritual time accelerates; a weekend holds years.
