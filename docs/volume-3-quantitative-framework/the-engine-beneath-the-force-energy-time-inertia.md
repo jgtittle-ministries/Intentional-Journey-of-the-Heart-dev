@@ -78,7 +78,7 @@ It also names the cure, and the cure is not "more revival." A community **lowers
 
 ## The gift of faith — a barrier dropped
 
-The [Third Exploration](exploration-03-spiritual-force.md) left the differential "gift of faith" (1 Cor. 12:9) as an open question. In this picture it has a candidate shape: the gift of faith is a moment in which **God transiently and sovereignly drops mₛ — or the barrier Eₐ itself — for a particular person in a particular moment.** The wall that stood yesterday is simply gone, and movement that was impossible becomes effortless. It is the exact inverse of hardening, which *raises* inertia; and it is, like everything here, gifted rather than generated.
+The [Third Exploration](exploration-03-spiritual-force.md) left the differential "gift of faith" (1 Cor. 12:9) as an open question. Scripture's own home for it has to be kept first: it is a *charism* the Spirit apportions "to each one individually as he wills" (1 Cor. 12:11) and gives "for the common good" (1 Cor. 12:7) — more often to build up the body than to speed one soul's private climb. With that as its proper frame, this chapter offers only a candidate *extension*: that when such faith is given, it works like a sudden drop in resistance — **God, for a moment and for His own purpose, lowering the barrier Eₐ that had stood immovable.** The wall that was there yesterday is simply gone, and what was impossible becomes *suddenly possible* — not effortless, for Gethsemane was the costliest work of all, but newly open. It is the exact inverse of hardening, which *raises* the resistance; and it is, like everything here, gifted rather than generated — and given, first of all, for others.
 
 ## Temperature — the heat of a whole room
 
