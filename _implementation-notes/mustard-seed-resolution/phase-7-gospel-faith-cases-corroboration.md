@@ -1,6 +1,6 @@
 # Phase 7 — Gospel faith-cases as scriptural corroboration of the synthesis
 
-*Added 2026-06-09 (during the 14-day comment period). This is **additional corroboration**, not a change to the resolution. It is recorded here in the trail rather than edited into the under-comment worked-resolution doc; **fold it into §5 "The witness behind it" on enactment (post-2026-06-15)** if it still stands. Originated in John's reflection on how human faith interacts with God's action.*
+*Added 2026-06-09 (during the 14-day comment period). This is **additional corroboration**, not a change to the resolution. It is recorded here in the trail rather than edited into the under-comment worked-resolution doc; **fold it into §5 "The witness behind it" on enactment (post-2026-06-15)** if it still stands. Originated in John's reflection on how human faith interacts with God's action. **Folded into §5 "The witness behind it" on enactment 2026-06-19 (it still stood); see commit 1524b82.***
 
 ## The claim being tested
 The resolution holds: **genuine faith is a quality *threshold* (a near-step floor), not a quantity; above the floor, magnitude and timing are carried by alignment/persistence/authority/capacity — all bounded by divine sovereignty.** The pre-registered decision rule was: *is there any narrative where, all else equal, more faith yields a larger outcome?* If yes, proportionality lives.

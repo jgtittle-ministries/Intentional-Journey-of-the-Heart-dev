@@ -34,7 +34,7 @@ The two lenses **meet** at two of Part 1's named priorities. V2.Exp6 (the Tool M
 
     Backstory and reasoning: [The Mustard Seed Question — A Worked Resolution](mustard-seed-worked-resolution.md). The full evidentiary trail — a coded corpus of ~59 entries, two adversarial passes (one by an independent reviewer), discriminator tables, the cross-tradition check, and the Proposal-Template draft — is under `_implementation-notes/mustard-seed-resolution/`. The resolution rejects pure proportionality and adopts the synthesis: a quality threshold on genuine trust (`f()` as a near-step floor), with above-floor magnitude carried by resonance, authority, and obedient capacity (`g()`/`h()`), bounded by divine sovereignty; the differential "gift of faith" (1 Cor 12:9) is preserved as a separate open question (`V3.Exp3.Open2`).
 
-    **Enacted in the claim registry 2026-06-01:** V1.Exp8 confidence 70→80 (effective on close), V3.Exp3 entered the research-program track (founder-sponsored, six-month window), V3.Exp8 flagged for calibration-cycle review. The founder sponsors the track entry; the §3b experiential corroboration is in; the draft is **signed and submitted (2026-06-02)**.
+    **Enacted in the claim registry 2026-06-01:** V1.Exp8 confidence 70→80 (in effect since the 2026-06-15 close), V3.Exp3 entered the research-program track (founder-sponsored, six-month window), V3.Exp8 flagged for calibration-cycle review. The founder sponsors the track entry; the §3b experiential corroboration is in; the draft is **signed and submitted (2026-06-02)**.
 
 ## 4. Recommended for the next research cycle — ready to run now
 
