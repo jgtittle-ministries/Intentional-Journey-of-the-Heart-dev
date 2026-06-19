@@ -1,0 +1,41 @@
+# Proposed workflow — copy to .github/workflows/validate.yml via direct git push.
+# GitHub Apps (including the Claude integration) cannot write to .github/workflows/.
+#
+# This workflow validates the IJH claim registry and docs on every push and PR.
+# It enforces:
+#   - Registry schema conformance (_schema_audit.py, per draft-SCHEMA.md §8)
+#   - Orphan docs / broken file links (_link_audit.py)
+#   - Heading-anchor link integrity (_anchor_audit.py)
+#   - Foundational Law certainty-tier consistency (_tier_audit.py)
+
+name: Validate registry and docs
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install PyYAML
+
+      - name: Registry schema audit (§8 of draft-SCHEMA.md)
+        run: python _implementation-notes/_schema_audit.py
+
+      - name: Link audit (orphan docs / broken file links)
+        run: python _implementation-notes/_link_audit.py
+
+      - name: Anchor audit (heading-anchor link integrity)
+        run: python _implementation-notes/_anchor_audit.py
+
+      - name: Tier audit (FL certainty tier consistency across chapter / MLI / PT / registry)
+        run: python _implementation-notes/_tier_audit.py

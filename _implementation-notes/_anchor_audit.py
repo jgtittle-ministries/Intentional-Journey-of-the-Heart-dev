@@ -1,4 +1,4 @@
-import re, os, glob
+import re, os, glob, sys
 
 os.chdir(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
@@ -70,3 +70,5 @@ for md, url, tf, anc, exists in problems:
     if cand:
         print(f"    nearest headings: {cand[:4]}")
     print()
+
+sys.exit(1 if problems else 0)

@@ -4,7 +4,7 @@
 # claim registry (vol1-claims.yml). Fixes often land in a chapter but not its
 # summaries/registry — this catches that drift. Run after any doctrinal/tier edit.
 # In-place: run from the repo (python _implementation-notes/_tier_audit.py).
-import re, os, glob
+import re, os, glob, sys
 
 os.chdir(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 TIER = {'Clearly Taught': 'CT', 'Reasonably Inferred': 'RI', 'Speculative': 'Spec'}
@@ -53,3 +53,4 @@ for r in allids:
     if flag: mismatches.append(r)
     print(f"FL.{r:<4}{c:<9}{i:<8}{p:<8}{rgt:<14}  {flag}")
 print(f"\n{len(mismatches)} tier mismatch(es): {', '.join('FL.'+m for m in mismatches) or 'none'}")
+sys.exit(1 if mismatches else 0)

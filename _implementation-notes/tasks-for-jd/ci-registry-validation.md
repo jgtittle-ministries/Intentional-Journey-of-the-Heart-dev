@@ -1,7 +1,7 @@
 # Task for JD — CI validation for the IJH claim registry
 
 **From:** John (via the project's working notes)
-**Status:** Proposed — ready to pick up. Self-contained; assumes no prior context.
+**Status:** Implementation complete — ready for final wiring. See "Done looks like" below.
 **Good to land before:** the first Council meeting, **2026-06-28** (see "Why now" below).
 
 ---
@@ -18,30 +18,42 @@ The *Intentional Journey of the Heart* project keeps its claims in a machine-rea
 
 ## What to build
 
-### 1. A registry-validator script
+### 1. A registry-validator script — ✅ DONE
 
-Suggested path: `_implementation-notes/_schema_audit.py` (matches the existing audit-script convention). It loads all four `vol*-claims.yml` files **together** and enforces the rules in **§8 of the schema spec** — read it at `_implementation-notes/council-meeting-2026-06-28/draft-SCHEMA.md` (this file becomes the repo-root `SCHEMA.md` once the Council ratifies it). The schema's §4 and §7 list the controlled vocabularies.
+Script is at `_implementation-notes/_schema_audit.py`. It loads all four `vol*-claims.yml` files **together** and enforces the rules in **§8 of the schema spec** at `_implementation-notes/council-meeting-2026-06-28/draft-SCHEMA.md`.
 
-Rules in brief:
+**Implementation notes and corrections from the review:**
 
-- Every claim `id` is unique within its file and well-formed for its type (`V{vol}.{type}{n}` for axioms / explorations / minorities; `FL.{Roman}` for Foundational Laws).
-- Every ID referenced in `upstream_dependencies`, `downstream_dependents`, `minority_positions`, and `parent_claim` resolves to a real entry, **and the dependency graph across all four files is a DAG (no cycles).**
-  - Note: `downstream_dependents` may contain wildcard pseudo-IDs like `V1.All` / `V2.All`. Treat those as valid, not as missing references.
-- `status`, `type`, and every enumerated field (`directionality`, `band`, `mirror_type`, `operator`, `layer`, `pt_period`, `pt_group`, `gateway`, etc.) hold a value from the controlled vocabulary in the spec. An unknown `type` is a failure.
-- Every claim of the world has either `confidence` (integer 0–100) or `confidence_inherited_from`. Vol 4 methodology / instrument entries may have neither.
-- Output a clear pass/fail summary and **exit non-zero on any failure** so CI fails.
+- **ID well-formedness**: `FL.{Roman}` entries are strictly checked against `FL.[IVXLC]+`. For `V{n}.*` entries, the format is permissive — uniqueness is enforced but the exact suffix pattern is not constrained, because the existing registry contains many valid variants (e.g., `V1.OE`, `V2.Exp2A`, `V2.Exp9.Open1`, `V4.LotS-H1`, `V4.RQ1`, `V4.OT1`) that would all fail a simplified regex.
 
-### 2. A GitHub Actions workflow
+- **Pseudo-ID allowlist**: `V{n}.All` wildcards are allowed in dependency fields. **`Formation.HFT`, `Formation.SST`, and `Formation.MSFIG`** are also allowed — they are valid forward-references to the formation program, not broken references. The original brief mentioned only `V{n}.All`; adding `Formation.*` prevents false CI failures.
 
-Path: `.github/workflows/validate.yml` (the directory exists but is empty). Runs on `push` and `pull_request`, sets up Python, installs `PyYAML`, and runs:
+- **Confidence**: Claims of the world must have `confidence` (0–100) or `confidence_inherited_from`. Types exempt from this requirement: `methodological_principle`, `testable_hypothesis`, `research_question`, `protocol`, `open_trail`, `minority_dissent`, `open_question`.
 
-- the new `_schema_audit.py`, and
-- the three existing audit scripts in `_implementation-notes/`:
-  - `_link_audit.py` — orphan files / manifest-vs-disk / broken `.md`/PDF/image links.
-  - `_anchor_audit.py` — every `#fragment` link resolves to a real heading.
-  - `_tier_audit.py` — each Foundational Law's certainty tier agrees across the **chapter**, the **Master Law Index**, the **Periodic Table**, and `vol1-claims.yml`.
+- **Schema version**: vol2, vol3, and vol4 are at `schema_version: 0.2`, not 0.3. The validator handles this correctly — it validates enumerated fields only when they are present, so older files that legitimately omit v0.3-only PT fields are not penalized.
 
-Check each audit script's invocation (top of file or `--help`) and confirm it **exits non-zero on failure** — a couple may currently just print; if so, add a proper exit code so CI can detect failures.
+- **Rule 5 of §8** ("a revised canonical claim retains its prior version as a `formerly_canonical` minority") is **not validated by this script**. It is a workflow invariant, not a structural constraint — it requires comparing the current registry to a prior version, which is a git-history check, not a YAML-schema check. This is an intentional omission; the CI validator enforces rules 1–4 and 6 (rule 6 via `_tier_audit.py`).
+
+### 2. A GitHub Actions workflow — ⚠️ MANUAL STEP REQUIRED
+
+The proposed workflow file is at:
+```
+_implementation-notes/tasks-for-jd/validate.yml.proposed
+```
+
+Copy it to `.github/workflows/validate.yml` and commit. **You must do this via direct git push** — the Claude GitHub App cannot write files in `.github/workflows/` due to GitHub App permission restrictions.
+
+The directory `.github/workflows/` **already contains** `claude.yml` and `claude-code-review.yml`. Add `validate.yml` alongside them.
+
+The workflow runs on `push` and `pull_request`, installs `PyYAML`, and runs:
+- `_implementation-notes/_schema_audit.py` — the new registry validator
+- `_implementation-notes/_link_audit.py` — orphan files / broken links
+- `_implementation-notes/_anchor_audit.py` — heading-anchor link check
+- `_implementation-notes/_tier_audit.py` — Foundational Law tier consistency
+
+**All four audit scripts now exit non-zero on failure.** The original brief said "a couple may currently just print" — in fact all three existing scripts had this problem. All three have been fixed.
+
+There is also a fourth audit script (`_implementation-notes/_html_audit.py`) that checks HTML reader-links and `href`/`src` attributes in root `.html` files. It is not included in `validate.yml` since it was not in the original task scope, but wiring it in would be easy if desired.
 
 ## Guardrails
 
@@ -51,6 +63,15 @@ Check each audit script's invocation (top of file or `--help`) and confirm it **
 
 ## Done looks like
 
-- A green `validate.yml` run on a push to dev.
-- The validator passing against all current claims — or a clean list of any real violations handed to John.
-- The three existing audits wired into the same workflow and enforcing (exiting non-zero on failure).
+- `_implementation-notes/_schema_audit.py` — written and committed. ✅
+- All three audit scripts now exit non-zero on failure. ✅
+- `validate.yml` placed at `.github/workflows/validate.yml` (manual git push). ⬜
+- A green `validate.yml` run on a push to dev, OR a clean list of real violations handed to John. ⬜
+
+## Known violations to hand to John
+
+Run `python _implementation-notes/_schema_audit.py` from the repo root to get the current list. At time of writing, at least one known violation exists in the data:
+
+- **`V3.Exp3.Open1` has `status: resolved`** — `resolved` is not in the schema's controlled vocabulary for `status` (`{core, minority, open}`). This entry was marked resolved after the 14-day comment period closed. John / the Council should decide whether to add `resolved` to the vocabulary (a two-thirds vote), or change the entry's status to `open` with a note, or another approach.
+
+Any other violations found by the validator should be treated the same way: data fixes are Council decisions, not CI auto-fixes.

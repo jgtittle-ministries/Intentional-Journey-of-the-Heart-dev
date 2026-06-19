@@ -1,4 +1,4 @@
-import re, os, glob
+import re, os, glob, sys
 
 os.chdir(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
@@ -52,3 +52,7 @@ for md, rel, target in broken_local:
     print(f"    in: {md}")
     print(f"    -> {target}")
 print(f"--- checked {checked_local} local-file links, {len(broken_local)} broken ---")
+
+n_orphans = len(docs_md - paths)
+n_missing = sum(1 for p in paths if not os.path.isfile(p))
+sys.exit(1 if (n_orphans + n_missing + len(broken_local)) else 0)
