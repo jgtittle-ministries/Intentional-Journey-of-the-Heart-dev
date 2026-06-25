@@ -6,6 +6,8 @@ source: "IJH_Vol1_v5_7_2_1.docx"
 
 # Foundational Law VI: The Hear-and-Obey Blessing Law
 
+![A lone figure walking a misty forest path — hearing the word, then walking it out.](images/hear-and-obey-walking-path.jpg)
+
 This law states the link between hearing-and-doing and flourishing. It reaches about as wide across Scripture as any law here — from Moses' covenant in Deuteronomy, through the Gospels, to the letters near the back of the New Testament. Hearing God's word and actually doing it brings blessing and a flourishing life; hearing it but not doing it loses the blessing. The law works at every size, from one person up to a whole nation.
 
 This law is different from the Obedience Channel (Vol 1, Exp. 6) in what it produces. The Obedience Channel describes how obeying opens the way for God to show you more. This law describes how obeying produces a flourishing life — a different result from the same starting point. The two are sister laws and work together: obeying opens up more of God's leading, which lets you obey further, which brings flourishing. This law is about that second arrow in the chain.

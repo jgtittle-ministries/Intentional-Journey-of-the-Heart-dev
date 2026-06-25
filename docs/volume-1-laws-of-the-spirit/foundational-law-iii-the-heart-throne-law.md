@@ -6,6 +6,8 @@ source: "IJH_Vol1_v5_7_2_1.docx"
 
 # Foundational Law III: The Heart-Throne Law
 
+![An ornate gilded throne — whatever sits at the center of the heart governs the whole of it.](images/heart-throne-gilded.jpg)
+
 This law is about what sits in the center of your heart, and about everything that flows out from whatever sits there. Whatever you look to first for safety, meaning, or a sense of who you are — that thing is running your heart, even if you'd never call it a god. One writer named it the “functional savior.” Your heart can't leave that center seat empty; something is always in it. When Christ is on the throne of your heart, your heart is put back in order and points toward life; when anything else is on it, trouble follows, because a fake god can't actually deliver what you asked of it. The law shows up most plainly in the prophets and in Paul, but it starts with the first two of the Ten Commandments and runs all the way to the last line of John's first letter.
 
 This law and the Confession-Restoration Law (Foundational Law II) work as a pair, both dealing with sin. Confession clears the sinful act; this law clears the throne the sin was serving. Put together, they explain why some sins keep coming back even after you've confessed them honestly, again and again: the thing on the throne — the fake savior the sin was serving — has never been knocked off it. Confession deals with the act; the Heart-Throne Law deals with the worship underneath that produced it.

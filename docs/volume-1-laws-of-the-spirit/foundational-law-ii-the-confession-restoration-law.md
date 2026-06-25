@@ -6,6 +6,8 @@ source: "IJH_Vol1_v5_7_2_1.docx"
 
 # Foundational Law II: The Confession-Restoration Law
 
+![An open door onto a sunlit path — when sin is confessed, the way back to God opens.](images/confession-restoration-open-door.jpg)
+
 This law is about how a broken friendship with God gets mended. When you honestly own your sin and say it out loud to God, the way back to Him opens up. When you hide it, the break stays. The law is stated most clearly in 1 John, but you can also hear it in Proverbs, in the Psalms, and over in James.
 
 This law is the matching half of the Sin Blockage Law (Vol 2, Exploration 4). That law describes the problem: sin you never confess builds up like a weight on the line between you and God, and it gets harder to hear Him. This law describes the fix: confession clears that weight away. They are the same thing seen from two sides — one shows how the line gets blocked, the other shows how it gets opened again.

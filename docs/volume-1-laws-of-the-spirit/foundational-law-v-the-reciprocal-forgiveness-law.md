@@ -6,6 +6,8 @@ source: "IJH_Vol1_v5_7_2_1.docx"
 
 # Foundational Law V: The Reciprocal Forgiveness Law
 
+![Open hands, palms up — grace received becomes grace passed on.](images/reciprocal-forgiveness-open-hands.jpg)
+
 The Reciprocal Forgiveness Law sits inside the Lord's Prayer and is repeated by Jesus more often than almost anything else He says about how the spiritual world works. Here is the heart of it, and the order matters enormously: God forgives us, fully and freely, in Christ — and a heart that has truly received that forgiveness becomes a heart that forgives others. "Be kind to one another, tenderhearted, forgiving one another, as God in Christ forgave you" (Eph. 4:32). Our forgiving is the *overflow* of being forgiven, not the price that buys it. And so the reverse is a warning sign: a person who clings to unforgiveness shows that the grace has not yet done its work in them, and cuts themselves off from the very flow they refuse to pass on. Grace received and grace withheld cannot live in the same heart. The law works both vertically (between us and God) and horizontally (between us and others) at once.
 
 This law is the positive direction of the Forgiveness-Debt Transfer mechanism. Together with FL.II Confession-Restoration and the Sin Blockage Law (V2.Exp4), the four form a complete account of channel-opening at the moral-failure level.
