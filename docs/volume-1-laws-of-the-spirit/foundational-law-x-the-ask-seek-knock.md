@@ -6,6 +6,8 @@ source: "IJH_Vol1_v5_7_2_1.docx"
 
 # Foundational Law X: The Ask-Seek-Knock Law
 
+![A hand reaching for a door knocker — keep knocking and it opens.](images/ask-seek-knock-door-knocker.jpg)
+
 This law is Jesus' most direct statement about how prayer works at its most basic level. Keeping on asking — really asking, in faith, for things that fit God's character — leads to receiving; asking with the wrong motive doesn't. It is the entry-level form of how prayer works; the Prayer Resonance Law (V1.Exp8) picks up the same thing at a deeper level.
 
 Ask-Seek-Knock and Prayer Resonance are two laws about the same thing, one building on the other. Ask-Seek-Knock is the doorway: does the prayer actually cross the line into real, faith-filled, rightly-aimed asking in the first place? Prayer Resonance is about what happens once you're through that door: how prayer that keeps going — in the right direction, at the right time, without giving up — can grow stronger over time, the way a pushed swing climbs higher. The Mustard-Seed section in the Prayer Resonance exploration unpacks the difference between getting through the door and what grows after it.

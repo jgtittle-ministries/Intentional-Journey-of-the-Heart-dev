@@ -6,6 +6,8 @@ source: "IJH_Vol1_v5_7_2_1.docx"
 
 # Foundational Law VIII: The Desire-for-God Law
 
+![A deer drinking at a stream — the heart's built-in longing for God.](images/desire-for-god-deer-at-stream.jpg)
+
 This law belongs right next to the Drawing-Near Reciprocity Law (FL.VII). Drawing-Near tells you how it works: when a person moves toward God, He moves toward them. But what makes a person move toward God in the first place? What is the heart actually doing when it starts the seeking that Drawing-Near describes? This law gives the answer. There is a longing built into the heart that points toward God before you even know what it is. That longing is the inward sign that you were made for Him, and it is the engine of the moving-toward-Him that Drawing-Near describes. No longing, no seeking; no seeking, and there is nothing for God to draw near to.
 
 C. S. Lewis pointed to it in Surprised by Joy — that "inconsolable secret," an ache that turned out to be a signpost toward the country we were made for. Augustine put it at the very start of his Confessions — "You have made us for yourself, O Lord, and our heart is restless until it rests in you." The Eastern church called it *eros* for God (in Maximus the Confessor and Gregory of Nyssa); the Western church called it *desiderium*, "desire"; and the contemplative writers down the centuries called it the engine of the inner life. The longing is the same; only the names change. And Scripture names it across both Testaments through at least nine different writers.

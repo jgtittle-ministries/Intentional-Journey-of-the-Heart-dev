@@ -1,5 +1,7 @@
 # Foundational Law XL: The Abiding-Fruitfulness Law
 
+![Ripe grapes on the vine — the fruit that comes from staying joined to Christ.](images/abiding-fruitfulness-grapevine.jpg)
+
 This law is about staying connected to Christ — abiding in Him — and the fruit that connection bears. A believer's transformed life shows in visible fruit, and this law names the deep condition that makes such fruit possible: a living, continuous connection to Christ. And it works the same at every size, from one person to a whole people.
 
 This law names the bright side of something the catalog already had a dark side for. FL.XV Hardening describes what happens when a heart refuses God and hardens; this law describes the opposite — the living connection to Christ out of which all good fruit grows. Paul and John teach this connection all through their writings, and the Vol 1 Explorations lean on it, but it had never been set down as a foundational law in its own right. This law sets it down.

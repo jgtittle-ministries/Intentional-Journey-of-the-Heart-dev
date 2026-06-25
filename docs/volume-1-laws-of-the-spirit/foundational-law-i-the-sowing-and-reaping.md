@@ -6,6 +6,8 @@ source: "IJH_Vol1_v5_7_2_1.docx"
 
 # Foundational Law I: The Sowing-and-Reaping Law
 
+![A sower scattering seed across a field — what is planted is what grows.](images/sowing-and-reaping-sower.jpg)
+
 Sowing-and-Reaping is the law of the harvest. Paul states it most directly, Hosea repeats it, and Solomon echoes it. What a person plants is what that person grows — the same kind of thing, in the same measure, and usually only after a wait. And notice what Paul is mainly talking about: sowing "to the flesh" or sowing "to the Spirit" (Gal. 6:8). This is first and foremost a law about the heart and the direction of a life — not a promise that giving money brings money back.
 
 ## The Scriptural Ground
