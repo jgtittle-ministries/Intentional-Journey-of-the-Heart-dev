@@ -1,5 +1,7 @@
 # Foundational Law XXII: The Endurance-Hope Law
 
+![A figure on a rocky summit, arms open over the mountains at dawn — endurance that ripens into hope.](images/endurance-hope-summit-sunrise.jpg)
+
 This twenty-second law names the path by which suffering produces hope. When you endure a hard trial, and you keep your heart turned toward God all the way through it — staying in a posture of trust, letting the trial be something God shapes you with rather than just something to escape — it builds character, and that character becomes the ground of hope. The path is a chain of cause and effect: suffering produces endurance, endurance produces character, character produces hope. And the hope that comes out the far end is a different thing from the cheerfulness you had going in, in a way Scripture is careful to name (it "does not put us to shame," Rom. 5:5).
 
 Everything here hangs on which way your heart is turned — worth saying plainly at the start. Suffering by itself does not produce hope: the same suffering leads to the Rom. 5:3–5 path under one heart-direction and to the Heb. 12:15 root of bitterness under the opposite one. What makes the difference is whether you keep your heart turned toward God through the trial — the dark, idol-ward face the Mirror below traces.

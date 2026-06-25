@@ -1,5 +1,7 @@
 # Foundational Law XXI: The Household Formation Law
 
+![A grandfather's hand on his granddaughter's head — faith and blessing handed down through the household.](images/household-formation-grandparents-blessing.jpg)
+
 This twenty-first law names how faithfulness to God in one generation gets passed forward to the next. When one generation keeps faith with God, blessing is handed down to the generations that follow — through the family, through the way a household is built, through one generation handing the covenant on to the next — so that the children who inherit it receive both the good fruit of their parents' faithfulness and the call to keep walking the same path with God themselves.
 
 This handing-down isn't a mirror image of its dark twin. FL.XVII Substitution-Cascade describes how idols get passed down all by themselves — children just soak them up without anyone trying. This law describes the opposite direction: passing faith down to God takes deliberate teaching, steady example, and saying out loud what is being handed on. Together the two laws cover both directions of how the heart's bent gets passed across the generations.

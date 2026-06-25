@@ -1,5 +1,7 @@
 # Foundational Law XVIII: The Bitter-Root Community Law
 
+![Tangled, exposed roots — a grievance left unresolved hardens into a root of bitterness that spreads.](images/bitter-root-tangled-roots.jpg)
+
 This law works at the community level, and it deals with one of the most serious patterns the New Testament letters name. When people in a community hold a grievance between them and never do the work of making it right, that grievance hardens into a root of bitterness — and that root spreads through the community's relationships, poisoning many people who had nothing to do with the original wrong. Matt. 18:15–20 gives the steps that stop the spread, in three rising stages: talk to the person privately, then bring along one or two others, then take it to the church. Heb. 12:14–15 names both directions in one breath — "strive for peace with everyone" and "see to it that no root of bitterness springs up" — and the Matthew passage shows how the good direction actually gets done.
 
 The Hebrews verse holds both directions in one sentence, and the Matthew steps come right before the unforgiving-servant parable (Matt. 18:21–35), which shows the heart-level engine in a single person. Because Scripture won't pull the two directions apart, this law — like FL.IV Humility-Exaltation and FL.VII Drawing-Near Reciprocity — holds both directions together.

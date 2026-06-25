@@ -1,5 +1,7 @@
 # Foundational Law XX: The Gathered-Body Discernment Law
 
+![Many hands joined in the center — a gathered body discerns more than any one of them alone.](images/gathered-body-hands-united.jpg)
+
 This twentieth law names how the Holy Spirit speaks in a special way through a gathered body. When a group of believers is truly united and seeks God together, they can discern more than any one of them could alone. The main passages — the sending of Barnabas and Saul from Antioch (Acts 13), the Jerusalem council (Acts 15), Jesus' promise to be present where two or three gather, with binding-and-loosing authority (Matt. 18:18–20), Paul's teaching on the gathered church weighing what is said (1 Cor. 12 and 14), the Chronicler's picture of a whole people seeking God together (2 Chron. 20), and the waiting before Pentecost (Acts 1–2) — all point to the same pattern.
 
 One distinction worth making up front: this law is about the Spirit *speaking through* the gathered body, while the related V2.Exp9 Community Amplification is about how the body *speeds up the growth* of its individual members. They are two different things. Acts 13:2's "the Holy Spirit said" is the Spirit speaking through the body to pick out and send; Community Amplification is about the body's effect on each person's growth. This law is about the speaking-through — the body acting as the channel for Christ's voice, not as an amplifier of individual growth.
