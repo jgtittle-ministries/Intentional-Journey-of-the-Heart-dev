@@ -1,5 +1,7 @@
 # Foundational Law XIX: The Spirit Anointing Transmission Law
 
+![Silhouettes at sunset of hands laid on a kneeling man in prayer — the Spirit's anointing handed on across generations.](images/spirit-anointing-laying-on-of-hands.jpg)
+
 The nineteenth foundational law names how the Spirit's anointing for ministry tends to cross generations. Again and again in Scripture, the Spirit who rested on one faithful servant comes to rest on the next — often through deliberate, prayerful impartation (the laying-on-of-hands) and through long, close formation alongside the one who carries the anointing. The receiving generation comes to operate with anointing of the same kind as the one before. The canonical patterns — Moses to Joshua, Elijah to Elisha, Paul to Timothy, with the laying-on-of-hands material in Acts — converge on a consistent shape.
 
 One truth has to govern everything that follows, or the whole law will be misread: the anointing is the Holy Spirit Himself, and He is a sovereign Person, not a substance we transfer or a charge we top up. He "apportions to each one individually as he wills" (1 Cor. 12:11), and like the wind, He "blows where it wishes" (John 3:8). So this law describes the ordinary, faithful means God usually works through — not a guarantee, and not a technique for getting *more* of the Spirit by performing the impartation correctly. He gives Himself freely, in the measure and manner He chooses.
