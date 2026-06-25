@@ -6,6 +6,8 @@ source: "IJH_Vol1_v5_7_2_1.docx"
 
 # Foundational Law VII: The Drawing-Near Reciprocity Law
 
+![A hand reaching up toward a glowing light — move toward God, and He moves toward you.](images/drawing-near-hand-to-light.jpg)
+
 This law describes how the relationship between you and God works at its most basic level. Move toward God, and God moves toward you; turn away, and He lets you go. It is the clearest example in Scripture of give-and-take: God responds in kind to which way you turn — toward Him or away.
 
 ## The Scriptural Ground
