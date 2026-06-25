@@ -6,6 +6,8 @@ source: "IJH_Vol1_v5_7_2_1.docx"
 
 # Foundational Law XI: The Renewal-of-Mind Transformation Law
 
+![A man at peace in a sunlit green meadow, eyes closed — the mind renewed and transformed by truth.](images/renewal-of-mind-peace-in-green.jpg)
+
 This law is Paul's most direct statement of how the mind is changed by staying steadily soaked in God's truth. Keep renewing your mind with truth, and your whole self is transformed; let yourself be molded by the pattern of the world around you, and the opposite happens. The mind is where the law does its work first, but the change spreads out from there into what you choose, what you feel, and what you do.
 
 This law pairs with the more speculative Attention Economy of the Soul, one building on the other, the same way Ask-Seek-Knock and Prayer Resonance do. Renewal-of-Mind is the close-up: what happens inside one person who keeps their attention fixed on truth. Attention Economy is the wide shot — the bigger claim that the soul drifts toward whatever it keeps paying attention to, at every scale.
