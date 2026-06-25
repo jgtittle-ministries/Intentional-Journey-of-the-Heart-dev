@@ -6,6 +6,8 @@ source: "IJH_Vol1_v5_7_2_1.docx"
 
 # Foundational Law IV: The Humility-Exaltation Law
 
+![A lone figure bowed on a high rock at dusk — humble yourself, and you will be lifted up.](images/humility-exaltation-bowed-on-heights.jpg)
+
 This law is stated in both directions more clearly than almost any other in Scripture. James and Peter give the bright side; Jesus says both halves in one breath. Proverbs backs up both sides, and Isaiah roots the whole thing in the place where God Himself lives.
 
 ## The Scriptural Ground
