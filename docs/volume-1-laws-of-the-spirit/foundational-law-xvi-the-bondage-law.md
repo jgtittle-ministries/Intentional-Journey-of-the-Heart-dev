@@ -1,5 +1,7 @@
 # Foundational Law XVI: The Bondage Law
 
+![Hands bound with rope, head bowed — whatever you keep obeying, you become its servant.](images/bondage-bound-hands.jpg)
+
 This sixteenth law names what steadily obeying sin does to the one who obeys. Whatever you keep obeying, you become its servant — and which master you obey is what makes the difference. Keep obeying what God says, and you are shaped into the freedom and flourishing Scripture promises; keep obeying what sin asks, and you are shaped into slavery, and the slavery grows the longer and harder you obey. Paul and John both make plain that this works as a real law of the same kind as FL.VI Hear-and-Obey Blessing: the same machinery, seen from the two directions the heart can turn, with the direction deciding whether you end up free or in chains.
 
 This law works the same at every size. The person who keeps obeying an addiction is enslaved to it; the community that keeps obeying an ideology is enslaved to it; the generation that keeps obeying an inherited pattern is enslaved to it. It works identically at every level, because the rule is simply that obeying-something makes you its servant — and that has nothing to do with how big the group is.
