@@ -6,6 +6,8 @@ source: "IJH_Vol1_v5_7_2_1.docx"
 
 # Foundational Law XIII: The Pure-Heart Vision Law
 
+![A baby's hand resting in an adult's open palm — the pure, childlike heart that sees God.](images/pure-heart-vision-childs-hand.jpg)
+
 This law states what has to be true before a person can see God. A pure heart — one that is single-minded, loves God without rivals, and isn't clinging to a favorite sin — is what has to come first if you are going to see God, both seeing Him now and seeing Him at the end. The law works like a gate: the seeing comes after the purity, not before it. What purity governs is whether the sight clears or clouds: a heart clinging to a cherished sin does not get a lesser, discounted view of God; the idol it will not release clouds the seeing itself, while a heart being purified sees more and more clearly.
 
 This is the second "gateway" law in the catalog, the other being Fear of the Lord (V1.Exp5). The two gateways are built the same way: each names something that has to be in place first, or a whole group of other laws won't work. Fear of the Lord is the gate into the Wisdom group; Pure-Heart Vision is the gate into seeing God, which in turn is what you actually stand on for the Drawing-Near Reciprocity Law (FL.VII), the Prayer Resonance Law (V1.Exp8), and several of the Spirit laws. The dark side is real: a divided heart clouds the seeing, and a heart set on keeping its idols can close it off — the same gate working in reverse.
