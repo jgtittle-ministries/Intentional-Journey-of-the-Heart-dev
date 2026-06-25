@@ -6,6 +6,8 @@ source: "IJH_Vol1_v5_7_2_1.docx"
 
 # Foundational Law IX: The Generosity-Provision Law
 
+![One hand offering bread to an open hand — give, and it will be given to you, running over.](images/generosity-provision-giving-bread.jpg)
+
 The Generosity-Provision Law is a specialization of the Sowing-and-Reaping Law (FL.I) applied specifically to material generosity. Generous giving evokes provision toward the giver, with characteristic time delay and through varied channels. Withholding evokes the inverse. The substrate is money, time, mercy, attention — anything a person can give. The law works at every scale, the same way Sowing-and-Reaping does.
 
 I want to be careful here because this is the law most often misread. Prosperity-gospel readings make the “provision” term literal, immediate, and material in a way the source texts do not support. Mainstream Christian traditions across the spectrum accept the structural law and reject the prosperity-gospel reading of it. The law in its source form does not promise a hundredfold financial return on a tithe; it describes a structural reciprocity that operates over time, in varied forms, and at the scale and shape proper to the giver and the situation.
