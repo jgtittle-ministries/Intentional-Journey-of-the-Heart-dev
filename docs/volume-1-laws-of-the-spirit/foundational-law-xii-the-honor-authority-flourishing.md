@@ -6,6 +6,8 @@ source: "IJH_Vol1_v5_7_2_1.docx"
 
 # Foundational Law XII: The Honor-Authority Flourishing Law
 
+![A soldier saluting before the flag at sunrise — honoring rightful authority, and the flourishing it brings.](images/honor-authority-salute-flag.jpg)
+
 This law is the working-out of the commandment Paul calls “the first commandment with a promise.” Honoring authority that is set up rightly — your parents first of all, and then, by extension, governing and church leaders — makes you flourish; dishonoring it does the opposite. And the promise is right there in the text (Exod. 20:12: “that your days may be long in the land”). The commandment doesn't just tell you what to do; it states a cause and effect.
 
 It starts as one specific commandment with one specific promise, and its cause-and-effect reaches past the original parent-and-child setting to cover governing leaders and church leaders too, on the testimony of Paul (Rom. 13) and Peter (1 Pet. 2).
