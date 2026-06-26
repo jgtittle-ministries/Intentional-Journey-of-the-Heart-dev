@@ -1,5 +1,7 @@
 # Foundational Law XXXVIII: The Soul-Restoration Law
 
+![A broken bowl mended with seams of gold (kintsugi) — God restores the worn soul, holding it whole again, more beautiful for the mending.](images/soul-restoration-kintsugi.jpg)
+
 This law is about how God restores the soul. Life wears the soul down, and the world keeps pulling it apart; this law names the way God steadily puts it back together and holds it whole. And it works the same at every size, from one person to a whole people.
 
 This law sits underneath the catalog's other laws about the soul's wholeness: [SST](../volume-5-references/source-pdfs/sst-soul-spirit-taxonomies.pdf){: .pdf-popup data-pdf-label="SST — Soul and Spirit Taxonomies" } Stage 1 Soul Disorder Awareness, FL.IV Humility-Exaltation, V2.Exp2 Emotional Knot, V2.Exp6 Tool-Application, FL.XXIX Corporate Emotional Integration, FL.XXX Communal Soul-Care for the Wounded, and the Suffering-as-Formation Loop. This law is the ground they all stand on — the deeper work that produces and holds the soul's wholeness those others depend on.
