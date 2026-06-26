@@ -1,5 +1,7 @@
 # Foundational Law XLV: The Voice-of-Christ-Reaches-into-Death Law
 
+![Shafts of light pouring into a dark cavern — Christ's voice reaches into death itself and calls the dead out into the light.](images/voice-into-death-light-into-tomb.jpg)
+
 This law is about how Christ's voice reaches into death itself and calls the dead to life. In the Gospels He speaks directly; today He speaks through the good news of who He is and what He has done. Wherever that voice is heard, it brings life out of death. This is the grandest of the laws, reaching all the way to the end of the world.
 
 The truth runs all through Scripture — in the three Gospel stories where Jesus raises the dead, in John's and Paul's teaching on resurrection, and in the visions of the end — but it had never been set down as a foundational law in its own right. This law sets it down.
