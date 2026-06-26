@@ -1,5 +1,7 @@
 # Foundational Law XLIV: The Sign-as-Revelation Law
 
+![A human eye caught in a band of warm light breaking across the dark — Christ's sign gives real sight, the spiritual reality made visible.](images/sign-as-revelation-eye-in-light.jpg)
+
 This law is about how Christ's miracles reveal spiritual truths. A miracle isn't just a wonder to prove a point, or a handy illustration tacked on afterward. The miracle actually *is* the spiritual reality, made visible. When Christ heals blindness, He doesn't merely illustrate spiritual sight — He really gives it, out in the open, where everyone can see. The physical miracle and the spiritual truth are one thing. And this works the same at every size, from one person to the whole world.
 
 This truth runs all through John's Gospel especially — which calls Jesus' miracles "signs" — and it shows up across the rest of the New Testament too, but it had never been set down as a foundational law in its own right. This law sets it down.
