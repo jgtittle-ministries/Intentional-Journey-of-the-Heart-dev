@@ -6,6 +6,8 @@ source: "IJH_Vol1_v5_7_2_1.docx"
 
 # Foundational Law XLVII: The Word's-Efficacy Law
 
+![Rain falling over a green field in bloom — God's word goes out like the rain and does not return empty, but accomplishes what He sent it to do.](images/words-efficacy-rain-on-field.jpg)
+
 This law is about the power that belongs to God's word itself. Most of the laws nearby are about us — how we hear, receive, abide, obey. This one is about the word: once it goes out from God and is received in faith, it does what He sent it to do. It is one of the newer laws, still being weighed by the wider community, but its scriptural footing is unusually deep.
 
 ## The Scriptural Ground
