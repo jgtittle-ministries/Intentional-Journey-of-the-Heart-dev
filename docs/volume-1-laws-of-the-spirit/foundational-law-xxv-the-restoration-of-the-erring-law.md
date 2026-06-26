@@ -1,5 +1,7 @@
 # Foundational Law XXV: The Restoration-of-the-Erring Law
 
+![A community joyfully embracing one of its own — the wanderer gone after, brought back, and received again into the fellowship.](images/restoration-of-the-erring-welcomed-back.jpg)
+
 This twenty-fifth law names how the community responds when one of its members wanders off. When spiritually mature members go after the wandering or straying brother or sister — gently, and keeping an eye on their own weak spots — it brings the one who strayed back into the fellowship and rescues them from where the wandering was headed. This is a different law from FL.V Reciprocal Forgiveness (which is about the hurt party, between two people) and from FL.XVIII Bitter-Root Community Law (which is about how unresolved offenses harden across a whole community). Here the focus is the *wanderer*, with the mature member doing the going-after, and the shape of that going-after is what the law is about.
 
 This law completes a set of three about the community's relational life, alongside FL.XVIII Bitter-Root Community Law and FL.XXIV Confession-in-Community Law. Together the three cover three different things a community has to deal with (an *offense* and how it spreads, an *inner weight* and how it gets released, and a *wanderer* and how she is pursued) and the three different responses each one calls for (the Matt. 18 steps, confessing in the presence of others, and going after the one who strayed).
