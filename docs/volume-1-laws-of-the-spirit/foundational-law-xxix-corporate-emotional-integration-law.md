@@ -1,5 +1,7 @@
 # Foundational Law XXIX: The Corporate Emotional Integration Law
 
+![A group leaning in to comfort one grieving member, hands resting on him — when one member suffers, the whole body suffers with him.](images/corporate-emotional-integration-bearing-grief.jpg)
+
 This law works at the level of a whole community's shared heart. Scripture names one pattern that runs both ways at once: when one member suffers, the whole body suffers with her; when one member is honored, the whole body is glad with her. These aren't two separate laws — they're one law with two faces. A living church takes a single person's pain, or a single person's joy, and holds it as the whole body's own. When a church can't do that — when one person hurts and the rest carry on untouched — that isn't a minor shortcoming. It means the church's shared heart has gone quiet.
 
 ## Scriptural Ground
