@@ -1,5 +1,7 @@
 # Foundational Law XXVI: The Doctrinal Calcification Law
 
+![A once-expressive face hardened into weathered stone — a tradition calcified into a substitute for the living truth it was meant to carry.](images/doctrinal-calcification-weathered-stone-face.jpg)
+
 This twenty-sixth law works at the generational level, in the realm of the mind and the will, and it names what happens to a teaching tradition over time. When a tradition is handed down across generations without the habits of going back to Scripture and testing it together as a community, it hardens — "calcifies," like soft tissue turning to bone — into a substitute for the very truth it was meant to protect. The hardened tradition still carries weight in the community, but what it actually teaches has drifted away from the Scripture it first came from, and now the community hears God through the hardened tradition rather than through Scripture itself.
 
 This law is the dark, generational twin of FL.XX Gathered-Body Discernment Law. Where FL.XX names how a gathered body rightly receives the Spirit's voice in its own day, this law names how that same receiving fails across the generations when the community stops doing the work that keeps its tradition answerable to its scriptural roots.
