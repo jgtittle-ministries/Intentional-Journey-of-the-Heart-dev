@@ -1,5 +1,7 @@
 # Foundational Law XLI: The Defilement-Cleansing Reversal Law
 
+![Clear water poured over cupped hands at a fountain — in Christ, cleanness flows outward and makes the unclean clean.](images/defilement-cleansing-water-over-hands.jpg)
+
 This law is about how Christ reverses the flow of uncleanness. Under the Old Testament Law, uncleanness was catching: when a clean person touched an unclean one, the cleanness didn't spread to the unclean — the uncleanness spread to the clean. With Christ, it runs the other way. When Christ touches what is unclean, He doesn't catch its uncleanness; His cleanness flows out and makes the unclean clean. That reversal is the deep truth underneath the whole New Covenant way of making people clean and holy — baptism, the Lord's Supper, the church's care for the broken, and the believer's growth in holiness all rest on it. And it works the same at every size, from one person to a whole people.
 
 Most of the laws in this catalog describe something we do — sow and reap, rest, obey, draw near. This one is different: it describes something Christ does. Wherever His presence touches what is unclean, the uncleanness is reversed into cleanness. The Gospels show it happening again and again, and Paul, Peter, and John all build on it, but it had never been set down as a foundational law in its own right. This law sets it down.
