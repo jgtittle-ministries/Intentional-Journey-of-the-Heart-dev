@@ -1,5 +1,7 @@
 # Foundational Law XXXIX: The Surrender-Multiplication Law
 
+![Two fish and loaves of bread in a basket — a little surrendered into Christ's hands becomes far more than its size could account for.](images/surrender-multiplication-loaves-and-fish.jpg)
+
 When a small thing is placed into Jesus' hands, He can do with it far more than its size could ever account for. Five loaves feed five thousand; a widow's last handful of flour does not run out. This is the pattern the Surrender-Multiplication Law names. It is different from the steady, proportional give-and-receive of the Generosity-Provision Law (FL.IX): here the return is not proportional at all — it is whatever Christ, freely, chooses to make of what is surrendered to Him.
 
 Two cautions belong right at the top, because this law is easy to misuse. First, every example below is a **sovereign sign** — a miracle Jesus chose to do to reveal who He is — not a technique we can operate. We do not "unlock" multiplication by surrendering correctly, as if the right move obligates God. He multiplies when and as He wills. Second, the surrender Jesus actually asks for is the surrender of the cross: "unless a grain of wheat falls into the earth and dies, it remains alone; but if it dies, it bears much fruit" (John 12:24). The "multiplication" lies on the far side of a real death-to-self, not the near side of a clever investment. Hold those two cautions and the law is beautiful; lose them and it becomes a prosperity scheme in disguise.
