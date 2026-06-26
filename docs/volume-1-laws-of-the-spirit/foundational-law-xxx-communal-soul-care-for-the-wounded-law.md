@@ -1,5 +1,7 @@
 # Foundational Law XXX: The Communal Soul-Care for the Wounded Law
 
+![A man held up by many hands when he cannot stand on his own — the community carrying one wounded member through what he cannot hold alone.](images/communal-soul-care-carried-by-many.jpg)
+
 This law works at the same level as FL.XXIX Corporate Emotional Integration — the whole community's shared heart — but it deals with something different. FL.XXIX is about a church sharing an experience together. This law is about a church carrying one wounded member through a season she can't get through herself: deep trauma, a mental-health crisis, a long spiritual darkness, a crushing moral failure, a drawn-out illness, or a grief too heavy for the community's ordinary sharing to hold. In each of these, the wounded person can't put her own soul back together while the wound is fresh. She needs the community to hold for her what she cannot hold alone, and to keep holding it until she's able to do it herself again. So the law has three parts: the wounded member, the community that holds what she can't, and the actual shape of that holding work.
 
 It sits next to two other laws. It pairs with FL.XXIX, and it pairs with FL.XXV Restoration-of-the-Erring. The difference from FL.XXV is who's in view: FL.XXV is about the member who has wandered away from the community — and the answer is to go after her. This law is about the member who is still right here among us but too wounded to keep up — and the answer is to hold her steady. Different people, different need, so the two laws work differently.
