@@ -1,5 +1,7 @@
 # Foundational Law XLII: The Kingdom-Confrontation Authority Law
 
+![A great statue of Christ, arms outstretched, presiding over a city at dusk — Christ's authority before which every rival power must give way.](images/kingdom-confrontation-christ-over-the-city.jpg)
+
 This law is about Christ's authority over the dark powers. Wherever Christ is present — and wherever believers act in His name — the rival powers of evil are forced to recognize Him. That recognition leads one of two ways: the power either gives way (submits and is cast out) or digs in and organizes against Him, depending on what kind of power it is. And this works the same at every size, from one person to the whole cosmos.
 
 Like the last law, this one describes something grounded in Christ's own authority. The Gospels show it in the exorcisms; Paul writes of the "principalities and powers"; Peter and John describe a cosmic war between Christ and the forces of evil. The truth runs all through Scripture, but it had never been set down as a foundational law in its own right. This law sets it down.
