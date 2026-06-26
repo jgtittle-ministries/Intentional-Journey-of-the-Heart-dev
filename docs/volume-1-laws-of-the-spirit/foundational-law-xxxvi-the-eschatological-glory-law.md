@@ -1,5 +1,7 @@
 # Foundational Law XXXVI: The Eschatological Glory Law
 
+![The sun breaking in radiance from behind the clouds — the coming glory of God reaching back to draw His people forward.](images/eschatological-glory-light-through-clouds.jpg)
+
 This law is about how the future God has promised pulls on our hearts right now. At the end of all things, God will complete everything — His glory fully revealed, His people gathered home. This law is about the way that coming glory reaches back into the present and draws God's people forward.
 
 This law belongs to a family of laws about how the world to come shapes us now, and it touches a particular part of that. (The Suffering-as-Formation Loop is about how the End gives meaning to our suffering; the Attention Economy of the Soul is about where we fix our attention; the Worship Alignment Law is about how worship gets aimed.) This law is about the heart's longing for what God will complete — the way looking ahead to that coming glory shapes our hope, our willingness to sacrifice, our pursuit of purity, and where we set our sights right now.
