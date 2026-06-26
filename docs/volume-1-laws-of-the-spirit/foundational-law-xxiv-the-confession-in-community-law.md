@@ -1,5 +1,7 @@
 # Foundational Law XXIV: The Confession-in-Community Law
 
+![A man unburdening himself to a listening minister in a pew — sin confessed aloud to one who receives you brings a healing private confession does not.](images/confession-in-community-pew.jpg)
+
 The twenty-fourth foundational law names what happens when sin is confessed aloud in trusted community. Confessing our sin and brokenness out loud, in front of trusted fellow believers, brings a kind of healing that confessing only in private does not. Saying it to another person — not just thinking it, not just writing it down — is part of what does the work: a secret kept inside stays walled off from the rest of our life, and speaking it to someone who receives us begins to knit it back in.
 
 One thing must be said clearly up front, because it is easy to get backwards. This law is **not** saying that God's forgiveness is only partial until we tell another person. When we confess our sin to God, He forgives us *completely* and *immediately*, on the basis of Christ's work alone (1 John 1:9; Heb. 4:16; 1 Tim. 2:5). Confessing to trusted people adds nothing to that pardon — it is already full. What it adds is *healing*: the lifting of shame, the end of hiding, and the restoring of honest relationships. Forgiveness is settled with God; this law is about the healing that comes when forgiven sin is also brought into the light among His people.
