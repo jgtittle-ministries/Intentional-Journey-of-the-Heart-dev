@@ -1,5 +1,7 @@
 # Foundational Law XXVIII: The Generational Nested Structure Law
 
+![A family lighting the festival candles together — each household nested within the generations and the long tradition that form it.](images/generational-nested-family-tradition.jpg)
+
 The twenty-eighth foundational law describes the setting in which one generation forms the next. Picture a set of circles, one inside another: you inside your household, your household inside its wider community, the community inside its generation, the generation inside a long tradition handed down over centuries, and all of it inside the whole people of God stretching across time. Each circle holds and supports the smaller ones inside it. This law's claim is simple: the other generation-to-generation laws (the next several in this volume) all do their work inside these circles — so when the circles are whole, those laws can work as they should.
 
 What makes this law different from the other generational laws is that it does not describe one particular way things get handed down. Each of the others names a specific channel — the example a household sets (FL.XVII), the passing-on of the Spirit's anointing (FL.XIX), deliberate teaching (FL.XXI), the hardening of dead tradition (FL.XXVI), shared practices (FL.XXVII). This law names the framework all of those work inside. It is the thing the others quietly assume but never stop to state: that for any of them to work, the circles that hold a person have to be reasonably intact.
