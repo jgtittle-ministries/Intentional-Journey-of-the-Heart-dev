@@ -1,5 +1,7 @@
 # Foundational Law XVII: The Substitution-Cascade Law
 
+![A small boy following his father's steps along the shore — the next generation soaks up the pattern by growing up inside it.](images/substitution-cascade-following-footsteps.jpg)
+
 The seventeenth foundational law works at the level of whole families across generations. In plain terms: whatever a family puts at the center of its life — whatever it really treasures, trusts, or organizes itself around — tends to become the "normal" that the next generation soaks up without even noticing. And the law is lopsided: handing the pattern down takes nothing more than growing up inside it, while turning away from it later takes real, deliberate work.
 
 A small child takes in what her family treasures long before she is old enough to weigh it or question it — so whatever the family loves most simply feels, to her, like the way the world is. And all of this happens whether or not the parents ever intend it, or are even aware of what they have set at the center. It is passed down by living, not by lessons — which is exactly why the pattern is so stubborn all through the Old Testament story and the prophets.
