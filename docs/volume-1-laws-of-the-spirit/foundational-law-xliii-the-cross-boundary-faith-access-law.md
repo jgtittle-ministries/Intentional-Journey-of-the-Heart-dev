@@ -1,5 +1,7 @@
 # Foundational Law XLIII: The Cross-Boundary Faith-Access Law
 
+![An iron gate standing open beneath a cross, opening onto a misty path — faith, not membership, carries the outsider across the boundary into the covenant.](images/cross-boundary-faith-access-open-gate.jpg)
+
 This law is about how faith — not membership — is what opens the door to God's blessings. Under the Old Testament, you were either inside God's covenant people (Israel) or outside it. This law says the boundary line is not what decides who gets in. What decides it is faith. When Christ sees real faith in an outsider, that faith carries them right across the line into the covenant's blessings. And this works the same at every size, from one person to a whole world.
 
 The truth runs all through Scripture — in the Gospel stories of outsiders healed by their faith, in the book of Acts as the door opens to the Gentiles, in Paul's teaching that we're made right with God by faith, and in Old Testament foreshadowings — but it had never been set down as a foundational law in its own right. This law sets it down.
