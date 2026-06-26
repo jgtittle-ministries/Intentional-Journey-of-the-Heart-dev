@@ -1,5 +1,7 @@
 # Foundational Law XXXVII: The Worship Alignment Law
 
+![A face turned up into the light, radiant — we become like what we worship, changed by beholding.](images/worship-alignment-face-in-the-light.jpg)
+
 This law names a simple, sobering truth: you become like what you worship. Worship something long enough, and it reshapes the way you see everything — your whole sense of reality starts to take on the nature of the thing you worship. Whether that change is good or ruinous depends entirely on what you're worshiping: the true God — the One Who Is — or some substitute the heart sets in His place. And this works the same at every size, from one person to a whole people.
 
 This law belongs to a family about worship and how it shapes the way we see. (FL.XXXII Communal Worship Heart-Alignment is about how worship turns a whole church's shared heart toward God; the Attention Economy of the Soul is about where we fix our attention; FL.XXXVI Eschatological Glory is about the heart being drawn toward the world to come.) This law sits underneath them all — it names the basic way worship reshapes how a person sees, working the same at every size.
