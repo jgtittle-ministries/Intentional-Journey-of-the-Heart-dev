@@ -1,5 +1,7 @@
 # Foundational Law XXXV: The Trust-Substrate Law
 
+![Worn hands cupping rich dark soil — the deep, settled trust in God that everything else grows out of.](images/trust-substrate-hands-soil.jpg)
+
 This law is about trust — the deep, settled trust in God that everything else in the Christian life grows out of. Think of it as the soil: obedience, perseverance, prayer for others, sacrifice, and bearing up under hardship — all the things the other laws describe — can only grow in their true, God-ward form when they're rooted in real trust in God. And this works the same at every size, from one person to a whole community.
 
 This law belongs to the family of laws about faith, but it touches a different part of faith than the others do. FL.X Faith-Sight is about faith as a way of knowing (the assurance of things hoped for, the conviction of things not seen). V1.Exp1 Faith-Hearing is about how faith is born in the heart (Word → hearing → faith). V1.Exp3 Faith-Hope-Love is about how faith is strengthened. FL.III Heart-Throne is about what the heart is centered on. FL.VIII Desire-for-God is about what the heart longs for. This law is about something underneath all of those: the lived trust in God's reliable character that lets the heart respond to Him at all. It's the trust everything else stands on — and it works the same at every size.
