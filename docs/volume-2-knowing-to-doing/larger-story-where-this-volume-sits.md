@@ -6,6 +6,8 @@ source: "IJH_Vol2_v5_7_2_1.docx"
 
 # The Larger Story: Where This Volume Sits
 
+![A path winding through a vast landscape toward the horizon at golden hour — the one great Story the participant is walking inside, from garden to wedding feast.](images/larger-story-winding-path.jpg)
+
 I am putting this chapter at the front of Vol 2 for the same reason I put What We Are Being Formed For at the front of Vol 1. Everything that follows in this volume — the diagnostic work, the Tool Map, the clearing protocols, the hearing development, the container discipline, the community amplification — can be read in two completely different ways, and the difference is decided here.
 
 ## The Bible is one Story
