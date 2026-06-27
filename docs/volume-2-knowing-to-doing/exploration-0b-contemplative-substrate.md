@@ -7,6 +7,8 @@ source: "Promoted from Formation Document FC (The Formation Companion) v5_5_6, p
 # Exploration 0B: The Contemplative Substrate
 *Foundational Practice (Operating Ground)*
 
+![A figure sitting in stillness on a hilltop bench at golden hour, gazing over the hills — the soul's long conditioning in contemplative quiet, the receptive heart waiting on God.](images/contemplative-substrate-stillness-at-dusk.jpg)
+
 ## Why an Exploration 0B
 This volume catalogs the diagnostic, tool-application, and developmental work that produces operational clearing of the blockages obstructing the Vol 1 laws. An assumption has been doing silent work beneath all of that catalog: that the participant and the Companion arrive at the work with a soul already conditioned by the patterns of attention the Christian centuries have practiced as means of grace. Where that conditioning is present, the catalog operates efficiently. Where it is absent, the formation work can drift toward the failure mode Dallas Willard named in *The Divine Conspiracy*: a sophisticated sin-and-wound management apparatus with Jesus added, rather than apprenticeship to Him in the kingdom He is forming.
 
