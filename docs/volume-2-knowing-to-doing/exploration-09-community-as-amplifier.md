@@ -6,6 +6,8 @@ source: "IJH_Vol2_v5_7_2_1.docx"
 
 # Ninth Exploration: Community as Amplifier — The Law and the Danger
 
+![A small group seated together in a circle as light streams in — the Spirit speaks into the gathered community, which amplifies what He says.](images/community-amplifier-circle-in-the-light.jpg)
+
 ## The Positive Case
 I have been saying throughout this volume that the spiritual journey requires community. I want to now state this as a formal law and ground it properly, because it is one of the most counter-cultural claims in the entire IJH project. In a culture that prizes individual spiritual experience and private relationship with God, the claim that genuine community is structurally required — not merely helpful — for full spiritual operation will be resisted.
 
