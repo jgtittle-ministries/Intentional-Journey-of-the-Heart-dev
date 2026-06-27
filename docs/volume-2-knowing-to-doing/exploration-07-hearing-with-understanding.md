@@ -1,7 +1,7 @@
 ---
 title: "Seventh Exploration: Hearing with Understanding — The Experiential Processes"
 volume: 2
-source: "IJH_Vol2_v5_7_2_1.docx"
+source: "IJH_Vol2_v5_8_0_1.docx"
 ---
 
 # Seventh Exploration: Hearing with Understanding — The Experiential Processes

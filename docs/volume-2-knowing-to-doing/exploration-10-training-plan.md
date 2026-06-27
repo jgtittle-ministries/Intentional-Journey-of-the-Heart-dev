@@ -1,7 +1,7 @@
 ﻿---
 title: "Tenth Exploration: The Training Plan — Operating in Faith as a Learnable Skill"
 volume: 2
-source: "IJH_Vol2_v5_7_2_1.docx"
+source: "IJH_Vol2_v5_8_0_1.docx"
 ---
 
 # Tenth Exploration: The Training Plan — Operating in Faith as a Learnable Skill

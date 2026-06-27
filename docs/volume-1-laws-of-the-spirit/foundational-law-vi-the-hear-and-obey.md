@@ -1,7 +1,7 @@
 ---
 title: "Foundational Law VI: The Hear-and-Obey Blessing Law"
 volume: 1
-source: "IJH_Vol1_v5_7_2_1.docx"
+source: "IJH_Vol1_v5_8_0_1.docx"
 ---
 
 # Foundational Law VI: The Hear-and-Obey Blessing Law

@@ -1,7 +1,7 @@
 ---
 title: "Foundational Law IV: The Humility-Exaltation Law"
 volume: 1
-source: "IJH_Vol1_v5_7_2_1.docx"
+source: "IJH_Vol1_v5_8_0_1.docx"
 ---
 
 # Foundational Law IV: The Humility-Exaltation Law

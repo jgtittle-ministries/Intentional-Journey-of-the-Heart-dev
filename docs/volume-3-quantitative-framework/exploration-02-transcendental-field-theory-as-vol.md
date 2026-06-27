@@ -1,7 +1,7 @@
 ---
 title: "Second Exploration: Transcendental Field Theory as the Vol 3 Framework"
 volume: 3
-source: "IJH_Vol3_v5_7_2_1.docx"
+source: "IJH_Vol3_v5_8_0_1.docx"
 ---
 
 # Second Exploration: Transcendental Field Theory as the Vol 3 Framework

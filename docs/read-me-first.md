@@ -1,6 +1,6 @@
 ---
 title: "Read Me First"
-source: "Read Me First v5_7_2_1.docx"
+source: "Read Me First v5_8_0_1.docx"
 ---
 
 # Read Me First
@@ -144,7 +144,7 @@ Three things the IJH project is explicitly not, because the difference matters.
 
 **It is not a denominational program. **I am writing from a Western Protestant viewpoint, with parts of Reformed, Evangelical, Charismatic, and Mystical Christian streams mixed together. The project is not the property of any one of those streams, and it is not designed to recruit people into any of them. The Council of Stewards described in Volume 6 is intentionally cross-tradition: no more than two members from any single denomination, seminary, or publisher. The framework only works if it is genuinely the church catholic’s framework rather than any one tradition’s.
 
-**It is not finished. **And it never will be, because we serve an infinite God who has done and is doing more than we can ask or think. The volumes are versioned—the current edition is the v5.7 series (canonical baseline v5.7.2)—and they will keep being versioned for as long as I have breath. Volume 6’s governance framework is the answer to what happens to the work when I no longer have breath. The work is meant to outlast me; the form of the work is meant to make that possible.
+**It is not finished. **And it never will be, because we serve an infinite God who has done and is doing more than we can ask or think. The volumes are versioned—the current edition is the v5.8 series (canonical baseline v5.8)—and they will keep being versioned for as long as I have breath. Volume 6’s governance framework is the answer to what happens to the work when I no longer have breath. The work is meant to outlast me; the form of the work is meant to make that possible.
 
 
 ## An invitation

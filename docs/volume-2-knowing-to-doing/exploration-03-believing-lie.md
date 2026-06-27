@@ -1,7 +1,7 @@
 ---
 title: "Third Exploration: Believing a Lie — The Cognitive Blockage Law"
 volume: 2
-source: "IJH_Vol2_v5_7_2_1.docx"
+source: "IJH_Vol2_v5_8_0_1.docx"
 ---
 
 # Third Exploration: Believing a Lie — The Cognitive Blockage Law

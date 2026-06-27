@@ -1,7 +1,7 @@
 ---
 title: "Foundational Law II: The Confession-Restoration Law"
 volume: 1
-source: "IJH_Vol1_v5_7_2_1.docx"
+source: "IJH_Vol1_v5_8_0_1.docx"
 ---
 
 # Foundational Law II: The Confession-Restoration Law

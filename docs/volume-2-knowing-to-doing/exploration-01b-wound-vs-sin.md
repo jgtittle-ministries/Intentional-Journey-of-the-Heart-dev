@@ -1,7 +1,7 @@
 ---
 title: "First Exploration (B): Wound vs. Sin — The Structural Distinction"
 volume: 2
-source: "IJH_Vol2_v5_7_2_1.docx"
+source: "IJH_Vol2_v5_8_0_1.docx"
 ---
 
 # First Exploration (B): Wound vs. Sin — The Structural Distinction

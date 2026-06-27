@@ -1,7 +1,7 @@
 ---
 title: "Fourth Exploration: Spiritual Distance — Kinematics Before Dynamics"
 volume: 3
-source: "IJH_Vol3_v5_7_2_1.docx"
+source: "IJH_Vol3_v5_8_0_1.docx"
 ---
 
 # Fourth Exploration: Spiritual Distance — Kinematics Before Dynamics

@@ -1,7 +1,7 @@
 ---
 title: "Ninth Exploration: Community as Amplifier — The Law and the Danger"
 volume: 2
-source: "IJH_Vol2_v5_7_2_1.docx"
+source: "IJH_Vol2_v5_8_0_1.docx"
 ---
 
 # Ninth Exploration: Community as Amplifier — The Law and the Danger

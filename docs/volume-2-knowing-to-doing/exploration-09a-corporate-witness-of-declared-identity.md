@@ -1,7 +1,7 @@
 ---
 title: "Ninth Exploration (A): The Corporate Witness of Declared Identity"
 volume: 2
-source: "IJH_Vol2_v5_7_2_1.docx"
+source: "IJH_Vol2_v5_8_0_1.docx"
 ---
 
 # Ninth Exploration (A): The Corporate Witness of Declared Identity

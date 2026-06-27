@@ -1,6 +1,6 @@
 ---
 title: "A Note on the use of Claude as an AI research assistant"
-source: "IJH_Intro_v5_7_2_1.docx"
+source: "IJH_Intro_v5_8_0_1.docx"
 ---
 
 # A Note on the use of Claude as an AI research assistant

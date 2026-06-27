@@ -1,7 +1,7 @@
 ---
 title: "Section 3: Individual Spiritual Formation Testing Protocol"
 volume: 4
-source: "IJH_Vol4_v5_7_2_1.docx"
+source: "IJH_Vol4_v5_8_0_1.docx"
 ---
 
 # Section 3: Individual Spiritual Formation Testing Protocol

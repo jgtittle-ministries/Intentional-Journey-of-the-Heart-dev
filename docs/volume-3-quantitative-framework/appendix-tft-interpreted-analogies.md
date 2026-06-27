@@ -1,7 +1,7 @@
 ---
 title: "Appendix: TFT Interpreted Analogies"
 volume: 3
-source: "IJH_Vol3_v5_7_2_1.docx"
+source: "IJH_Vol3_v5_8_0_1.docx"
 ---
 
 # Appendix: TFT Interpreted Analogies

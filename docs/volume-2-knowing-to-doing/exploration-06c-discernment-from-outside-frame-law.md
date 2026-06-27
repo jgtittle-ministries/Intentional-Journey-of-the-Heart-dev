@@ -1,7 +1,7 @@
 ---
 title: "Sixth Exploration (C): The Discernment-from-Outside-the-Frame Law"
 volume: 2
-source: "IJH_Vol2_v5_7_2_1.docx"
+source: "IJH_Vol2_v5_8_0_1.docx"
 ---
 
 # Sixth Exploration (C): The Discernment-from-Outside-the-Frame Law

@@ -1,7 +1,7 @@
 ---
 title: "Fifth Exploration: The Four Connects — A Causal Sequence"
 volume: 2
-source: "IJH_Vol2_v5_7_2_1.docx"
+source: "IJH_Vol2_v5_8_0_1.docx"
 ---
 
 # Fifth Exploration: The Four Connects — A Causal Sequence

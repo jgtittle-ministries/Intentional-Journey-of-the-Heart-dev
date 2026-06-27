@@ -1,7 +1,7 @@
 ---
 title: "Connecting the Dots: How the Eight Explorations Fit Together"
 volume: 1
-source: "IJH_Vol1_v5_7_2_1.docx"
+source: "IJH_Vol1_v5_8_0_1.docx"
 ---
 
 # Connecting the Dots: How the Eight Explorations Fit Together

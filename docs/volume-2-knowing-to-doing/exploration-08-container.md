@@ -1,7 +1,7 @@
 ---
 title: "Eighth Exploration: The Container — Preparing the Conditions for Hearing in the Community"
 volume: 2
-source: "IJH_Vol2_v5_7_2_1.docx"
+source: "IJH_Vol2_v5_8_0_1.docx"
 ---
 
 # Eighth Exploration: The Container — Preparing the Conditions for Hearing in the Community

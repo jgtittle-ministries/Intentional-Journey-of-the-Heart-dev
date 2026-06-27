@@ -1,7 +1,7 @@
 ---
 title: "Foundational Law VII: The Drawing-Near Reciprocity Law"
 volume: 1
-source: "IJH_Vol1_v5_7_2_1.docx"
+source: "IJH_Vol1_v5_8_0_1.docx"
 ---
 
 # Foundational Law VII: The Drawing-Near Reciprocity Law
