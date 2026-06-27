@@ -2,7 +2,7 @@
 
 *Governance Framework for the Intentional Journey of the Heart*
 
-**By John G. Tittle** — April 2026, Revised Edition v5.5.6
+**By John G. Tittle** — June 2026, Revised Edition v5.8
 
 ---
 
