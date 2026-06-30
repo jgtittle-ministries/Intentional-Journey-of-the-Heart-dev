@@ -157,6 +157,8 @@ The protocol is described as a single integrated session running 60–90 minutes
 
 • **The blessing at step 6 is sometimes simple, sometimes specific, sometimes unexpected.** A participant who constructs the obvious-inverse-of-the-shame as the blessing may be giving voice to what the Lord is actually saying; sometimes the deeper word is more specific and unpredictable. The Companion's pause-and-listen invitation often produces the deeper word.
 
+• **The spoken blessing is not a formality.** A word of blessing, truly received, does real and lasting work in the one who hears it; on that — Scripture's witness joined by careful study of how words form a person — see the closing note, "Our Words, and His," at [the Word's-Efficacy Law](../volume-1-laws-of-the-spirit/foundational-law-xlvii-the-words-efficacy-law.md).
+
 • **The brother who holds the participant's place in the role-reversal carries operationally important work.** The selection matters; the brother should be capable of receiving the blessing-pronouncement on the participant's behalf and speaking it back with presence. Brothers who are themselves carrying unprocessed shame in the same territory may struggle with the role-holding; the Companion's selection-discernment considers this.
 
 • **Watch for over-extension of the protocol.** A24 sometimes opens material that exceeds the session's scope — a second God-split layer; sin-channel material requiring confession; wound-track material requiring downstream A17 family work. The Companion's discernment: address what A24 is for in this session; route additional surfacing to subsequent protocols and subsequent sessions. Do not press A24 through material it is not designed to hold.
