@@ -11,6 +11,7 @@ Contents of Volume 1: Laws of the Spirit. Each entry below opens that section of
 
 - [What We Are Being Formed For: The Kingdom of God Now](what-we-are-being-formed-for-the.md) — What We Are Being Formed For: The Kingdom of God Now
 - [Taxonomy Key: How This Volume Classifies Its Explorations](taxonomy-key-how-this-volume-classifies-its.md) — Taxonomy Key: How This Volume Classifies Its Explorations
+- [The Properties of Spiritual Law as Used in This Work](properties-of-spiritual-law.md) — The Properties of Spiritual Law as Used in This Work
 - [Opening: The Miracle Frame](opening-miracle-frame.md) — Opening Exploration: The Miracle Frame — The Natural World as a Subset
 - [Foundational Laws: The Forty-Eight Laws of the Spirit](foundational-laws-thirty-eight-operational-laws-of-wide.md) — Foundational Laws: The Forty-Eight Laws of the Spirit
 - [Foundational Law I: The Sowing-and-Reaping Law](foundational-law-i-the-sowing-and-reaping.md) — Foundational Law I: The Sowing-and-Reaping Law
