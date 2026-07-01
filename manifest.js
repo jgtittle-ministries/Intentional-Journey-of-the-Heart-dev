@@ -273,6 +273,10 @@ window.VOLUME_CHAPTERS = {
         "title": "Foundational Law XLVII: The Word's-Efficacy Law"
       },
       {
+        "path": "docs/volume-1-laws-of-the-spirit/foundational-law-xlviii-the-image-bearing-law.md",
+        "title": "Foundational Law XLVIII: The Image-Bearing Law"
+      },
+      {
         "path": "docs/volume-1-laws-of-the-spirit/exploration-01-how-to-get-faith.md",
         "title": "First Exploration: How to Get Faith"
       },
@@ -1353,6 +1357,15 @@ window.PATH_TO_INFO = {
     "folder": "volume-1-laws-of-the-spirit",
     "title": "Foundational Law XLVII: The Word's-Efficacy Law",
     "prev": "docs/volume-1-laws-of-the-spirit/foundational-law-xlvi-the-communal-truth-telling-law.md",
+    "next": "docs/volume-1-laws-of-the-spirit/foundational-law-xlviii-the-image-bearing-law.md"
+  },
+  "docs/volume-1-laws-of-the-spirit/foundational-law-xlviii-the-image-bearing-law.md": {
+    "volume": 1,
+    "volumeName": "Volume 1: Laws of the Spirit",
+    "volumeFile": "Volume 1.html",
+    "folder": "volume-1-laws-of-the-spirit",
+    "title": "Foundational Law XLVIII: The Image-Bearing Law",
+    "prev": "docs/volume-1-laws-of-the-spirit/foundational-law-xlvii-the-words-efficacy-law.md",
     "next": "docs/volume-1-laws-of-the-spirit/exploration-01-how-to-get-faith.md"
   },
   "docs/volume-1-laws-of-the-spirit/exploration-01-how-to-get-faith.md": {
@@ -1361,7 +1374,7 @@ window.PATH_TO_INFO = {
     "volumeFile": "Volume 1.html",
     "folder": "volume-1-laws-of-the-spirit",
     "title": "First Exploration: How to Get Faith",
-    "prev": "docs/volume-1-laws-of-the-spirit/foundational-law-xlvii-the-words-efficacy-law.md",
+    "prev": "docs/volume-1-laws-of-the-spirit/foundational-law-xlviii-the-image-bearing-law.md",
     "next": "docs/volume-1-laws-of-the-spirit/exploration-02-my-spirit-heart-soul-and.md"
   },
   "docs/volume-1-laws-of-the-spirit/exploration-02-my-spirit-heart-soul-and.md": {

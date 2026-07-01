@@ -59,4 +59,4 @@ Notice what this is, and what it is not. It is not the popular notion that our w
 
 *The studies behind this note, for any who wish to follow them: John Gottman and Robert Levenson on contempt and marital dissolution; Janice Kiecolt-Glaser on hostile speech, inflammation, and wound healing; Akemi Tomoda and Martin Teicher on parental verbal abuse and the developing brain; Wolfgang Häuser and Fabrizio Benedetti on the "nocebo" power of a clinician's words over pain; Geoffrey Cohen and David Sherman on self-affirmation, and Carol Dweck on the kind of praise that forms a child; and Barbara Fredrickson on loving-kindness and the body. Each is offered as a corroborating witness, never as the foundation — the foundation is the word of God, which stood long before any of them and will stand long after.*
 
-[**Return to the Periodic Table (Volume 5) →**](periodic-table-see-volume-5.md){: .md-button .md-button--primary }
+[**Foundational Law XLVIII: The Image-Bearing Law →**](foundational-law-xlviii-the-image-bearing-law.md){: .md-button .md-button--primary }
