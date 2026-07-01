@@ -35,7 +35,7 @@
 
 ## ⚠️ WATCH-OUTS / GOTCHAS
 
-- **manifest.js has TWO structures:** `window.VOLUME_CHAPTERS` (nav) **and** `window.PATH_TO_INFO` (a prev/next linked list). The **search-index generator reads PATH_TO_INFO** — when adding/removing a chapter, update BOTH, then regenerate `search-index.js` (`node _work/_gen_search_index.js "<repoRoot>"`).
+- **manifest.js has TWO structures:** `window.VOLUME_CHAPTERS` (nav) **and** `window.PATH_TO_INFO` (a prev/next linked list). The **search-index generator reads PATH_TO_INFO** — when adding/removing a chapter, update BOTH, then regenerate `search-index.js`. **The generator lives at the CLAUDE-level `_work\` (i.e. `C:\Users\jgtit\claude\_work\_gen_search_index.js`), NOT inside the repo, and it `require()`s the repo's manifest.js — so it needs an ABSOLUTE repo-root path:** `cd /c/Users/jgtit/claude/_work && node _gen_search_index.js "C:/Users/jgtit/claude/_work/Intentional-Journey-of-the-Heart-dev"` (a bare/relative dir name throws MODULE_NOT_FOUND on the require).
 - **Reader embeds SVG as flat `![](x.svg)` images — not clickable.** "Doorways" into deeper material = a text link-list beside the figure, not links inside the SVG.
 - **search-index must be regenerated for TEXT changes** (not for image/version-stamp-only changes). Prod's index can go stale — regenerate on the prod side too during a mirror of text.
 - **dev-only, never mirror:** `docs/index.md` DEV banner + `_implementation-notes/`. Word renumbers footnote ids on docx save (benign).
