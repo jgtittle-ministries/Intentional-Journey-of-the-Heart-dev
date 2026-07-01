@@ -38,15 +38,16 @@ Once you see the field as a landscape — axes Truth (φ), Goodness (χ), Beauty
 | **Constraints / boundaries** | The admissible region — where you are *allowed* to be | Holiness; FL.XLI Defilement-Cleansing Reversal |
 | **Conservation** | What is preserved through change | V3.Exp6 — confession-restoration conserves position; capacity used grows, capacity unused diminishes |
 
-## Every Law Has Three Addresses
+## Every Law Has Four Addresses
 
-This is the part that answers "can each be traced to a specific place?" — and the answer is yes, three times over. Every law already carries three coordinates:
+This is the part that answers "can each be traced to a specific place?" — and the answer is yes, four times over. Every law already carries four coordinates:
 
 1. **Category (A–F)** in the [Master Law Index](appendix-master-law-index.md) — Structural, Operational, Diagnostic, Tool-Application, Developmental, Field.
 2. **Periodic cell** (Period n × Group n) in the [Vol 5 Periodic Table](../volume-5-references/periodic-table-of-spiritual-laws-a-summing.md).
 3. **Role in the field** (the atlas above).
+4. **Loop membership** in the [Causal-Loop Set](the-complete-causal-loop-set.md) — which feedback loop the law lives in, and whether it runs there as a reinforcing driver or a balancing brake.
 
-So FL.XV Hardening's full address is: *Category B (operational); cell P0/GI; field-role = a potential well that deepens with refusal.* That is a precise, traceable location in three coordinate systems at once. (And the reason the six proportionality laws — FL.I, VI, IX, XV, XVI, XXXV — all share the Period-0 row is that they are one dynamic seen from six different dimensions of the person.)
+So FL.XV Hardening's full address is: *Category B (operational); cell P0/GI; field-role = a potential well that deepens with refusal; loop = the dark twin of the Faith-Obedience engine.* That is a precise, traceable location in four coordinate systems at once — the *kind* of law, its *place* on the grid, its *shape* in the landscape, and the living *loop* it drives or drags on. Four instruments, one traceable object — the natural completion of the move this atlas began. (And the reason the six proportionality laws — FL.I, VI, IX, XV, XVI, XXXV — all share the Period-0 row is that they are one dynamic seen from six different dimensions of the person.)
 
 ## What Refuses to Be an Equation
 
@@ -69,7 +70,7 @@ where **G_s, God's sanctifying action, leads the whole expression** — *"I am t
 
 And here is the part I find most beautiful, because it is grounded in an actual law. **[FL.XLI, the Defilement-Cleansing Reversal Law](../volume-1-laws-of-the-spirit/foundational-law-xli-the-defilement-cleansing-reversal-law.md), is a statement about the holiness boundary changing sign.** Under the old covenant the holiness constraint *repels*: touch the unclean and uncleanness spreads inward, so the boundary must be defended — the veil, the holy of holies, the careful perimeter of clean and unclean. Under Christ, FL.XLI says the polarity *inverts*: His holiness is contagious *cleanness* — He touches the leper and the leper is made clean, not He unclean. In the geometry, that is the holiness constraint surface **turning from a repelling wall into an attractor.** Holiness stops being the boundary that keeps you out and becomes the pull that brings you home. That, I would argue, is the gospel written in the field's own language.
 
-**Proposed framing (the atlas: organizing instrument; the holiness formula: Speculative): Most Foundational Laws do not sit inside Vol 3's one equation; they occupy distinct structural roles in the transcendental field — attractor, axis, equation-term, gradient, potential well, landscape-substrate, coupling, constraint, or conservation law — and each law can be located by three coordinates at once (its Master-Index category, its Periodic-Table cell, and its field-role). Holiness is best modeled not as a fourth axis but as the constraint geometry of the space: God's holiness the source that defines the admissible region, our holiness the set-apart conformity that keeps us within it, and — under Christ (FL.XLI) — the boundary inverted from a repelling wall into a cleansing attractor.**
+**Proposed framing (the atlas: organizing instrument; the holiness formula: Speculative): Most Foundational Laws do not sit inside Vol 3's one equation; they occupy distinct structural roles in the transcendental field — attractor, axis, equation-term, gradient, potential well, landscape-substrate, coupling, constraint, or conservation law — and each law can be located by four coordinates at once (its Master-Index category, its Periodic-Table cell, its field-role, and its loop-membership in the Causal-Loop Set). Holiness is best modeled not as a fourth axis but as the constraint geometry of the space: God's holiness the source that defines the admissible region, our holiness the set-apart conformity that keeps us within it, and — under Christ (FL.XLI) — the boundary inverted from a repelling wall into a cleansing attractor.**
 
 **Certainty: the role-atlas is Reasonably Inferred as an organizing map of what the matured catalog already holds; the "equation for Holy" is Speculative — a structured analogy, offered for the light it sheds, not a measurement and not a doctrine. The governing term in every formulation (G, G_s) is God's free action and is deliberately left un-formalized.**
 
