@@ -12,9 +12,9 @@ The [Seventh Exploration](exploration-07-systems-dynamics-as-modeling-language.m
 
 A complete set is not a pile of diagrams. It is a **layered library** sitting under a handful of rules — and a single picture can hold the whole of it:
 
-![A map of the complete causal-loop set: God's free self-giving (G) feeds the system from outside as an exogenous input; the Faith-Obedience engine sits at the center, coupled to four loop-families (vertical, interior, horizontal, generational); the heart's throne is the master switch beneath them all; and the whole nested system trends toward the Glory attractor, with suffering as the swing-input.](images/cld-map-of-maps.svg)
+![A map of the complete causal-loop set: God's free self-giving (G) feeds the system from outside as an exogenous input; the Faith-Obedience engine sits at the center, coupled to four loop-families (vertical, interior, horizontal, generational) and the cross-layer Word-Stewardship loop; the heart's throne is the master switch beneath them all; and the whole nested system trends toward the Glory attractor, with suffering as the swing-input.](images/cld-map-of-maps.svg)
 
-*The map of maps. G powers it from outside; the engine drives it; four loop-families couple to the engine; the throne sets every loop's sign; the whole thing trends toward Glory.*
+*The map of maps. G powers it from outside; the engine drives it; four loop-families and the cross-layer Word-Stewardship loop couple to the engine; the throne sets every loop's sign; the whole thing trends toward Glory.*
 
 ## The Seven Rules the Whole Set Obeys
 

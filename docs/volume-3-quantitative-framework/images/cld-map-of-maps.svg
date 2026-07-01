@@ -1,6 +1,6 @@
 <svg viewBox="0 0 960 660" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="t d">
 <title id="t">Map of the complete causal-loop set</title>
-<desc id="d">God's free self-giving (G) feeds the system from outside as an exogenous input. The Faith-Obedience engine sits at the center, coupled to four loop-families — vertical (person and God), interior (clearing), horizontal (community), and generational. The heart's throne is the master switch beneath them all. The whole nested system trends rightward toward the Glory attractor, with suffering as the swing-input.</desc>
+<desc id="d">God's free self-giving (G) feeds the system from outside as an exogenous input. The Faith-Obedience engine sits at the center, coupled to four loop-families — vertical (person and God), interior (clearing), horizontal (community), and generational — plus the cross-layer Word-Stewardship loop that bridges the interior and horizontal families. The heart's throne is the master switch beneath them all. The whole nested system trends rightward toward the Glory attractor, with suffering as the swing-input.</desc>
 <defs>
 <marker id="ag" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#C9851F"/></marker>
 <marker id="as" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#6E7C8E"/></marker>
@@ -29,6 +29,7 @@
   <line x1="488" y1="304" x2="548" y2="260" marker-start="url(#asd)" marker-end="url(#asd)"/>
   <line x1="345" y1="358" x2="287" y2="405" marker-start="url(#asd)" marker-end="url(#asd)"/>
   <line x1="488" y1="356" x2="548" y2="409" marker-start="url(#asd)" marker-end="url(#asd)"/>
+  <line x1="320" y1="332" x2="299" y2="335" marker-start="url(#asd)" marker-end="url(#asd)"/>
 </g>
 
 <!-- families -->
@@ -54,6 +55,13 @@
   <text x="625" y="447" text-anchor="middle" fill="#6B7280" font-size="9.5">Household ⇄ Cascade</text>
   <text x="625" y="462" text-anchor="middle" fill="#6B7280" font-size="9.5">Calcification · Transmission</text>
 </g>
+
+<!-- Word-Stewardship loop (cross-layer, newly drawn) -->
+<rect x="85" y="300" width="210" height="72" rx="9" fill="#FFFFFF" stroke="#C9851F" stroke-width="1.6"/>
+<text x="190" y="321" text-anchor="middle" fill="#C9851F" font-family="Georgia, serif" font-size="11.5" font-weight="600">Word-Stewardship loop (R)</text>
+<text x="190" y="338" text-anchor="middle" fill="#6B7280" font-family="Georgia, serif" font-size="9.5">cross-layer: interior ↔ horizontal</text>
+<text x="190" y="353" text-anchor="middle" fill="#6B7280" font-family="Georgia, serif" font-size="9.5">image → speak → align → weighed</text>
+<text x="190" y="367" text-anchor="middle" fill="#6B7280" font-family="Georgia, serif" font-size="9">FL.XLVIII·II·XXIV·XLVII·XX·XLVI</text>
 
 <!-- macro trajectory to Glory -->
 <line x1="500" y1="330" x2="812" y2="330" stroke="#C9851F" stroke-width="2.6" marker-end="url(#ag)"/>
