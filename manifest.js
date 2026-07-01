@@ -14,6 +14,10 @@ window.VOLUME_CHAPTERS = {
         "title": "If You Come Weary, Read This First"
       },
       {
+        "path": "docs/introduction/how-to-read-this-book-the-map.md",
+        "title": "How to Read This Book: The Country of the Heart"
+      },
+      {
         "path": "docs/introduction/founders-genesis-how-this-work-came-together.md",
         "title": "Founders’ Genesis: How This Work Came Together"
       },
@@ -782,6 +786,15 @@ window.PATH_TO_INFO = {
     "folder": "introduction",
     "title": "If You Come Weary, Read This First",
     "prev": "docs/introduction/index.md",
+    "next": "docs/introduction/how-to-read-this-book-the-map.md"
+  },
+  "docs/introduction/how-to-read-this-book-the-map.md": {
+    "volume": 0,
+    "volumeName": "Introduction",
+    "volumeFile": "Introduction.html",
+    "folder": "introduction",
+    "title": "How to Read This Book: The Country of the Heart",
+    "prev": "docs/introduction/if-you-come-weary-read-this-first.md",
     "next": "docs/introduction/founders-genesis-how-this-work-came-together.md"
   },
   "docs/introduction/founders-genesis-how-this-work-came-together.md": {
@@ -790,7 +803,7 @@ window.PATH_TO_INFO = {
     "volumeFile": "Introduction.html",
     "folder": "introduction",
     "title": "Founders’ Genesis: How This Work Came Together",
-    "prev": "docs/introduction/if-you-come-weary-read-this-first.md",
+    "prev": "docs/introduction/how-to-read-this-book-the-map.md",
     "next": "docs/introduction/introduction-what-i-am-trying-to-do.md"
   },
   "docs/introduction/introduction-what-i-am-trying-to-do.md": {
