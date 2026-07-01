@@ -5,7 +5,7 @@ source: "IJH front matter, v5_8_0_1"
 
 # How to Read This Book: The Country of the Heart
 
-This is a big book — six volumes, forty-seven laws, a good deal of machinery. But before any of that, I want to hand you the whole of it on a single page. Everything in these volumes is a closer look at one map: the country of the heart, and how a heart grows toward God. If you keep this one picture in your head, you will never be lost in the rest of it.
+This is a big book — six volumes, forty-eight laws, a good deal of machinery. But before any of that, I want to hand you the whole of it on a single page. Everything in these volumes is a closer look at one map: the country of the heart, and how a heart grows toward God. If you keep this one picture in your head, you will never be lost in the rest of it.
 
 ![The Country of the Heart — the whole book on one map. Grace comes down from outside the map as the Father's free gift; a central engine of hearing, trusting, and obeying carries the heart toward Home, which is becoming like Christ; some places are pits, like a hardened heart, that trap you and need help from outside; and a legend gives four ways to read the map.](images/country-of-the-heart-map.svg)
 
