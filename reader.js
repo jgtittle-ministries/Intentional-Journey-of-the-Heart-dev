@@ -416,6 +416,17 @@
         }
       });
 
+      // Wrap tables in a horizontal-scroll container so a wide table (e.g. the
+      // six-column Periodic Table grid) scrolls within the reading column
+      // instead of overflowing across the right rail.
+      body.querySelectorAll('table').forEach(t => {
+        if (t.parentElement && t.parentElement.classList.contains('table-scroll')) return;
+        const wrap = document.createElement('div');
+        wrap.className = 'table-scroll';
+        t.parentNode.insertBefore(wrap, t);
+        wrap.appendChild(t);
+      });
+
       // Build chapter outline in right rail (replaces source-info block when long)
       const rail = document.querySelector('.right-rail');
       if (isLong && rail && allHeadings.length >= 4) {
