@@ -14,6 +14,10 @@ This is about the word-power God entrusted to us when He made us in His image �
 
 Put together, the Scriptures on speech are not a handful of separate commands but one moving cycle, and the catalog already holds most of its stages as laws in their own right.
 
+![The Word-Stewardship loop drawn as a causal-loop diagram: a five-stage reinforcing cycle — the image, hearing, speaking, alignment, weighing — running round and back, with God's free self-giving feeding it from outside and the word's orientation as the master switch that can run the same loop in reverse.](images/word-stewardship-loop.svg)
+
+*The cycle as a loop: image → hear → speak → align → be weighed → and round again, each turn conforming the speaker a little more to Christ the Word. God alone finally makes a word true (the exogenous input); the word's orientation is the switch — spoken true and in love it builds up, presumed or corrupt it runs in reverse. This is its dynamical form in Vol 3's Causal-Loop Set.*
+
 **First, the root — the image.** Because we are made in the image of the God who creates by speaking — "And God said, 'Let there be light,' and there was light" (Gen. 1:3) — we carry a real, derived power to bring order, relationship, and reality into being with words. The first thing the image-bearer does is a word-act: "the man gave names to all livestock and to the birds… and to every beast" (Gen. 2:19–20). Naming is ordering; the image of God in us is, from the first page, a speaking image. This is [FL.XLVIII, the Image-Bearing Law](foundational-law-xlviii-the-image-bearing-law.md) — the newest of the laws and the root of the cycle.
 
 **Second, the hearing.** Aligned speech is downstream of hearing; we speak what we have first received. This is [FL.VI, the Hear-and-Obey Law](foundational-law-vi-the-hear-and-obey.md) standing at the head of the cycle — the word is heard with a will to obey before it is ever spoken.

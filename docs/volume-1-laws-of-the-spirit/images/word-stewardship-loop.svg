@@ -1,0 +1,60 @@
+<svg viewBox="0 0 800 612" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="t d">
+<title id="t">The Word-Stewardship loop as a causal loop diagram</title>
+<desc id="d">A reinforcing loop of five stages — the image (FL.XLVIII) to Hearing (FL.VI) to Speaking across the threshold (FL.II, XXIV, XLVIII) to Alignment with God's word (FL.XLVII) to Weighing by the gathered body (FL.XX, XLVI) and back, every link positive. A delay sits on the bringing-to-be-weighed link. God's free self-giving (G) feeds it from outside: only God finally makes a word true — Balaam could not curse whom God had blessed. The word's orientation is the master switch: spoken true and in love the loop builds up; the presumed or corrupt word runs the same loop in reverse.</desc>
+<defs>
+<marker id="ag" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7.5" markerHeight="7.5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#C9851F"/></marker>
+<marker id="as" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#6E7C8E"/></marker>
+</defs>
+<rect x="3" y="3" width="794" height="606" rx="14" fill="#FBFAF7" stroke="#E7E2D9" stroke-width="1.5"/>
+<text x="400" y="32" text-anchor="middle" fill="#2B2E34" font-family="Georgia, serif" font-size="20" font-weight="600">The Word-Stewardship Loop</text>
+
+<g fill="none" stroke="#C9851F" stroke-width="2.4">
+  <path d="M 441,148 A 150 150 0 0 1 524,208" marker-end="url(#ag)"/>
+  <path d="M 550,287 A 150 150 0 0 1 518,384" marker-end="url(#ag)"/>
+  <path d="M 451,433 A 150 150 0 0 1 349,433" marker-end="url(#ag)"/>
+  <path d="M 282,384 A 150 150 0 0 1 250,287" marker-end="url(#ag)" stroke-dasharray="9 5"/>
+  <path d="M 276,208 A 150 150 0 0 1 359,148" marker-end="url(#ag)"/>
+</g>
+
+<g fill="#C9851F" font-family="Georgia, serif" font-size="16" font-weight="700" text-anchor="middle">
+  <text x="500" y="153">+</text><text x="568" y="342">+</text><text x="400" y="468">+</text><text x="232" y="342">+</text><text x="300" y="153">+</text>
+</g>
+
+<text x="236" y="394" text-anchor="middle" fill="#6E7C8E" font-family="Georgia, serif" font-size="15" font-weight="700">‖</text>
+<text x="205" y="410" text-anchor="middle" fill="#6B7280" font-family="Georgia, serif" font-size="10.5">delay (it ripens)</text>
+
+<circle cx="400" cy="292" r="34" fill="none" stroke="#C9851F" stroke-width="2"/>
+<path d="M 400,258 A 34 34 0 1 1 372,274" fill="none" stroke="#C9851F" stroke-width="2" marker-end="url(#ag)"/>
+<text x="400" y="290" text-anchor="middle" fill="#C9851F" font-family="Georgia, serif" font-size="20" font-weight="700">R</text>
+<text x="400" y="307" text-anchor="middle" fill="#6B7280" font-family="Georgia, serif" font-size="9">reinforcing</text>
+
+<g font-family="Georgia, serif" font-size="12.5" text-anchor="middle">
+  <rect x="338" y="124" width="124" height="34" rx="17" fill="#FFFFFF" stroke="#C9851F" stroke-width="1.5"/><text x="400" y="145" fill="#2B2E34">The image</text>
+  <rect x="481" y="229" width="124" height="34" rx="17" fill="#FFFFFF" stroke="#C9851F" stroke-width="1.5"/><text x="543" y="250" fill="#2B2E34">Hearing</text>
+  <rect x="426" y="396" width="124" height="34" rx="17" fill="#FFFFFF" stroke="#C9851F" stroke-width="1.5"/><text x="488" y="417" fill="#2B2E34">Speaking</text>
+  <rect x="250" y="396" width="124" height="34" rx="17" fill="#FFFFFF" stroke="#C9851F" stroke-width="1.5"/><text x="312" y="417" fill="#2B2E34">Alignment</text>
+  <rect x="195" y="229" width="124" height="34" rx="17" fill="#FFFFFF" stroke="#C9851F" stroke-width="1.5"/><text x="257" y="250" fill="#2B2E34">Weighing</text>
+</g>
+<g font-family="Georgia, serif" font-size="10" fill="#6B7280" text-anchor="middle">
+  <text x="400" y="116">FL.XLVIII — the word-power of the image</text>
+  <text x="543" y="224">FL.VI</text>
+  <text x="488" y="449">FL.II · XXIV</text>
+  <text x="312" y="449">FL.XLVII</text>
+  <text x="257" y="224">FL.XX · XLVI</text>
+</g>
+
+<rect x="24" y="74" width="220" height="54" rx="9" fill="#FFFFFF" stroke="#6E7C8E" stroke-width="1.4"/>
+<text x="34" y="96" fill="#2B2E34" font-family="Georgia, serif" font-size="12" font-weight="600">G — only God makes a word true</text>
+<text x="34" y="114" fill="#6B7280" font-family="Georgia, serif" font-size="10.5">exogenous · Balaam could not curse the blessed</text>
+<path d="M 132,128 C 150,240 200,355 248,408" fill="none" stroke="#6E7C8E" stroke-width="1.8" stroke-dasharray="4 4" marker-end="url(#as)"/>
+
+<rect x="140" y="522" width="520" height="58" rx="9" fill="#FFFFFF" stroke="#6E7C8E" stroke-width="1.4"/>
+<text x="400" y="544" text-anchor="middle" fill="#2B2E34" font-family="Georgia, serif" font-size="12.5" font-weight="600">The word's orientation — the master switch</text>
+<text x="400" y="563" text-anchor="middle" fill="#6B7280" font-family="Georgia, serif" font-size="10.5">spoken true and in love → the loop builds up; the presumed or corrupt word runs the same loop in reverse (Jer. 23; Jas. 3:6)</text>
+<path d="M 400,522 C 400,470 400,420 400,328" fill="none" stroke="#6E7C8E" stroke-width="1.8" marker-end="url(#as)"/>
+
+<g font-family="Georgia, serif" font-size="10" fill="#6B7280">
+  <text x="628" y="560">+ same-direction link</text>
+  <text x="628" y="575">R reinforcing · ‖ delay</text>
+</g>
+</svg>
