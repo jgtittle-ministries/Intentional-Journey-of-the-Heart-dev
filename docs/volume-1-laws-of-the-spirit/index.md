@@ -61,6 +61,7 @@ Contents of Volume 1: Laws of the Spirit. Each entry below opens that section of
 - [Foundational Law XLVI: The Communal Truth-Telling Law](foundational-law-xlvi-the-communal-truth-telling-law.md) — Foundational Law XLVI: The Communal Truth-Telling Law
 - [Foundational Law XLVII: The Word's-Efficacy Law](foundational-law-xlvii-the-words-efficacy-law.md) — Foundational Law XLVII: The Word's-Efficacy Law
 - [Foundational Law XLVIII: The Image-Bearing Law](foundational-law-xlviii-the-image-bearing-law.md) — Foundational Law XLVIII: The Image-Bearing Law
+- [The Image-Bearing Word: A Connective Essay](the-image-bearing-word.md) — The Image-Bearing Word — the Word-Stewardship cycle that gathers the speech laws
 - [1. How to Get Faith](exploration-01-how-to-get-faith.md) — First Exploration: How to Get Faith
 - [2. My Spirit, Heart, Soul, and Body](exploration-02-my-spirit-heart-soul-and.md) — Second Exploration: My Spirit, Heart, Soul, and Body
 - [Supplemental: The Three Desires](supplemental-three-desires.md) — Supplemental Exploration: The Three Desires — Design Specifications of the Human Heart
