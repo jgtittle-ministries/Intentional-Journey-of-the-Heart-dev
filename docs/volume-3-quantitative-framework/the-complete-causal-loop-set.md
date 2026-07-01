@@ -59,6 +59,8 @@ Around that engine the rest of the catalog arranges itself into five layers. A h
 
 Every diagram in the set carries the same four cross-cutting marks: **G** (exogenous), the **throne switch**, the **substrate gains**, and the **delays**.
 
+One loop added since the first drawing crosses two of these layers at once. **The Word-Stewardship loop** runs from the interior out into the horizontal: an inner reality is heard (FL.VI), formed and brought across the threshold into spoken word ([FL.XLVIII, the Image-Bearing Law](../volume-1-laws-of-the-spirit/foundational-law-xlviii-the-image-bearing-law.md), with FL.II / FL.XXIV), aligned to what God is actually saying (FL.XLVII), and brought to the gathered body to be weighed (FL.XX / FL.XLVI) — the weighing feeding back to correct and sharpen the next word, round again. It is a reinforcing loop with a communal balancing check on it, and it is the dynamical form of the Word-Stewardship Cycle set out in the Vol 1 essay [The Image-Bearing Word](../volume-1-laws-of-the-spirit/the-image-bearing-word.md) and registered as a Type-C pathway in the Vol 5 Meta-Law Layer. Like the rest it carries the four marks: G exogenous (only God finally makes a word true — Balaam could not curse what God had blessed), the throne switch (the presumed or corrupt word runs the same loop in reverse), the substrate gains (trust and a pure heart set how cleanly the word forms), and a delay (the weighing, and the ripening it asks for, take time).
+
 ## What the Map Buys Us
 
 Three things, beyond the pleasure of seeing the whole.
