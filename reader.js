@@ -423,6 +423,9 @@
         if (t.parentElement && t.parentElement.classList.contains('table-scroll')) return;
         const wrap = document.createElement('div');
         wrap.className = 'table-scroll';
+        wrap.setAttribute('tabindex', '0');
+        wrap.setAttribute('role', 'region');
+        wrap.setAttribute('aria-label', 'Scrollable table');
         t.parentNode.insertBefore(wrap, t);
         wrap.appendChild(t);
       });

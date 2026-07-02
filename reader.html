@@ -165,14 +165,54 @@
   }
   .reader-prose table td:first-child { color: var(--text); font-weight: 500; }
   /* Wide tables scroll horizontally within the reading column instead of
-     overflowing across the right rail (see reader.js table-scroll wrapping). */
+     overflowing across the right rail. reader.js wraps every rendered
+     <table> in <div class="table-scroll" role="region">. */
   .reader-prose .table-scroll {
-    overflow-x: auto;
+    width: 100%;
     max-width: 100%;
-    margin: 32px 0;
+    overflow-x: auto;
     -webkit-overflow-scrolling: touch;
+    overscroll-behavior-x: contain;
+    margin: 32px 0;
+    border: 1px solid var(--rule-soft);
+    border-radius: 3px;
+    background: var(--bg-2);
+    /* fade hint on the right edge so users know there's more to scroll */
+    background:
+      linear-gradient(90deg, var(--bg-2) 30%, transparent),
+      linear-gradient(90deg, transparent, var(--bg-2) 70%) 100% 0,
+      radial-gradient(farthest-side at 0 50%, oklch(0.3 0.02 60 / 0.18), transparent),
+      radial-gradient(farthest-side at 100% 50%, oklch(0.3 0.02 60 / 0.18), transparent) 100% 0;
+    background-repeat: no-repeat;
+    background-size: 40px 100%, 40px 100%, 14px 100%, 14px 100%;
+    background-attachment: local, local, scroll, scroll;
+    scrollbar-width: thin;
+    scrollbar-color: var(--rule) transparent;
   }
-  .reader-prose .table-scroll table { margin: 0; }
+  .reader-prose .table-scroll::-webkit-scrollbar { height: 8px; }
+  .reader-prose .table-scroll::-webkit-scrollbar-thumb { background: var(--rule); border-radius: 4px; }
+  .reader-prose .table-scroll table {
+    margin: 0;
+    min-width: 100%;
+    width: max-content;
+    max-width: none;
+  }
+  .reader-prose .table-scroll th,
+  .reader-prose .table-scroll td {
+    padding: 12px 16px;
+    white-space: normal;
+    min-width: 96px;       /* keeps narrow cells legible; wide prose cells wrap */
+    vertical-align: top;
+  }
+  .reader-prose .table-scroll td:first-child,
+  .reader-prose .table-scroll th:first-child { padding-left: 18px; }
+  .reader-prose .table-scroll td:last-child,
+  .reader-prose .table-scroll th:last-child { padding-right: 18px; }
+  /* cells carrying long prose get room before they trigger scroll */
+  .reader-prose .table-scroll td { max-width: 460px; }
+  @media (max-width: 720px) {
+    .reader-prose .table-scroll { margin-left: -20px; margin-right: -20px; width: calc(100% + 40px); max-width: none; border-radius: 0; border-left: 0; border-right: 0; }
+  }
   .reader-prose hr {
     border: 0;
     border-top: 1px solid var(--rule-soft);
