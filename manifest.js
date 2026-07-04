@@ -6,6 +6,10 @@ window.VOLUME_CHAPTERS = {
     "folder": "introduction",
     "chapters": [
       {
+        "path": "docs/read-me-first.md",
+        "title": "Read Me First"
+      },
+      {
         "path": "docs/introduction/index.md",
         "title": "Introduction"
       },
@@ -779,12 +783,21 @@ window.VOLUME_CHAPTERS = {
   }
 };
 window.PATH_TO_INFO = {
+  "docs/read-me-first.md": {
+    "volume": 0,
+    "volumeName": "Introduction",
+    "volumeFile": "Introduction.html",
+    "folder": "introduction",
+    "title": "Read Me First",
+    "next": "docs/introduction/index.md"
+  },
   "docs/introduction/index.md": {
     "volume": 0,
     "volumeName": "Introduction",
     "volumeFile": "Introduction.html",
     "folder": "introduction",
     "title": "Introduction",
+    "prev": "docs/read-me-first.md",
     "next": "docs/introduction/if-you-come-weary-read-this-first.md"
   },
   "docs/introduction/if-you-come-weary-read-this-first.md": {
