@@ -18,29 +18,15 @@ title: "Home"
 
 ---
 
-## What This Project Is
+Jesus is inviting you — really *you* — into a life lived *with* Him and *in* Him: a **miracle life**, where His hand at work becomes an ordinary, everyday thing. You step into it by learning to hear His voice and do what He says. And every time you do, your trust in Him grows, and He draws you a little deeper into knowing Him and becoming like Him.
 
-*Intentional Journey of the Heart* (IJH) began as a father's notes to his kids and grandkids — on what he has come to see, over decades of formation work, about how God forms a heart. It is a six-volume exploration of the spiritual laws governing Christian formation: Vols 1–2 articulate the laws pastorally, Vol 3 reframes them in quantitative-systemic terms, Vol 4 designs the testing program, Vol 5 holds the consolidated references and the analytical Periodic Table, and Vol 6 carries the governance for the work's continuation by the Council.
+That is the whole journey: **hear Him, obey Him, and come alive doing the very thing you were made for.**
 
-## Reading Paths
+This work is the record of one man's four decades on that journey — what I have found, what I am still finding, and what I am still unsure of — written down for my kids and grandkids, and for anyone else it might help.
 
-If you have not read IJH before, the project's breadth means you'll get more from it by picking a path that fits why you're here than by reading strictly front to back.
+**Start here → [Read Me First](read-me-first.md)**
 
-- **First-time reader / general orientation.** Start with the [Read Me First](read-me-first.md), then the [Introduction](introduction/index.md), then [Volume 1: Laws of the Spirit](volume-1-laws-of-the-spirit/index.md) in order. The other volumes assume Vol 1's framework.
-- **You want the analytical instrument first.** Go directly to [The Periodic Table of Spiritual Laws](volume-5-references/periodic-table-of-spiritual-laws-a-summing.md) in Vol 5. The Reader's Path callout and HOW TO READ block at the top of the chapter tier the entry; the Essential metadata is enough to use the table at a working level.
-- **You're a Formation Companion, facilitator, or studying spiritual formation.** Start with the five [Formation Documents](volume-5-references/introduction.md) (TA → HFT → SST → MSFIG → FC), then [Volume 2: Knowing to Doing](volume-2-knowing-to-doing/index.md) for the pastoral practices, then [Volume 4: Testing Framework](volume-4-testing-framework/index.md) if you want the measurement program.
-- **You're a Council member or contributor.** Start with [Volume 6: Governance](volume-6-governance/index.md) — Part 1 (Governance Model), Part 2 (Council), Part 3 (Succession Letter) — and the [Catalog History appendix](volume-6-governance/appendix-catalog-history.md) for the catalog's revision arc.
-
-## The Volumes
-
-- **[Read Me First](read-me-first.md)** — orientation to the project.
-- **[Introduction](introduction/index.md)** — what this work is trying to do.
-- **[Volume 1: Laws of the Spirit](volume-1-laws-of-the-spirit/index.md)**
-- **[Volume 2: Knowing to Doing](volume-2-knowing-to-doing/index.md)**
-- **[Volume 3: Spiritual Dynamics](volume-3-quantitative-framework/index.md)**
-- **[Volume 4: Testing Framework](volume-4-testing-framework/index.md)**
-- **[Volume 5: References](volume-5-references/index.md)**
-- **[Volume 6: Governance](volume-6-governance/index.md)**
+And if you have come tired — dry, in a hard season, not sure God is even near — read [If You Come Weary, Read This First](introduction/if-you-come-weary-read-this-first.md) before anything else. Nothing in this work was ever meant to measure how loved you are.
 
 ---
 
