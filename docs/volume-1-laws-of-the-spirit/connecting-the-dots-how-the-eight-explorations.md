@@ -23,7 +23,7 @@ The miracle life is not a special privilege for a few. It is the natural result 
 
 ## Some Open Trails
 
-![](images/image-015.jpeg)
+![](images/open-trail-into-the-woods.jpg)
 
 There is far more ahead than what I have mapped so far. The explorations I have identified as some next priorities:
 
