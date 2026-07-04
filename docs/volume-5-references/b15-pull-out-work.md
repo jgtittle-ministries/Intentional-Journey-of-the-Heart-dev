@@ -15,31 +15,31 @@ B15 carries the cohort's most stringent competency-and-referral framing. Per Dec
 
 **When to use it**
 
-• **When a participant is in or close to an active flashback during a session.** The clinical signal: the participant has been operating in cognitive engagement and is now somatically reliving the trauma — body posture changes; breath becomes shallow or hyperventilating; eye contact may be lost or fixed elsewhere; the participant may report (or stop being able to report) that "it's happening again"; the cognitive engagement the rest of the toolkit presupposes is unavailable. This is the core use case; B15 is specifically designed for this moment.
+- **When a participant is in or close to an active flashback during a session.** The clinical signal: the participant has been operating in cognitive engagement and is now somatically reliving the trauma — body posture changes; breath becomes shallow or hyperventilating; eye contact may be lost or fixed elsewhere; the participant may report (or stop being able to report) that "it's happening again"; the cognitive engagement the rest of the toolkit presupposes is unavailable. This is the core use case; B15 is specifically designed for this moment.
 
-• **For substantial trauma material that earlier carpet-work has surfaced but not yet contained.** When prior sessions have surfaced trauma material that B14 Kinesthetic Metaphor or A17 Carpet-Style Healing and Forgiveness have approached but not been able to contain (the participant has done the prior work and now carries somatically-located trauma that the prior work has made visible but not yet released), B15 may be the protocol the work needs next. The Companion's discernment about whether B15 is appropriate, and when, governs.
+- **For substantial trauma material that earlier carpet-work has surfaced but not yet contained.** When prior sessions have surfaced trauma material that B14 Kinesthetic Metaphor or A17 Carpet-Style Healing and Forgiveness have approached but not been able to contain (the participant has done the prior work and now carries somatically-located trauma that the prior work has made visible but not yet released), B15 may be the protocol the work needs next. The Companion's discernment about whether B15 is appropriate, and when, governs.
 
-• **For sexual-abuse recovery work** where the trauma is embodied and somatic-first approaches are operationally necessary. Companion III competency strongly preferred for primary facilitation; Companion II participation appropriate with Companion III oversight.
+- **For sexual-abuse recovery work** where the trauma is embodied and somatic-first approaches are operationally necessary. Companion III competency strongly preferred for primary facilitation; Companion II participation appropriate with Companion III oversight.
 
-• **As specifically-prepared session-component deployment.** Unlike most carpet-work protocols that may deploy as the work-component on Companion discernment during a session, B15 typically requires pre-session preparation — the Companion-team's competency check, the prop preparation, the role-player briefing, the body's preparation to hold the work. Spontaneous mid-session B15 deployment is operationally possible (when a flashback emerges unexpectedly and B15 is the operational response) but is the harder case; specifically-prepared deployment is the core default.
+- **As specifically-prepared session-component deployment.** Unlike most carpet-work protocols that may deploy as the work-component on Companion discernment during a session, B15 typically requires pre-session preparation — the Companion-team's competency check, the prop preparation, the role-player briefing, the body's preparation to hold the work. Spontaneous mid-session B15 deployment is operationally possible (when a flashback emerges unexpectedly and B15 is the operational response) but is the harder case; specifically-prepared deployment is the core default.
 
-• **In bodies whose container competency and Companion-staffing can hold the work.** B15 requires a robust container under V2.Exp8 refined; Companion-team support per B13 (two-Companion structure strongly preferred even when the body's default is single-Companion); group-member readiness to hold the work without secondary trauma activation among other participants.
+- **In bodies whose container competency and Companion-staffing can hold the work.** B15 requires a robust container under V2.Exp8 refined; Companion-team support per B13 (two-Companion structure strongly preferred even when the body's default is single-Companion); group-member readiness to hold the work without secondary trauma activation among other participants.
 
-• **At Companion III competency for primary facilitation; Companion II minimum for participation.** No Level I participation in B15 deployments; the work's intensity and the protocol's specialty character require Companion competency floor at II.
+- **At Companion III competency for primary facilitation; Companion II minimum for participation.** No Level I participation in B15 deployments; the work's intensity and the protocol's specialty character require Companion competency floor at II.
 
 **When NOT to use it**
 
-• **When the trauma intensity exceeds Companion competence.** This is the cohort's most stringent referral consideration. When the Companion's discernment is that the participant's trauma requires licensed clinical care — the trauma is sustained, complex, dissociative, sexual-abuse-with-PTSD, or otherwise beyond the Companion's scope — the core response is referral to a licensed trauma clinician (preferably one with Christian-frame practice but, if needed, secular clinical care over no care). Referral is not failure; referral is competency. The Companion's discipline is to know when the work belongs outside the corpus's care and to refer cleanly.
+- **When the trauma intensity exceeds Companion competence.** This is the cohort's most stringent referral consideration. When the Companion's discernment is that the participant's trauma requires licensed clinical care — the trauma is sustained, complex, dissociative, sexual-abuse-with-PTSD, or otherwise beyond the Companion's scope — the core response is referral to a licensed trauma clinician (preferably one with Christian-frame practice but, if needed, secular clinical care over no care). Referral is not failure; referral is competency. The Companion's discipline is to know when the work belongs outside the corpus's care and to refer cleanly.
 
-• **In bodies whose container competency is not robust.** New bodies, bodies in difficult lifecycle stages, bodies with unresolved relational material — none of these can hold B15 safely. The protocol requires container competency that established mature bodies have developed across years of practice; bodies still developing container competency should not deploy B15.
+- **In bodies whose container competency is not robust.** New bodies, bodies in difficult lifecycle stages, bodies with unresolved relational material — none of these can hold B15 safely. The protocol requires container competency that established mature bodies have developed across years of practice; bodies still developing container competency should not deploy B15.
 
-• **Without two-Companion structure where the body's staffing permits.** B15 deployment strongly benefits from B13's two-Companion structure. The back Companion's tracking of the bigger picture is operationally essential when the front Companion is in close with active-flashback work; the group's mood, the role-player's care, the broader gathering's safety all require the back Companion's attention. Single-Companion deployment is operationally possible but is the harder case; the Companion's pre-deployment discernment about whether single-Companion deployment is appropriate governs.
+- **Without two-Companion structure where the body's staffing permits.** B15 deployment strongly benefits from B13's two-Companion structure. The back Companion's tracking of the bigger picture is operationally essential when the front Companion is in close with active-flashback work; the group's mood, the role-player's care, the broader gathering's safety all require the back Companion's attention. Single-Companion deployment is operationally possible but is the harder case; the Companion's pre-deployment discernment about whether single-Companion deployment is appropriate governs.
 
-• **In contexts where the redemption-closing **core** discipline cannot operationally hold.** Where the Companion is not committed to the redemption-closing as substantive theological work, or where the participant's theological context cannot receive the closing's offering-of-the-wound-to-Christ framing, B15 should not deploy. The protocol's secular form ends in catharsis; the Christian-frame version ends in redemption; without the closing, the work is operationally incomplete and may produce somatic relief that is not formation.
+- **In contexts where the redemption-closing *core* discipline cannot operationally hold.** Where the Companion is not committed to the redemption-closing as substantive theological work, or where the participant's theological context cannot receive the closing's offering-of-the-wound-to-Christ framing, B15 should not deploy. The protocol's secular form ends in catharsis; the Christian-frame version ends in redemption; without the closing, the work is operationally incomplete and may produce somatic relief that is not formation.
 
-• **As substitute for verbal/cognitive work that is operationally available.** B15 is specifically for situations where cognitive engagement is unavailable; participants whose cognitive engagement is operationally intact should not have B15 deployed as a "deeper" form of work. The protocol's value is specifically for trauma-contained-in-body situations where verbal/cognitive entry cannot reach.
+- **As substitute for verbal/cognitive work that is operationally available.** B15 is specifically for situations where cognitive engagement is unavailable; participants whose cognitive engagement is operationally intact should not have B15 deployed as a "deeper" form of work. The protocol's value is specifically for trauma-contained-in-body situations where verbal/cognitive entry cannot reach.
 
-• **For substance-related somatic phenomena.** Some somatic phenomena have direct medical or substance-related causes warranting medical attention rather than carpet-work. The Companion's discernment distinguishes trauma-resident somatic material from medically-resident somatic material; medical material routes to medical care, not to B15.
+- **For substance-related somatic phenomena.** Some somatic phenomena have direct medical or substance-related causes warranting medical attention rather than carpet-work. The Companion's discernment distinguishes trauma-resident somatic material from medically-resident somatic material; medical material routes to medical care, not to B15.
 
 ## The protocol
 B15 runs across six operational moves, typically 45–75 minutes for a complete deployment. The protocol moves more quickly than other carpet-work because active-flashback containment is time-sensitive and prolonged engagement compounds the participant's somatic load.
@@ -88,11 +88,11 @@ The work has a felt-sense completion-point — the participant's body signals wh
 
 **Companion discernment.** Move 4 is the protocol's substantive somatic work. The Companion's discernment about pacing matters substantially:
 
-• *Role-player resistance calibration.* The resistance must be enough that the work is effortful but not so much that the participant cannot complete the pull-out. The role-player needs to read the participant's strength and effort in real-time; the back Companion (per B13) may signal to the role-player about resistance level when needed.
+- *Role-player resistance calibration.* The resistance must be enough that the work is effortful but not so much that the participant cannot complete the pull-out. The role-player needs to read the participant's strength and effort in real-time; the back Companion (per B13) may signal to the role-player about resistance level when needed.
 
-• *Participant somatic engagement.* The work happens through the participant's body. If the participant disengages from the somatic work mid-protocol (drops the prop; stops pulling; goes still), the Companion attends — sometimes the participant needs encouragement to continue; sometimes the participant has gone into deeper trauma activation that requires different response; sometimes the work has reached a different kind of completion than full pull-out.
+- *Participant somatic engagement.* The work happens through the participant's body. If the participant disengages from the somatic work mid-protocol (drops the prop; stops pulling; goes still), the Companion attends — sometimes the participant needs encouragement to continue; sometimes the participant has gone into deeper trauma activation that requires different response; sometimes the work has reached a different kind of completion than full pull-out.
 
-• *The completion-signal recognition.* The body's signal that the metaphor is fully out is specific and recognizable to Companions with B15 experience — the somatic shift is unmistakable. New Companions may need to lean on Companion III oversight during early B15 deployments to develop the completion-signal recognition.
+- *The completion-signal recognition.* The body's signal that the metaphor is fully out is specific and recognizable to Companions with B15 experience — the somatic shift is unmistakable. New Companions may need to lean on Companion III oversight during early B15 deployments to develop the completion-signal recognition.
 
 V2.Exp7A discernment-of-voices operates throughout Move 4. The participant's body may surface verbal material during the pull-out (cursing the original wounder; calling out for help; speaking words from the original trauma moment); the Companion attends to whether the speech is the participant's authentic somatic-emotional emergence or whether internal-voice material requires its own handling later.
 
@@ -100,7 +100,7 @@ Where active flashback intensifies during Move 4 rather than resolving toward co
 
 **Move 5 — Redemption-closing: offer the wound to Christ (10–20 minutes)**
 
-**Companion framing:** *"What just came out of your body — that wound that's been carried in your body — Christ carried in His body on the cross. *He Himself bore our sins in His body on the cross... for by His wounds you were healed* — 1 Peter 2:24. What you just pulled out of your body, you offer to Him. He has already carried it. Hold out what you're holding [the prop, still in the participant's hand]. Let me lead you in offering it to Him."*
+**Companion framing:** *"What just came out of your body — that wound that's been carried in your body — Christ carried in His body on the cross. **He Himself bore our sins in His body on the cross... for by His wounds you were healed** — 1 Peter 2:24. What you just pulled out of your body, you offer to Him. He has already carried it. Hold out what you're holding [the prop, still in the participant's hand]. Let me lead you in offering it to Him."*
 
 **Participant work:** Engage the redemption-closing. The participant, with the prop still in hand, offers the wound to Christ. The Companion's framing leads:
 
@@ -131,27 +131,27 @@ The prop is set aside during or after Move 5 — the Companion takes it from the
 **Post-session pastoral check-in is non-negotiable.** Within 24–48 hours of any B15 deployment, the primary Companion (or Companion-team) checks in with the participant to: (a) confirm the participant has stabilized; (b) attend to any continued somatic or emotional material; (c) confirm follow-up care is in place; (d) discern whether subsequent B15 deployment or other carpet-work is appropriate in the near term or whether the body needs time for the work to integrate. The check-in is structural requirement of B15 deployment.
 
 ## Companion notes
-**On the redemption-closing **core** discipline as the protocol's substantive theological work.** The redemption-closing is what makes B15 Christian-frame. Without it, the protocol is secular trauma-catharsis with somatic relief; with it, the protocol operates under the source-reversal core discipline at the *redemption is Christ's* altitude. The eleventh core instance of the source-reversal series operates here. The Companion's framing throughout Moves 1–4 anticipates the redemption-closing; the closing itself is substantive; without the closing's substantive operation, the protocol is operationally incomplete.
+**On the redemption-closing *core* discipline as the protocol's substantive theological work.** The redemption-closing is what makes B15 Christian-frame. Without it, the protocol is secular trauma-catharsis with somatic relief; with it, the protocol operates under the source-reversal core discipline at the *redemption is Christ's* altitude. The eleventh core instance of the source-reversal series operates here. The Companion's framing throughout Moves 1–4 anticipates the redemption-closing; the closing itself is substantive; without the closing's substantive operation, the protocol is operationally incomplete.
 
 **On Companion competency floor.** Companion II minimum for participation; Companion III for primary facilitation. The protocol's intensity and specialty character require competency that develops with sustained carpet-work practice. Companion II practitioners participating in B15 deployments under Companion III oversight develop the competency that matures to Companion III over time. Level I participation in B15 is not appropriate; the work's intensity exceeds what Level I formation can hold.
 
 **On clinical-referral protocol.** B15 has explicit referral protocol when trauma intensity exceeds Companion competence. The Companion's discernment about referral matters substantially:
 
-• *Sustained PTSD with daily functional impact* → licensed trauma clinician (preferably Christian-frame practice; secular clinical care if needed).
+- *Sustained PTSD with daily functional impact* → licensed trauma clinician (preferably Christian-frame practice; secular clinical care if needed).
 
-• *Dissociative identity disorder or dissociative-spectrum disorders* → specialized clinical care; B15 not appropriate without integrated clinical-pastoral team.
+- *Dissociative identity disorder or dissociative-spectrum disorders* → specialized clinical care; B15 not appropriate without integrated clinical-pastoral team.
 
-• *Recent acute trauma (within 6 months)* → typically clinical stabilization first; B15 after clinical care has stabilized the participant.
+- *Recent acute trauma (within 6 months)* → typically clinical stabilization first; B15 after clinical care has stabilized the participant.
 
-• *Sexual-abuse trauma with complex PTSD* → Christian-frame trauma specialist preferred; B15 may operate as adjunct to clinical care rather than as primary intervention.
+- *Sexual-abuse trauma with complex PTSD* → Christian-frame trauma specialist preferred; B15 may operate as adjunct to clinical care rather than as primary intervention.
 
-• *Substance-related somatic phenomena* → medical care; not B15.
+- *Substance-related somatic phenomena* → medical care; not B15.
 
-• *Suicidality* → immediate clinical care; B15 not appropriate.
+- *Suicidality* → immediate clinical care; B15 not appropriate.
 
 The Companion's referral is not failure; it is competency. Knowing when to refer is part of what makes the corpus's care safe and effective for the populations it serves.
 
-**On the source-reversal **core** instance.** B15 joins the source-reversal core series at the eleventh core instance: *the redemption is Christ's*. The verbal parallelism extends across the eleven-instance series: *the affirmation is the Lord's / the mission is the Lord's / the resonance is the Lord's / the blessing is the Lord's / the renunciation is in Jesus's name / the attending is the Spirit's / the session is the Lord's / the clearing is the Lord's / the reparenting is the Father's / the body's hearing is the Spirit's / the redemption is Christ's.* The source-reversal at B15 is theologically the most consequential of the cohort's three new instances at the specialty altitude because the secular catharsis-ending would directly compromise the source-reversal at the protocol level; the redemption-closing core discipline is what makes the reversal land.
+**On the source-reversal *core* instance.** B15 joins the source-reversal core series at the eleventh core instance: *the redemption is Christ's*. The verbal parallelism extends across the eleven-instance series: *the affirmation is the Lord's / the mission is the Lord's / the resonance is the Lord's / the blessing is the Lord's / the renunciation is in Jesus's name / the attending is the Spirit's / the session is the Lord's / the clearing is the Lord's / the reparenting is the Father's / the body's hearing is the Spirit's / the redemption is Christ's.* The source-reversal at B15 is theologically the most consequential of the cohort's three new instances at the specialty altitude because the secular catharsis-ending would directly compromise the source-reversal at the protocol level; the redemption-closing core discipline is what makes the reversal land.
 
 **On role-player and Companion-team care.** B15 deployment is substantively weighty for everyone in the room — the participant, the role-player providing resistance, the Companion(s), the other group members witnessing. The Companion-team's post-gathering debrief per B13 attends to everyone's care, not just the participant's. Role-players may need particular post-session check-in; the role-player has held physical resistance to the participant's trauma material and may carry residual weight. The Companion's discipline includes attending to the role-player's care alongside the participant's.
 
@@ -162,9 +162,9 @@ The Companion's referral is not failure; it is competency. Knowing when to refer
 **On secular trauma-psychology traditions the corpus does not endorse.** Levine's somatic experiencing, van der Kolk's body-keeps-the-score framework, Ogden's sensorimotor psychotherapy, Rothschild's body-remembers framework — all carry philosophical commitments about the body, the unconscious, and the locus of healing the corpus does not import. B15's operational pattern is preserved from these traditions; the philosophical anthropology is set aside under V2.Exp0 Tool Import Discipline. The Christian-frame adaptation operates on Christ-carried-the-wound grounding (1 Pet 2:24) with the redemption-closing core discipline preserving the theological boundary.
 
 ## Materials
-• **Space appropriate to physical work** — the room must accommodate the participant's physical pulling-out engagement plus the role-player's positioning for controlled resistance plus the supporting Companions plus the rest of the gathering at appropriate distance. Larger rooms than typical carpet-work; movable furniture or open floor space.
+- **Space appropriate to physical work** — the room must accommodate the participant's physical pulling-out engagement plus the role-player's positioning for controlled resistance plus the supporting Companions plus the rest of the gathering at appropriate distance. Larger rooms than typical carpet-work; movable furniture or open floor space.
 
-• **Physical props selected per likely metaphor category.** Common kit:
+- **Physical props selected per likely metaphor category.** Common kit:
 
 - *Foam bat* (for spike, knife, sharp-pointed metaphors)
 
@@ -176,13 +176,13 @@ The Companion's referral is not failure; it is competency. Knowing when to refer
 
 The Companion's pre-session preparation includes the appropriate prop kit; spontaneous mid-session deployment may need to substitute with available materials.
 
-• **A specific location for prop release after Move 5.** Often the room's edge, in a specific corner; the prop's release-location may have its own significance (set aside symbolically).
+- **A specific location for prop release after Move 5.** Often the room's edge, in a specific corner; the prop's release-location may have its own significance (set aside symbolically).
 
-• **Post-session pastoral check-in time-slot booked** — the Companion's calendar should hold the 24–48-hour post-session check-in time before B15 deployment begins. Without scheduled follow-up, B15 should not deploy.
+- **Post-session pastoral check-in time-slot booked** — the Companion's calendar should hold the 24–48-hour post-session check-in time before B15 deployment begins. Without scheduled follow-up, B15 should not deploy.
 
 ## Time
-• **Standard B15 deployment:** 45–75 minutes total. Allocation: Move 1 (recognize and secure) 5–10 min; Move 2 (localize metaphor) 5–10 min; Move 3 (introduce prop) 3–5 min; Move 4 (pull-out with resistance) 10–20 min; Move 5 (redemption-closing) 10–20 min; Move 6 (de-role and ground) 10–20 min.
+- **Standard B15 deployment:** 45–75 minutes total. Allocation: Move 1 (recognize and secure) 5–10 min; Move 2 (localize metaphor) 5–10 min; Move 3 (introduce prop) 3–5 min; Move 4 (pull-out with resistance) 10–20 min; Move 5 (redemption-closing) 10–20 min; Move 6 (de-role and ground) 10–20 min.
 
-• **Compressed B15 deployment:** Not recommended. The protocol's intensity does not compress safely; truncating any move compromises the work's integration.
+- **Compressed B15 deployment:** Not recommended. The protocol's intensity does not compress safely; truncating any move compromises the work's integration.
 
-• **Extended B15 deployment:** 75–90 minutes when the redemption-closing requires sustained time (the participant's response to Move 5 is substantively grief-filled and the closing needs time to settle). Beyond 90 minutes, the participant's fatigue often becomes operationally limiting; the work's integration is better served by completing what can complete and routing remaining work to subsequent sessions.
+- **Extended B15 deployment:** 75–90 minutes when the redemption-closing requires sustained time (the participant's response to Move 5 is substantively grief-filled and the closing needs time to settle). Beyond 90 minutes, the participant's fatigue often becomes operationally limiting; the work's integration is better served by completing what can complete and routing remaining work to subsequent sessions.

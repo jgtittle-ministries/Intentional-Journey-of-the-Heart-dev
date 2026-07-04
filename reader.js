@@ -14,8 +14,14 @@
     // Authors occasionally write literal entities (&amp;, &ndash;) in the
     // source; collapse the double-escape so they render as intended.
     s = s.replace(/&amp;([a-zA-Z]{2,8}|#\d{1,6});/g, '&$1;');
-    // Inline code
-    s = s.replace(/`([^`]+)`/g, (_, code) => '<code>' + code + '</code>');
+    // Inline code — masked behind placeholders so characters inside a code
+    // span (e.g. a literal * in `LotS-*`) can't pair with emphasis markers
+    // elsewhere in the line; restored after all other inline rules run.
+    const codeSlots = [];
+    s = s.replace(/`([^`]+)`/g, (_, code) => {
+      codeSlots.push(code);
+      return '\u0000' + (codeSlots.length - 1) + '\u0000';
+    });
     // Shared: resolve a relative path against the current chapter's docs/ dir.
     function resolvePath(u) {
       if (/^https?:|^data:|^\//.test(u)) return u;
@@ -80,6 +86,8 @@
     // Italic *text* and _text_ (single, not surrounded by other *)
     s = s.replace(/(?<![*\w])\*([^*\n]+?)\*(?!\*)/g, '<em>$1</em>');
     s = s.replace(/(?<![_\w])_([^_\n]+?)_(?!_)/g, '<em>$1</em>');
+    // restore code spans masked at the top
+    s = s.replace(/\u0000(\d+)\u0000/g, (_, i) => '<code>' + codeSlots[+i] + '</code>');
     return s;
   }
 

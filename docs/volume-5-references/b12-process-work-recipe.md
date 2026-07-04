@@ -13,27 +13,27 @@ B12 operates as carpet-work-sequencing-architecture within the broader session l
 
 **When to use it**
 
-• **As default architecture for any single carpet-work process in BoB / FotH practice.** The recipe is the operational default; departures from the recipe (experienced-facilitator improvisation; specific protocols that supply their own architecture, such as A17 and A23 which carry the nine-step opening as built-in architecture) are deliberate Companion choices, not the operational default.
+- **As default architecture for any single carpet-work process in BoB / FotH practice.** The recipe is the operational default; departures from the recipe (experienced-facilitator improvisation; specific protocols that supply their own architecture, such as A17 and A23 which carry the nine-step opening as built-in architecture) are deliberate Companion choices, not the operational default.
 
-• **For new Companions developing carpet-work competency.** Bilgere's framing ("a recipe for the first few attempts") names the recipe's pedagogical role; Companions developing carpet-work competency through their Companion II training benefit from running the recipe explicitly through their early carpet-work deployments before improvising within it.
+- **For new Companions developing carpet-work competency.** Bilgere's framing ("a recipe for the first few attempts") names the recipe's pedagogical role; Companions developing carpet-work competency through their Companion II training benefit from running the recipe explicitly through their early carpet-work deployments before improvising within it.
 
-• **For complex carpet-work situations** where the Companion's discernment about what protocol to deploy will emerge during the work itself (step 3's Triangle move) rather than being pre-determined. The recipe's open step 4 (work the dynamic with whatever the discernment surfaces) is operationally helpful when the carpet-work's specific protocol cannot be selected in advance.
+- **For complex carpet-work situations** where the Companion's discernment about what protocol to deploy will emerge during the work itself (step 3's Triangle move) rather than being pre-determined. The recipe's open step 4 (work the dynamic with whatever the discernment surfaces) is operationally helpful when the carpet-work's specific protocol cannot be selected in advance.
 
-• **As pedagogical instrument for Companion-training conversations** about carpet-work — the recipe gives Companions explicit operational language for what the carpet-work session does and how the moves sequence.
+- **As pedagogical instrument for Companion-training conversations** about carpet-work — the recipe gives Companions explicit operational language for what the carpet-work session does and how the moves sequence.
 
-• **At Companion II competency.** The recipe presupposes carpet-work competency (the participant-Companion relationship is established; the container is held under V2.Exp8 refined; the Companion can deploy A10 Triangle, A11 Metaphoric Listening, A12 Splitting a Role, A13 Affirmation, A14 De-roling as discrete moves). Level I Companion accompaniment of Companion II primary facilitation is appropriate as apprenticeship.
+- **At Companion II competency.** The recipe presupposes carpet-work competency (the participant-Companion relationship is established; the container is held under V2.Exp8 refined; the Companion can deploy A10 Triangle, A11 Metaphoric Listening, A12 Splitting a Role, A13 Affirmation, A14 De-roling as discrete moves). Level I Companion accompaniment of Companion II primary facilitation is appropriate as apprenticeship.
 
 **When NOT to use it**
 
-• **When the carpet-work protocol carries its own structural architecture.** A17 (Healing and Forgiveness) and A23 (Shadow and Projections) each carry a nine-step opening that *is* the carpet-work architecture for that specific protocol; B12's recipe duplicates work A17 / A23 already does structurally. The Companion's choice when A17 or A23 is the work-option is to run the protocol's own structure rather than wrapping it in B12's recipe.
+- **When the carpet-work protocol carries its own structural architecture.** A17 (Healing and Forgiveness) and A23 (Shadow and Projections) each carry a nine-step opening that *is* the carpet-work architecture for that specific protocol; B12's recipe duplicates work A17 / A23 already does structurally. The Companion's choice when A17 or A23 is the work-option is to run the protocol's own structure rather than wrapping it in B12's recipe.
 
-• **For session-liturgy-level work-options that are not carpet-work.** PROAPT (A28), Council deliberation (A5), Tell Your Story (A26), Heart Prayer Time (B18), and other non-carpet-work-options have their own core structures; B12 does not wrap them. B12 is specifically the carpet-work-sequencing-architecture; deploying it for non-carpet-work-options is category error.
+- **For session-liturgy-level work-options that are not carpet-work.** PROAPT (A28), Council deliberation (A5), Tell Your Story (A26), Heart Prayer Time (B18), and other non-carpet-work-options have their own core structures; B12 does not wrap them. B12 is specifically the carpet-work-sequencing-architecture; deploying it for non-carpet-work-options is category error.
 
-• **For experienced Companions whose carpet-work practice has internalized the recipe.** Bilgere's framing names this directly: "experienced facilitators improvise within and around the structure." A Companion whose carpet-work practice has matured may run carpet-work without explicit recipe-deployment, with the recipe operating as internalized structural sense rather than as explicit five-step protocol. The pedagogical role recedes as competency develops.
+- **For experienced Companions whose carpet-work practice has internalized the recipe.** Bilgere's framing names this directly: "experienced facilitators improvise within and around the structure." A Companion whose carpet-work practice has matured may run carpet-work without explicit recipe-deployment, with the recipe operating as internalized structural sense rather than as explicit five-step protocol. The pedagogical role recedes as competency develops.
 
-• **When the participant cannot engage cognitively.** B12's recipe presupposes cognitive engagement — the participant can name what they want to have happen (step 1), can attend to role-player-represented internal state (step 2), can participate in Triangle (step 3). When the participant cannot engage cognitively (active flashback; severe dissociation), the carpet-work shifts to B15 Pull-out Work specialty; the recipe does not wrap B15.
+- **When the participant cannot engage cognitively.** B12's recipe presupposes cognitive engagement — the participant can name what they want to have happen (step 1), can attend to role-player-represented internal state (step 2), can participate in Triangle (step 3). When the participant cannot engage cognitively (active flashback; severe dissociation), the carpet-work shifts to B15 Pull-out Work specialty; the recipe does not wrap B15.
 
-• **In contexts where carpet-work is not appropriate.** The recipe does not make carpet-work appropriate where it would not otherwise be; the Companion's pre-deployment discernment about whether carpet-work is what the gathering needs governs whether the recipe deploys at all.
+- **In contexts where carpet-work is not appropriate.** The recipe does not make carpet-work appropriate where it would not otherwise be; the Companion's pre-deployment discernment about whether carpet-work is what the gathering needs governs whether the recipe deploys at all.
 
 ## The protocol
 B12 runs across the five steps with pacing typical of 60–120 minutes for a single complete carpet-work process. The recipe is not a strict timer; the Companion's discernment governs pacing within each step.
@@ -64,11 +64,11 @@ The Companion's framing names the desired-outcome as orientation, not as outcome
 
 **Companion discernment.** Triangle is operationally the most consequential single step in B12 — it determines what protocol step 4 will deploy. The participant from the Triangle position will typically surface one of three outcomes:
 
-• *Clear direction for step 4 protocol selection.* The participant sees the scene, names what needs to happen next, and the Companion routes to the appropriate carpet-work protocol — A17 family (wound-healing); A23 family (shadow / projection work); A12 (role-splitting); B11 (ideal-support reparenting); B14 (somatic-first if the participant's processing is body-led); A8 (transforming a shaming voice). The Companion's competency at protocol-selection-from-Triangle is itself a Companion II discernment skill.
+- *Clear direction for step 4 protocol selection.* The participant sees the scene, names what needs to happen next, and the Companion routes to the appropriate carpet-work protocol — A17 family (wound-healing); A23 family (shadow / projection work); A12 (role-splitting); B11 (ideal-support reparenting); B14 (somatic-first if the participant's processing is body-led); A8 (transforming a shaming voice). The Companion's competency at protocol-selection-from-Triangle is itself a Companion II discernment skill.
 
-• *Recognition that going deeper would not serve.* The participant from Triangle sees that the work has reached the point it can reach for this session. The Companion gracefully closes the process via step 5 without forcing a step 4 deployment.
+- *Recognition that going deeper would not serve.* The participant from Triangle sees that the work has reached the point it can reach for this session. The Companion gracefully closes the process via step 5 without forcing a step 4 deployment.
 
-• *Need for further character development before step 4.* The participant from Triangle sees that the role-players are not yet holding what is needed (the wound-figure needs to say more; the shaming voice needs to be voiced more specifically; an additional figure needs to enter the scene). The Companion refines the scene per the participant's discernment from Triangle and re-enters Triangle as needed before stepping to step 4.
+- *Need for further character development before step 4.* The participant from Triangle sees that the role-players are not yet holding what is needed (the wound-figure needs to say more; the shaming voice needs to be voiced more specifically; an additional figure needs to enter the scene). The Companion refines the scene per the participant's discernment from Triangle and re-enters Triangle as needed before stepping to step 4.
 
 V2.Exp7A discernment-of-voices governs throughout: the Companion attends to whether what surfaces in Triangle is the participant's own discernment, the Spirit's leading, or material from internal voices (accuser; internalized lie) that requires its own handling. The Companion's framing during Triangle keeps the Spirit-mediation explicit: *"What is the Lord showing you about this scene? What is the next move the Spirit is bringing forward?"* The Triangle's disassociated position is structurally available as the participant's spirit-faculty-engaged attending position per V1.Exp2 refined — the deliberate attending-and-choosing the participant exercises from Triangle is where the work's direction is discerned.
 
@@ -80,15 +80,15 @@ V2.Exp7A discernment-of-voices governs throughout: the Companion attends to whet
 
 **Companion discernment.** The Companion's primary work in step 4 is to run the selected carpet-work protocol per its core structure (each carpet-work protocol's Part VI entry supplies the operational specifics). The Companion's secondary work is to hold the Spirit-mediation framing throughout and to discern when the work needs to shift to a different protocol mid-step-4. Routing logic during step 4:
 
-• *Work that surfaces deeper wound mid-protocol* → may shift from A23 to A17 (projection-recovery surfaces a wound that needs healing first).
+- *Work that surfaces deeper wound mid-protocol* → may shift from A23 to A17 (projection-recovery surfaces a wound that needs healing first).
 
-• *Work that surfaces shaming-voice material* → may shift to A8 within step 4 or after step 4 closes.
+- *Work that surfaces shaming-voice material* → may shift to A8 within step 4 or after step 4 closes.
 
-• *Work that surfaces blessing-deficit material* → may shift to B11 within step 4 or after step 4 closes.
+- *Work that surfaces blessing-deficit material* → may shift to B11 within step 4 or after step 4 closes.
 
-• *Work that surfaces somatic stuck-ness* → may shift to B14 within step 4.
+- *Work that surfaces somatic stuck-ness* → may shift to B14 within step 4.
 
-• *Work that surfaces active flashback* → must shift to B15 with the appropriate competency and containment moves; or, if the Companion is not at Companion III competency, must close cleanly and route to subsequent care.
+- *Work that surfaces active flashback* → must shift to B15 with the appropriate competency and containment moves; or, if the Companion is not at Companion III competency, must close cleanly and route to subsequent care.
 
 The Companion may run multiple Triangle moves within step 4 to refine direction; the recipe's step 3 / step 4 boundary is flexible during deep work. The closing of step 4 happens when the participant from within the work (or from a Triangle move within step 4) has reached the work's natural completion — the wound has been received and healed; the projection has been owned; the shadow has been brought to light; the figure has offered what the participant could receive; the somatic externalization has been completed. The Companion's discernment governs when step 4 closes.
 
@@ -122,17 +122,17 @@ The Companion may run multiple Triangle moves within step 4 to refine direction;
 **On Companion II competency development through the recipe.** New Companions learning carpet-work benefit substantially from running the recipe explicitly through their first 10–20 deployments. The recipe gives the new Companion: (a) a structural sense of how carpet-work sequences; (b) explicit operational language for what each step does; (c) discernment-development scaffolding at step 3 (Triangle); (d) a framework within which protocol-selection-at-step-4 develops as competency. Companion III practitioners running Companion II training can use B12 as the primary instructional instrument for carpet-work-deployment training, with the recipe operating as both pedagogical structure and conversational vocabulary.
 
 ## Materials
-• **Space appropriate to carpet-work session** — circle seating with room for participants to move into and out of the carpet (the physical center where the work happens). Group sizes up to 8–10 work cleanly; larger groups require modifications.
+- **Space appropriate to carpet-work session** — circle seating with room for participants to move into and out of the carpet (the physical center where the work happens). Group sizes up to 8–10 work cleanly; larger groups require modifications.
 
-• **Optional materials per the specific carpet-work protocol deployed at step 4** (per each carpet-work protocol's Part VI entry).
+- **Optional materials per the specific carpet-work protocol deployed at step 4** (per each carpet-work protocol's Part VI entry).
 
-• **Optional Triangle-position marker** — some Companions use a specific physical marker (a small rug; a particular chair) for the Triangle position at step 3. The marker operationalizes the disassociation-into-discernment move at a sensory level. Not required; the Companion's verbal framing handles the move without physical marker if preferred.
+- **Optional Triangle-position marker** — some Companions use a specific physical marker (a small rug; a particular chair) for the Triangle position at step 3. The marker operationalizes the disassociation-into-discernment move at a sensory level. Not required; the Companion's verbal framing handles the move without physical marker if preferred.
 
 ## Time
-• **Standard B12 deployment:** 60–120 minutes total. Allocation: Step 1 (intent) 5–15 min; Step 2 (represent) 5–15 min; Step 3 (Triangle / direction) 5–15 min; Step 4 (work the dynamic) 20–60+ min; Step 5 (affirmation + de-role) 10–25 min.
+- **Standard B12 deployment:** 60–120 minutes total. Allocation: Step 1 (intent) 5–15 min; Step 2 (represent) 5–15 min; Step 3 (Triangle / direction) 5–15 min; Step 4 (work the dynamic) 20–60+ min; Step 5 (affirmation + de-role) 10–25 min.
 
-• **Compressed B12 deployment:** 45–60 minutes total. Truncates step 4 to single-protocol deployment without mid-step routing; shortens step 5 closing. Useful when the body's time-window does not support full deployment.
+- **Compressed B12 deployment:** 45–60 minutes total. Truncates step 4 to single-protocol deployment without mid-step routing; shortens step 5 closing. Useful when the body's time-window does not support full deployment.
 
-• **Extended B12 deployment:** 120+ minutes for complex carpet-work involving multiple protocol routings or deep work-component engagement. Sometimes the work asks for the full extended deployment; the Companion's discernment governs.
+- **Extended B12 deployment:** 120+ minutes for complex carpet-work involving multiple protocol routings or deep work-component engagement. Sometimes the work asks for the full extended deployment; the Companion's discernment governs.
 
-• **Retreat-format deployments:** Multiple complete B12 deployments per day, spaced with rest and integration time. The recipe scales cleanly to retreat pacing.
+- **Retreat-format deployments:** Multiple complete B12 deployments per day, spaced with rest and integration time. The recipe scales cleanly to retreat pacing.

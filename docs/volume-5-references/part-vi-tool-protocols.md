@@ -36,29 +36,29 @@ This Part VI entry makes the session liturgy runnable for Companions. A Companio
 
 **When to use it**
 
-• **As the **core** operational form for weekly BoB / FotH small-group practice.** The session liturgy is the default form; departures from it (didactic teaching evenings, social gatherings, retreat formats) are operationally different practices serving different purposes.
+- **As the **core** operational form for weekly BoB / FotH small-group practice.** The session liturgy is the default form; departures from it (didactic teaching evenings, social gatherings, retreat formats) are operationally different practices serving different purposes.
 
-• **At weekly rhythm as **core** default.** Biweekly or monthly rhythm is acceptable at reduced formation depth; less frequent than monthly typically breaks the formation arc the session liturgy supports.
+- **At weekly rhythm as **core** default.** Biweekly or monthly rhythm is acceptable at reduced formation depth; less frequent than monthly typically breaks the formation arc the session liturgy supports.
 
-• **In groups with established container competency** — the V2.Exp8 refined four-condition discipline (Safe, Present, Clear, Intentional) operates as the structural foundation; new groups develop container competency through their first 4–8 sessions before the full session-liturgy's deeper work-options can be deployed reliably.
+- **In groups with established container competency** — the V2.Exp8 refined four-condition discipline (Safe, Present, Clear, Intentional) operates as the structural foundation; new groups develop container competency through their first 4–8 sessions before the full session-liturgy's deeper work-options can be deployed reliably.
 
-• **In retreat-format deployments** at extended length (3–6 hours; sometimes longer for multi-session retreats) — the same six-component sequence holds; the work-component expands and may include multiple sub-deployments; the integration-teachings component expands accordingly.
+- **In retreat-format deployments** at extended length (3–6 hours; sometimes longer for multi-session retreats) — the same six-component sequence holds; the work-component expands and may include multiple sub-deployments; the integration-teachings component expands accordingly.
 
-• **In Tool Time leader-formation gatherings** (per C10) — the session liturgy operates with the leader-formation work-component substituting for the regular work-component; the structural form is unchanged.
+- **In Tool Time leader-formation gatherings** (per C10) — the session liturgy operates with the leader-formation work-component substituting for the regular work-component; the structural form is unchanged.
 
-• **At Companion II competency for full session leadership;** Level I appropriate for assisting Companion II in established bodies. Companion III competency required for groups where significant trauma-history work, contracts work (A25), or breaking-the-contracts-adjacent work is reliably part of the work-component.
+- **At Companion II competency for full session leadership;** Level I appropriate for assisting Companion II in established bodies. Companion III competency required for groups where significant trauma-history work, contracts work (A25), or breaking-the-contracts-adjacent work is reliably part of the work-component.
 
 **When NOT to use it**
 
-• **In groups that have not yet developed container competency.** The four conditions of V2.Exp8 refined are the structural prerequisite; a group whose container is not reliably formed cannot run the full session liturgy because the work-component depends on the container holding. New groups develop container competency over their first 4–8 sessions; the session liturgy can operate during this development period at reduced work-component depth (lighter work-options; more time on container and clearings; longer integration-teachings).
+- **In groups that have not yet developed container competency.** The four conditions of V2.Exp8 refined are the structural prerequisite; a group whose container is not reliably formed cannot run the full session liturgy because the work-component depends on the container holding. New groups develop container competency over their first 4–8 sessions; the session liturgy can operate during this development period at reduced work-component depth (lighter work-options; more time on container and clearings; longer integration-teachings).
 
-• **As a one-off event format.** The session liturgy is a *repeating discipline* (per V2.Exp10 Training Plan; per James K. A. Smith's liturgical-anthropology argument; per the 1 Tim 4:7–8 training-discipline scriptural anchor). A single deployment of the session liturgy without the repeating context does not produce what the session liturgy is for the formation over time of the participants and the body. Event-format deployments (workshops, weekend gatherings, retreats) can use the session-liturgy structure but operate as supplementary to repeating practice, not as a substitute for it.
+- **As a one-off event format.** The session liturgy is a *repeating discipline* (per V2.Exp10 Training Plan; per James K. A. Smith's liturgical-anthropology argument; per the 1 Tim 4:7–8 training-discipline scriptural anchor). A single deployment of the session liturgy without the repeating context does not produce what the session liturgy is for the formation over time of the participants and the body. Event-format deployments (workshops, weekend gatherings, retreats) can use the session-liturgy structure but operate as supplementary to repeating practice, not as a substitute for it.
 
-• **In groups whose Companion is not at Companion II competency** for the work-options the gathering will deploy. The Companion II discernment competency is what makes the work-component operate cleanly; Level I assistance is appropriate but not Level I primary leadership.
+- **In groups whose Companion is not at Companion II competency** for the work-options the gathering will deploy. The Companion II discernment competency is what makes the work-component operate cleanly; Level I assistance is appropriate but not Level I primary leadership.
 
-• **In contexts where the gathering is not actually formation work** — institutional-business meetings, board meetings, planning meetings, social gatherings, didactic teaching evenings. These are legitimate gatherings serving different purposes; calling them "sessions" and running the session-liturgy structure produces neither what the meeting is for nor what the session liturgy is for.
+- **In contexts where the gathering is not actually formation work** — institutional-business meetings, board meetings, planning meetings, social gatherings, didactic teaching evenings. These are legitimate gatherings serving different purposes; calling them "sessions" and running the session-liturgy structure produces neither what the meeting is for nor what the session liturgy is for.
 
-• **When acute clinical or pastoral crisis is the immediate concern of a participant.** The session liturgy is a formation discipline operating over the long arc; acute crisis warrants direct pastoral care, clinical referral, or both, before or in parallel with continued session participation. The Companion's discernment about when crisis warrants stepping outside the session-liturgy frame is itself a Companion II / III competency.
+- **When acute clinical or pastoral crisis is the immediate concern of a participant.** The session liturgy is a formation discipline operating over the long arc; acute crisis warrants direct pastoral care, clinical referral, or both, before or in parallel with continued session participation. The Companion's discernment about when crisis warrants stepping outside the session-liturgy frame is itself a Companion II / III competency.
 
 **The protocol**
 
@@ -104,11 +104,11 @@ The Companion selects the form; the form may vary across sessions; the around-th
 
 **The clearings sub-component options.** The Companion selects the clearing-method appropriate to the body and the friction:
 
-• **B17 PIES Communication and Clearing Model.** The four-quadrant frame (Physical / Intellectual / Emotional / Spiritual) and the *when I saw → I felt → the story I told myself → how this affects our relationship → what I want/need* sequence per the pastoral-pattern framing of Founder Decision 5.1(c). Core clearing-method for the corpus; substantively addressed in Track 3 of Cycle 3.
+- **B17 PIES Communication and Clearing Model.** The four-quadrant frame (Physical / Intellectual / Emotional / Spiritual) and the *when I saw → I felt → the story I told myself → how this affects our relationship → what I want/need* sequence per the pastoral-pattern framing of Founder Decision 5.1(c). Core clearing-method for the corpus; substantively addressed in Track 3 of Cycle 3.
 
-• **A1 MKP Clearing.** The MKP-lineage clearing protocol; simpler than PIES; appropriate for established bodies with well-internalized clearing practice.
+- **A1 MKP Clearing.** The MKP-lineage clearing protocol; simpler than PIES; appropriate for established bodies with well-internalized clearing practice.
 
-• **A2 NVC OFNR.** The Nonviolent Communication Observation → Feeling → Need → Request protocol; appropriate for clearings that touch deeper relational territory and benefit from the explicit needs-naming move.
+- **A2 NVC OFNR.** The Nonviolent Communication Observation → Feeling → Need → Request protocol; appropriate for clearings that touch deeper relational territory and benefit from the explicit needs-naming move.
 
 Where there are no frictions to clear (which is common in mature bodies that clear in real-time outside sessions), the clearings component runs briefly as a quick around-the-circle check. The Companion's pre-session preparation and the body's between-session communication discipline govern how much clearing-work the component requires in a given gathering.
 
@@ -124,45 +124,45 @@ Where there are no frictions to clear (which is common in mature bodies that cle
 
 **The work-option menu.** Selected by Companion discernment of what the Spirit is leading the body to engage:
 
-• **A33 Mission at Risk** — surfacing the participant's mission-blockage; what's at risk if the mission is not lived out.
+- **A33 Mission at Risk** — surfacing the participant's mission-blockage; what's at risk if the mission is not lived out.
 
-• **A28 Heart Bible Study with PROAPT** — scripture-engagement at six-step depth (Pray, Read, Observe, Apply, Pray, Tell).
+- **A28 Heart Bible Study with PROAPT** — scripture-engagement at six-step depth (Pray, Read, Observe, Apply, Pray, Tell).
 
-• **A29 Any Doubts Process** — closing residual doubt about a specific truth-claim.
+- **A29 Any Doubts Process** — closing residual doubt about a specific truth-claim.
 
-• **A26 Tell Your Story** — the participant tells the body their story; corporate witness operates per V2.Exp9A.
+- **A26 Tell Your Story** — the participant tells the body their story; corporate witness operates per V2.Exp9A.
 
-• **A32 Hot Seat** — focused mutual examination of the participant's current movement, blockage, or work.
+- **A32 Hot Seat** — focused mutual examination of the participant's current movement, blockage, or work.
 
-• **A5 Council deliberation** — corporate discernment on a question facing the body or a participant.
+- **A5 Council deliberation** — corporate discernment on a question facing the body or a participant.
 
-• **B18 Heart Prayer Time** — structured five-step prayer protocol (Who am I? / Father, where are You? / What am I praying about? / Enacted prayer / Closure-into-obedience).
+- **B18 Heart Prayer Time** — structured five-step prayer protocol (Who am I? / Father, where are You? / What am I praying about? / Enacted prayer / Closure-into-obedience).
 
-• **A17 + A23 Carpet-Style Inner Work family** — wound-healing or shadow-projection work; role-play required; A14 de-roling at closing required.
+- **A17 + A23 Carpet-Style Inner Work family** — wound-healing or shadow-projection work; role-play required; A14 de-roling at closing required.
 
-• **A18–A20 Tell-Show Release family** — wanting; wanting-to-forgive; wanting-forgiveness-from-others.
+- **A18–A20 Tell-Show Release family** — wanting; wanting-to-forgive; wanting-forgiveness-from-others.
 
-• **A24 Blessing Receiving** — God-split move plus blessing-round mechanic for shame-at-depth with image-of-God dimensions.
+- **A24 Blessing Receiving** — God-split move plus blessing-round mechanic for shame-at-depth with image-of-God dimensions.
 
-• **A25 Breaking the Contracts** — naming and breaking the contracts the wound carries; Companion II / III gating; spiritual-warfare framing.
+- **A25 Breaking the Contracts** — naming and breaking the contracts the wound carries; Companion II / III gating; spiritual-warfare framing.
 
-• **A15 7×7 Mortality Visualization** — progressive shortening-of-horizons exercise; eschatological framing per Claim 7 in V2.Exp0.
+- **A15 7×7 Mortality Visualization** — progressive shortening-of-horizons exercise; eschatological framing per Claim 7 in V2.Exp0.
 
-• **A16 Group Mission of Service** — corporate discernment of the body's mission-of-service.
+- **A16 Group Mission of Service** — corporate discernment of the body's mission-of-service.
 
-• **A21 Say Your Mission** — formal declaration of individual mission with corporate-witness embodied response.
+- **A21 Say Your Mission** — formal declaration of individual mission with corporate-witness embodied response.
 
-• **A27 + A30 + A31 Mission-Arc family** — Who Are You / Shadow Mission / Mission Stretch Clarity arc.
+- **A27 + A30 + A31 Mission-Arc family** — Who Are You / Shadow Mission / Mission Stretch Clarity arc.
 
-• **A12 Splitting a Role** — wound-vs-wronger language move for re-integration work.
+- **A12 Splitting a Role** — wound-vs-wronger language move for re-integration work.
 
-• **A8 Transforming a Shaming Voice** — internal-voice work with Spirit / accuser / lie discernment at the front.
+- **A8 Transforming a Shaming Voice** — internal-voice work with Spirit / accuser / lie discernment at the front.
 
-• **A22 BoB Onboarding** — entry into the session liturgy for new participants.
+- **A22 BoB Onboarding** — entry into the session liturgy for new participants.
 
-• **A6 Fifth Step** — substantive confessional disclosure work.
+- **A6 Fifth Step** — substantive confessional disclosure work.
 
-• **V2.Exp4 refined Confession** — the corpus's broader confession protocol.
+- **V2.Exp4 refined Confession** — the corpus's broader confession protocol.
 
 **Companion discernment within the work-component.** The Companion's primary work within the work-component is to run the selected work-option per its core protocol; the secondary work is to hold the Spirit-mediation framing throughout and to discern when material surfacing in the work routes beyond the work-option's scope. Routing logic: shame-at-depth with image-of-God dimensions → A24; contract material → A25; specific doubt-of-truth → A29; sin-channel material → V2.Exp4 / A6; wound material requiring carpet-style → A17 family; mission-articulation → A21 or Mission-Arc family; story-material → A26.
 
@@ -190,21 +190,21 @@ Where there are no frictions to clear (which is common in mature bodies that cle
 
 **The teaching options.** Core recurring teachings per TGL Feb 2004 and the corpus's broader anthropology:
 
-• **Projection teaching.** The discipline of recognizing when participants are projecting onto each other or onto the work. *"What we see in another that troubles us often names what we have not yet faced in ourselves. The work is to attend to our own projection before naming the other."* Connects to V2.Exp2A False Self and A17 + A23 Carpet-Style family.
+- **Projection teaching.** The discipline of recognizing when participants are projecting onto each other or onto the work. *"What we see in another that troubles us often names what we have not yet faced in ourselves. The work is to attend to our own projection before naming the other."* Connects to V2.Exp2A False Self and A17 + A23 Carpet-Style family.
 
-• **Theology-of-brokenheartedness teaching.** The Eldredge / Waking-the-Dead framing of why the work proceeds the way it does. *"The heart is the place of the work; the wounds are real; the healing is the Lord's work in time; the body is the place where the healing happens."* Connects to V1.Exp1 (Hearing Channel), V2.Exp1 (Heart Soil), V2.Exp2 (Emotional Knots), and the broader corpus's heart-formation theology.
+- **Theology-of-brokenheartedness teaching.** The Eldredge / Waking-the-Dead framing of why the work proceeds the way it does. *"The heart is the place of the work; the wounds are real; the healing is the Lord's work in time; the body is the place where the healing happens."* Connects to V1.Exp1 (Hearing Channel), V2.Exp1 (Heart Soil), V2.Exp2 (Emotional Knots), and the broader corpus's heart-formation theology.
 
-• **Container teaching.** Particularly for new bodies — what the four conditions are and why each matters. Connects to V2.Exp8 refined.
+- **Container teaching.** Particularly for new bodies — what the four conditions are and why each matters. Connects to V2.Exp8 refined.
 
-• **Clearings teaching.** What clearings are and how they keep the container Clear. Connects to V2.Exp8 condition C and B17 PIES.
+- **Clearings teaching.** What clearings are and how they keep the container Clear. Connects to V2.Exp8 condition C and B17 PIES.
 
-• **Hearing teaching.** What hearing-with-understanding is and how the affective taxonomy stages work. Connects to V2.Exp7 and Formation.HFT.
+- **Hearing teaching.** What hearing-with-understanding is and how the affective taxonomy stages work. Connects to V2.Exp7 and Formation.HFT.
 
-• **Tool Map teaching.** What the core work-options are and how the body's work selects from the Map. Connects to V2.Exp6.
+- **Tool Map teaching.** What the core work-options are and how the body's work selects from the Map. Connects to V2.Exp6.
 
-• **Source-reversal teaching.** The discipline of locating agency at the Lord's level, not the participant's level. *"The affirmation is the Lord's; the mission is the Lord's; the work is the Lord's; we are the faculty through which the Lord's work operates."* Connects to V1.Exp2 refined and the source-reversal core series.
+- **Source-reversal teaching.** The discipline of locating agency at the Lord's level, not the participant's level. *"The affirmation is the Lord's; the mission is the Lord's; the work is the Lord's; we are the faculty through which the Lord's work operates."* Connects to V1.Exp2 refined and the source-reversal core series.
 
-• **Lifecycle-stage teaching.** Where the body is in its lifecycle and what the current stage's work asks of the participants. Connects to V2.Exp10 Training Plan and (forthcoming) B21 Invitation + B22 Group-Lifecycle Closing.
+- **Lifecycle-stage teaching.** Where the body is in its lifecycle and what the current stage's work asks of the participants. Connects to V2.Exp10 Training Plan and (forthcoming) B21 Invitation + B22 Group-Lifecycle Closing.
 
 **Companion discernment.** The body's lifecycle stage governs teaching selection — new groups (first 4–8 sessions) receive foundational teachings; mid-stage groups receive deeper teachings; mature groups receive contextual or lifecycle-stage teachings. The Companion's discernment selects the teaching appropriate to where the body is.
 
@@ -226,38 +226,38 @@ Where there are no frictions to clear (which is common in mature bodies that cle
 **On attribution.** The BoB session liturgy was first drafted in written form in Feb 2004 (Session 1, Founder Decision 11.2 confirmed B16 as core home for the integrated session-liturgy attribution). Substantial subsequent operational development by Dave Smith (the four-connects of V2.Exp5; the BoB Carpet-Style Inner Work; the Heart Prayer Time April 2006 discussion notes per B18 Phase 2; the 2008 ASC Manual co-development) and by John Tittle (the broader corpus's session-liturgy formalization including this Cycle 3 Phase 2 work) followed; the Band of Brothers and Fellowship of the Heart bodies collectively practiced and refined the form across the following two decades. The honest framing: a lineage practice with the earliest written form, Smith and Tittle's substantial subsequent development, and the bodies' collective practice as the operational refinement.
 
 ## Materials
-• **Space appropriate to the body's size.** Circle seating is core default for groups up to 12; larger groups may require modified seating. Quiet, private, with the door closed once the session begins.
+- **Space appropriate to the body's size.** Circle seating is core default for groups up to 12; larger groups may require modified seating. Quiet, private, with the door closed once the session begins.
 
-• **A candle or other physical marker** (optional but common) — lit at the formally-marked opening, extinguished at the formal release of the container. The marker operationalizes the V2.Exp8 refined formally-marked-opening-and-closing discipline at a sensory level.
+- **A candle or other physical marker** (optional but common) — lit at the formally-marked opening, extinguished at the formal release of the container. The marker operationalizes the V2.Exp8 refined formally-marked-opening-and-closing discipline at a sensory level.
 
-• **A journal or notebook** for each participant (optional but encouraged) — for the work-component (some work-options use journaling explicitly: A15 7×7; A28 PROAPT; B18 Heart Prayer Time) and for the closing anchor (writing down what the participant takes from the session into the week).
+- **A journal or notebook** for each participant (optional but encouraged) — for the work-component (some work-options use journaling explicitly: A15 7×7; A28 PROAPT; B18 Heart Prayer Time) and for the closing anchor (writing down what the participant takes from the session into the week).
 
-• **Scripture** (Bible; phone-Bible acceptable; the core scripture for the work-option if specified).
+- **Scripture** (Bible; phone-Bible acceptable; the core scripture for the work-option if specified).
 
-• **Materials specific to the work-option deployed** — varied per work-option's Vol 5 Part VI entry. Common: chairs for empty-chair work (carpet-style family); space for stick-as-marker (A21 Say Your Mission); ax-handle for A25 if the ax-handle anger-release option is used per Companion discernment (Cycle 1 Decision 8.18 optional).
+- **Materials specific to the work-option deployed** — varied per work-option's Vol 5 Part VI entry. Common: chairs for empty-chair work (carpet-style family); space for stick-as-marker (A21 Say Your Mission); ax-handle for A25 if the ax-handle anger-release option is used per Companion discernment (Cycle 1 Decision 8.18 optional).
 
 ## Time
-• **Standard session:** 90–180 minutes total. Allocation: Front-notes 5–10 min; Opening 5–10 min; Clearings 10–25 min; Work 30–90+ min; Closing 15–30 min; Teachings 10–20 min (or folded). Pacing varies by work-option and body lifecycle stage.
+- **Standard session:** 90–180 minutes total. Allocation: Front-notes 5–10 min; Opening 5–10 min; Clearings 10–25 min; Work 30–90+ min; Closing 15–30 min; Teachings 10–20 min (or folded). Pacing varies by work-option and body lifecycle stage.
 
-• **Compressed session:** 60–75 minutes total. Truncates integration-teachings (folded into other components) and may shorten work-component to a single-step or lighter deployment. Useful when the body has a hard time constraint; not core for regular weekly rhythm.
+- **Compressed session:** 60–75 minutes total. Truncates integration-teachings (folded into other components) and may shorten work-component to a single-step or lighter deployment. Useful when the body has a hard time constraint; not core for regular weekly rhythm.
 
-• **Retreat-format deployments:** 3–6 hours per session in retreat context; multiple sessions over weekend or extended-event. Work-component expands; integration-teachings component expands; structural sequence unchanged.
+- **Retreat-format deployments:** 3–6 hours per session in retreat context; multiple sessions over weekend or extended-event. Work-component expands; integration-teachings component expands; structural sequence unchanged.
 
-• **Tool Time leader-formation deployments:** Per C10; structural sequence holds; work-component is leader-formation work.
+- **Tool Time leader-formation deployments:** Per C10; structural sequence holds; work-component is leader-formation work.
 
 ## Cross-references
-• **Vol 2 primary home:** V2.Exp8B (The Session Liturgy) — new core claim added Cycle 3.
+- **Vol 2 primary home:** V2.Exp8B (The Session Liturgy) — new core claim added Cycle 3.
 
-• **Vol 2 substantive cross-references:** V2.Exp8 refined (Container — three-paragraph form); V2.Exp5 (Four Connects); V2.Exp9 + V2.Exp9A (Community as Amplifier and Corporate Witness); V2.Exp7 + V2.Exp7A (Hearing and Discernment of Voices); V2.Exp6 (Tool Map); V2.Exp4 refined (Confession); V2.Exp0 (Tool Import Discipline); V2.Exp10 (Training Plan).
+- **Vol 2 substantive cross-references:** V2.Exp8 refined (Container — three-paragraph form); V2.Exp5 (Four Connects); V2.Exp9 + V2.Exp9A (Community as Amplifier and Corporate Witness); V2.Exp7 + V2.Exp7A (Hearing and Discernment of Voices); V2.Exp6 (Tool Map); V2.Exp4 refined (Confession); V2.Exp0 (Tool Import Discipline); V2.Exp10 (Training Plan).
 
-• **Vol 1 cross-references:** V1.Exp2 refined (deliberate attending-and-choosing at community level); V1.Exp1 (Hearing Channel); V1.Exp5 (Obedience Channel).
+- **Vol 1 cross-references:** V1.Exp2 refined (deliberate attending-and-choosing at community level); V1.Exp1 (Hearing Channel); V1.Exp5 (Obedience Channel).
 
-• **A-list **core** work-options:** A33 Mission at Risk; A28 Heart Bible Study with PROAPT; A29 Any Doubts; A26 Tell Your Story; A32 Hot Seat; A5 Council deliberation; A17 + A23 Carpet-Style family; A18–A20 Tell-Show Release family; A24 Blessing Receiving; A25 Breaking the Contracts; A15 7×7 Mortality Visualization; A16 Group Mission of Service; A21 Say Your Mission; A27 + A30 + A31 Mission-Arc family; A12 Splitting a Role; A8 Transforming a Shaming Voice; A22 BoB Onboarding; A6 Fifth Step; A14 De-roling (closing-component requirement); A13 Closing-Affirmation (closing-component substantive ground).
+- **A-list **core** work-options:** A33 Mission at Risk; A28 Heart Bible Study with PROAPT; A29 Any Doubts; A26 Tell Your Story; A32 Hot Seat; A5 Council deliberation; A17 + A23 Carpet-Style family; A18–A20 Tell-Show Release family; A24 Blessing Receiving; A25 Breaking the Contracts; A15 7×7 Mortality Visualization; A16 Group Mission of Service; A21 Say Your Mission; A27 + A30 + A31 Mission-Arc family; A12 Splitting a Role; A8 Transforming a Shaming Voice; A22 BoB Onboarding; A6 Fifth Step; A14 De-roling (closing-component requirement); A13 Closing-Affirmation (closing-component substantive ground).
 
-• **B-list **core** work-options:** B18 Heart Prayer Time.
+- **B-list **core** work-options:** B18 Heart Prayer Time.
 
-• **Clearings sub-component **core** entries:** B17 PIES Communication and Clearing Model (core clearing-method, Cycle 3 Track 3); A1 MKP Clearing; A2 NVC OFNR.
+- **Clearings sub-component **core** entries:** B17 PIES Communication and Clearing Model (core clearing-method, Cycle 3 Track 3); A1 MKP Clearing; A2 NVC OFNR.
 
-• **Sibling protocols at session-adjacent level:** B21 Invitation (forthcoming Cycle 5; entry into the body upstream of session-liturgy deployment); B22 Group-Lifecycle Closing (forthcoming Cycle 5; closing the body downstream of final session-liturgy deployment); C10 Tool Time (leader-formation gathering; session-liturgy variant).
+- **Sibling protocols at session-adjacent level:** B21 Invitation (forthcoming Cycle 5; entry into the body upstream of session-liturgy deployment); B22 Group-Lifecycle Closing (forthcoming Cycle 5; closing the body downstream of final session-liturgy deployment); C10 Tool Time (leader-formation gathering; session-liturgy variant).
 
-• **Vol 5 Part III source citations** (six entries added by this Phase 2 work plus the TGL Feb 2004 primary source): Bonhoeffer *Life Together*; Wesley *General Rules* + class-meeting literature; Spener + Francke Pietist literature; Peterson *Working the Angles* + *Christ Plays*; Smith *Desiring the Kingdom* + *You Are What You Love*; Tittle (with Smith) 2008 *Field Manual* updated annotation; TGL Feb 2004 *BoB Group Session Protocol* historical primary source.
+- **Vol 5 Part III source citations** (six entries added by this Phase 2 work plus the TGL Feb 2004 primary source): Bonhoeffer *Life Together*; Wesley *General Rules* + class-meeting literature; Spener + Francke Pietist literature; Peterson *Working the Angles* + *Christ Plays*; Smith *Desiring the Kingdom* + *You Are What You Love*; Tittle (with Smith) 2008 *Field Manual* updated annotation; TGL Feb 2004 *BoB Group Session Protocol* historical primary source.

@@ -17,27 +17,27 @@ The protocol's authority comes from the Spirit, not from the participant's culti
 
 **When to use it**
 
-• **As a regular daily, weekly, or rhythm-of-life practice** for any practitioner whose prayer life would benefit from structure. The protocol is foundational, not occasional.
+- **As a regular daily, weekly, or rhythm-of-life practice** for any practitioner whose prayer life would benefit from structure. The protocol is foundational, not occasional.
 
-• **At significant decision-points or moments of discernment** where the participant wants to attend deliberately to what the Father is saying about a specific subject.
+- **At significant decision-points or moments of discernment** where the participant wants to attend deliberately to what the Father is saying about a specific subject.
 
-• **In group context** as a Companion-led practice that develops the body's shared discipline of deliberate attending in prayer.
+- **In group context** as a Companion-led practice that develops the body's shared discipline of deliberate attending in prayer.
 
-• **As preparation for other deeper formation work** — Heart Prayer Time is operationally upstream of much of the corpus's other work; what surfaces in step 4 (*Enacted prayer*) may route to A24 (Blessing Receiving), A25 (Breaking the Contracts), A17 (Carpet-Style Inner Work), A29 (Any Doubts), V2.Exp4 (Confession), or other protocols as the routing logic indicates.
+- **As preparation for other deeper formation work** — Heart Prayer Time is operationally upstream of much of the corpus's other work; what surfaces in step 4 (*Enacted prayer*) may route to A24 (Blessing Receiving), A25 (Breaking the Contracts), A17 (Carpet-Style Inner Work), A29 (Any Doubts), V2.Exp4 (Confession), or other protocols as the routing logic indicates.
 
-• **As the structured-prayer-time form that supports a broader continuous-attending discipline** throughout the day (per V2.Exp5 practice-theology footnote, Track 2).
+- **As the structured-prayer-time form that supports a broader continuous-attending discipline** throughout the day (per V2.Exp5 practice-theology footnote, Track 2).
 
-• **At Companion II competency for new-practitioner facilitation;** Level I appropriate for supporting established practitioners and for solo deployment guidance with periodic Companion II check-in.
+- **At Companion II competency for new-practitioner facilitation;** Level I appropriate for supporting established practitioners and for solo deployment guidance with periodic Companion II check-in.
 
 **When NOT to use it**
 
-• **When the participant is in active dissociation, dissociative material is in front of them, or significant trauma material is unprocessed and the container conditions for processing are not in place.** Heart Prayer Time's deliberate-attending discipline can intensify what is already in awareness; if dissociative or trauma material surfaces during the protocol, the Companion stops the protocol, deploys appropriate containment (per V2.Exp8 refined), and routes to trauma-competent care.
+- **When the participant is in active dissociation, dissociative material is in front of them, or significant trauma material is unprocessed and the container conditions for processing are not in place.** Heart Prayer Time's deliberate-attending discipline can intensify what is already in awareness; if dissociative or trauma material surfaces during the protocol, the Companion stops the protocol, deploys appropriate containment (per V2.Exp8 refined), and routes to trauma-competent care.
 
-• **When the participant is in acute mental-health crisis** that warrants clinical attention. Heart Prayer Time is a formation practice; it is not psychotherapy and not a substitute for clinical care.
+- **When the participant is in acute mental-health crisis** that warrants clinical attention. Heart Prayer Time is a formation practice; it is not psychotherapy and not a substitute for clinical care.
 
-• **When step 2 (***Father, where are You?***) consistently produces no felt-sense of communion across multiple deployments and the participant experiences this as Father-absence.** This may signal V2.Exp2A (false-self / wound) material requiring upstream therapeutic work, or V2.Exp4 (sin-channel) material requiring confession-work, or V2.Exp1B (wound/sin diagnostic) work that distinguishes which is operational. The Companion discerns and routes; Heart Prayer Time does not work on the absence-of-communion presenting issue directly.
+- **When step 2 (***Father, where are You?***) consistently produces no felt-sense of communion across multiple deployments and the participant experiences this as Father-absence.** This may signal V2.Exp2A (false-self / wound) material requiring upstream therapeutic work, or V2.Exp4 (sin-channel) material requiring confession-work, or V2.Exp1B (wound/sin diagnostic) work that distinguishes which is operational. The Companion discerns and routes; Heart Prayer Time does not work on the absence-of-communion presenting issue directly.
 
-• **When the participant is bypassing other operational work that requires direct engagement** (a specific reconciliation needed, a confession needed, a relational repair needed) by using prayer as substitute for the operational work. Heart Prayer Time's step 5 (*Closure-into-obedience*) is intentionally part of the protocol to prevent this drift; if the participant repeatedly cannot land the obedience-direction, the Companion may surface that prayer is being used as substitute for the operational work itself.
+- **When the participant is bypassing other operational work that requires direct engagement** (a specific reconciliation needed, a confession needed, a relational repair needed) by using prayer as substitute for the operational work. Heart Prayer Time's step 5 (*Closure-into-obedience*) is intentionally part of the protocol to prevent this drift; if the participant repeatedly cannot land the obedience-direction, the Companion may surface that prayer is being used as substitute for the operational work itself.
 
 ## The protocol
 The protocol runs in roughly 15–30 minutes for solo deployment; group deployment (where each participant runs the protocol with a Companion's framing) typically adds 30–45 minutes of group processing afterward. The five steps do not skip.
@@ -93,19 +93,19 @@ The protocol runs in roughly 15–30 minutes for solo deployment; group deployme
 
 **On routing material that surfaces beyond the protocol's scope.** Heart Prayer Time is upstream of much of the corpus's other work. The Companion holds the routing logic:
 
-• *Shame-at-depth material* with image-of-God dimensions → A24 (Blessing Receiving).
+- *Shame-at-depth material* with image-of-God dimensions → A24 (Blessing Receiving).
 
-• *Contract or binding-agreement material* → A25 (Breaking the Contracts).
+- *Contract or binding-agreement material* → A25 (Breaking the Contracts).
 
-• *Wound material requiring carpet-style work* → A17 family (with V2.Exp6A + V2.Exp6B coupled-pair governance).
+- *Wound material requiring carpet-style work* → A17 family (with V2.Exp6A + V2.Exp6B coupled-pair governance).
 
-• *Specific doubt-of-truth material* → A29 (Any Doubts Process).
+- *Specific doubt-of-truth material* → A29 (Any Doubts Process).
 
-• *Sin-channel material* → V2.Exp4 (Confession).
+- *Sin-channel material* → V2.Exp4 (Confession).
 
-• *Mission-articulation or shadow-mission material* → A27 / A30 / A31 (Mission-Arc family) or A21 (Say Your Mission).
+- *Mission-articulation or shadow-mission material* → A27 / A30 / A31 (Mission-Arc family) or A21 (Say Your Mission).
 
-• *Discernment-of-voices uncertainty* → V2.Exp7A operational at depth; may require Companion II consultation if not resolved within the protocol.
+- *Discernment-of-voices uncertainty* → V2.Exp7A operational at depth; may require Companion II consultation if not resolved within the protocol.
 
 The protocol's *Closure-into-obedience* step often becomes *and the next move is [route]* rather than a discrete obedience-action; the Companion's discernment handles this.
 
@@ -114,11 +114,11 @@ The protocol's *Closure-into-obedience* step often becomes *and the next move is
 **On the practice as training-discipline rather than single-experience.** Per 1 Tim 4:7–8 and the core conception of V1.Exp2 refined as the spirit's faculty operating through repeated deliberate practice, Heart Prayer Time's deepest work happens not in any single deployment but in the long-term accumulation of repeated deliberate attending against System-1 default (per Vol 5 Part III Kahneman descriptive mechanism — see Track 3 supplementary materials). The Companion may name to a practitioner that the practice forms the spirit over time; daily-or-weekly deployment is the structural support for that formation. A practitioner who deploys the protocol three times and concludes *nothing happened* may need the long-form framing — the formation is gradual and cumulative, like physical training, not transformational-event work.
 
 ## Materials
-• None required beyond a quiet space and (optionally) scripture or a journal. The participant may prefer to journal during step 3 (naming what the prayer is about) and step 5 (naming the obedience-direction) to support memory and commitment. The protocol can be done sitting, standing, walking, kneeling, or in any physical posture conducive to the participant's attending; the Companion may name posture options at first deployments without prescribing.
+- None required beyond a quiet space and (optionally) scripture or a journal. The participant may prefer to journal during step 3 (naming what the prayer is about) and step 5 (naming the obedience-direction) to support memory and commitment. The protocol can be done sitting, standing, walking, kneeling, or in any physical posture conducive to the participant's attending; the Companion may name posture options at first deployments without prescribing.
 
 ## Time
-• **Solo deployment:** 15–30 minutes typical; can run shorter (5–10 minutes for brief deployments at significant moments) or longer (45–60+ minutes for retreat-style or deep-discernment deployments). The five-step discipline holds across the time-range; what varies is the depth of each step.
+- **Solo deployment:** 15–30 minutes typical; can run shorter (5–10 minutes for brief deployments at significant moments) or longer (45–60+ minutes for retreat-style or deep-discernment deployments). The five-step discipline holds across the time-range; what varies is the depth of each step.
 
-• **Group deployment with Companion framing:** 45–75 minutes total — the participants run the protocol simultaneously with Companion framing at each step (allowing 3–5 minutes per step), then 30–45 minutes of group processing or sharing afterward.
+- **Group deployment with Companion framing:** 45–75 minutes total — the participants run the protocol simultaneously with Companion framing at each step (allowing 3–5 minutes per step), then 30–45 minutes of group processing or sharing afterward.
 
-• **Daily-rhythm deployment:** Many BoB / FotH practitioners run a brief daily form (10–15 minutes) supplemented by a weekly fuller deployment (30–45 minutes).
+- **Daily-rhythm deployment:** Many BoB / FotH practitioners run a brief daily form (10–15 minutes) supplemented by a weekly fuller deployment (30–45 minutes).

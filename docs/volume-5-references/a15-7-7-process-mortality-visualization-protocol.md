@@ -16,37 +16,37 @@ The protocol is the corpus's first core protocol-level deployment of V2.Exp0's e
 
 **When to use it**
 
-• **As an individual mission-articulation practice** when a man is doing the Vision-and-Action work and needs surfacing of what the Lord is calling forward. The 7×7 can precede A21 (Say Your Mission) in the mission-articulation arc, supplying compressed-horizon surfacing that the mission articulation then declares publicly.
+- **As an individual mission-articulation practice** when a man is doing the Vision-and-Action work and needs surfacing of what the Lord is calling forward. The 7×7 can precede A21 (Say Your Mission) in the mission-articulation arc, supplying compressed-horizon surfacing that the mission articulation then declares publicly.
 
-• **As a third-meeting practice in BoB onboarding (A22)** when a new member's mission articulation needs deeper surfacing than the meeting-2 work supplied.
+- **As a third-meeting practice in BoB onboarding (A22)** when a new member's mission articulation needs deeper surfacing than the meeting-2 work supplied.
 
-• **As input to a Mission Stretch Clarity (A31) cycle** when the existing mission articulation has surface-clarity but lacks the urgency that compressed-horizon work produces.
+- **As input to a Mission Stretch Clarity (A31) cycle** when the existing mission articulation has surface-clarity but lacks the urgency that compressed-horizon work produces.
 
-• **At an annual or seasonal retreat** as a stewardship-discipline practice. The 7×7 can be run once a year as a rhythm; the surfacing at the same horizons in different life-seasons produces a longitudinal record of how the participant's stewardship is maturing.
+- **At an annual or seasonal retreat** as a stewardship-discipline practice. The 7×7 can be run once a year as a rhythm; the surfacing at the same horizons in different life-seasons produces a longitudinal record of how the participant's stewardship is maturing.
 
-• **At a life-stage transition** (career change; significant relationship change; health crisis; bereavement of a close person — though see the contraindications below for grief cases) when the participant needs to recalibrate stewardship against the master's return.
+- **At a life-stage transition** (career change; significant relationship change; health crisis; bereavement of a close person — though see the contraindications below for grief cases) when the participant needs to recalibrate stewardship against the master's return.
 
-• **As an individual practice** at any point in a man's walk with the Lord when the eschatological-stewardship horizon needs sharpening.
+- **As an individual practice** at any point in a man's walk with the Lord when the eschatological-stewardship horizon needs sharpening.
 
-• **Level I Companion competency** for solo deployment guidance (a Companion supports a man running the practice on his own); **Level I–II for group deployment** depending on the group's maturity and the depth of surfacing the Companion is prepared to support pastorally.
+- **Level I Companion competency** for solo deployment guidance (a Companion supports a man running the practice on his own); **Level I–II for group deployment** depending on the group's maturity and the depth of surfacing the Companion is prepared to support pastorally.
 
 **When NOT to use it (failure modes and contraindications)**
 
-• **Without the explicit Companion-led eschatological reframing language.** The single most common failure mode. A Companion who deploys the visualization in essentially existential form (*"imagine you have seven years; what would you do?"*) and trusts the participant to do the eschatological work for himself afterward has imported the source-tradition's framework alongside the operational pattern. The participant receives the practice in self-clarification frame and produces self-clarification surfacing. The Companion's reframing at each horizon (*"if the master has returned and is calling you to account…"*) is non-negotiable. This is what V2.Exp0 means at the protocol level.
+- **Without the explicit Companion-led eschatological reframing language.** The single most common failure mode. A Companion who deploys the visualization in essentially existential form (*"imagine you have seven years; what would you do?"*) and trusts the participant to do the eschatological work for himself afterward has imported the source-tradition's framework alongside the operational pattern. The participant receives the practice in self-clarification frame and produces self-clarification surfacing. The Companion's reframing at each horizon (*"if the master has returned and is calling you to account…"*) is non-negotiable. This is what V2.Exp0 means at the protocol level.
 
-• **Skipping the journaling.** The visualization without the writing dissipates. The journaling is the operational form of the participant's deliberate-attending-and-choosing work (V1.Exp2 refined); choosing what to record makes the surfacing durable. A Companion who runs the visualization without journaling time at each horizon has run a different practice — a feeling-stimulation rather than a stewardship-discipline.
+- **Skipping the journaling.** The visualization without the writing dissipates. The journaling is the operational form of the participant's deliberate-attending-and-choosing work (V1.Exp2 refined); choosing what to record makes the surfacing durable. A Companion who runs the visualization without journaling time at each horizon has run a different practice — a feeling-stimulation rather than a stewardship-discipline.
 
-• **During acute grief or recent bereavement.** The 7×7 surfaces material at the seven-seconds horizon that overlaps with the imagery of dying; a man in acute grief or recent bereavement may surface his own mortality-anxiety or the felt presence of the bereaved person rather than the master's-return-stewardship surfacing the practice is for. The pastoral discernment: how recently has the participant been around death? If within the last several months, route to alternative mission-articulation work (A21, A31, A33) and return to 7×7 when the grief work has settled.
+- **During acute grief or recent bereavement.** The 7×7 surfaces material at the seven-seconds horizon that overlaps with the imagery of dying; a man in acute grief or recent bereavement may surface his own mortality-anxiety or the felt presence of the bereaved person rather than the master's-return-stewardship surfacing the practice is for. The pastoral discernment: how recently has the participant been around death? If within the last several months, route to alternative mission-articulation work (A21, A31, A33) and return to 7×7 when the grief work has settled.
 
-• **With participants in active suicidal ideation or recent suicidality.** The compression-toward-seven-seconds is operationally distinct from suicidal imagination, but the imagery overlap is sufficient that the practice is contraindicated for participants in this material. Companion's pastoral discernment governs; if uncertain, route to V2.Exp4 confession work or pastoral conversation outside any protocol, not to 7×7.
+- **With participants in active suicidal ideation or recent suicidality.** The compression-toward-seven-seconds is operationally distinct from suicidal imagination, but the imagery overlap is sufficient that the practice is contraindicated for participants in this material. Companion's pastoral discernment governs; if uncertain, route to V2.Exp4 confession work or pastoral conversation outside any protocol, not to 7×7.
 
-• **With participants who have unprocessed near-death-experience material.** A man who has had a near-death experience (medical, accident, combat) and not yet processed it may have NDE flashback during the compression. The practice can re-traumatize. Companion's discernment: ask before deploying.
+- **With participants who have unprocessed near-death-experience material.** A man who has had a near-death experience (medical, accident, combat) and not yet processed it may have NDE flashback during the compression. The practice can re-traumatize. Companion's discernment: ask before deploying.
 
-• **As a one-shot performance.** The 7×7 deployed once and then never again can read as a memorable retreat moment rather than a corpus-core stewardship discipline. The practice is meant to recur — yearly retreat use, life-stage-transition use, periodic stewardship checks. The recurrence is constitutive of what the practice is for.
+- **As a one-shot performance.** The 7×7 deployed once and then never again can read as a memorable retreat moment rather than a corpus-core stewardship discipline. The practice is meant to recur — yearly retreat use, life-stage-transition use, periodic stewardship checks. The recurrence is constitutive of what the practice is for.
 
-• **In a noisy or distracting environment.** The compression toward seven seconds requires interior stillness; an environment that cannot supply external stillness undermines the practice. Companion's discernment about location, time-of-day, group quietness.
+- **In a noisy or distracting environment.** The compression toward seven seconds requires interior stillness; an environment that cannot supply external stillness undermines the practice. Companion's discernment about location, time-of-day, group quietness.
 
-• **Without sufficient time at each horizon.** The Companion who hurries through the seven horizons in twelve minutes has not run the practice; the surfacing requires time. Plan for thirty to forty-five minutes for the visualization itself, plus journaling time and any group sharing after.
+- **Without sufficient time at each horizon.** The Companion who hurries through the seven horizons in twelve minutes has not run the practice; the surfacing requires time. Plan for thirty to forty-five minutes for the visualization itself, plus journaling time and any group sharing after.
 
 ## The protocol
 1. **Container check and opening.**
@@ -134,34 +134,34 @@ The protocol is the corpus's first core protocol-level deployment of V2.Exp0's e
 - Companion: close the session per the standard V2.Exp8 refined formally-marked closing. Practical-housekeeping for what each man does with his journal entries can include: re-read them within seven days; bring three or four of the surfaced items into prayer; consider whether any of the surfaced items want subsequent attention in pastoral conversation, mission articulation work, or downstream protocol.
 
 ## Companion notes
-• **The eschatological reframing language is non-negotiable and must be active at every horizon, not only at the closing Luke 12 anchor.** This is the V2.Exp0 discipline operating in real time. Practice the language until it is natural; an awkward eschatological frame is worse than the frame missing. Some Companions find that rehearsing the language with a fellow Companion before deploying the practice for the first time produces cleaner deployment.
+- **The eschatological reframing language is non-negotiable and must be active at every horizon, not only at the closing Luke 12 anchor.** This is the V2.Exp0 discipline operating in real time. Practice the language until it is natural; an awkward eschatological frame is worse than the frame missing. Some Companions find that rehearsing the language with a fellow Companion before deploying the practice for the first time produces cleaner deployment.
 
-• **Solo vs. group deployment differ operationally.** Solo: the participant is his own pacer; the Companion's role is to supply the framing language (perhaps as a written script or recorded voice; perhaps as a Companion-led conversation at the start that the participant then walks through alone). Group: the Companion paces the room; one man's slower journaling does not delay another man's faster journaling because all are working simultaneously. The Companion's job in group mode is to hold the time budgets and to attend to the room without disturbing the work.
+- **Solo vs. group deployment differ operationally.** Solo: the participant is his own pacer; the Companion's role is to supply the framing language (perhaps as a written script or recorded voice; perhaps as a Companion-led conversation at the start that the participant then walks through alone). Group: the Companion paces the room; one man's slower journaling does not delay another man's faster journaling because all are working simultaneously. The Companion's job in group mode is to hold the time budgets and to attend to the room without disturbing the work.
 
-• **The Aug 2004 source document closes with Luke 12:37–40 explicitly.** Preserve this. Other closing scriptures (Ps 90:12; Matt 25 passages) are available as supplements but the Luke 12 anchor is the core closing.
+- **The Aug 2004 source document closes with Luke 12:37–40 explicitly.** Preserve this. Other closing scriptures (Ps 90:12; Matt 25 passages) are available as supplements but the Luke 12 anchor is the core closing.
 
-• **Watch for surfacing-exceeds-scope.** If a participant surfaces trauma material, dissociates, surfaces sin-channel material requiring confession, or surfaces grief that exceeds the protocol, pause the 7×7 for that participant. In group mode, the Companion can quietly note the surfacing and continue the protocol for the rest of the room; offer pastoral attention to the surfacing participant after the protocol closes. In solo mode, the participant's discernment is his own; the Companion's pre-flight conversation can name the contraindications.
+- **Watch for surfacing-exceeds-scope.** If a participant surfaces trauma material, dissociates, surfaces sin-channel material requiring confession, or surfaces grief that exceeds the protocol, pause the 7×7 for that participant. In group mode, the Companion can quietly note the surfacing and continue the protocol for the rest of the room; offer pastoral attention to the surfacing participant after the protocol closes. In solo mode, the participant's discernment is his own; the Companion's pre-flight conversation can name the contraindications.
 
-• **The seven-seconds silence often produces the deepest surfacing.** Resist the urge to fill it. Some Companions count silently to thirty before moving to the closing scripture; this is appropriate.
+- **The seven-seconds silence often produces the deepest surfacing.** Resist the urge to fill it. Some Companions count silently to thirty before moving to the closing scripture; this is appropriate.
 
-• **A pastoral note about what the master would commend.** The framing language uses commendation rather than judgment-language because the practice is a *stewardship-readiness* discipline, not a *fear-of-judgment* discipline. The eschatological frame includes both — Matt 25 names both the commendation of the faithful servants and the judgment of the unfaithful. The Companion's framing emphasizes commendation; participants who surface judgment-fear can attend to that material in pastoral conversation, but the protocol's pastoral tone is not to amplify it.
+- **A pastoral note about what the master would commend.** The framing language uses commendation rather than judgment-language because the practice is a *stewardship-readiness* discipline, not a *fear-of-judgment* discipline. The eschatological frame includes both — Matt 25 names both the commendation of the faithful servants and the judgment of the unfaithful. The Companion's framing emphasizes commendation; participants who surface judgment-fear can attend to that material in pastoral conversation, but the protocol's pastoral tone is not to amplify it.
 
-• **For women's groups (FotH), the §5.1(c) gender-framing pastoral-pattern applies.** The protocol's structural moves transfer cleanly; the framing language's reference to "the master" is gender-neutral (Christ as the Lord; not man-as-master). The seven-horizon compression and the journaling discipline transfer without adaptation. Companion judgment about specific framing language at certain horizons (e.g., the seven-days horizon's relational-surfacing) may add or substitute words appropriate to the group's culture and the participants' life-seasons.
+- **For women's groups (FotH), the §5.1(c) gender-framing pastoral-pattern applies.** The protocol's structural moves transfer cleanly; the framing language's reference to "the master" is gender-neutral (Christ as the Lord; not man-as-master). The seven-horizon compression and the journaling discipline transfer without adaptation. Companion judgment about specific framing language at certain horizons (e.g., the seven-days horizon's relational-surfacing) may add or substitute words appropriate to the group's culture and the participants' life-seasons.
 
 ## Materials
-• A journal or notebook for each participant.
+- A journal or notebook for each participant.
 
-• A pen.
+- A pen.
 
-• A quiet room with low external distraction.
+- A quiet room with low external distraction.
 
-• A timer or watch for the Companion (the time budgets matter; eyeballing them produces inconsistent deployment).
+- A timer or watch for the Companion (the time budgets matter; eyeballing them produces inconsistent deployment).
 
 ## Time
-• Thirty-five to forty-five minutes for the visualization portion (including journaling at each horizon).
+- Thirty-five to forty-five minutes for the visualization portion (including journaling at each horizon).
 
-• Fifteen to thirty minutes for optional group sharing after.
+- Fifteen to thirty minutes for optional group sharing after.
 
-• Plan for sixty to seventy-five minutes total.
+- Plan for sixty to seventy-five minutes total.
 
-• A pre-session brief explanation can run another five to ten minutes if the practice is new to the participants.
+- A pre-session brief explanation can run another five to ten minutes if the practice is new to the participants.

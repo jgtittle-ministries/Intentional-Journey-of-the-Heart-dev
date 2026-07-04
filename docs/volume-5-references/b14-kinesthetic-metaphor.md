@@ -13,29 +13,29 @@ B14 is the core operational form of the *somatic-first access-mode* dimension of
 
 **When to use it**
 
-• **For participants whose processing is body-led.** Some participants do not think in pictures, do not hear internal voices, do not narrate themselves in words — but their bodies carry felt-sense information richly. The verbal/visual access modes the existing Tool Map presupposes do not reach these participants; B14 is the core access mode.
+- **For participants whose processing is body-led.** Some participants do not think in pictures, do not hear internal voices, do not narrate themselves in words — but their bodies carry felt-sense information richly. The verbal/visual access modes the existing Tool Map presupposes do not reach these participants; B14 is the core access mode.
 
-• **For any blockage-type when verbal/visual entry has gone flat.** A participant who has been working verbally or visually and is now stuck — the words are circular; the picture is foggy; the work is repeating without moving — may benefit from somatic-first re-entry. The Companion routes mid-session from verbal/visual to B14.
+- **For any blockage-type when verbal/visual entry has gone flat.** A participant who has been working verbally or visually and is now stuck — the words are circular; the picture is foggy; the work is repeating without moving — may benefit from somatic-first re-entry. The Companion routes mid-session from verbal/visual to B14.
 
-• **For fear-knots specifically.** Fear is physically expressed by definition (Rom 8:15, the spirit of slavery leading to fear; physiological correlates of fear are body-resident). B14 is operationally well-suited to fear-knot work even when the participant has good verbal/visual access; the somatic entry tends to reach fear material more directly than verbal/visual entry.
+- **For fear-knots specifically.** Fear is physically expressed by definition (Rom 8:15, the spirit of slavery leading to fear; physiological correlates of fear are body-resident). B14 is operationally well-suited to fear-knot work even when the participant has good verbal/visual access; the somatic entry tends to reach fear material more directly than verbal/visual entry.
 
-• **For sexual-abuse-survivor adaptation work** where verbal narrative may not be available or may carry secondary trauma; the somatic-first access opens material that words cannot yet hold. Companion II minimum competency required; Companion III for substantive trauma deployment.
+- **For sexual-abuse-survivor adaptation work** where verbal narrative may not be available or may carry secondary trauma; the somatic-first access opens material that words cannot yet hold. Companion II minimum competency required; Companion III for substantive trauma deployment.
 
-• **For participants who have been doing inner-work for years and have plateaued on verbal/visual entry.** Mature inner-work practitioners often benefit from somatic re-entry that bypasses the patterns their verbal/visual access has developed; the somatic entry opens material that the practiced verbal/visual access has learned to manage rather than feel.
+- **For participants who have been doing inner-work for years and have plateaued on verbal/visual entry.** Mature inner-work practitioners often benefit from somatic re-entry that bypasses the patterns their verbal/visual access has developed; the somatic entry opens material that the practiced verbal/visual access has learned to manage rather than feel.
 
-• **At Companion II competency.** The somatic-first protocol presupposes carpet-work competency (the participant-Companion relationship is established; the container is held under V2.Exp8 refined; the Companion can deploy related carpet-work protocols when material surfaces).
+- **At Companion II competency.** The somatic-first protocol presupposes carpet-work competency (the participant-Companion relationship is established; the container is held under V2.Exp8 refined; the Companion can deploy related carpet-work protocols when material surfaces).
 
 **When NOT to use it**
 
-• **As substitute for verbal/visual work when both access modes are operationally available.** B14 is not a "deeper" form of carpet-work than verbal/visual work; it is a different access mode. Where the participant's verbal/visual access is operating cleanly and the work is moving, switching to B14 produces operational friction without benefit.
+- **As substitute for verbal/visual work when both access modes are operationally available.** B14 is not a "deeper" form of carpet-work than verbal/visual work; it is a different access mode. Where the participant's verbal/visual access is operating cleanly and the work is moving, switching to B14 produces operational friction without benefit.
 
-• **In contexts where the body's felt-sense reading is unstable.** Some participants — particularly during acute dissociation, active flashback, severe trauma activation, or substance-impairment — cannot reliably read body felt-sense. B14 presupposes stable somatic perception; where the perception is not stable, the work routes elsewhere (B15 for active flashback; A8 or other appropriate work for the underlying material; clinical care if needed).
+- **In contexts where the body's felt-sense reading is unstable.** Some participants — particularly during acute dissociation, active flashback, severe trauma activation, or substance-impairment — cannot reliably read body felt-sense. B14 presupposes stable somatic perception; where the perception is not stable, the work routes elsewhere (B15 for active flashback; A8 or other appropriate work for the underlying material; clinical care if needed).
 
-• **In contexts where somatic awareness is being weaponized.** Some participants have learned somatic-awareness practices in secular or non-Christian-grounded contexts (yoga; mindfulness; somatic-experiencing therapy; alternative spiritualities) and have developed somatic-attending habits that carry philosophical commitments the corpus does not endorse. B14's Christian-frame adaptation operates on body-as-Spirit-indwelt-temple grounding; participants whose somatic-attending operates on body-as-source-of-wisdom grounding may need the framing addressed before B14 deploys cleanly.
+- **In contexts where somatic awareness is being weaponized.** Some participants have learned somatic-awareness practices in secular or non-Christian-grounded contexts (yoga; mindfulness; somatic-experiencing therapy; alternative spiritualities) and have developed somatic-attending habits that carry philosophical commitments the corpus does not endorse. B14's Christian-frame adaptation operates on body-as-Spirit-indwelt-temple grounding; participants whose somatic-attending operates on body-as-source-of-wisdom grounding may need the framing addressed before B14 deploys cleanly.
 
-• **In contexts where the body's somatic emergence may be substance-related.** Some somatic phenomena have direct medical or substance-related causes that warrant medical attention rather than carpet-work; the Companion's discernment about whether somatic emergence is formation-relevant material or medical material governs.
+- **In contexts where the body's somatic emergence may be substance-related.** Some somatic phenomena have direct medical or substance-related causes that warrant medical attention rather than carpet-work; the Companion's discernment about whether somatic emergence is formation-relevant material or medical material governs.
 
-• **In bodies that have not developed carpet-work competency.** B14 is a carpet-work modality; bodies whose container competency has not reached the point of holding any carpet-work cannot hold B14 specifically. The body's container-development governs whether B14 is available.
+- **In bodies that have not developed carpet-work competency.** B14 is a carpet-work modality; bodies whose container competency has not reached the point of holding any carpet-work cannot hold B14 specifically. The body's container-development governs whether B14 is available.
 
 ## The protocol
 B14 runs across six operational moves, typically 45–90 minutes for a complete deployment. The protocol may operate as standalone work-component, as the access-mode within B12's recipe step 2 (representing the internal state somatically rather than verbally), or as mid-session routing from a verbal/visual carpet-work that has gone flat.
@@ -113,15 +113,15 @@ The scene-gathering move surfaces what the carpet-work needs to address next —
 
 **On routing when the somatic-first access surfaces material that exceeds B14's scope.** Common routings during B14 deployment:
 
-• *Active flashback or severe dissociation surfacing during Move 3 conformation* → must shift to B15 with Companion III competency; or close the work cleanly and route to subsequent care.
+- *Active flashback or severe dissociation surfacing during Move 3 conformation* → must shift to B15 with Companion III competency; or close the work cleanly and route to subsequent care.
 
-• *Material that needs Companion-III-level competency surfacing at any point* → close B14 cleanly at the next natural breakpoint; route to appropriate Companion or subsequent care.
+- *Material that needs Companion-III-level competency surfacing at any point* → close B14 cleanly at the next natural breakpoint; route to appropriate Companion or subsequent care.
 
-• *Sin-channel material surfacing during the work* → route to V2.Exp4 refined Confession / A6 Fifth Step after the carpet-work closes.
+- *Sin-channel material surfacing during the work* → route to V2.Exp4 refined Confession / A6 Fifth Step after the carpet-work closes.
 
-• *Image-of-God / blessing-deficit material surfacing during the work* → may shift to A24 within Move 6 or after the work closes.
+- *Image-of-God / blessing-deficit material surfacing during the work* → may shift to A24 within Move 6 or after the work closes.
 
-• *Contract / agreement material surfacing during the work* → may shift to A25 within Move 6 or after the work closes.
+- *Contract / agreement material surfacing during the work* → may shift to A25 within Move 6 or after the work closes.
 
 The Companion's during-B14 discernment about routing is itself a Companion II / III competency.
 
@@ -130,15 +130,15 @@ The Companion's during-B14 discernment about routing is itself a Companion II / 
 **On the corpus's broader treatment of the body.** B14 sits within the corpus's broader treatment of embodied formation (the body-as-temple emphasis throughout Vol 1 anthropology; the Garden of Your Heart somatic entry for fear in V2.Exp2; the V2.Exp8 refined formally-marked container's somatic-marker option; the broader carpet-work tradition's somatic-objectification opening in A17 + A23). B14 is the core somatic-first access mode; the broader body-formation territory operates across multiple V2 explorations.
 
 ## Materials
-• **Space appropriate to carpet-work session** — per the standard carpet-work container.
+- **Space appropriate to carpet-work session** — per the standard carpet-work container.
 
-• **Optional drawing materials** — some Companions provide drawing materials for the metaphor refinement at Move 2, allowing the participant to literally draw what their body is showing. The drawing supports the metaphor refinement and provides a take-home artifact of the work. Not required.
+- **Optional drawing materials** — some Companions provide drawing materials for the metaphor refinement at Move 2, allowing the participant to literally draw what their body is showing. The drawing supports the metaphor refinement and provides a take-home artifact of the work. Not required.
 
-• **Materials specific to subsequent carpet-work protocols** — per Move 6's deployed protocol (each carpet-work protocol's Part VI entry supplies the specific materials).
+- **Materials specific to subsequent carpet-work protocols** — per Move 6's deployed protocol (each carpet-work protocol's Part VI entry supplies the specific materials).
 
 ## Time
-• **Standard B14 deployment:** 45–90 minutes total. Allocation: Move 1 (localize) 5–10 min; Move 2 (metaphor refinement) 10–20 min; Move 3 (body conformation) 5–10 min; Move 4 (age) 5–10 min; Move 5 (scene) 5–20 min; Move 6 (carpet-work protocol) 20–60+ min.
+- **Standard B14 deployment:** 45–90 minutes total. Allocation: Move 1 (localize) 5–10 min; Move 2 (metaphor refinement) 10–20 min; Move 3 (body conformation) 5–10 min; Move 4 (age) 5–10 min; Move 5 (scene) 5–20 min; Move 6 (carpet-work protocol) 20–60+ min.
 
-• **Compressed B14 deployment:** 30–45 minutes total for lighter work that does not require full Move 6 carpet-work protocol deployment; the somatic emergence at Moves 1–3 may itself be the work for the gathering.
+- **Compressed B14 deployment:** 30–45 minutes total for lighter work that does not require full Move 6 carpet-work protocol deployment; the somatic emergence at Moves 1–3 may itself be the work for the gathering.
 
-• **Extended B14 deployment:** 90+ minutes for complex carpet-work where Move 6 deploys a substantial protocol from the somatic-first ground.
+- **Extended B14 deployment:** 90+ minutes for complex carpet-work where Move 6 deploys a substantial protocol from the somatic-first ground.

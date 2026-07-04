@@ -14,29 +14,29 @@ The protocol's primary downstream effect is V2.Exp8 container-formation at the l
 
 **When to use it**
 
-• **When a new candidate is being considered for membership in a BoB / FotH group.** The core deployment context — *the candidate has expressed interest, an existing member has surfaced their name to the body, the body has begun discerning fit, and the pre-membership discussion is about to begin*. A22 governs from the pre-membership conversation through the third meeting's commitment-or-opt-out.
+- **When a new candidate is being considered for membership in a BoB / FotH group.** The core deployment context — *the candidate has expressed interest, an existing member has surfaced their name to the body, the body has begun discerning fit, and the pre-membership discussion is about to begin*. A22 governs from the pre-membership conversation through the third meeting's commitment-or-opt-out.
 
-• **When the existing body has capacity for new-member integration.** Adding a new member is non-trivial work for the existing body; the body should have container conditions sufficient to hold both its current life and the new-member discernment. Companions discern whether the body is in a state where onboarding is workable.
+- **When the existing body has capacity for new-member integration.** Adding a new member is non-trivial work for the existing body; the body should have container conditions sufficient to hold both its current life and the new-member discernment. Companions discern whether the body is in a state where onboarding is workable.
 
-• **Level II Companion competency for full deployment of the inviter role.** The inviter's discernment-of-fit, the count-the-cost framing of the deal-points conversation, the V2.Exp7A discernment-of-voices work on both sides, and the holding of opt-out as live possibility throughout — all are Level II competencies that develop with reps.
+- **Level II Companion competency for full deployment of the inviter role.** The inviter's discernment-of-fit, the count-the-cost framing of the deal-points conversation, the V2.Exp7A discernment-of-voices work on both sides, and the holding of opt-out as live possibility throughout — all are Level II competencies that develop with reps.
 
-• **Level I Companion competency for participation in the three meetings as a member of the existing body.** The body members who participate in the candidate's meetings need V2.Exp8 container-discipline competency and the cohort-B protocol competencies the meetings deploy (A26, A27, V2.Exp8, A1/A2, A31).
+- **Level I Companion competency for participation in the three meetings as a member of the existing body.** The body members who participate in the candidate's meetings need V2.Exp8 container-discipline competency and the cohort-B protocol competencies the meetings deploy (A26, A27, V2.Exp8, A1/A2, A31).
 
 **When NOT to use it (failure modes and contraindications)**
 
-• **When the existing body is in container crisis.** If the body's container conditions per V2.Exp8 refined are not currently sufficient (recent interpersonal rupture among members; loss of focused attention; confidentiality breach), the body is not in a state to onboard. Restore the body first; onboarding follows.
+- **When the existing body is in container crisis.** If the body's container conditions per V2.Exp8 refined are not currently sufficient (recent interpersonal rupture among members; loss of focused attention; confidentiality breach), the body is not in a state to onboard. Restore the body first; onboarding follows.
 
-• **When the candidate is in acute crisis.** A candidate in fresh trauma, active psychiatric instability, or major life-rupture state may not be in a place where BoB membership can land as formation rather than as additional load. The deal-points conversation should surface this honestly; deferral to a later season is sometimes the right move, with pastoral support in the interim.
+- **When the candidate is in acute crisis.** A candidate in fresh trauma, active psychiatric instability, or major life-rupture state may not be in a place where BoB membership can land as formation rather than as additional load. The deal-points conversation should surface this honestly; deferral to a later season is sometimes the right move, with pastoral support in the interim.
 
-• **When the inviter has not done sufficient discernment of fit before the pre-membership conversation begins.** The conversation itself is a discernment event, but the inviter should come into the conversation with prior discernment work done. A candidate brought into the conversation without prior discernment becomes the body's discernment burden in ways that compromise the conversation's integrity.
+- **When the inviter has not done sufficient discernment of fit before the pre-membership conversation begins.** The conversation itself is a discernment event, but the inviter should come into the conversation with prior discernment work done. A candidate brought into the conversation without prior discernment becomes the body's discernment burden in ways that compromise the conversation's integrity.
 
-• **When the body's discernment process is implicitly biased toward acceptance.** The opt-out structure is constitutive only if both-sides opt-out is live possibility throughout. Bodies that have implicitly decided to accept the candidate before the three meetings begin produce performative onboarding rather than discernment. The Companion's discipline is to hold opt-out as live possibility for the body, not just for the candidate.
+- **When the body's discernment process is implicitly biased toward acceptance.** The opt-out structure is constitutive only if both-sides opt-out is live possibility throughout. Bodies that have implicitly decided to accept the candidate before the three meetings begin produce performative onboarding rather than discernment. The Companion's discipline is to hold opt-out as live possibility for the body, not just for the candidate.
 
-• **When the pre-membership conversation drifts toward salesmanship.** The deal-points are *named honestly* — including the costs. A conversation that overstates the gifts and understates the costs produces commitment on partial information; the new member discovers the costs they were not told and the commitment frays. Hold the deal-points honestly.
+- **When the pre-membership conversation drifts toward salesmanship.** The deal-points are *named honestly* — including the costs. A conversation that overstates the gifts and understates the costs produces commitment on partial information; the new member discovers the costs they were not told and the commitment frays. Hold the deal-points honestly.
 
-• **When the candidate is invited primarily because the body needs a new member rather than because the candidate is a fit.** Recruitment-driven onboarding undercuts the discernment. The body's discernment of its own state and need is upstream of the candidate-discernment.
+- **When the candidate is invited primarily because the body needs a new member rather than because the candidate is a fit.** Recruitment-driven onboarding undercuts the discernment. The body's discernment of its own state and need is upstream of the candidate-discernment.
 
-• **Running the three meetings without honoring the opt-out close.** If the third meeting does not include the explicit invitation-or-opt-out conversation, the structure has been compressed and the discernment is incomplete. The opt-out conversation is the close that makes the prior meetings serve their function.
+- **Running the three meetings without honoring the opt-out close.** If the third meeting does not include the explicit invitation-or-opt-out conversation, the structure has been compressed and the discernment is incomplete. The opt-out conversation is the close that makes the prior meetings serve their function.
 
 **The protocol — pre-membership discussion**
 
@@ -62,7 +62,7 @@ The pre-membership conversation is the operational front of the onboarding. Typi
 
 4. **Deal-point 3: Mission of leading other men.**
 
-- Inviter: *"The body's mission is to develop men who can lead other men into formation. You're being invited into a body whose mission is outward and developmental, not inward and self-maintaining. The work we do **together is in service of you becoming someone who leads other men into the kind of formation we're doing. Is that something you're open to?"*
+- Inviter: *"The body's mission is to develop men who can lead other men into formation. You're being invited into a body whose mission is outward and developmental, not inward and self-maintaining. The work we do together is in service of you becoming someone who leads other men into the kind of formation we're doing. Is that something you're open to?"*
 
 - Candidate: respond.
 
@@ -105,7 +105,7 @@ The three-meeting structure follows the pre-membership discussion. Each meeting 
 
 **Meeting 1: Introduction to confidentiality, story-telling, identity.**
 
-1. **Confidentiality framing.** Companion or designated body member names the confidentiality discipline to the candidate explicitly. *"[Candidate], the body operates under strict confidentiality. What is said in this **room stays in this room. Including by you, beginning tonight, regardless of what discernment happens at the end of the three meetings."* The candidate confirms understanding.
+1. **Confidentiality framing.** Companion or designated body member names the confidentiality discipline to the candidate explicitly. *"[Candidate], the body operates under strict confidentiality. What is said in this room stays in this room. Including by you, beginning tonight, regardless of what discernment happens at the end of the three meetings."* The candidate confirms understanding.
 
 2. **Story-telling (A26).** The candidate tells some of their story per the A26 Tell Your Story protocol — typically the four-question framework (Footprints of God, wounds, battles, victories). Body members listen as witnesses per A26's framing. The body's first substantive encounter with the candidate happens through their story.
 
@@ -147,29 +147,29 @@ The opt-out as live possibility throughout the three meetings is the discipline 
 
 The cohort-B integration sequencing question (Founder-attention flag 1 in the Phase 2 entry) lands here in the Companion notes per recommended option c. Typical-pattern guidance for when each protocol enters a new member's life:
 
-• **Story-telling (A26):** Begins meeting 1; continues across the member's first year as more of their story gets told.
+- **Story-telling (A26):** Begins meeting 1; continues across the member's first year as more of their story gets told.
 
-• **Identity discovery (A27 Mission-Arc family):** Begins meeting 1; deepens across the first months as the five questions mature.
+- **Identity discovery (A27 Mission-Arc family):** Begins meeting 1; deepens across the first months as the five questions mature.
 
-• **Mission articulation (A31 Mission-Arc family):** Begins meeting 2; full Stretch step deployment typically within first six months.
+- **Mission articulation (A31 Mission-Arc family):** Begins meeting 2; full Stretch step deployment typically within first six months.
 
-• **Shadow Mission (A30 Mission-Arc family):** Introduced typically 3–6 months in, once initial mission articulation has matured enough for shadow-mission identification to operate cleanly.
+- **Shadow Mission (A30 Mission-Arc family):** Introduced typically 3–6 months in, once initial mission articulation has matured enough for shadow-mission identification to operate cleanly.
 
-• **PROAPT scripture engagement (A28):** Introduced shortly after commitment; becomes part of member's ongoing rhythm.
+- **PROAPT scripture engagement (A28):** Introduced shortly after commitment; becomes part of member's ongoing rhythm.
 
-• **Any Doubts (A29):** Introduced as Apply-step impressions surface; sometimes meeting 4 or 5, sometimes later, per Companion discernment.
+- **Any Doubts (A29):** Introduced as Apply-step impressions surface; sometimes meeting 4 or 5, sometimes later, per Companion discernment.
 
-• **Hot Seat (A32):** Substantial periodic focused-attention work; introduced typically within first year. Mini Hot Seat may deploy earlier.
+- **Hot Seat (A32):** Substantial periodic focused-attention work; introduced typically within first year. Mini Hot Seat may deploy earlier.
 
-• **What's at Risk (A33):** Introduced when specific mission-decision hesitation surfaces; deployment-frequency varies.
+- **What's at Risk (A33):** Introduced when specific mission-decision hesitation surfaces; deployment-frequency varies.
 
-• **Clearings (A1 / A2):** Ongoing from meeting 2 forward as interpersonal frictions surface.
+- **Clearings (A1 / A2):** Ongoing from meeting 2 forward as interpersonal frictions surface.
 
-• **Carpet-Style family (A17 / A23):** Introduced when wound or shadow work is needed; sometimes early, often later in the developmental arc.
+- **Carpet-Style family (A17 / A23):** Introduced when wound or shadow work is needed; sometimes early, often later in the developmental arc.
 
-• **Tell-Show Release family (A18 / A19 / A20):** Deployed as blockages surface; varies per member.
+- **Tell-Show Release family (A18 / A19 / A20):** Deployed as blockages surface; varies per member.
 
-• **Affirmation (A13):** Used in closing-affirmation work throughout member's life.
+- **Affirmation (A13):** Used in closing-affirmation work throughout member's life.
 
 This sequencing is *typical pattern*, not core prescription. Companion discernment determines deployment timing based on the member's actual developmental movement and what the body is hearing about what the Lord is doing in them.
 

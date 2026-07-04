@@ -17,27 +17,27 @@ PIES's two distinctive operational moves beyond A1 and A2: the four-quadrant fra
 
 **When to use it**
 
-• **As the **core** clearing-method when the friction's interpretive layer is operationally significant.** PIES's four-quadrant frame and story-externalization move are most operationally helpful when the friction involves substantive interpretation work — where the participant's story-telling about what happened is doing as much work as what happened.
+- **As the **core** clearing-method when the friction's interpretive layer is operationally significant.** PIES's four-quadrant frame and story-externalization move are most operationally helpful when the friction involves substantive interpretation work — where the participant's story-telling about what happened is doing as much work as what happened.
 
-• **For new bodies developing clearing competency.** PIES's explicit four-quadrant structure gives new participants explicit operational language for the clearings work; the structure scaffolds the clearing competency the body develops over its first 4–8 sessions. As the body internalizes the clearings discipline, the Companion may select A1 or A2 for simpler clearings in subsequent practice.
+- **For new bodies developing clearing competency.** PIES's explicit four-quadrant structure gives new participants explicit operational language for the clearings work; the structure scaffolds the clearing competency the body develops over its first 4–8 sessions. As the body internalizes the clearings discipline, the Companion may select A1 or A2 for simpler clearings in subsequent practice.
 
-• **For clearings touching the participant's own false-self material.** The story-externalization move is structurally identical to what V2.Exp2A canonizes; PIES is the clearing-method form of the broader false-self work. When a clearing's interpretation layer surfaces material that is more about the participant's own false-self than about the receiving participant, PIES's structure makes that visible.
+- **For clearings touching the participant's own false-self material.** The story-externalization move is structurally identical to what V2.Exp2A canonizes; PIES is the clearing-method form of the broader false-self work. When a clearing's interpretation layer surfaces material that is more about the participant's own false-self than about the receiving participant, PIES's structure makes that visible.
 
-• **For mixed-gender clearings where the pastoral-pattern framing matters operationally.** The PIES source document carries gender-aware guidelines that Founder Decision 5.1(c) frames as common patterns the Companion can expect rather than rules; PIES is the core clearing-method that carries this framing in core V2 form.
+- **For mixed-gender clearings where the pastoral-pattern framing matters operationally.** The PIES source document carries gender-aware guidelines that Founder Decision 5.1(c) frames as common patterns the Companion can expect rather than rules; PIES is the core clearing-method that carries this framing in core V2 form.
 
-• **At Companion II competency for facilitating PIES clearings in new bodies;** Level I appropriate once the body has internalized the basic PIES form and can run clearings largely under their own discipline with Companion attending.
+- **At Companion II competency for facilitating PIES clearings in new bodies;** Level I appropriate once the body has internalized the basic PIES form and can run clearings largely under their own discipline with Companion attending.
 
 **When NOT to use it**
 
-• **For simple operational frictions** that are better addressed by direct conversation outside the session-liturgy frame. Not every friction requires a formal clearing; the body's between-session communication discipline often handles operational frictions without formal clearings work.
+- **For simple operational frictions** that are better addressed by direct conversation outside the session-liturgy frame. Not every friction requires a formal clearing; the body's between-session communication discipline often handles operational frictions without formal clearings work.
 
-• **For clearings touching trauma material** that exceeds the clearings sub-component's scope. PIES is a clearings discipline, not a trauma-processing protocol; if the *story I told myself* move surfaces trauma material requiring substantive therapeutic work, the Companion routes per the routing logic (Companion II / III consultation; A17 family if appropriate; pastoral care or clinical referral as needed). PIES gives the participant operational structure for naming what is happening; it does not process the underlying trauma.
+- **For clearings touching trauma material** that exceeds the clearings sub-component's scope. PIES is a clearings discipline, not a trauma-processing protocol; if the *story I told myself* move surfaces trauma material requiring substantive therapeutic work, the Companion routes per the routing logic (Companion II / III consultation; A17 family if appropriate; pastoral care or clinical referral as needed). PIES gives the participant operational structure for naming what is happening; it does not process the underlying trauma.
 
-• **For clearings that have escalated to relational rupture** beyond the body's capacity to hold in the clearings component. When friction has accumulated past the clearings-component's structural scope, the Companion's discernment may move the work to a separate dyadic conversation outside the session-liturgy frame, with Companion III or pastoral support.
+- **For clearings that have escalated to relational rupture** beyond the body's capacity to hold in the clearings component. When friction has accumulated past the clearings-component's structural scope, the Companion's discernment may move the work to a separate dyadic conversation outside the session-liturgy frame, with Companion III or pastoral support.
 
-• **As a substitute for the substantive work-component.** Clearings clear what would interfere with the work; clearings do not substitute for the work itself. When the clearings component runs long and threatens the work-component's time, the Companion's discernment governs — sometimes the clearings work is what the gathering needs (and the work-component yields); sometimes the clearings work is preventing the gathering from accessing the work the body needs (and the Companion redirects).
+- **As a substitute for the substantive work-component.** Clearings clear what would interfere with the work; clearings do not substitute for the work itself. When the clearings component runs long and threatens the work-component's time, the Companion's discernment governs — sometimes the clearings work is what the gathering needs (and the work-component yields); sometimes the clearings work is preventing the gathering from accessing the work the body needs (and the Companion redirects).
 
-• **In acute pastoral or clinical crisis.** PIES is a clearings discipline; acute crisis warrants stepping outside the session-liturgy frame per the V2.Exp8B Companion-discernment guidance.
+- **In acute pastoral or clinical crisis.** PIES is a clearings discipline; acute crisis warrants stepping outside the session-liturgy frame per the V2.Exp8B Companion-discernment guidance.
 
 ## The protocol
 PIES runs in dyadic form (one participant clearing with another specific participant) when the friction is between two specific people; in group form (participant addressing the body) when the friction concerns the body's broader practice. The five-move sequence holds in both forms. The receiving participant attends per V2.Exp8 refined witness-discipline (paragraph 3); the receiving participant may respond briefly after the speaking participant has completed all five moves.
@@ -103,15 +103,15 @@ PIES runs in dyadic form (one participant clearing with another specific partici
 ## Companion notes
 **On the pastoral-pattern framing for gender-aware material (Decision 5.1(c)).** The PIES source document carries specific guidance for women-clearing-with-women patterns, men-clearing-with-men patterns, and mixed-gender-clearing patterns. Per Decision 5.1(c), these are framed as *common patterns the Companion can expect rather than rules*. Pastoral patterns the Companion may notice operationally (without these becoming core rules):
 
-• **In women-clearing-with-women patterns,** the clearing often carries strong emphasis on connection-and-repair; the Spiritual-quadrant request tends toward relational restoration; the Emotional move may need more time and space than the Companion's default pacing accommodates.
+- **In women-clearing-with-women patterns,** the clearing often carries strong emphasis on connection-and-repair; the Spiritual-quadrant request tends toward relational restoration; the Emotional move may need more time and space than the Companion's default pacing accommodates.
 
-• **In men-clearing-with-men patterns,** the clearing often carries emphasis on boundary-setting and clarity; the Spiritual-quadrant request tends toward operational specificity; the Intellectual move may need more time as men's clearings often touch interpretive material that operates without verbal articulation in default communication.
+- **In men-clearing-with-men patterns,** the clearing often carries emphasis on boundary-setting and clarity; the Spiritual-quadrant request tends toward operational specificity; the Intellectual move may need more time as men's clearings often touch interpretive material that operates without verbal articulation in default communication.
 
-• **In mixed-gender clearings,** both emphases may be operative; the Companion's discernment is particularly important; the pastoral-pattern framing acknowledges that the body's gender composition shapes the clearing's operational dynamics without legislating specific moves.
+- **In mixed-gender clearings,** both emphases may be operative; the Companion's discernment is particularly important; the pastoral-pattern framing acknowledges that the body's gender composition shapes the clearing's operational dynamics without legislating specific moves.
 
-• **The underlying *why* of the clearing often differs by gender, and naming it helps in co-gender clearings.** In the men's-work lineage the clearing tends to function as *log removal* (Matt 7:5) — getting oneself clear, with the implicit question "in what way can I trust this person?"; it is not primarily a conflict-resolution tool. In the women's-work lineage the clearing tends to function as a *connection tool* — the speaker clears in order to build, maintain, or repair connection, and even a boundary is set by sharing the need behind it. Same five moves; different operative purpose. Naming this difference for participants entering a co-gender clearing prevents the common mismatch where one party is doing log-removal while the other is tending connection.
+- **The underlying *why* of the clearing often differs by gender, and naming it helps in co-gender clearings.** In the men's-work lineage the clearing tends to function as *log removal* (Matt 7:5) — getting oneself clear, with the implicit question "in what way can I trust this person?"; it is not primarily a conflict-resolution tool. In the women's-work lineage the clearing tends to function as a *connection tool* — the speaker clears in order to build, maintain, or repair connection, and even a boundary is set by sharing the need behind it. Same five moves; different operative purpose. Naming this difference for participants entering a co-gender clearing prevents the common mismatch where one party is doing log-removal while the other is tending connection.
 
-• **Co-gender clearings facilitate well with a co-gender facilitation team,** and benefit from a brief orientation to the man before he enters: his task is to *hear her heart*; he is not finished when he has responded but when she says she feels heard — which does not require that he agree, only that she has been heard. This makes explicit, at the point where the gender dynamic most easily loses it, the receiving-participant discipline named above. Conflict is loaded for many participants and can feel especially threatening for a woman clearing with a man; the Companion paces the Emotional move accordingly.
+- **Co-gender clearings facilitate well with a co-gender facilitation team,** and benefit from a brief orientation to the man before he enters: his task is to *hear her heart*; he is not finished when he has responded but when she says she feels heard — which does not require that he agree, only that she has been heard. This makes explicit, at the point where the gender dynamic most easily loses it, the receiving-participant discipline named above. Conflict is loaded for many participants and can feel especially threatening for a woman clearing with a man; the Companion paces the Emotional move accordingly.
 
 These are pastoral patterns the Companion may notice and respond to; they are not rules. The Companion's continuing practitioner-level workshopping refines how PIES operates across BoB and FotH bodies; the corpus is open to refinement of these patterns through continuing practice.
 
@@ -119,13 +119,13 @@ These are pastoral patterns the Companion may notice and respond to; they are no
 
 **On routing clearings that exceed scope.** The clearings sub-component has structural scope; some material may exceed it. Routing logic:
 
-• *Trauma material surfacing in the story-externalization* → Companion II / III consultation; A17 family if appropriate for the body's practice; pastoral care or clinical referral as needed.
+- *Trauma material surfacing in the story-externalization* → Companion II / III consultation; A17 family if appropriate for the body's practice; pastoral care or clinical referral as needed.
 
-• *Sin-channel material between the participants* → V2.Exp4 refined Confession; A6 Fifth Step if substantive disclosure work is required.
+- *Sin-channel material between the participants* → V2.Exp4 refined Confession; A6 Fifth Step if substantive disclosure work is required.
 
-• *Significant relational rupture exceeding the body's holding capacity* → separate dyadic conversation outside the session-liturgy frame; Companion III or pastoral support.
+- *Significant relational rupture exceeding the body's holding capacity* → separate dyadic conversation outside the session-liturgy frame; Companion III or pastoral support.
 
-• *Internal-voice material surfacing in the story (the story is being driven by an internal accusing or shaming voice, not by genuine observation)* → A8 Transforming a Shaming Voice may be appropriate as separate work; the V2.Exp7A discernment-of-voices discipline operates.
+- *Internal-voice material surfacing in the story (the story is being driven by an internal accusing or shaming voice, not by genuine observation)* → A8 Transforming a Shaming Voice may be appropriate as separate work; the V2.Exp7A discernment-of-voices discipline operates.
 
 The Companion's discernment of when to route is itself a Companion II / III competency; the clearings sub-component is where the discernment work happens in the session-liturgy structure.
 
@@ -134,13 +134,13 @@ The Companion's discernment of when to route is itself a Companion II / III comp
 **On the practice as developing over the body's lifecycle.** New bodies develop clearings competency over their first 4–8 sessions; PIES's explicit structure scaffolds the development. As the body internalizes the discipline, clearings may run shorter (less Companion framing needed; participants run the moves with internalized discipline) and may run between-session as well as in the clearings sub-component. The session-liturgy clearings remain core at the front of each session; between-session clearings supplement rather than replace the structural sub-component.
 
 ## Materials
-• **None required** beyond what the session-liturgy already provides (circle seating; quiet space). Speaking and receiving participants face each other in the circle when running dyadic PIES; the Companion is positioned to attend to both.
+- **None required** beyond what the session-liturgy already provides (circle seating; quiet space). Speaking and receiving participants face each other in the circle when running dyadic PIES; the Companion is positioned to attend to both.
 
-• **A small visual aid (optional but useful for new bodies)** — a printed card or simple diagram showing the four quadrants and the five-move sequence can support new participants learning the PIES discipline. As the body internalizes the form, the visual aid is no longer needed.
+- **A small visual aid (optional but useful for new bodies)** — a printed card or simple diagram showing the four quadrants and the five-move sequence can support new participants learning the PIES discipline. As the body internalizes the form, the visual aid is no longer needed.
 
 ## Time
-• **Dyadic clearing:** 5–15 minutes typical, including the receiving response. Longer for complex clearings (15–25 minutes) where the story-externalization work is substantive.
+- **Dyadic clearing:** 5–15 minutes typical, including the receiving response. Longer for complex clearings (15–25 minutes) where the story-externalization work is substantive.
 
-• **Group form clearing (participant addresses the body):** 8–20 minutes typical. The body's response may be from multiple participants; the Companion holds the pacing.
+- **Group form clearing (participant addresses the body):** 8–20 minutes typical. The body's response may be from multiple participants; the Companion holds the pacing.
 
-• **Multiple clearings in the clearings sub-component:** The clearings sub-component of the session liturgy typically holds 10–25 minutes (per V2.Exp8B Component 3 timing). When multiple clearings are needed, the Companion's discernment governs sequencing and time-allocation; the work-component may yield time if clearings work is what the body needs in the gathering.
+- **Multiple clearings in the clearings sub-component:** The clearings sub-component of the session liturgy typically holds 10–25 minutes (per V2.Exp8B Component 3 timing). When multiple clearings are needed, the Companion's discernment governs sequencing and time-allocation; the work-component may yield time if clearings work is what the body needs in the gathering.
