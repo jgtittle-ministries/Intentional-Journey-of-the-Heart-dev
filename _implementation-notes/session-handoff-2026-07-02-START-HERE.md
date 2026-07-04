@@ -73,3 +73,5 @@ Presentation-only (verified: zero `docs/*.md` in the diff; only-docs files touch
 9. Minor SVG nits left alone: engine "liquid" label behind dot; glory-attractor curve through label; overview-of-work clipped Op1/Mn1 chips; image-bearing-word fine-print small at mobile width (lightbox now mitigates).
 
 **FotH note:** IJH's table system now EXCEEDS FotH's `.table-scroll`. If John wants parity, port sizeTables + 3-mode CSS to FotH dev later.
+
+**2026-07-04 follow-up (John's review feedback):** Periodic Table page restored to the slim whole-table-in-one-glance format via a new `compact` table mode — reader.js marks pages in `COMPACT_TABLE_PAGES` (currently just the Periodic Table); their tables force-squeeze with `table-layout: fixed` + 12.5px type so the full grid always fits the column; phones fall back to the boxed scroll. To give any other reference-matrix page the same treatment, add its path to `COMPACT_TABLE_PAGES` in reader.js.

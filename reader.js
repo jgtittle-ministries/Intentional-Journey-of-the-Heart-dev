@@ -430,10 +430,17 @@
       // Wrap tables so wide ones can scroll within the reading column, then
       // pick each table's display mode by measurement (see table CSS in
       // reader.html). Re-measured after fonts load and on resize.
+      // Reference-matrix pages are marked compact: their tables always fit
+      // the column in one glance (dense type, forced wrap) instead of
+      // scrolling — the whole-table shape is the content there.
+      const COMPACT_TABLE_PAGES = [
+        'docs/volume-5-references/periodic-table-of-spiritual-laws-a-summing.md',
+      ];
+      const compactPage = COMPACT_TABLE_PAGES.indexOf(path) !== -1;
       body.querySelectorAll('table').forEach(t => {
         if (t.parentElement && t.parentElement.classList.contains('table-scroll')) return;
         const wrap = document.createElement('div');
-        wrap.className = 'table-scroll';
+        wrap.className = compactPage ? 'table-scroll compact' : 'table-scroll';
         t.parentNode.insertBefore(wrap, t);
         wrap.appendChild(t);
       });
@@ -558,7 +565,10 @@
       if (wrap.scrollWidth <= cw + 2) return;             // fits naturally
       let cols = 0;
       table.querySelectorAll('tr').forEach(tr => { if (tr.children.length > cols) cols = tr.children.length; });
-      if (wrap.scrollWidth <= cw * 2.5 && cw / Math.max(cols, 1) >= 130) {
+      // compact tables always fit the column (fixed layout guarantees it),
+      // as long as columns keep a readable minimum — phones fall back to scroll
+      if ((wrap.classList.contains('compact') && cw / Math.max(cols, 1) >= 90) ||
+          (wrap.scrollWidth <= cw * 2.5 && cw / Math.max(cols, 1) >= 130)) {
         wrap.classList.add('squeeze');
         if (wrap.scrollWidth <= cw + 2) return;           // wrapped cleanly
         wrap.classList.remove('squeeze');                 // unbreakable content kept it wide

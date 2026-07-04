@@ -203,6 +203,23 @@
   /* cells carrying long prose wrap instead of stretching the row out */
   .reader-prose .table-scroll td { max-width: 460px; }
   .reader-prose .table-scroll.squeeze table { width: 100%; }
+  /* Compact reference-matrix treatment (reader.js marks matrix pages, e.g.
+     the Periodic Table): the whole grid fits the column in one glance —
+     dense type, tight cells, hyphenation so narrow columns wrap cleanly. */
+  .reader-prose .table-scroll.compact table { font-size: 12.5px; }
+  /* fixed layout: every column gets its share and text wraps inside it, so
+     the grid always fits the column width in one glance */
+  .reader-prose .table-scroll.compact.squeeze table { table-layout: fixed; }
+  .reader-prose .table-scroll.compact.squeeze th:first-child,
+  .reader-prose .table-scroll.compact.squeeze td:first-child { width: 16%; }
+  .reader-prose .table-scroll.compact th,
+  .reader-prose .table-scroll.compact td {
+    padding: 8px 12px 8px 0;
+    overflow-wrap: break-word;
+    hyphens: auto;
+    -webkit-hyphens: auto;
+  }
+  .reader-prose .table-scroll.compact th { font-size: 9px; letter-spacing: 0.12em; }
   .reader-prose .table-scroll.scrolls {
     border: 1px solid var(--rule-soft);
     border-radius: 3px;
