@@ -63,6 +63,12 @@
     font-size: 17px;
     line-height: 1.65;
   }
+  /* long unbreakable tokens (arrow chains, joined compounds) wrap instead of
+     pushing the page wider than the screen */
+  .reader-prose p, .reader-prose li, .reader-prose blockquote,
+  .reader-prose h1, .reader-prose h2, .reader-prose h3, .reader-prose h4 {
+    overflow-wrap: break-word;
+  }
   .reader-prose p strong { color: var(--text); font-weight: 600; }
   .reader-prose p em { font-style: italic; }
   .reader-prose a {
@@ -164,9 +170,13 @@
     line-height: 1.55;
   }
   .reader-prose table td:first-child { color: var(--text); font-weight: 500; }
-  /* Wide tables scroll horizontally within the reading column instead of
-     overflowing across the right rail. reader.js wraps every rendered
-     <table> in <div class="table-scroll" role="region">. */
+  /* Tables. reader.js wraps every rendered <table> in <div class="table-scroll">
+     and then picks one of three modes by measurement (sizeTables in reader.js):
+       (no class)  fits at its natural width — clean, borderless book table
+       .squeeze    modestly wider than the column — forced to width:100% so
+                   cells wrap instead of the table growing a scrollbar
+       .scrolls    genuinely wide — boxed horizontal scroll region with edge
+                   fade hints (the only mode that shows a scrollbar) */
   .reader-prose .table-scroll {
     width: 100%;
     max-width: 100%;
@@ -174,9 +184,28 @@
     -webkit-overflow-scrolling: touch;
     overscroll-behavior-x: contain;
     margin: 32px 0;
+    scrollbar-width: thin;
+    scrollbar-color: var(--rule) transparent;
+  }
+  .reader-prose .table-scroll::-webkit-scrollbar { height: 8px; }
+  .reader-prose .table-scroll::-webkit-scrollbar-thumb { background: var(--rule); border-radius: 4px; }
+  .reader-prose .table-scroll table {
+    margin: 0;
+    min-width: 100%;
+    width: max-content;    /* natural width; also the measuring default */
+    max-width: none;
+  }
+  .reader-prose .table-scroll th,
+  .reader-prose .table-scroll td {
+    white-space: normal;
+    vertical-align: top;
+  }
+  /* cells carrying long prose wrap instead of stretching the row out */
+  .reader-prose .table-scroll td { max-width: 460px; }
+  .reader-prose .table-scroll.squeeze table { width: 100%; }
+  .reader-prose .table-scroll.scrolls {
     border: 1px solid var(--rule-soft);
     border-radius: 3px;
-    background: var(--bg-2);
     /* fade hint on the right edge so users know there's more to scroll */
     background:
       linear-gradient(90deg, var(--bg-2) 30%, transparent),
@@ -186,32 +215,18 @@
     background-repeat: no-repeat;
     background-size: 40px 100%, 40px 100%, 14px 100%, 14px 100%;
     background-attachment: local, local, scroll, scroll;
-    scrollbar-width: thin;
-    scrollbar-color: var(--rule) transparent;
   }
-  .reader-prose .table-scroll::-webkit-scrollbar { height: 8px; }
-  .reader-prose .table-scroll::-webkit-scrollbar-thumb { background: var(--rule); border-radius: 4px; }
-  .reader-prose .table-scroll table {
-    margin: 0;
-    min-width: 100%;
-    width: max-content;
-    max-width: none;
-  }
-  .reader-prose .table-scroll th,
-  .reader-prose .table-scroll td {
+  .reader-prose .table-scroll.scrolls th,
+  .reader-prose .table-scroll.scrolls td {
     padding: 12px 16px;
-    white-space: normal;
     min-width: 96px;       /* keeps narrow cells legible; wide prose cells wrap */
-    vertical-align: top;
   }
-  .reader-prose .table-scroll td:first-child,
-  .reader-prose .table-scroll th:first-child { padding-left: 18px; }
-  .reader-prose .table-scroll td:last-child,
-  .reader-prose .table-scroll th:last-child { padding-right: 18px; }
-  /* cells carrying long prose get room before they trigger scroll */
-  .reader-prose .table-scroll td { max-width: 460px; }
+  .reader-prose .table-scroll.scrolls td:first-child,
+  .reader-prose .table-scroll.scrolls th:first-child { padding-left: 18px; }
+  .reader-prose .table-scroll.scrolls td:last-child,
+  .reader-prose .table-scroll.scrolls th:last-child { padding-right: 18px; }
   @media (max-width: 720px) {
-    .reader-prose .table-scroll { margin-left: -20px; margin-right: -20px; width: calc(100% + 40px); max-width: none; border-radius: 0; border-left: 0; border-right: 0; }
+    .reader-prose .table-scroll.scrolls { margin-left: -20px; margin-right: -20px; width: calc(100% + 40px); max-width: none; border-radius: 0; border-left: 0; border-right: 0; }
   }
   .reader-prose hr {
     border: 0;
@@ -266,6 +281,35 @@
     color: var(--text-dim);
     line-height: 1.55;
     text-align: center;
+  }
+  /* Small raster images render at native size (centered) instead of being
+     upscaled to column width, which blurs them. Applied by fitFigureImages()
+     in reader.js once the image's natural size is known. */
+  .reader-prose .md-figure.fig-native { margin-left: 0; margin-right: 0; }
+  .reader-prose .md-figure.fig-native img { width: auto; max-width: 100%; margin: 0 auto; }
+  /* Figures open full-size in an overlay on click (labels in diagrams can be
+     small at column width). Cursor signals it; Esc/backdrop closes. */
+  .reader-prose .md-figure img { cursor: zoom-in; }
+  #fig-lightbox { position: fixed; inset: 0; z-index: 9998; display: none; }
+  #fig-lightbox.is-open { display: block; }
+  #fig-lightbox .fl-backdrop { position: absolute; inset: 0; background: rgba(0,0,0,0.82); cursor: zoom-out; }
+  #fig-lightbox img {
+    position: absolute; top: 50%; left: 50%;
+    transform: translate(-50%, -50%);
+    max-width: min(96vw, 1600px); max-height: 92vh;
+    border-radius: 4px;
+    box-shadow: 0 10px 50px rgba(0,0,0,0.6);
+    background: #fff;
+  }
+  #fig-lightbox .fl-caption {
+    position: absolute; left: 50%; bottom: 12px; transform: translateX(-50%);
+    max-width: 90vw;
+    color: #eee;
+    font-family: var(--mono);
+    font-size: 11px;
+    letter-spacing: 0.05em;
+    text-align: center;
+    text-shadow: 0 1px 3px rgba(0,0,0,0.9);
   }
   .reader-prose .img-placeholder {
     display: block;
@@ -400,7 +444,11 @@
     max-height: calc(100vh - 170px);
     overflow-y: auto;
     padding-right: 6px;
+    scrollbar-width: thin;
+    scrollbar-color: var(--rule) transparent;
   }
+  .chapter-outline::-webkit-scrollbar { width: 4px; }
+  .chapter-outline::-webkit-scrollbar-thumb { background: var(--rule); border-radius: 2px; }
   .chapter-outline a {
     display: block;
     padding: 6px 0 6px 12px;
@@ -474,6 +522,9 @@
   }
   .chapter-banner .cb-val { color: var(--text); }
   .chapter-banner .cb-val.accent { color: var(--accent); }
+  :root[data-theme="dark"] .chapter-banner {
+    background: linear-gradient(90deg, oklch(0.30 0.045 60 / 0.5), var(--bg-2));
+  }
 </style>
 <script>(function(){try{if(localStorage.getItem('ijh-theme')==='dark')document.documentElement.setAttribute('data-theme','dark');}catch(e){}})();</script>
 <link rel="icon" href="favicon.svg" type="image/svg+xml" />
