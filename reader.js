@@ -435,6 +435,7 @@
       // scrolling — the whole-table shape is the content there.
       const COMPACT_TABLE_PAGES = [
         'docs/volume-5-references/periodic-table-of-spiritual-laws-a-summing.md',
+        'docs/volume-5-references/the-formation-companion.md',
       ];
       const compactPage = COMPACT_TABLE_PAGES.indexOf(path) !== -1;
       body.querySelectorAll('table').forEach(t => {
