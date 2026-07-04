@@ -11,6 +11,9 @@
   // Inline formatting: code, bold, italic, links, images
   function inline(text) {
     let s = escapeHtml(text);
+    // Authors occasionally write literal entities (&amp;, &ndash;) in the
+    // source; collapse the double-escape so they render as intended.
+    s = s.replace(/&amp;([a-zA-Z]{2,8}|#\d{1,6});/g, '&$1;');
     // Inline code
     s = s.replace(/`([^`]+)`/g, (_, code) => '<code>' + code + '</code>');
     // Shared: resolve a relative path against the current chapter's docs/ dir.
@@ -67,8 +70,12 @@
       const ext = /^https?:/.test(safeUrl) ? ' target="_blank" rel="noopener"' : '';
       return '<a href="' + resolved + '"' + attrStr + ext + '>' + txt + '</a>';
     });
-    // Bold **text** and __text__
-    s = s.replace(/\*\*([^*]+)\*\*/g, '<strong>$1</strong>');
+    // Bold italic ***text*** (whole span carries both)
+    s = s.replace(/\*\*\*([^*]+)\*\*\*/g, '<strong><em>$1</em></strong>');
+    // Bold **text**, allowing complete *italic* spans inside — including the
+    // "**lead-in — *title.***" form where the closing ** also ends the italic
+    s = s.replace(/\*\*((?:[^*\n]|\*[^*\n]+\*)+?)\*\*/g, (_, inner) =>
+      '<strong>' + inner.replace(/\*([^*\n]+)\*/g, '<em>$1</em>') + '</strong>');
     s = s.replace(/__([^_]+)__/g, '<strong>$1</strong>');
     // Italic *text* and _text_ (single, not surrounded by other *)
     s = s.replace(/(?<![*\w])\*([^*\n]+?)\*(?!\*)/g, '<em>$1</em>');
@@ -80,7 +87,8 @@
     // lines[start] is header row, lines[start+1] is separator
     if (start + 1 >= lines.length) return null;
     if (!/^\s*\|?[\s\-:|]+\|?\s*$/.test(lines[start + 1])) return null;
-    const splitRow = (row) => row.replace(/^\s*\|/, '').replace(/\|\s*$/, '').split('|').map(c => c.trim());
+    // A trailing "\" in a cell is a markdown line-break marker, not content.
+    const splitRow = (row) => row.replace(/^\s*\|/, '').replace(/\|\s*$/, '').split('|').map(c => c.trim().replace(/\s*\\+$/, ''));
     const header = splitRow(lines[start]);
     let i = start + 2;
     const rows = [];
@@ -125,17 +133,20 @@
   }
 
   function parseList(lines, start, ordered) {
-    const marker = ordered ? /^(\s*)\d+\.\s+(.*)$/ : /^(\s*)[-*+]\s+(.*)$/;
+    const marker = ordered ? /^(\s*)(\d+)\.\s+(.*)$/ : /^(\s*)[-*+]\s+(.*)$/;
     const items = [];
     let i = start;
     let baseIndent = -1;
+    let startNum = null;   // first source number — keeps numbering intact when
+                           // interleaved blocks split one list into several <ol>s
     while (i < lines.length) {
       const m = lines[i].match(marker);
       if (m) {
         const indent = m[1].length;
         if (baseIndent === -1) baseIndent = indent;
         if (indent !== baseIndent) break;
-        const itemLines = [m[2]];
+        if (ordered && startNum === null) startNum = parseInt(m[2], 10) || 1;
+        const itemLines = [ordered ? m[3] : m[2]];
         i++;
         while (i < lines.length) {
           if (lines[i].trim() === '') {
@@ -168,7 +179,7 @@
     }
     if (!items.length) return null;
     const tag = ordered ? 'ol' : 'ul';
-    let html = '<' + tag + '>';
+    let html = '<' + tag + (ordered && startNum && startNum !== 1 ? ' start="' + startNum + '"' : '') + '>';
     items.forEach(itemLines => {
       // If item has multiple paragraphs (blanks inside), parse as blocks; otherwise inline
       const hasBlock = itemLines.some(l => l === '') || itemLines.some(l => /^[-*+\d]/.test(l));
@@ -416,19 +427,19 @@
         }
       });
 
-      // Wrap tables in a horizontal-scroll container so a wide table (e.g. the
-      // six-column Periodic Table grid) scrolls within the reading column
-      // instead of overflowing across the right rail.
+      // Wrap tables so wide ones can scroll within the reading column, then
+      // pick each table's display mode by measurement (see table CSS in
+      // reader.html). Re-measured after fonts load and on resize.
       body.querySelectorAll('table').forEach(t => {
         if (t.parentElement && t.parentElement.classList.contains('table-scroll')) return;
         const wrap = document.createElement('div');
         wrap.className = 'table-scroll';
-        wrap.setAttribute('tabindex', '0');
-        wrap.setAttribute('role', 'region');
-        wrap.setAttribute('aria-label', 'Scrollable table');
         t.parentNode.insertBefore(wrap, t);
         wrap.appendChild(t);
       });
+      sizeTables();
+      if (document.fonts && document.fonts.ready) document.fonts.ready.then(sizeTables);
+      fitFigureImages();
 
       // Build chapter outline in right rail (replaces source-info block when long)
       const rail = document.querySelector('.right-rail');
@@ -527,6 +538,97 @@
       '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;'
     }[c]));
   }
+
+  // Pick each table's mode: natural fit (no class), .squeeze (forced to the
+  // column width so cells wrap — for tables only modestly wider than the
+  // column whose columns stay readable), or .scrolls (a boxed horizontal
+  // scroll region — only for genuinely wide tables). The thresholds: squeeze
+  // when the natural width is under 2.5x the column and columns would average
+  // at least 130px; everything wider scrolls.
+  function sizeTables() {
+    document.querySelectorAll('.reader-prose .table-scroll').forEach(wrap => {
+      const table = wrap.querySelector('table');
+      if (!table) return;
+      wrap.classList.remove('squeeze', 'scrolls');
+      wrap.removeAttribute('tabindex');
+      wrap.removeAttribute('role');
+      wrap.removeAttribute('aria-label');
+      const cw = wrap.clientWidth;
+      if (!cw) return;
+      if (wrap.scrollWidth <= cw + 2) return;             // fits naturally
+      let cols = 0;
+      table.querySelectorAll('tr').forEach(tr => { if (tr.children.length > cols) cols = tr.children.length; });
+      if (wrap.scrollWidth <= cw * 2.5 && cw / Math.max(cols, 1) >= 130) {
+        wrap.classList.add('squeeze');
+        if (wrap.scrollWidth <= cw + 2) return;           // wrapped cleanly
+        wrap.classList.remove('squeeze');                 // unbreakable content kept it wide
+      }
+      wrap.classList.add('scrolls');
+      wrap.setAttribute('tabindex', '0');
+      wrap.setAttribute('role', 'region');
+      wrap.setAttribute('aria-label', 'Scrollable table');
+    });
+  }
+  let tableResizeTimer = null;
+  window.addEventListener('resize', () => {
+    clearTimeout(tableResizeTimer);
+    tableResizeTimer = setTimeout(sizeTables, 150);
+  });
+
+  // Small raster images display at native size instead of being upscaled to
+  // column width (which blurs them). SVGs and deliberately-styled figures
+  // (inset-left, fig-pair) keep their existing treatment.
+  function fitFigureImages() {
+    document.querySelectorAll('.reader-prose .md-figure > img').forEach(img => {
+      const fig = img.parentElement;
+      if (fig.classList.contains('inset-left') || fig.classList.contains('fig-pair') || fig.classList.contains('fig-native')) return;
+      if (/\.svg(\?|#|$)/i.test(img.currentSrc || img.src)) return;
+      const apply = () => {
+        if (img.naturalWidth > 0 && fig.clientWidth && img.naturalWidth < fig.clientWidth - 32) {
+          fig.classList.add('fig-native');
+        }
+      };
+      if (img.complete) apply();
+      else img.addEventListener('load', apply, { once: true });
+    });
+  }
+
+  // ── Figure lightbox ─────────────────────────────────────────────────
+  // Clicking a figure opens the image full-size in an overlay — diagram
+  // labels are often small at column width. Esc or backdrop click closes.
+  function figOpenLightbox(img, caption) {
+    let box = document.getElementById('fig-lightbox');
+    if (!box) {
+      box = document.createElement('div');
+      box.id = 'fig-lightbox';
+      box.innerHTML = '<div class="fl-backdrop" title="Click to close"></div><img alt=""/><div class="fl-caption"></div>';
+      document.body.appendChild(box);
+      box.addEventListener('click', figCloseLightbox);
+    }
+    box.querySelector('img').src = img.currentSrc || img.src;
+    box.querySelector('img').alt = img.alt || '';
+    box.querySelector('.fl-caption').textContent = caption || '';
+    box.classList.add('is-open');
+    document.body.style.overflow = 'hidden';
+  }
+  function figCloseLightbox() {
+    const box = document.getElementById('fig-lightbox');
+    if (!box) return;
+    box.classList.remove('is-open');
+    box.querySelector('img').src = '';
+    document.body.style.overflow = '';
+  }
+  document.addEventListener('click', (e) => {
+    const img = e.target.closest && e.target.closest('.reader-prose .md-figure img');
+    if (!img) return;
+    const fig = img.closest('.md-figure');
+    const cap = fig && fig.querySelector('figcaption');
+    figOpenLightbox(img, cap ? cap.textContent : '');
+  });
+  document.addEventListener('keydown', (e) => {
+    const box = document.getElementById('fig-lightbox');
+    if (e.key === 'Escape' && box && box.classList.contains('is-open')) figCloseLightbox();
+  });
 
   // Reading progress bar
   function onScroll() {

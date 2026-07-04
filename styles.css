@@ -78,7 +78,10 @@ body > * { position: relative; z-index: 1; }
   .right-rail { display: none; }
 }
 @media (max-width: 800px) {
-  .shell { grid-template-columns: 1fr; padding: 24px 20px 80px; }
+  /* minmax(0,…) lets the column shrink below its content's min width, so a
+     wide table scrolls inside its own container instead of stretching the
+     whole page sideways on phones */
+  .shell { grid-template-columns: minmax(0, 1fr); padding: 24px 20px 80px; }
   .toc-sidebar { display: none; }
 }
 
@@ -152,6 +155,14 @@ body > * { position: relative; z-index: 1; }
   scrollbar-width: none;
 }
 .topnav-vols::-webkit-scrollbar { display: none; }
+@media (max-width: 800px) {
+  /* the volume strip scrolls sideways on phones with its scrollbar hidden —
+     fade the right edge so it's clear there are more sections off-screen */
+  .topnav-vols {
+    -webkit-mask-image: linear-gradient(90deg, #000 calc(100% - 32px), transparent);
+    mask-image: linear-gradient(90deg, #000 calc(100% - 32px), transparent);
+  }
+}
 .topnav-vols a {
   display: inline-flex;
   align-items: baseline;
@@ -571,12 +582,27 @@ h2.part-title em { font-style: italic; color: var(--accent); font-weight: 400; }
   font-size: 16px;
 }
 
+/* Scroll container for the landing pages' hand-authored tables — on narrow
+   screens the table scrolls inside it instead of stretching the page. */
+.table-wrap {
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  overscroll-behavior-x: contain;
+  scrollbar-width: thin;
+  scrollbar-color: var(--rule) transparent;
+}
+.table-wrap::-webkit-scrollbar { height: 8px; }
+.table-wrap::-webkit-scrollbar-thumb { background: var(--rule); border-radius: 4px; }
+
 .reg-table {
   width: 100%;
   border-collapse: collapse;
   font-family: var(--mono);
   font-size: 13px;
 }
+/* headers set each column's floor — stops "Open Q's" collapsing into a
+   one-word-per-line tower when the column is tight */
+.reg-table th { white-space: nowrap; }
 .reg-table th {
   text-align: left;
   font-weight: 500;
@@ -732,12 +758,13 @@ h2.part-title em { font-style: italic; color: var(--accent); font-weight: 400; }
 }
 .connects-grid {
   display: grid;
-  grid-template-columns: repeat(4, 1fr);
+  /* auto-fit: 4-up where there's room, 2x2 in narrow columns — avoids
+     one-word-per-line hyphen towers when the host column is tight */
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
   gap: 1px;
   background: var(--rule-soft);
   border: 1px solid var(--rule-soft);
 }
-@media (max-width: 720px) { .connects-grid { grid-template-columns: 1fr 1fr; } }
 .connect {
   background: var(--bg-2);
   padding: 24px 20px;
@@ -1505,6 +1532,28 @@ a.pdf-popup.md-button:focus { background: var(--accent); color: var(--bg); text-
 }
 :root[data-theme="dark"] img { filter: brightness(0.92) contrast(1.02); }
 
+/* Fixed-value light backgrounds the token swap can't reach. Without these the
+   dark theme keeps cream surfaces under light text (invisible masthead title,
+   blank nav pill, glowing corner streaks). */
+:root[data-theme="dark"] .topnav-wrap { background: oklch(0.20 0.012 75 / 0.92); }
+:root[data-theme="dark"] .topnav-vols a:hover { background: oklch(0.29 0.018 75 / 0.7); }
+:root[data-theme="dark"] .topnav-vols a.current { background: oklch(0.32 0.025 70 / 0.85); }
+:root[data-theme="dark"] .toc-card:hover { background: oklch(0.29 0.018 75 / 0.7); }
+:root[data-theme="dark"] .home-vol:hover { background: oklch(0.29 0.018 75 / 0.7); }
+:root[data-theme="dark"] .home-vol.current { background: linear-gradient(90deg, oklch(0.30 0.05 60 / 0.5), transparent); }
+:root[data-theme="dark"] .vol-cell.current { background: linear-gradient(180deg, oklch(0.30 0.05 60 / 0.5), oklch(0.27 0.04 60 / 0.3)); }
+:root[data-theme="dark"] .live-banner { background: linear-gradient(90deg, oklch(0.30 0.05 60 / 0.55), oklch(0.24 0.014 75)); }
+:root[data-theme="dark"] .rule-block {
+  background:
+    radial-gradient(800px 400px at 50% 0%, oklch(0.30 0.05 60 / 0.45), transparent 70%),
+    linear-gradient(180deg, oklch(0.25 0.016 75), oklch(0.23 0.017 75));
+}
+:root[data-theme="dark"] body::before {
+  background:
+    radial-gradient(1100px 600px at 80% -10%, oklch(0.26 0.03 60 / 0.55), transparent 60%),
+    radial-gradient(900px 500px at -10% 110%, oklch(0.25 0.02 75 / 0.55), transparent 60%);
+}
+
 /* ── Topnav icon buttons (search + theme) ──────────────────────────── */
 .nav-icon-btn {
   background: none;
@@ -1555,7 +1604,9 @@ a.pdf-popup.md-button:focus { background: var(--accent); color: var(--bg); text-
   color: var(--text);
 }
 .search-close { background: var(--bg-2); border: 1px solid var(--rule-soft); color: var(--text-dim); font-family: var(--mono); font-size: 11px; padding: 3px 7px; border-radius: 4px; cursor: pointer; }
-.search-results { overflow-y: auto; padding: 6px; }
+.search-results { overflow-y: auto; padding: 6px; scrollbar-width: thin; scrollbar-color: var(--rule) transparent; }
+.search-results::-webkit-scrollbar { width: 6px; }
+.search-results::-webkit-scrollbar-thumb { background: var(--rule); border-radius: 3px; }
 .search-empty { color: var(--text-dim); font-size: 15px; padding: 22px 16px; text-align: center; font-style: italic; }
 .search-hit { display: block; padding: 10px 12px; border-radius: 7px; text-decoration: none; color: var(--text); }
 .search-hit:hover, .search-hit.is-sel { background: var(--bg-2); }

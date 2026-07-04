@@ -48,13 +48,14 @@
 <text x="34" y="114" fill="#6B7280" font-family="Georgia, serif" font-size="10.5">exogenous · Balaam could not curse the blessed</text>
 <path d="M 132,128 C 150,240 200,355 248,408" fill="none" stroke="#6E7C8E" stroke-width="1.8" stroke-dasharray="4 4" marker-end="url(#as)"/>
 
-<rect x="140" y="522" width="520" height="58" rx="9" fill="#FFFFFF" stroke="#6E7C8E" stroke-width="1.4"/>
-<text x="400" y="544" text-anchor="middle" fill="#2B2E34" font-family="Georgia, serif" font-size="12.5" font-weight="600">The word's orientation — the master switch</text>
-<text x="400" y="563" text-anchor="middle" fill="#6B7280" font-family="Georgia, serif" font-size="10.5">spoken true and in love → the loop builds up; the presumed or corrupt word runs the same loop in reverse (Jer. 23; Jas. 3:6)</text>
+<rect x="140" y="522" width="520" height="62" rx="9" fill="#FFFFFF" stroke="#6E7C8E" stroke-width="1.4"/>
+<text x="400" y="542" text-anchor="middle" fill="#2B2E34" font-family="Georgia, serif" font-size="12.5" font-weight="600">The word's orientation — the master switch</text>
+<text x="400" y="560" text-anchor="middle" fill="#6B7280" font-family="Georgia, serif" font-size="10.5">spoken true and in love → the loop builds up;</text>
+<text x="400" y="575" text-anchor="middle" fill="#6B7280" font-family="Georgia, serif" font-size="10.5">the presumed or corrupt word runs the same loop in reverse (Jer. 23; Jas. 3:6)</text>
 <path d="M 400,522 C 400,470 400,420 400,328" fill="none" stroke="#6E7C8E" stroke-width="1.8" marker-end="url(#as)"/>
 
 <g font-family="Georgia, serif" font-size="10" fill="#6B7280">
-  <text x="628" y="560">+ same-direction link</text>
-  <text x="628" y="575">R reinforcing · ‖ delay</text>
+  <text x="628" y="38">+ same-direction link</text>
+  <text x="628" y="53">R reinforcing · ‖ delay</text>
 </g>
 </svg>
