@@ -42,3 +42,34 @@
 - FotH repos: dev `…\_work\fellowship-of-the-heart-pilot-at-cca-dev`, prod `…\fellowship-of-the-heart-pilot-at-cca`.
 - JSFSC + design docs: `…\OneDrive\Documents\Intentional Journey of the Heart\IJH edits\`.
 - Local preview servers (`.claude/launch.json`): `ijh-dev-static` (8747), `foth-dev-static` (8751).
+
+---
+
+## 📐 2026-07-03 (evening) — SITE-WIDE READABILITY PASS, dev only, MERGED
+
+**PR #11 merged to dev main (`c286da0`, branch `style/readability-pass`, kept). Rollback tag: `pre-readability-2026-07-03` (= `31dcf1e`). NOT mirrored to prod — John reviews the dev Pages site first (morning of 07-04).**
+
+Presentation-only (verified: zero `docs/*.md` in the diff; only-docs files touched = 2 SVGs, label positions only):
+
+- **Adaptive tables** — `sizeTables()` in reader.js + 3-mode CSS in reader.html: fits (clean book table) / squeeze (width:100%, cells wrap) / scrolls (boxed scroll region, ≥2.5× column or <130px/col). Killed 23/28 table scrollbars + all right-edge mid-word clipping.
+- **Mobile reflow** — `.shell` 800px breakpoint now `minmax(0,1fr)` (styles.css) + `overflow-wrap` on reader prose (reader.html): 18 sideways-scrolling pages → 0.
+- **Dark mode** — hard-coded cream surfaces got `:root[data-theme="dark"]` overrides in styles.css (masthead was invisible-title before) + chapter-banner override in reader.html.
+- **Renderer fixes (reader.js)** — nested bold/italic (`**a — *b***`), `<ol start>` preserves source step numbers, trailing `\` stripped in table cells, `&amp;`-style double-escapes collapsed.
+- **Figures** — `fitFigureImages()`: small rasters render native-size (fig-native class), no more 2.5× blur; NEW figure lightbox (click any figure → full-size overlay, Esc closes).
+- **Landing pages** — index.html + Vol 6 Governance.html reg-tables wrapped in `.table-wrap` (new class in styles.css) + `.reg-table th { white-space: nowrap }`; Four-Connects grid auto-fits; topnav-vols mobile fade hint; thin scrollbars on outline/search.
+- **SVGs** — word-stewardship-loop.svg + cld-engine.svg: master-switch subtitle split to 2 lines inside a 62px box, legend moved to top-right (was colliding bottom-right). If these are ever regenerated, keep that layout.
+
+**Verification:** headless-Edge audit of all 190 pages × desktop+mobile, before + after (scripts recreated in the session scratchpad; approach: puppeteer-core + local `python -m http.server 8747`). After: 0 doc-overflow pages both viewports; modes fits 4 / squeeze 22 / scrolls 5.
+
+**Content-side issues FOUND but NOT touched (John's call; from the 18-agent visual audit):**
+1. Home page hero says **"Forty-seven foundational laws"** — catalog is 48 post-mirror (index.html prose).
+2. Source markup typos (unbalanced `*`/`**` in md): exploration-09a, exploration-02-emotional-knots, exploration-06b, b11/b15 (nested-bold "core" weight-drop). Renderer now handles balanced nesting; these are genuinely malformed in source.
+3. Hand-typed `•` bullets as plain paragraphs: b15-pull-out-work, part-vi-tool-protocols (wrap flush-left).
+4. Volume index.md TOC entries read "Title — Title" (duplicated link text + description) — vol1/vol2/intro indexes.
+5. Low-res/clip-art/watermarked images flagged: connecting-the-dots (ArkansasOutside watermark), exploration-06 word-cloud, exploration-02a/03/04 thumbnails, TFT PowerPoint slide (exp-02), chemistry periodic-table photo (periodic-table-see-volume-5) — ties into the chapter-images project (batch 8 next).
+6. Introduction.html repeats the C.S. Lewis map quote twice in one screenful.
+7. a25 TOC first entry is the full 5-line subtitle (manifest title length).
+8. FL.XLIV has a ~40-line unbroken italic paragraph (fatiguing; content choice).
+9. Minor SVG nits left alone: engine "liquid" label behind dot; glory-attractor curve through label; overview-of-work clipped Op1/Mn1 chips; image-bearing-word fine-print small at mobile width (lightbox now mitigates).
+
+**FotH note:** IJH's table system now EXCEEDS FotH's `.table-scroll`. If John wants parity, port sizeTables + 3-mode CSS to FotH dev later.
