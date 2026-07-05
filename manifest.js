@@ -10,16 +10,8 @@ window.VOLUME_CHAPTERS = {
         "title": "Read Me First"
       },
       {
-        "path": "docs/introduction/index.md",
-        "title": "Introduction"
-      },
-      {
         "path": "docs/introduction/if-you-come-weary-read-this-first.md",
         "title": "If You Come Weary, Read This First"
-      },
-      {
-        "path": "docs/introduction/how-to-read-this-book-the-map.md",
-        "title": "How to Read This Book: The Country of the Heart"
       },
       {
         "path": "docs/introduction/founders-genesis-how-this-work-came-together.md",
@@ -27,11 +19,15 @@ window.VOLUME_CHAPTERS = {
       },
       {
         "path": "docs/introduction/introduction-what-i-am-trying-to-do.md",
-        "title": "Introduction: What I Am Trying to Do Here"
+        "title": "What I Found: The Life Jesus Invites Us Into"
       },
       {
-        "path": "docs/introduction/overview-of-the-work.md",
-        "title": "Overview of the Work"
+        "path": "docs/introduction/how-to-read-this-book-the-map.md",
+        "title": "How to Read This Book: The Country of the Heart"
+      },
+      {
+        "path": "docs/introduction/index.md",
+        "title": "How to Find Your Way In"
       },
       {
         "path": "docs/introduction/four-foundational-principles.md",
@@ -52,6 +48,10 @@ window.VOLUME_CHAPTERS = {
       {
         "path": "docs/introduction/future-development.md",
         "title": "Future Development"
+      },
+      {
+        "path": "docs/introduction/overview-of-the-work.md",
+        "title": "Overview of the Work"
       }
     ]
   },
@@ -789,15 +789,6 @@ window.PATH_TO_INFO = {
     "volumeFile": "Introduction.html",
     "folder": "introduction",
     "title": "Read Me First",
-    "next": "docs/introduction/index.md"
-  },
-  "docs/introduction/index.md": {
-    "volume": 0,
-    "volumeName": "Introduction",
-    "volumeFile": "Introduction.html",
-    "folder": "introduction",
-    "title": "Introduction",
-    "prev": "docs/read-me-first.md",
     "next": "docs/introduction/if-you-come-weary-read-this-first.md"
   },
   "docs/introduction/if-you-come-weary-read-this-first.md": {
@@ -806,16 +797,7 @@ window.PATH_TO_INFO = {
     "volumeFile": "Introduction.html",
     "folder": "introduction",
     "title": "If You Come Weary, Read This First",
-    "prev": "docs/introduction/index.md",
-    "next": "docs/introduction/how-to-read-this-book-the-map.md"
-  },
-  "docs/introduction/how-to-read-this-book-the-map.md": {
-    "volume": 0,
-    "volumeName": "Introduction",
-    "volumeFile": "Introduction.html",
-    "folder": "introduction",
-    "title": "How to Read This Book: The Country of the Heart",
-    "prev": "docs/introduction/if-you-come-weary-read-this-first.md",
+    "prev": "docs/read-me-first.md",
     "next": "docs/introduction/founders-genesis-how-this-work-came-together.md"
   },
   "docs/introduction/founders-genesis-how-this-work-came-together.md": {
@@ -824,7 +806,7 @@ window.PATH_TO_INFO = {
     "volumeFile": "Introduction.html",
     "folder": "introduction",
     "title": "Founders’ Genesis: How This Work Came Together",
-    "prev": "docs/introduction/how-to-read-this-book-the-map.md",
+    "prev": "docs/introduction/if-you-come-weary-read-this-first.md",
     "next": "docs/introduction/introduction-what-i-am-trying-to-do.md"
   },
   "docs/introduction/introduction-what-i-am-trying-to-do.md": {
@@ -832,17 +814,26 @@ window.PATH_TO_INFO = {
     "volumeName": "Introduction",
     "volumeFile": "Introduction.html",
     "folder": "introduction",
-    "title": "Introduction: What I Am Trying to Do Here",
+    "title": "What I Found: The Life Jesus Invites Us Into",
     "prev": "docs/introduction/founders-genesis-how-this-work-came-together.md",
-    "next": "docs/introduction/overview-of-the-work.md"
+    "next": "docs/introduction/how-to-read-this-book-the-map.md"
   },
-  "docs/introduction/overview-of-the-work.md": {
+  "docs/introduction/how-to-read-this-book-the-map.md": {
     "volume": 0,
     "volumeName": "Introduction",
     "volumeFile": "Introduction.html",
     "folder": "introduction",
-    "title": "Overview of the Work",
+    "title": "How to Read This Book: The Country of the Heart",
     "prev": "docs/introduction/introduction-what-i-am-trying-to-do.md",
+    "next": "docs/introduction/index.md"
+  },
+  "docs/introduction/index.md": {
+    "volume": 0,
+    "volumeName": "Introduction",
+    "volumeFile": "Introduction.html",
+    "folder": "introduction",
+    "title": "How to Find Your Way In",
+    "prev": "docs/introduction/how-to-read-this-book-the-map.md",
     "next": "docs/introduction/four-foundational-principles.md"
   },
   "docs/introduction/four-foundational-principles.md": {
@@ -851,7 +842,7 @@ window.PATH_TO_INFO = {
     "volumeFile": "Introduction.html",
     "folder": "introduction",
     "title": "The Four Foundational Principles",
-    "prev": "docs/introduction/overview-of-the-work.md",
+    "prev": "docs/introduction/index.md",
     "next": "docs/introduction/note-on-two-kinds-of-laws.md"
   },
   "docs/introduction/note-on-two-kinds-of-laws.md": {
@@ -888,6 +879,15 @@ window.PATH_TO_INFO = {
     "folder": "introduction",
     "title": "Future Development",
     "prev": "docs/introduction/note-on-use-of-claude-as-ai-research.md",
+    "next": "docs/introduction/overview-of-the-work.md"
+  },
+  "docs/introduction/overview-of-the-work.md": {
+    "volume": 0,
+    "volumeName": "Introduction",
+    "volumeFile": "Introduction.html",
+    "folder": "introduction",
+    "title": "Overview of the Work",
+    "prev": "docs/introduction/future-development.md",
     "next": "docs/volume-1-laws-of-the-spirit/index.md"
   },
   "docs/volume-1-laws-of-the-spirit/index.md": {
@@ -897,7 +897,7 @@ window.PATH_TO_INFO = {
     "folder": "volume-1-laws-of-the-spirit",
     "title": "Volume 1: Laws of the Spirit",
     "next": "docs/volume-1-laws-of-the-spirit/what-we-are-being-formed-for-the.md",
-    "prev": "docs/introduction/future-development.md"
+    "prev": "docs/introduction/overview-of-the-work.md"
   },
   "docs/volume-1-laws-of-the-spirit/what-we-are-being-formed-for-the.md": {
     "volume": 1,
