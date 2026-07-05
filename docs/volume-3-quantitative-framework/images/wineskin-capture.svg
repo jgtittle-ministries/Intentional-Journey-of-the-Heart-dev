@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 476" role="img" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">
+<title>The wineskin — what the peak leaves behind</title>
+<desc>Two outpourings reach the same peak, but leave very different lasting fruit. The share the body's structure captures is the coefficient kappa: where a receiving structure follows up, most of the peak is banked as lasting fruit; where none does, most bleeds away. Below, the healthy wineskin sits in a band — loose enough to hold without bursting, whole enough not to sour — between too loose (spills), too rigid (bursts), and too narrow (curdles).</desc>
+<defs><marker id="ws-ah" markerWidth="9" markerHeight="9" refX="6" refY="3" orient="auto"><path d="M0 0 L6 3 L0 6 z" fill="#5b6573"/></marker></defs>
+<rect x="1.5" y="1.5" width="677" height="473" rx="14" fill="#faf9f5" stroke="#e6e1d6" stroke-width="1.5"/>
+<text x="340" y="32" text-anchor="middle" font-size="15" font-weight="600" fill="#233044">The wineskin — what the peak leaves behind</text>
+<text x="340" y="52" text-anchor="middle" font-size="12.5" fill="#5b6573">fruit ≈ κ · (energy released at the peak) — κ is the share the body's structure holds</text>
+
+<!-- legend -->
+<rect x="250" y="66" width="12" height="12" rx="2" fill="#d8d3c7"/><text x="268" y="76" font-size="11.5" fill="#5b6573">the peak</text>
+<rect x="340" y="66" width="12" height="12" rx="2" fill="#0e8a7d"/><text x="358" y="76" font-size="11.5" fill="#5b6573">banked (lasting fruit)</text>
+<rect x="470" y="66" width="12" height="12" rx="2" fill="#c2740a"/><text x="488" y="76" font-size="11.5" fill="#5b6573">bled away</text>
+
+<!-- baseline -->
+<line x1="70" y1="250" x2="610" y2="250" stroke="#c9c5ba" stroke-width="1"/>
+
+<!-- LEFT: structure present, high kappa -->
+<!-- peak (ghost) -->
+<rect x="120" y="104" width="58" height="146" fill="#d8d3c7" opacity="0.5"/>
+<text x="149" y="98" text-anchor="middle" font-size="11.5" fill="#8a8678">the peak</text>
+<!-- captured -->
+<rect x="196" y="112" width="58" height="138" fill="#0e8a7d"/>
+<rect x="196" y="104" width="58" height="8" fill="#c2740a"/>
+<text x="225" y="98" text-anchor="middle" font-size="11.5" font-weight="600" fill="#0e8a7d">~95% held</text>
+<text x="187" y="270" text-anchor="middle" font-size="12" font-weight="600" fill="#233044">structure present</text>
+<text x="187" y="288" text-anchor="middle" font-size="11.5" fill="#5b6573">the church follows up · κ high</text>
+
+<!-- RIGHT: no follow-up, low kappa -->
+<rect x="426" y="104" width="58" height="146" fill="#d8d3c7" opacity="0.5"/>
+<text x="455" y="98" text-anchor="middle" font-size="11.5" fill="#8a8678">the peak</text>
+<!-- captured (small) + bled (large) -->
+<rect x="502" y="104" width="58" height="124" fill="none" stroke="#c2740a" stroke-width="1.3" stroke-dasharray="4 3"/>
+<rect x="502" y="228" width="58" height="22" fill="#0e8a7d"/>
+<text x="531" y="98" text-anchor="middle" font-size="11.5" font-weight="600" fill="#c2740a">~15% held</text>
+<text x="493" y="270" text-anchor="middle" font-size="12" font-weight="600" fill="#233044">no follow-up</text>
+<text x="493" y="288" text-anchor="middle" font-size="11.5" fill="#5b6573">the crowd disperses · κ low</text>
+
+<text x="340" y="230" text-anchor="middle" font-size="12" fill="#5b6573">same peak →</text>
+<path d="M300 224 C330 224 350 224 380 224" fill="none" stroke="#5b6573" stroke-width="1.5" marker-end="url(#ws-ah)"/>
+
+<!-- BOTTOM: the healthy band -->
+<line x1="40" y1="318" x2="640" y2="318" stroke="#e6e1d6" stroke-width="1"/>
+<text x="340" y="344" text-anchor="middle" font-size="13" font-weight="600" fill="#233044">a wineskin can fail three ways — the healthy one holds the band</text>
+
+<rect x="90" y="360" width="150" height="40" rx="6" fill="#f4ede0" stroke="#d8d3c7"/>
+<text x="165" y="379" text-anchor="middle" font-size="12" font-weight="600" fill="#c2740a">too loose</text>
+<text x="165" y="394" text-anchor="middle" font-size="11" fill="#8a8678">spills — all fire, no form</text>
+
+<rect x="265" y="360" width="150" height="40" rx="6" fill="#e3efe9" stroke="#0e8a7d" stroke-width="1.4"/>
+<text x="340" y="379" text-anchor="middle" font-size="12" font-weight="600" fill="#0e8a7d">supple &amp; whole</text>
+<text x="340" y="394" text-anchor="middle" font-size="11" fill="#5b6573">holds — and stretches</text>
+
+<rect x="440" y="360" width="150" height="40" rx="6" fill="#f4ede0" stroke="#d8d3c7"/>
+<text x="515" y="379" text-anchor="middle" font-size="12" font-weight="600" fill="#c2740a">too rigid</text>
+<text x="515" y="394" text-anchor="middle" font-size="11" fill="#8a8678">bursts — all form, no fire</text>
+
+<rect x="265" y="418" width="150" height="40" rx="6" fill="#f4ede0" stroke="#d8d3c7"/>
+<text x="340" y="437" text-anchor="middle" font-size="12" font-weight="600" fill="#c2740a">too narrow</text>
+<text x="340" y="452" text-anchor="middle" font-size="11" fill="#8a8678">curdles — one stream alone</text>
+</svg>
