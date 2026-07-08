@@ -523,6 +523,10 @@ window.VOLUME_CHAPTERS = {
         "title": "Testing Spiritual Time Against the Revival Record"
       },
       {
+        "path": "docs/volume-3-quantitative-framework/drift-and-the-source-one-law-at-three-scales.md",
+        "title": "Drift and the Source: One Law at Three Scales"
+      },
+      {
         "path": "docs/volume-3-quantitative-framework/open-trails-what-vol-3-cannot-yet.md",
         "title": "Open Trails: What Vol 3 Cannot Yet Answer"
       },
@@ -1900,6 +1904,15 @@ window.PATH_TO_INFO = {
     "folder": "volume-3-quantitative-framework",
     "title": "Testing Spiritual Time Against the Revival Record",
     "prev": "docs/volume-3-quantitative-framework/the-engine-beneath-the-force-energy-time-inertia.md",
+    "next": "docs/volume-3-quantitative-framework/drift-and-the-source-one-law-at-three-scales.md"
+  },
+  "docs/volume-3-quantitative-framework/drift-and-the-source-one-law-at-three-scales.md": {
+    "volume": 3,
+    "volumeName": "Volume 3: Spiritual Dynamics",
+    "volumeFile": "Volume 3.html",
+    "folder": "volume-3-quantitative-framework",
+    "title": "Drift and the Source: One Law at Three Scales",
+    "prev": "docs/volume-3-quantitative-framework/testing-spiritual-time-against-the-revival-record.md",
     "next": "docs/volume-3-quantitative-framework/open-trails-what-vol-3-cannot-yet.md"
   },
   "docs/volume-3-quantitative-framework/open-trails-what-vol-3-cannot-yet.md": {
@@ -1908,7 +1921,7 @@ window.PATH_TO_INFO = {
     "volumeFile": "Volume 3.html",
     "folder": "volume-3-quantitative-framework",
     "title": "Open Trails: What Vol 3 Cannot Yet Answer",
-    "prev": "docs/volume-3-quantitative-framework/testing-spiritual-time-against-the-revival-record.md",
+    "prev": "docs/volume-3-quantitative-framework/drift-and-the-source-one-law-at-three-scales.md",
     "next": "docs/volume-3-quantitative-framework/the-role-atlas-where-each-law-lives.md"
   },
   "docs/volume-3-quantitative-framework/the-role-atlas-where-each-law-lives.md": {

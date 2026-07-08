@@ -15,6 +15,8 @@ You do not have to read this work front to back — depending on what you came f
 
 **If you want to walk it with a group, week by week.** A cohort version — *Fellowship of the Heart* — has been prepared for a first pilot. It runs three series across about a year: Getting Started, Going Deeper, and Going Out. The full curriculum is at [the Fellowship of the Heart site](https://jgtittle-ministries.github.io/fellowship-of-the-heart-pilot-at-cca/).
 
+**If your church is asking about revival.** A church-facing companion book — *A Church in Revival: A Pilot Proposed* — asks two questions of a congregation and its leaders: do you want a revival, and if yes, what might it take to prepare the soil? It draws on this work's research (especially Volume 3's dynamics) and on *Fellowship of the Heart* for its leadership formation, and it is written to be read by a leadership team together. It lives at [the Church in Revival site](https://jgtittle-ministries.github.io/a-church-in-revival-a-pilot-proposed/).
+
 **If you want the formal, academic framework.** Start with the Formation Documents in [Volume 5](../volume-5-references/index.md) — the Heart Formation Theology paper first — then Volume 2 for the practices and [Volume 4](../volume-4-testing-framework/index.md) for the testing program.
 
 **If you are thinking of contributing.** Read [Volume 6: Governance](../volume-6-governance/index.md) first. It describes the Council, the contributor process, and what kind of community this is. Anyone can propose a refinement; the Council weighs it against the same standard the whole project uses for its claims.
