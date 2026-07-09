@@ -2,7 +2,7 @@
 
 ## One Law at Three Scales: the Soul in Darkness, the Household Across Generations, and the Congregation Under Christ's Own Examination
 
-*An integrated companion paper for Volume 3, drawing together four research investigations: spiritual thermodynamics, desolation dynamics, formation across generations, and the seven churches of Revelation 2–3. A pastoral, church-facing treatment of this material — written for congregations and their leaders, chapter by chapter — is the book [A Church Prepared for Revival: A Pilot Proposed](https://jgtittle-ministries.github.io/a-church-in-revival-a-pilot-proposed/).*
+*An integrated companion paper for Volume 3, drawing together four research investigations: spiritual thermodynamics, desolation dynamics, formation across generations, and the seven churches of Revelation 2–3. A pastoral, church-facing treatment of this material — written for congregations and their leaders, chapter by chapter — is the book [A Church Prepared for Revival: A Pilot Proposed](https://jgtittle-ministries.github.io/a-church-prepared-for-revival-a-pilot-proposed/).*
 
 > "All kinds of private metaphysics and theology have grown like weeds in the garden of thermodynamics." — Erwin Hiebert, 1966
 
