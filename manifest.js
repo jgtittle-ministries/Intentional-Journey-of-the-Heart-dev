@@ -578,6 +578,10 @@ window.VOLUME_CHAPTERS = {
         "title": "Section 2: Testing Framework — Epistemological Foundations"
       },
       {
+        "path": "docs/volume-4-testing-framework/before-you-measure-earning-the-right-to-ask.md",
+        "title": "Before You Measure: Earning the Right to Ask"
+      },
+      {
         "path": "docs/volume-4-testing-framework/section-3-individual-spiritual-formation-testing-protocol.md",
         "title": "Section 3: Individual Spiritual Formation Testing Protocol"
       },
@@ -2012,6 +2016,15 @@ window.PATH_TO_INFO = {
     "folder": "volume-4-testing-framework",
     "title": "Section 2: Testing Framework — Epistemological Foundations",
     "prev": "docs/volume-4-testing-framework/section-1-why-testing-matters-for-laws.md",
+    "next": "docs/volume-4-testing-framework/before-you-measure-earning-the-right-to-ask.md"
+  },
+  "docs/volume-4-testing-framework/before-you-measure-earning-the-right-to-ask.md": {
+    "volume": 4,
+    "volumeName": "Volume 4: Testing Framework",
+    "volumeFile": "Volume 4.html",
+    "folder": "volume-4-testing-framework",
+    "title": "Before You Measure: Earning the Right to Ask",
+    "prev": "docs/volume-4-testing-framework/section-2-testing-framework.md",
     "next": "docs/volume-4-testing-framework/section-3-individual-spiritual-formation-testing-protocol.md"
   },
   "docs/volume-4-testing-framework/section-3-individual-spiritual-formation-testing-protocol.md": {
@@ -2020,7 +2033,7 @@ window.PATH_TO_INFO = {
     "volumeFile": "Volume 4.html",
     "folder": "volume-4-testing-framework",
     "title": "Section 3: Individual Spiritual Formation Testing Protocol",
-    "prev": "docs/volume-4-testing-framework/section-2-testing-framework.md",
+    "prev": "docs/volume-4-testing-framework/before-you-measure-earning-the-right-to-ask.md",
     "next": "docs/volume-4-testing-framework/section-4-small-group-spiritual-formation-testing.md"
   },
   "docs/volume-4-testing-framework/section-4-small-group-spiritual-formation-testing.md": {
