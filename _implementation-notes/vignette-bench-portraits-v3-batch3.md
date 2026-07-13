@@ -8,7 +8,7 @@
 
 ## Remaining scriptural exemplars
 
-### P19 — "The reader in the chariot" (Receiving #3)
+### P19 — "The reader in the chariot" (Receiving #3) — **WITHDRAWN FOR REVISION 2026-07-11: failed vignette equivalence at panel keying (5/9 split across levels 1/2/3; see FROZEN-KEY-v1). The revision must decide whether it portrays the moment or the road (Snodgrass). Rejoins the bench at round-2 keying.**
 
 A high official of a foreign court — treasurer to a queen, a man of rank and literacy — has traveled a very long way to worship at a temple whose community, by its own law, cannot fully admit him. Heading home, he sits in his chariot reading a prophet's scroll *aloud*, puzzling at a passage about a sheep led to slaughter. When a stranger runs up and asks whether he understands what he is reading, his answer has no defensiveness in it at all: "How can I, unless someone guides me?" — and he invites the stranger up into the chariot to teach him.
 
@@ -73,14 +73,14 @@ Nobody asked him to turn down the promotion. The new role meant most Sundays tra
 
 ### P27 — "The household" (Organization, modern)
 
-Fifteen years of their family calendar tells one story: the Thursday table that is never not open, the two foster placements that reshaped three years, the job he declined because it moved them away from the church community they'd covenanted into, the budget line for hospitality that outranks the vacation fund, the kids' bedtime liturgy that has survived four house moves. None of it is dramatic and none of it is negotiable; when the couple is asked to explain a decision, they reach — unselfconsciously, as if it were obvious — for the same few scriptures each time. Their friends plan around their pattern the way you plan around a mountain: it will be there.
+Fifteen years of their family calendar tells one story: the Thursday table that is never not open, the two foster placements that reshaped three years, the job he declined because it moved them away from the church community they'd covenanted into, the budget line for hospitality that outranks the vacation fund, the kids' bedtime liturgy that has survived four house moves. None of it is dramatic and none of it is negotiable — though it has cost them: one season of real strain over the second foster placement, argued through and survived, is part of the record too. When the couple is asked to explain a decision, they reach — unselfconsciously, as if it were obvious — for the same few scriptures each time. Their friends plan around their pattern the way you plan around a mountain: it will be there.
 
 - **Expected reading: Level 4 — Organization (one architecture visibly ordering calendar, money, career, and home across years).**
 - **Rationale:** Organization in its ordinary clothes — no office, no platform; tests instruments biased toward visible ministry roles (the Fowler/Obadiah lesson at modern scale).
 
 ### P28 — "The grandmother" (Characterization, modern)
 
-The neighbors have a phrase for her — "she's the same in every weather" — and they have data: forty years on the street, three of them as a widow, one of them the year her son died. The consistency is the testimony: the same unhurried presence at the kitchen table whether the visitor is the pastor or the paroled nephew; the same prayer offered over casseroles and chemotherapy; the same refusal, gentle and total, to carry a grudge across a night. She has no positions and never had any. At the funeral-home visitation for her son, more than one mourner realized they had come to comfort her and left comforted. Asked once, late in life, for her secret, she seemed genuinely puzzled by the question — and that puzzlement, say the ones who know her, is the most convincing part.
+The neighbors have a phrase for her — "she's the same in every weather" — and they have data: forty years on the street, three of them as a widow, one of them the year her son died. The consistency is the testimony: the same unhurried presence at the kitchen table whether the visitor is the pastor or the paroled nephew; the same prayer offered over casseroles and chemotherapy; the same refusal, gentle and total, to carry a grudge across a night. She holds her convictions quietly — anyone who has asked knows what she thinks, and no one has ever heard her contend for it. At the funeral-home visitation for her son, more than one mourner realized they had come to comfort her and left comforted. Asked once, late in life, for her secret, she seemed genuinely puzzled by the question — and that puzzlement, say the ones who know her, is the most convincing part.
 
 - **Expected reading: Level 5 — Characterization (multi-witness, cross-context, decades-long consistency; unself-consciousness as the tell).**
 - **Rationale:** the corpus is a grandfather's testimony; the bench should contain the grandmother every congregation recognizes. Carries Edwards's kind-marks (unself-consciousness, costliness-through-loss, sustained openness) in composite form; the multi-witness framing models how Characterization evidence must actually arrive.

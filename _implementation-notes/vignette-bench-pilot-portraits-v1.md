@@ -8,7 +8,7 @@
 
 ## P1 — "The night visitor"
 
-A senior religious teacher, secure in reputation and learned in the Scriptures, hears reports of an itinerant rabbi whose actions do not fit his categories. He does not denounce him, as his colleagues do; nor does he follow him. He arranges a private conversation, at night, away from the eyes of his peers. He opens with a careful concession — "we know you are a teacher come from God" — and then listens through an answer that dismantles his framework, asking twice, "How can these things be?" The record shows no decision that night. Some time later, when his council moves to condemn the rabbi unheard, he raises only a procedural objection — "does our law judge a man without first giving him a hearing?" — and absorbs the mockery that follows in silence.
+A senior religious teacher, secure in reputation and learned in the Scriptures, hears reports of an itinerant rabbi whose actions do not fit his categories. He does not denounce him, as his colleagues do; nor does he follow him. He arranges a private conversation, at night, away from the eyes of his peers. He opens with a careful concession — "we know you are a teacher come from God" — and then listens through an answer that dismantles his framework, asking twice, "How can these things be?" The record shows no decision that night. Some time later, when his council moves to condemn the rabbi unheard, he raises only a procedural objection — "does our law judge a man without first giving him a hearing?" — and is met with mockery; the record preserves no reply.
 
 - **Expected reading: Level 1 — Receiving** (attending, willing to hear at some personal risk; no committed response yet).
 - **Identity:** Nicodemus, John 3:1–15; 7:50–52. (His John 19:39 appearance is deliberately excluded — the full arc becomes a *movement* portrait for the later bench.)
@@ -24,7 +24,7 @@ A young man of considerable wealth and blameless conduct runs to a traveling tea
 
 ## P3 — "The man in the tree"
 
-A chief tax collector — wealthy, despised, and short — wants to see a visiting teacher badly enough to abandon his dignity: he runs ahead of the crowd and climbs a tree. Called down by name, he receives the teacher into his house "joyfully," while the crowd grumbles that the guest has gone to be the guest of a sinner. Then, with no recorded request from anyone, he stands and prices his own repentance: "Behold, Lord, the half of my goods I give to the poor. And if I have defrauded anyone of anything, I restore it fourfold." Half his fortune, volunteered; restitution at quadruple the legal requirement, self-imposed; his entire livelihood's method publicly renounced — in his own dining room, in front of witnesses hostile to him.
+A chief tax collector — wealthy, despised, and short — wants to see a visiting teacher badly enough to abandon his dignity: he runs ahead of the crowd and climbs a tree. Called down by name, he receives the teacher into his house "joyfully," while the crowd grumbles that the guest has gone to be the guest of a sinner. Then, with no recorded request from anyone, he stands and prices his own repentance: "Behold, Lord, the half of my goods I give to the poor. And if I have defrauded anyone of anything, I restore it fourfold." Half his fortune, volunteered; restitution at quadruple the legal requirement, self-imposed — in his own dining room, in front of witnesses hostile to him.
 
 - **Expected reading: Level 3 — Valuing** (voluntary, unprompted, publicly costly commitment).
 - **Identity:** Zacchaeus, Luke 19:1–10.
