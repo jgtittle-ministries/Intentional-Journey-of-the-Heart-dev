@@ -6,6 +6,8 @@ source: "IJH_Vol1_v5_8_0_1.docx"
 
 # Spiritual Force, Energy, and Power
 
+![A green seedling pushing up through a crack in bare concrete — spiritual force is the power to get spiritual work done, moving against what resists it until the result shows up in the natural world.](images/spiritual-force-sprout-through-concrete.jpg)
+
 ## Starting to Put Numbers on It
 My goal in this section is to begin finding a way to put numbers on the spiritual laws I have identified — to move from "there is a relationship here" to "here is how to describe that relationship more precisely." This is forward-looking, dream-it-first work. This brief discussion is a starting point and a bridge to the fuller discussion in Vol 3.
 
