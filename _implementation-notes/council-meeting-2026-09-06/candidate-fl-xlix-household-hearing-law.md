@@ -1,11 +1,11 @@
 ---
 title: "Candidate FL.XLIX — The Household Hearing Law"
-subtitle: "A candidate Foundational Law, written up in the form of the June drafting pass"
+subtitle: "Ask 7 for the Council of 6 September 2026 — a candidate Foundational Law, written up in the form of the June drafting pass"
 author: "John G. Tittle"
 date: "Candidate note, draft v1 — 5 September 2026"
 ---
 
-> **DRAFT v1, for John's edits.** John raised this on 5 September, the evening before the Council. It is a candidate for the Foundational Law catalog and is **not** one of the six asks in the changes note; it is in the packet so the Council knows it is coming. Under the light rule a new law is an *Ask*, and the ask comes after the meeting, once John has rewritten the chapter draft in his own words and the Council has had time with it. Nothing here is on the published site. Placement notes are in brackets and are not part of the text.
+> **DRAFT v1, for John's edits.** John raised this on 5 September, the evening before the Council. It is **ask 7** in the changes note. Under the light rule a new law is an *Ask*, and the ask is this: admit it to the newer tier as FL.XLIX, or absorb it into FL.XXI if the Council judges the territory already held. The chapter draft in Part B is John's to rewrite in his own words before anything is published; the Council is asked for its word on the principle and the admission, with the wording to follow. Nothing here is on the published site. Placement notes are in brackets and are not part of the text.
 
 ---
 
@@ -160,4 +160,4 @@ It is distinct from its neighbors. Not [FL.XXI](foundational-law-xxi-the-househo
 
 ---
 
-*Prepared for John's review, 5 September 2026, from his question that evening. For the Council's notice on 6 September; the ask follows the meeting, in John's words.*
+*Prepared for John's review, 5 September 2026, from his question that evening. Ask 7 for the Council on 6 September; the chapter is rewritten in John's words before anything is published.*
