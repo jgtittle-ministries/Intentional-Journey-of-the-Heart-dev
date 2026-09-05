@@ -7,6 +7,17 @@ date: "Agenda item, draft 5 September 2026"
 
 **Reference point:** the last Council meeting, face to face, 28 June 2026. Since then: about ninety commits on the working repository, twenty-six mirrors to the published site, the last on 31 August. Everything published since June appears below under *Told* or *Asking*. This is the first monthly changes note under the proposed light rule; if the rule is adopted today, this becomes the first Council Log entry.
 
+## First — the spiritual-authority question
+
+The Council paper says this body is under a spiritual authority that has yet to be identified and must be clarified before initiation. It has been open since April. I have four possible sources, in my order of preference, and I want the Council's counsel on them today, not a decision:
+
+1. **The Living Hope elders.** The names I have in mind are Bill Fairbank and Ryan Hammond.
+2. **CCA's covering,** for evening meetings on their premises.
+3. **AJ McGraw,** executive pastor at Grace Covenant Church.
+4. **The Crucible Project.**
+
+Three questions for the discussion. Does the first choice carry the answer for the whole body, founder and Council together, or only for a fellowship meeting in my home? Should more than one be in place at once, since an evening group on CCA premises would need the second as well as the first? And is there a candidate missing from the list? The Covering Briefing draft in the packet is the instrument for approaching whichever we settle on; the first ask of it is to hear eight sittings before answering.
+
 ## For the record — 28 June
 
 No minutes of the June meeting are on file. From memory, and offered here so the Council can confirm or correct it before it becomes the first Log entry: the Council discussed and **approved by consent** the two new Foundational Laws, FL.XLVII The Word's-Efficacy Law and FL.XLVIII The Image-Bearing Law (minted 1 July and published 3 July on the strength of that consent); Volume 4's *Before You Measure* discussion, published 17 July; and the Formation Companion's credentialing limit, published 29 July. The Meta-Law Layer was not discussed. It is ask 1 below.
@@ -40,6 +51,6 @@ The Register's Fellowship of the Heart row, published 8 August, described a live
 - **The Volume 4 bench.** The vignette bench (thirty-six portraits, a frozen key, a rater packet), the Walk-In Reading wing, and the hope-under-load specification with its who-may-read block. All in the working repository only, on the validation ladder. Nothing runs until it climbs.
 - **First data.** None. No cohort has formed. Trails 1, 2, and 6 wait on it.
 - **The spiritual-time model.** Published as a test against the revival record at the Speculative tier. Waits on more history and on a scripturally grounded physicist.
-- **The spiritual-authority question.** Open in Part 2 since April. I am working a covering through my church; the Covering Briefing draft is the instrument. Not this body's to decide alone, and it belongs on the agenda ahead of the light rule.
+- **The spiritual-authority question.** Open in Part 2 since April; four candidates are at the head of this note. Not this body's to decide alone, and it belongs on the agenda ahead of the light rule.
 
-**Suggested order for today:** spiritual authority, status only · confirm the June record · the signing · asks 2 and 3 · ask 1 · the correction noted · the waiting list noted · the Council Log entry drafted before we leave.
+**Suggested order for today:** spiritual authority, the four candidates · confirm the June record · the signing · asks 2 and 3 · ask 1 · the correction noted · the waiting list noted · the Council Log entry drafted before we leave.
