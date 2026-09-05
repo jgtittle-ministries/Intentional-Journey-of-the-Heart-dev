@@ -29,6 +29,7 @@ No minutes of the June meeting are on file. From memory, and offered here so the
 3. **Two foundation inserts.** Scripture as the unrated ground under the four principles, with its twin, that God still speaks now and never against what He has written; and a one-page Volume 2 chapter, "Before the Tools: What This Volume Assumes," five assumptions answering the four questions Exploration 0 asks of every imported tool, plus covering. *Draft in the packet; not published.*
 4. **The Succession Letter.** I re-sign it before the Council today, dated 6 September 2026, with Council members as witnesses. David R. Smith as Theological Successor, John David Tittle as Literary Executor. Part 3 mirrors afterward.
 5. **Small.** The hear-and-obey traceability study, now all forty-eight laws with a colored grid over the table: promote it to the Research Register as a finished trail, or leave it a working note.
+6. **A34, The Throne Question.** A new Part VI protocol for the idol on the throne, the one blockage in Volume 2 that had no operational form. Repentance, not warfare: Keller's question asked three ways, the functional savior named before a witness, and one turn of the heart to Christ, with a thirty-day practice after. New practice for real people, so it is an ask. *Draft in the packet; not published.* It came out of the Tool Map Matrix, a working reference listed under Told.
 
 ## Told — done and published on my word
 
@@ -39,7 +40,7 @@ No minutes of the June meeting are on file. From memory, and offered here so the
 - **Volume 5.** A fourth Schwarz entry, the Energy Synchronization Process. The MSF corrigendum note. The companion book's title and address updated.
 - **The Research Register.** Five new or expanded entries: the weep-test reserve entry; the alignment construct and the Household of Faith Profile; the leadership fold; trail 6, trust-stage as the group-level trace of internalization; trail 7, the expressive-writing evidence base behind the journal practices.
 - **Site mechanics, JD.** The readability pass, adaptive tables, mobile reflow, dark-mode navigation, the compact Periodic Table mode, scroll restoration, content cleanup.
-- **Working repository only, unpublished.** Four research syntheses staged (desolation dynamics, formation across generations, seven-churches diagnostics, spiritual thermodynamics). The Twenty-Two Wednesdays protocol paper's three-stage peer review. The twelve Foundational-Assumptions peer reviews archived. The Covering Briefing, draft one. The traceability grid.
+- **Working repository only, unpublished.** Four research syntheses staged (desolation dynamics, formation across generations, seven-churches diagnostics, spiritual thermodynamics). The Twenty-Two Wednesdays protocol paper's three-stage peer review. The twelve Foundational-Assumptions peer reviews archived. The Covering Briefing, draft one. The traceability grid. The Tool Map Matrix, fifteen blockages laid against twenty-two tools from Exploration 6 and Volume 5, every cell citing an existing pairing; it exposed the gap ask 6 fills.
 
 ## A correction, made
 
@@ -53,4 +54,4 @@ The Register's Fellowship of the Heart row, published 8 August, described a live
 - **The spiritual-time model.** Published as a test against the revival record at the Speculative tier. Waits on more history and on a scripturally grounded physicist.
 - **The spiritual-authority question.** Open in Part 2 since April; four candidates are at the head of this note. Not this body's to decide alone, and it belongs on the agenda ahead of the light rule.
 
-**Suggested order for today:** spiritual authority, the four candidates · confirm the June record · the signing · asks 2 and 3 · ask 1 · the correction noted · the waiting list noted · the Council Log entry drafted before we leave.
+**Suggested order for today:** spiritual authority, the four candidates · confirm the June record · the signing · asks 2 and 3 · ask 6 · ask 1 · the correction noted · the waiting list noted · the Council Log entry drafted before we leave.

@@ -14,13 +14,15 @@ subtitle: "What is in this folder, and the order to read it"
 4. **Ask 3: Two Foundation Inserts.** Scripture as the ground under the four principles, and the new Volume 2 page on what that volume assumes.
 5. **Ask 4: the Succession Letter,** dated 6 September 2026, for signing before the Council with members as witnesses.
 6. **Ask 5: the traceability grid,** all forty-eight laws on the Periodic Table, colored by how directly each traces to hearing and obeying. To promote to the Research Register, or leave as a working note.
+7. **Ask 6: A34, The Throne Question.** A Part VI protocol for the idol on the throne, drafted in the A25 format. Read with the Tool Map Matrix below, which exposed the gap it fills.
 
 **References.**
 
-7. **IJH Briefing for a Covering.** Eight sittings across all six volumes, the instrument for approaching whichever spiritual authority is chosen.
-8. **Fellowship of the Heart Briefing for a Church Authority.** One sitting on what a church would be overseeing in a prototype group.
-9. **Council Meeting 1 agenda, 28 June 2026.** The only written record of the last meeting; no minutes exist.
-10. **Peer Review Panel Registry for the Council, June 2026.** The bench of reviewer voices the June meeting was asked to extend, with its named gaps.
-11. **IJH Home Church Briefing, April 2026.** John's earlier eleven-slide deck for a home church, ending in an ask and an invitation still open; the seed of the covering conversation now on the agenda.
+8. **The Tool Map Matrix.** Volume 2's fifteen blockages against twenty-two tools, row by row and as a grid, with the gaps it makes visible. A working reference, not an ask.
+9. **IJH Briefing for a Covering.** Eight sittings across all six volumes, the instrument for approaching whichever spiritual authority is chosen.
+10. **Fellowship of the Heart Briefing for a Church Authority.** One sitting on what a church would be overseeing in a prototype group.
+11. **Council Meeting 1 agenda, 28 June 2026.** The only written record of the last meeting; no minutes exist.
+12. **Peer Review Panel Registry for the Council, June 2026.** The bench of reviewer voices the June meeting was asked to extend, with its named gaps.
+13. **IJH Home Church Briefing, April 2026.** John's earlier eleven-slide deck for a home church, ending in an ask and an invitation still open; the seed of the covering conversation now on the agenda.
 
 *Everything here is a draft for the Council's eyes. Nothing changes on the published site until John says so after the meeting.*
