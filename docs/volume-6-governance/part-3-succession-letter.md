@@ -2,7 +2,7 @@
 
 *From John G. Tittle*
 
-*Date of signing: _______________*
+*Date of signing: 6 September 2026*
 
 ---
 
@@ -113,4 +113,4 @@ Date: _______________
 
 ---
 
-*This letter should be notarized and a signed original kept with the signer's estate papers. A certified copy should be held by each named successor, by the Literary Executor's counsel, and in the project's secure repository. The letter should be reviewed every three years and updated as the named persons, their availability, or the author's wishes change.*
+*This letter is signed before witnesses from the Council of Stewards, and the signed original is kept with the signer's estate papers. A copy should be held by each named successor, by the Literary Executor's counsel, and in the project's secure repository. The letter should be reviewed every three years and updated as the named persons, their availability, or the author's wishes change.*
