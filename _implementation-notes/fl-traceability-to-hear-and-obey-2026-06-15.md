@@ -1,26 +1,26 @@
 # Traceability to the "Hear and Obey God" Core — Foundational Laws + Explorations
 
 **Status:** Diagnostic only. Dev-only working note (never mirrored to prod). No catalog edits made.
-**Date:** 2026-06-15 (Part A — Laws, then Part B — Explorations, same day).
-**Scope:** Two catalog tiers, each classified by how directly its entries trace to IJH's "hear and obey God" core — **Part A:** the 46 Foundational Laws; **Part B:** the 19 main Explorations (Vol 1's 8 + the V1.Open Miracle Frame + Vol 2's 10); **Part C:** Volume 3's 9 quantitative explorations, *qualitatively only* (physics-language restatements that don't classify cleanly per-entry). Out of scope: Vol 2's lettered sub-explorations.
+**Date:** 2026-06-15 (Part A — Laws, then Part B — Explorations, same day). **Extended 2026-09-04** at John's request to the two laws admitted since (FL.XLVII, FL.XLVIII) and rendered as a coloured grid over the Period × Group layout (`traceability-grid.svg` beside this note).
+**Scope:** Two catalog tiers, each classified by how directly its entries trace to IJH's "hear and obey God" core — **Part A:** the 48 Foundational Laws (46 at the first pass); **Part B:** the 19 main Explorations (Vol 1's 8 + the V1.Open Miracle Frame + Vol 2's 10); **Part C:** Volume 3's 9 quantitative explorations, *qualitatively only* (physics-language restatements that don't classify cleanly per-entry). Out of scope: Vol 2's lettered sub-explorations.
 **Sources verified against:** `docs/volume-5-references/periodic-table-of-spiritual-laws-a-summing.md` Reference List (for the Laws) + each Exploration chapter's "Proposed Law"/core claim (for the Explorations). Every call made on the entry's core cause→effect mechanism, not its title.
 
 ---
 
-## Part A — The 46 Foundational Laws
+## Part A — The 48 Foundational Laws
 
 ### John's question
 
-Of the **46 Foundational Laws (FL.I–FL.XLVI)**, how many **directly trace** to IJH's basic "hear and obey God" focus, and how many are **less than directly traceable**?
+Of the **48 Foundational Laws (FL.I–FL.XLVIII)**, how many **directly trace** to IJH's basic "hear and obey God" focus, and how many are **less than directly traceable**?
 
 ## Headline
 
 This is a **line-drawing judgment, not a measurement.** Two honest numbers depending on where the line falls:
 
-- **Strict line — 12 direct / 34 less-than-direct.** Count only laws whose mechanism *is* receiving God's word/voice, obeying it, or the trust that constitutes that reception.
-- **Inclusive line — 22 direct / 24 less-than-direct.** Also count the heart-postures, inner transformations, and channel-conditions that directly serve hearing-and-obeying.
+- **Strict line — 13 direct / 35 less-than-direct.** Count only laws whose mechanism *is* receiving God's word/voice, obeying it, or the trust that constitutes that reception.
+- **Inclusive line — 24 direct / 24 less-than-direct.** Also count the heart-postures, inner transformations, and channel-conditions that directly serve hearing-and-obeying.
 
-The 24 "less-than-direct" laws are stable either way — they run on a *different* spiritual logic. All the movement is in the middle 10 (Adjacent).
+The 24 "less-than-direct" laws are stable either way — they run on a *different* spiritual logic. All the movement is in the middle 11 (Adjacent). (First pass, 46 laws: 12 / 34 strict, 22 / 24 inclusive; see the 2026-09-04 addendum below for the two additions.)
 
 ## Criterion used
 
@@ -34,15 +34,15 @@ Every call was made off the Reference-List description of the mechanism, not the
 
 | Tier | Count |
 |------|-------|
-| Direct | 12 |
-| Adjacent | 10 |
+| Direct | 13 |
+| Adjacent | 11 |
 | Less | 24 |
 
-Strict line **12 / 34** · inclusive line (Direct + Adjacent) **22 / 24**.
+Strict line **13 / 35** · inclusive line (Direct + Adjacent) **24 / 24**.
 
 ---
 
-## Full table (all 46, ordered by tier then numeral)
+## Full table (all 48, ordered by tier then numeral)
 
 **★** = swing law (tier could defensibly move).
 
@@ -60,6 +60,7 @@ Strict line **12 / 34** · inclusive line (Direct + Adjacent) **22 / 24**.
 | XL | Abiding-Fruitfulness | P0/GI | Continuous abiding in Christ → fruit; the severed branch bears none | Direct ★ |
 | XLIV | Sign-as-Revelation | P0/GI | Christ's physical acts → disclose the spiritual realities they embody, to the receiving posture | Direct |
 | XLV | Voice-Reaches-into-Death | P5/GI | Christ's voice → penetrates death and produces life where it is heard | Direct |
+| XLVII | Word's-Efficacy | P0/GIV | God's word, sent and received in faith → accomplishes its purpose; to receive the word is to receive Christ; a word voided by tradition or presumed on apart from faith does not work | Direct *(added 2026-09-04)* |
 | II | Confession-Restoration | P1/GV | Honest, owned confession → restores fellowship and clears the channel | Adjacent |
 | III | Heart-Throne | P1/GII | Whatever the heart looks to as primary source → becomes its functional savior | Adjacent |
 | VIII | Desire-for-God | P1/GII | The heart, made for God → generates longing for Him by design | Adjacent |
@@ -70,6 +71,7 @@ Strict line **12 / 34** · inclusive line (Direct + Adjacent) **22 / 24**.
 | XXXVII | Worship Alignment | P0/GII | Sustained worship → recalibrates perception toward the worshiped object's nature | Adjacent ★ |
 | XLII | Kingdom-Confrontation Authority | P0/GI | Christ's (and derivatively believers') authority → compels recognition from rival powers | Adjacent ★ |
 | XLIII | Cross-Boundary Faith-Access | P0/GVI | Recognized faith → covenant access across the institutional perimeter | Adjacent ★ |
+| XLVIII | Image-Bearing | P0/GV | Bringing an inner reality across the threshold into spoken word, before God and a witness → clarifies, orders, establishes (for life when true and loving; harm when false; forfeited when buried) | Adjacent ★ *(added 2026-09-04)* |
 | I | Sowing-and-Reaping | P0/GVI | What a unit sows → it reaps, in kind, degree, and proportion | Less |
 | IV | Humility-Exaltation | P1/GIII | Self-humbling before God → exaltation in due time; self-exaltation → brought low | Less |
 | V | Reciprocal Forgiveness | P2/GV | Receiving God's forgiveness → conditioned on forgiving others | Less |
@@ -102,6 +104,17 @@ Strict line **12 / 34** · inclusive line (Direct + Adjacent) **22 / 24**.
 - **What makes 12 instead of ~8:** four Direct ★'s are the *conditions or failure-poles* of hearing-and-obeying, not the bare act — **FL.XV** (blocked hearing), **FL.XVI** (obeying, mis-aimed at sin), **FL.XXXV** (the trust that makes faith-obedience possible), **FL.XL** (the abiding-union that bears the fruit). A reader counting only the act itself would say **~8 direct** (VI, VII, X, XIII, XX, XXXI, XLIV, XLV).
 - **The 12-vs-22 swing:** the Adjacent ★'s are the most likely to be argued *up* into Direct — **FL.XLII, FL.XLIII** (authority/faith flowing from union), **FL.XXXII, FL.XXXVII** (worship as perception-recalibration), **FL.XXVI** (keeping the word's living substance received over time).
 - **Nearest the Adjacent/Less seam:** **FL.XXIV** (confession, at the community-integration register vs. FL.II's God-ward channel register), **FL.XXXVIII** (reception of God's restorative work), **FL.XXXIX** (surrender/yielding as a trust-act, though the law's claim is the super-proportional return).
+
+## Addendum 2026-09-04 — the two laws admitted after the first pass
+
+Both were admitted from the hear-and-obey traceability expansion itself (see the Vol 6 catalog history, *Scale of the arc*), so it is no surprise that they land near the core; the calls below are still made on mechanism, not provenance.
+
+- **FL.XLVII Word's-Efficacy → Direct.** Its mechanism is the reception side of the core stated from the word's end: the word sent and *received in faith* does its work, and the Word it delivers is Christ. It is the word-side counterpart to FL.VI's human-side act. Not a swing law; a stricter reader who wants only the human act would still keep it, because the law's operative clause is "received in faith."
+- **FL.XLVIII Image-Bearing → Adjacent ★.** Its mechanism is *speaking*, not hearing: an inner reality brought across the threshold into spoken word before God and a witness. That is the Tell step's substrate and the general ground beneath confession (FL.II), blessing, and truth-telling (FL.XLVI), all of which sit in Adjacent or Less. Filed Adjacent as a channel-condition one step from the act; marked ★ because a reader who counts the obey/tell side as part of the core act would argue it up, and a reader who sees it as the substrate of the confession family would argue it down to Less.
+
+Net effect: Direct 12 → 13, Adjacent 10 → 11, Less unchanged at 24. Strict line 13 / 35, inclusive line 24 / 24 — the inclusive split is now exactly half the catalog.
+
+**Grid.** `traceability-grid.svg` (beside this note) lays the three tiers as colours over the actual Period × Group cells, one chip per law in numeral order, ★ carried through. Read across Period 0 to see the core concentrated in the scale-invariant row; read down Group V to see how the Body/Action column mixes core (VI, XVI) with the different-logic laws (IX, XXXIX, XLVIII) in the same cell.
 
 ## Change from the 2026-06-15 handoff provisional pass
 
@@ -153,7 +166,7 @@ The reality: **trust/faith is Vol 3's master variable** — the `f()` factor tha
 
 | Tier | Direct | Adjacent | Less | D+A share | Character |
 |---|---|---|---|---|---|
-| 46 Foundational Laws | 12 | 10 | 24 | ≈48% | the broad catalog |
+| 48 Foundational Laws | 13 | 11 | 24 | 50% | the broad catalog |
 | 19 Explorations (V1+V2) | 5 | 12 | 2 | ≈90% | the hear-and-obey investigation |
 | 9 Explorations (V3) | 0 | 5 | 4 | ≈56% | trust-saturated, stated as *models* (0-Direct is an abstraction artifact) |
 
@@ -162,5 +175,5 @@ The tiers do different jobs. The **Explorations (V1-2) are the hear-and-obey inv
 ## Possible next steps (not done)
 
 - Promote either or both analyses to a finished trail in the Vol 6 `research-register.md` if John wants them on the standing record.
-- Render as a colored grid over the actual Period × Group layout.
+- ~~Render as a colored grid over the actual Period × Group layout.~~ Done 2026-09-04 (`traceability-grid.svg`, draft pending John's review).
 - Extend Part B to Vol 2's lettered sub-explorations (02a, 06b, 07a, …) if wanted. (Vol 3 is now covered qualitatively in Part C; a per-entry Vol 3 table was deliberately not produced.)
