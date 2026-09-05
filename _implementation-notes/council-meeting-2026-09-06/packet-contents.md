@@ -24,5 +24,6 @@ subtitle: "What is in this folder, and the order to read it"
 11. **Council Meeting 1 agenda, 28 June 2026.** The only written record of the last meeting; no minutes exist.
 12. **Peer Review Panel Registry for the Council, June 2026.** The bench of reviewer voices the June meeting was asked to extend, with its named gaps.
 13. **IJH Home Church Briefing, April 2026.** John's earlier eleven-slide deck for a home church, ending in an ask and an invitation still open; the seed of the covering conversation now on the agenda.
+14. **Spiritual Direction, in Protestant Words.** A one-page card for elders and anyone asked to cover a Companion: the sentence, the Protestant lineage, what it is not, what a sitting looks like, how it is covered.
 
 *Everything here is a draft for the Council's eyes. Nothing changes on the published site until John says so after the meeting.*
