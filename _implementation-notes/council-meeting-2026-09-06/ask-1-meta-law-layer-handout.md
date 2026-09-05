@@ -1,0 +1,22 @@
+---
+title: "Ask 1 — The Meta-Law Layer"
+subtitle: "IJH Council, 6 September 2026 · one page"
+---
+
+**What it is.** An index of the catalog's second-order laws: laws about how the forty-eight Foundational Laws behave *as a set*, rather than one more law in a cell. Four kinds. **Governing** laws are true of the whole system. **Binding** laws hold several laws together as one cluster. **Pathway** laws sequence several laws into a cycle over time. **Frame** laws describe the architecture the others run inside. Sixteen entries in all, each pointing to where it already lives in Volume 3's Causal-Loop Set and Role Atlas or in the catalog's own notes. It is a cross-registry, not new doctrine. Fifteen of the sixteen were already implicit in the published work; only the Word-Stewardship Cycle is new, and it is built from laws already on the books and travels with FL.XLVIII, which the Council approved in June.
+
+**Why it was added.** The catalog had been describing this structure piecemeal: the periodicities, the community-relational quartet, the paired laws, the substrate layer, the grace frame, and one long-flagged anomaly. Naming the layer in one place makes it inspectable, which is the Periodic Table's whole purpose. It also closed the anomaly: the Skill-Development law, flagged for years as spanning two scales at once, is now a worked instance of a named governing law, Scale-Invariance and Transfer.
+
+**What changed on 1 July, published 3 July.** The Inclusion Bar now distinguishes a law "accepted in its parts" from one "confirmed as a single law," so a gathered cycle cannot borrow its members' consensus. Volume 1's taxonomy gained a Meta / Cycle law type that lists its member laws instead of claiming a cell address. The Role Atlas gives every law a fourth address, its meta-law membership. Scale-Invariance and Transfer became the seventh governing rule of the Causal-Loop Set. The layer's table was added to the Volume 5 Periodic Table chapter and recorded in the Research Register.
+
+**The sixteen.** *Governing:* Grace-Priority and The Mirror, both Clearly Taught; the Throne-Switch, Load-Bearing Delays, Suffering as Swing-Input, and Scale-Invariance and Transfer, all Reasonably Inferred; Periodicity, Speculative. *Binding:* the Community-Relational Quartet, the Generational-Transmission Set, the Constitutive Pairs. *Pathway:* the Hear-and-Obey Core Loop, the Word-Stewardship Cycle, the Attention–Worship–Conformity Loop, the Confession–Cleansing–Restoration Sequence. *Frame:* Substrate-Under-Operation, the Architectural-Envelope Principle. All binding, pathway, and frame entries are Reasonably Inferred.
+
+**The bar each one cleared.** Genuinely second-order, governing or binding or sequencing at least two laws, not a theme pasted over a group. The binding claim itself scriptural, with multi-author warrant for the *relationship*, not merely for its members. It does work: predicts, constrains, or explains. It passes the Mendeleev test, showing something the grid cannot. Each carries a Meta-Mirror, its failure face: the cycle broken, the frame collapsed, the grace-order inverted into a lever.
+
+**How sure, and what is held back.** The individual tiers stand as listed. The claim that these sixteen form a *complete and well-formed* layer is Speculative. Every pathway's *dynamical* claim, whether the loops hold up as stocks, flows, and delays, is Speculative and waits on the scripturally grounded physicist the Register already calls for; no simulation claim is made. The layer's first governing law is Grace-Priority, and its own Meta-Mirror is the standing caution: there is no mechanism, there is a Father.
+
+**Why this is an ask.** A new law type and a new layer are structural changes to the catalog. Under Part 1 they would have needed a supermajority as a schema extension; under the light rule they are an ask. They were published before the Council heard them. That is why this page exists.
+
+**What I am asking.** Bless the layer as an index at the tiers shown, with its completeness held at Speculative; confirm that the Meta / Cycle type and the fourth address are acceptable; or tell me what to change; or ask me to wait.
+
+**Where to read.** Volume 5, the Periodic Table chapter, *The Meta-Law Layer*. Volume 3, *The Complete Causal-Loop Set*, the seven rules. Volume 1, the Taxonomy Key, *Meta / Cycle Laws*, and the essay *The Image-Bearing Word*. The Research Register's note of 1 July.
