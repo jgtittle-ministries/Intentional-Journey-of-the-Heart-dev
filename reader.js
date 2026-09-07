@@ -29,6 +29,17 @@
       codeSlots.push(code);
       return '\u0000' + (codeSlots.length - 1) + '\u0000';
     });
+    // Opening tags of links and images — masked the same way, so an underscore
+    // or asterisk inside an href/src (e.g. a GitHub path under
+    // _implementation-notes/) or in target="_blank" can't be paired up by the
+    // emphasis rules below and turned into an <em> inside the tag; restored
+    // after all other inline rules run. Link text and captions stay in the
+    // string, so they still get their emphasis.
+    const tagSlots = [];
+    const stashTag = (tag) => {
+      tagSlots.push(tag);
+      return '\u0001' + (tagSlots.length - 1) + '\u0001';
+    };
     // Shared: resolve a relative path against the current chapter's docs/ dir.
     function resolvePath(u) {
       if (/^https?:|^data:|^\//.test(u)) return u;
@@ -50,7 +61,7 @@
       // `alt` is already HTML-escaped (inline() escapes the whole string up
       // front), so it is safe to drop straight into the figcaption — escaping
       // again here would double-encode apostrophes/ampersands in captions.
-      return '<figure class="' + cls + '"><img src="' + resolved + '" alt="' + safeAlt + '" loading="lazy"/>' +
+      return stashTag('<figure class="' + cls + '"><img src="' + resolved + '" alt="' + safeAlt + '" loading="lazy"/>') +
              (alt ? '<figcaption>' + alt + '</figcaption>' : '') +
              '</figure>';
     });
@@ -64,10 +75,10 @@
       // resolve it against the current directory) so the delegated handler can
       // scroll to the matching heading, whose id is "h-"+slug.
       if (safeUrl.startsWith('#')) {
-        return '<a class="anchor-link" href="' + safeUrl + '">' + txt + '</a>';
+        return stashTag('<a class="anchor-link" href="' + safeUrl + '">') + txt + '</a>';
       }
       if (/\.md(#|$)/.test(safeUrl) && !/^https?:/.test(safeUrl)) {
-        return '<a href="reader.html#' + encodeURIComponent(resolvePath(safeUrl)) + '">' + txt + '</a>';
+        return stashTag('<a href="reader.html#' + encodeURIComponent(resolvePath(safeUrl)) + '">') + txt + '</a>';
       }
       let cls = [], label = '';
       if (attrs) {
@@ -81,7 +92,7 @@
       if (cls.length) attrStr += ' class="' + cls.join(' ') + '"';
       if (label) attrStr += ' data-pdf-label="' + label.replace(/"/g, '&quot;') + '"';
       const ext = /^https?:/.test(safeUrl) ? ' target="_blank" rel="noopener"' : '';
-      return '<a href="' + resolved + '"' + attrStr + ext + '>' + txt + '</a>';
+      return stashTag('<a href="' + resolved + '"' + attrStr + ext + '>') + txt + '</a>';
     });
     // Bold italic ***text*** (whole span carries both)
     s = s.replace(/\*\*\*([^*]+)\*\*\*/g, '<strong><em>$1</em></strong>');
@@ -93,8 +104,9 @@
     // Italic *text* and _text_ (single, not surrounded by other *)
     s = s.replace(/(?<![*\w])\*([^*\n]+?)\*(?!\*)/g, '<em>$1</em>');
     s = s.replace(/(?<![_\w])_([^_\n]+?)_(?!_)/g, '<em>$1</em>');
-    // restore code spans masked at the top
+    // restore code spans masked at the top, then the link/image opening tags
     s = s.replace(/\u0000(\d+)\u0000/g, (_, i) => '<code>' + codeSlots[+i] + '</code>');
+    s = s.replace(/\u0001(\d+)\u0001/g, (_, i) => tagSlots[+i]);
     return s;
   }
 
