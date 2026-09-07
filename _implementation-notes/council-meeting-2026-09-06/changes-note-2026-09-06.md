@@ -11,7 +11,7 @@ date: "Agenda item, draft 5 September 2026"
 
 The Council paper says this body is under a spiritual authority that has yet to be identified and must be clarified before initiation. It has been open since April. I have four possible sources, in my order of preference, and I want the Council's counsel on them today, not a decision:
 
-1. **The Living Hope elders.** The names I have in mind are Bill Fairbank and Ryan Hammond.
+1. **The Living Hope elders.** The names I have in mind are Bill Fairback and Ryan Hammond.
 2. **CCA's covering,** for evening meetings on their premises.
 3. **AJ McGraw,** executive pastor at Grace Covenant Church.
 4. **The Crucible Project.**

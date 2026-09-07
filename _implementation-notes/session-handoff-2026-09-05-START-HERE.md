@@ -19,7 +19,7 @@ The packet is in OneDrive: `Intentional Journey of the Heart/Current Documents/2
 
 - **The June record (John's recollection, no minutes exist):** FL.XLVII and FL.XLVIII, *Before You Measure*, and the Formation Companion credentialing limit were approved by consent on 28 June. The Meta-Law Layer was not discussed.
 - **The signing:** John re-signs the Succession Letter before the Council, dated 6 September 2026, Council members as witnesses, no notary. David R. Smith = Theological Successor; John David Tittle = Literary Executor; alternates blank.
-- **Spiritual authority, John's four candidates in preference order:** the Living Hope elders (Bill Fairbank, Ryan Hammond; Living Hope is their church); CCA's covering for evening meetings; AJ McGraw, executive pastor, Grace Covenant Church; The Crucible Project.
+- **Spiritual authority, John's four candidates in preference order:** the Living Hope elders (Bill Fairback, Ryan Hammond; Living Hope is their church); CCA's covering for evening meetings; AJ McGraw, executive pastor, Grace Covenant Church; The Crucible Project.
 
 **After the meeting:** write the first Council Log entry (the light rule proposes `docs/volume-6-governance/council-log.md`, newest first); mirror the two queued pages on John's word; act on whatever the Council blessed.
 
