@@ -772,6 +772,10 @@ window.VOLUME_CHAPTERS = {
         "title": "Part 3: Succession Letter"
       },
       {
+        "path": "docs/volume-6-governance/council-log.md",
+        "title": "Council Log"
+      },
+      {
         "path": "docs/volume-6-governance/proposal-template.md",
         "title": "Proposal Template"
       },
@@ -2421,6 +2425,15 @@ window.PATH_TO_INFO = {
     "folder": "volume-6-governance",
     "title": "Part 3: Succession Letter",
     "prev": "docs/volume-6-governance/part-2-council-fellowship.md",
+    "next": "docs/volume-6-governance/council-log.md"
+  },
+  "docs/volume-6-governance/council-log.md": {
+    "volume": 6,
+    "volumeName": "Volume 6: Governance",
+    "volumeFile": "Volume 6 Governance.html",
+    "folder": "volume-6-governance",
+    "title": "Council Log",
+    "prev": "docs/volume-6-governance/part-3-succession-letter.md",
     "next": "docs/volume-6-governance/proposal-template.md"
   },
   "docs/volume-6-governance/proposal-template.md": {
@@ -2429,7 +2442,7 @@ window.PATH_TO_INFO = {
     "volumeFile": "Volume 6 Governance.html",
     "folder": "volume-6-governance",
     "title": "Proposal Template",
-    "prev": "docs/volume-6-governance/part-3-succession-letter.md",
+    "prev": "docs/volume-6-governance/council-log.md",
     "next": "docs/volume-6-governance/scripture-grounding-standard.md"
   },
   "docs/volume-6-governance/scripture-grounding-standard.md": {
