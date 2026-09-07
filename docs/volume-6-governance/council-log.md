@@ -5,7 +5,7 @@ volume: 6
 
 # Council Log
 
-*One entry per meeting, newest first: the date, who was present, what was told, what was asked and how it was answered, what was held, and any dissent by name. This is the public record that the light rule, [Governance for a Quiet Season](https://github.com/jgtittle-ministries/Intentional-Journey-of-the-Heart-dev/blob/9286a6e/_implementation-notes/council-meeting-2026-09-06/draft-governance-for-a-quiet-season.md), creates. Everything behind each entry is in the repositories, and each entry links to the documents exactly as the Council saw them, pinned to the commit of the day.*
+*One entry per meeting, newest first: the date, who was present, what was told, what was asked and how it was answered, what was held, and any dissent by name. This is the public record that the light rule, [Governance for a Quiet Season](governance-for-a-quiet-season.md), creates. Everything behind each entry is in the repositories, and each entry links to the documents exactly as the Council saw them, pinned to the commit of the day.*
 
 ---
 

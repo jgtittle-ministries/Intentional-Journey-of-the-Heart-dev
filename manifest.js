@@ -760,8 +760,8 @@ window.VOLUME_CHAPTERS = {
         "title": "Volume 6: Governance"
       },
       {
-        "path": "docs/volume-6-governance/part-1-governance-model.md",
-        "title": "Part 1: Governance Model"
+        "path": "docs/volume-6-governance/governance-for-a-quiet-season.md",
+        "title": "Governance for a Quiet Season"
       },
       {
         "path": "docs/volume-6-governance/part-2-council-fellowship.md",
@@ -794,6 +794,10 @@ window.VOLUME_CHAPTERS = {
       {
         "path": "docs/volume-6-governance/appendix-catalog-history.md",
         "title": "Appendix: Catalog History — A Briefing for the Council"
+      },
+      {
+        "path": "docs/volume-6-governance/part-1-governance-model.md",
+        "title": "Part 1: Governance Model (held in reserve)"
       }
     ]
   }
@@ -2397,7 +2401,7 @@ window.PATH_TO_INFO = {
     "volumeFile": "Volume 6 Governance.html",
     "folder": "volume-6-governance",
     "title": "Volume 6: Governance",
-    "next": "docs/volume-6-governance/part-1-governance-model.md",
+    "next": "docs/volume-6-governance/governance-for-a-quiet-season.md",
     "prev": "docs/volume-5-references/bearing-fruit-with-patience-upper-levels.md"
   },
   "docs/volume-6-governance/part-1-governance-model.md": {
@@ -2405,9 +2409,8 @@ window.PATH_TO_INFO = {
     "volumeName": "Volume 6: Governance",
     "volumeFile": "Volume 6 Governance.html",
     "folder": "volume-6-governance",
-    "title": "Part 1: Governance Model",
-    "prev": "docs/volume-6-governance/index.md",
-    "next": "docs/volume-6-governance/part-2-council-fellowship.md"
+    "title": "Part 1: Governance Model (held in reserve)",
+    "prev": "docs/volume-6-governance/appendix-catalog-history.md"
   },
   "docs/volume-6-governance/part-2-council-fellowship.md": {
     "volume": 6,
@@ -2415,7 +2418,7 @@ window.PATH_TO_INFO = {
     "volumeFile": "Volume 6 Governance.html",
     "folder": "volume-6-governance",
     "title": "Part 2: The Council — A Fellowship of the Heart",
-    "prev": "docs/volume-6-governance/part-1-governance-model.md",
+    "prev": "docs/volume-6-governance/governance-for-a-quiet-season.md",
     "next": "docs/volume-6-governance/part-3-succession-letter.md"
   },
   "docs/volume-6-governance/part-3-succession-letter.md": {
@@ -2478,6 +2481,16 @@ window.PATH_TO_INFO = {
     "volumeFile": "Volume 6 Governance.html",
     "folder": "volume-6-governance",
     "title": "Appendix: Catalog History — A Briefing for the Council",
-    "prev": "docs/volume-6-governance/mustard-seed-worked-resolution.md"
+    "prev": "docs/volume-6-governance/mustard-seed-worked-resolution.md",
+    "next": "docs/volume-6-governance/part-1-governance-model.md"
+  },
+  "docs/volume-6-governance/governance-for-a-quiet-season.md": {
+    "volume": 6,
+    "volumeName": "Volume 6: Governance",
+    "volumeFile": "Volume 6 Governance.html",
+    "folder": "volume-6-governance",
+    "title": "Governance for a Quiet Season",
+    "prev": "docs/volume-6-governance/index.md",
+    "next": "docs/volume-6-governance/part-2-council-fellowship.md"
   }
 };
