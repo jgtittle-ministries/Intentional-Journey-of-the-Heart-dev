@@ -5,7 +5,7 @@
 > Changes here are **not yet final**, may be incomplete, and may change without notice.
 >
 > **Production (live) repository:** [Intentional-Journey-of-the-Heart](https://github.com/jgtittle-ministries/Intentional-Journey-of-the-Heart)
-> **Production (live) site:** [jgtittle-ministries.github.io/Intentional-Journey-of-the-Heart](https://jgtittle-ministries.github.io/Intentional-Journey-of-the-Heart/)
+> **Production (live) site:** [intentionaljourneyoftheheart.org](https://intentionaljourneyoftheheart.org/)
 
 ---
 
@@ -30,17 +30,30 @@ the natural sciences map the physical world.
 This repository is the **development preview** of the project. The canonical
 working home — including final published content — is the [production
 repository](https://github.com/jgtittle-ministries/Intentional-Journey-of-the-Heart).
-A rendered preview site is published from `docs/` to GitHub Pages.
+The preview site is served by GitHub Pages straight from this repository: a
+static reader at the repository root renders the Markdown under `docs/` in the
+browser. Nothing reaches the production repository except by a deliberate
+mirror on the author's word. The only visible differences from production are
+the `Repo` link in the site header and the notice at the top of this file.
 
 ## Repository Layout
 
-- `docs/` — Markdown for the rendered reading site
-- `source-documents/` — Canonical Word documents, organized by version
+- `docs/` — the Markdown of the volumes; the canonical text
+- `source-documents/` — the original Word documents, kept for provenance
+  only; they have diverged from `docs/` and are not edited
+- `index.html`, the volume pages (`Volume 1.html` through
+  `Volume 6 Governance.html`), and `reader.html` — the reading site, static
+  HTML served by GitHub Pages
+- `reader.js`, `app.js`, `manifest.js`, `search-index.js` — the reader's
+  machinery: the Markdown renderer, the page logic, the chapter list, and the
+  generated search index (regenerate it after editing `docs/`)
+- `vol1-claims.yml` through `vol4-claims.yml` — the claim registry, an index
+  of claims, tiers, and dependencies kept in step with the prose
 - `GOVERNANCE.md` — the governance rule in force, *Governance for a Quiet
   Season*, adopted by the Council of Stewards on 6 September 2026
-- `mkdocs.yml` — Site configuration
-- `overrides/` — MkDocs Material theme overrides (provides the sitewide
-  "DEV ENVIRONMENT" banner)
+- `CONTRIBUTING.md` — how to contribute, on one page
+- `_implementation-notes/` — working notes, drafts, audits, and Council
+  packets; never published to the site
 
 ## Governance
 
