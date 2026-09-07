@@ -13,7 +13,7 @@ All working trees clean at close. JD pushed nothing during the session.
 
 ## 1. The Council meeting, Sunday 6 September 2026
 
-The packet is in OneDrive: `Intentional Journey of the Heart/Current Documents/2026 Meetings/Council/` (15 files; `00 - Packet Contents.docx` is the index and reading order). Sources for every handout are in `council-meeting-2026-09-06/` here.
+The packet is in OneDrive: `Intentional Journey of the Heart/Current Documents/2026 Meetings/Sept Council/` (renamed from `Council/` on 7 September) (15 files; `00 - Packet Contents.docx` is the index and reading order). Sources for every handout are in `council-meeting-2026-09-06/` here.
 
 **Six asks**, in the changes note's suggested order: the four spiritual-authority candidates first (status, not decision) → confirm the June record → the signing → ask 2 (the light rule) and ask 3 (the two foundation inserts) → ask 6 (A34) → ask 1 (the Meta-Law Layer, the one retroactive ask) → the Register correction noted → the waiting list → draft the first Council Log entry before leaving.
 
@@ -37,7 +37,7 @@ The packet is in OneDrive: `Intentional Journey of the Heart/Current Documents/2
 - **Mirror only on John's explicit word.** The five standing-divergence files in the CCA repos get targeted edits. `week-06-brave.md` is CRLF.
 - **Light rule seam (not yet adopted, but used all session):** clocks, rooms, prose refinements, new trails = tell; anchors, new laws, safeguarding, coverings, the rule itself, new practice on real people = ask.
 - **Baton:** John edits a Word file and says "closed" → diff against the repo Markdown with `pandoc -t plain --wrap=none`, keep his deletions exactly, tidy only residue, report. His app-downloaded copies save with no-dash filenames and may be intermediate saves; compare text before deleting anything.
-- **One Word file per deliverable.** IJH Council material lives in `2026 Meetings/Council/`; FotH pilot deliverables in `Churches and Ministries/CCA/FotH Pilot/`.
+- **One Word file per deliverable.** IJH Council material lives in `2026 Meetings/Sept Council/` (one folder per meeting, it seems; renamed 7 September); FotH pilot deliverables in `Churches and Ministries/CCA/FotH Pilot/`.
 - **Commit messages via `git commit -F file`** — the harness's Bash tool turns stdin into a FIFO on any `<` in the command text, and the co-author trailer contains one.
 
 ## 4. FotH side, since the 09-04 handoff

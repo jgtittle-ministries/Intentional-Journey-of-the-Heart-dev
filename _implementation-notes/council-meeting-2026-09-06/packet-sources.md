@@ -1,6 +1,6 @@
 # Council packet, 6 September 2026 — where each file lives in the repositories
 
-The Council read the packet from the OneDrive folder `Intentional Journey of the Heart/Current Documents/2026 Meetings/Council/`. OneDrive is John's filing cabinet; the repository is the record. This page maps every file in that folder to its source in the repositories, so the Council Log entry can link each document to a permalink pinned to a commit. The packet as the Council saw it on 6 September is IJH dev commit `9286a6e` (the FotH items, `a95fd0c`); the three reference items that lived only in OneDrive were added to this folder on 7 September, as seen, unchanged.
+The Council read the packet from the OneDrive folder `Intentional Journey of the Heart/Current Documents/2026 Meetings/Sept Council/` (named `Council/` until 7 September, when John renamed it). OneDrive is John's filing cabinet; the repository is the record. This page maps every file in that folder to its source in the repositories, so the Council Log entry can link each document to a permalink pinned to a commit. The packet as the Council saw it on 6 September is IJH dev commit `9286a6e` (the FotH items, `a95fd0c`); the three reference items that lived only in OneDrive were added to this folder on 7 September, as seen, unchanged.
 
 Permalink form: `https://github.com/jgtittle-ministries/<repo>/blob/<commit>/<path>`. Both repositories are public; no login is needed to read.
 
