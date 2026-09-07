@@ -1,6 +1,6 @@
 # Part 1: Governance Model
 
-> **Held in reserve, 6 September 2026.** This Part describes the governance model for a larger season than the project is in: many hands, contested claims, a Council that votes, a pipeline that checks every proposal. It was drafted in April 2026, revised in June, and never ratified. On 6 September 2026 the Council of Stewards adopted a light rule in its place, [*Governance for a Quiet Season*](governance-for-a-quiet-season.md), recorded in the first entry of the [Council Log](council-log.md). Part 1 stays here, unchanged, as the model held in reserve. If in any twelve months the project receives three or more substantive outside proposals, or a second regular editor joins the work, or the Council itself asks, the Council revisits the light rule and may restore any part of what follows.
+> **In reference.** This is the fuller governance model, written for a larger season of the project, with many contributors and a Council that votes. The governance in force is [*Governance in This Season*](governance-for-a-quiet-season.md). The Council may bring any part of what follows into force when the project grows into it: three or more substantive outside proposals in a year, a second regular editor joining the work, or the Council's own request.
 
 ## Preface to this revision
 

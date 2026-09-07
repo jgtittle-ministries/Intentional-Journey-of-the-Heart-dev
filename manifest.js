@@ -761,7 +761,7 @@ window.VOLUME_CHAPTERS = {
       },
       {
         "path": "docs/volume-6-governance/governance-for-a-quiet-season.md",
-        "title": "Governance for a Quiet Season"
+        "title": "Governance in This Season"
       },
       {
         "path": "docs/volume-6-governance/part-2-council-fellowship.md",
@@ -797,7 +797,7 @@ window.VOLUME_CHAPTERS = {
       },
       {
         "path": "docs/volume-6-governance/part-1-governance-model.md",
-        "title": "Part 1: Governance Model (held in reserve)"
+        "title": "Part 1: Governance Model (in reference)"
       }
     ]
   }
@@ -2409,7 +2409,7 @@ window.PATH_TO_INFO = {
     "volumeName": "Volume 6: Governance",
     "volumeFile": "Volume 6 Governance.html",
     "folder": "volume-6-governance",
-    "title": "Part 1: Governance Model (held in reserve)",
+    "title": "Part 1: Governance Model (in reference)",
     "prev": "docs/volume-6-governance/appendix-catalog-history.md"
   },
   "docs/volume-6-governance/part-2-council-fellowship.md": {
@@ -2489,7 +2489,7 @@ window.PATH_TO_INFO = {
     "volumeName": "Volume 6: Governance",
     "volumeFile": "Volume 6 Governance.html",
     "folder": "volume-6-governance",
-    "title": "Governance for a Quiet Season",
+    "title": "Governance in This Season",
     "prev": "docs/volume-6-governance/index.md",
     "next": "docs/volume-6-governance/part-2-council-fellowship.md"
   }
