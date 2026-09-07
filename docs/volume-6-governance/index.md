@@ -14,7 +14,7 @@ I wrote Volume 6 in a more institutional voice on purpose. It is meant to outlas
 
 ## Contents
 
-- **[Part 1: Governance Model](part-1-governance-model.md)** — the three-tier organizational structure, the claim registry, schema extensibility, contribution process, confidence-tier governance, decision-making framework, disagreement resolution, the analogy-class discipline, testing and bidirectional dependency, licensing, platform, succession planning, first Council actions, risks and mitigations.
+- **[Part 1: Governance Model](part-1-governance-model.md)** — *held in reserve since 6 September 2026, when the Council adopted the light rule, Governance for a Quiet Season, in its place; kept unchanged as the model for a larger season, with the trigger for its return stated in its preface.* The three-tier organizational structure, the claim registry, schema extensibility, contribution process, confidence-tier governance, decision-making framework, disagreement resolution, the analogy-class discipline, testing and bidirectional dependency, licensing, platform, succession planning, first Council actions, risks and mitigations.
 - **[Part 2: The Council — A Fellowship of the Heart](part-2-council-fellowship.md)** — why the Council is a Fellowship of the Heart and not a board; what membership asks; how the Council works; what it owes the community it serves; on its own end; and a Rule of Life for the Council.
 - **[Part 3: Succession Letter](part-3-succession-letter.md)** — my wishes for the stewardship of the work should I become unable to continue stewarding it personally, naming a Literary Executor and a Theological Successor.
 - **[Council Log](council-log.md)** — one entry per Council meeting, newest first: who was present, what was told, what was asked and how it was answered, what was held, and any dissent by name, with every document linked as the Council saw it.
@@ -27,9 +27,8 @@ I wrote Volume 6 in a more institutional voice on purpose. It is meant to outlas
 
 These governance artifacts live alongside this volume in the project repository:
 
-- `GOVERNANCE.md` — the ratified version of Part 1, once adopted.
-- `CONTRIBUTING.md` — the one-page contributor guide a new contributor reads first.
-- `PROPOSAL_TEMPLATE.md` — the machine-fillable version of the Proposal Template.
-- `SUCCESSION_LETTER.md` — the operative copy of Part 3 once signed.
-- `SCHEMA.md` — the formal specification for the claim registry.
-- `vol1-claims.yml` through `vol4-claims.yml` — the authoritative claim registry.
+- [`GOVERNANCE.md`](https://github.com/jgtittle-ministries/Intentional-Journey-of-the-Heart/blob/main/GOVERNANCE.md) — the rule in force: *Governance for a Quiet Season*, adopted by the Council on 6 September 2026. Part 1 is the model held in reserve.
+- [`CONTRIBUTING.md`](https://github.com/jgtittle-ministries/Intentional-Journey-of-the-Heart/blob/main/CONTRIBUTING.md) — the one-page contributor guide a new contributor reads first: open an issue or write to John, and a serious proposal is brought to the Council as an Ask.
+- The Proposal Template is the Volume 6 page above, available as a courtesy to anyone who wants to be thorough; it is not a gate.
+- The Succession Letter is Part 3 above, signed before the Council on 6 September 2026; the signed original is with the author's estate papers.
+- `vol1-claims.yml` through `vol4-claims.yml` — the claim registry: an index of claims, tiers, and dependencies, kept in step with the prose, which remains canonical. A formal schema for it is among the things the light rule shelves.

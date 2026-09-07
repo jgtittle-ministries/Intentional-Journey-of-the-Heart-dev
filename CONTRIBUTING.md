@@ -1,79 +1,27 @@
 # Contributing
 
-> **Placeholder.** The authoritative `CONTRIBUTING.md` was drafted by John G.
-> Tittle alongside Volume 6 (May 2026 revision) and will replace this file
-> when committed. Until then, the notes below capture the project's stated
-> values and the broad shape of contribution. For the formal contribution
-> process, see Volume 6 §4 (Contribution process) at
-> [`source-documents/v5_5_7/IJH_Vol6_v5_5_7_1.docx`](source-documents/v5_5_7/IJH_Vol6_v5_5_7_1.docx).
+This project is governed by a light rule for a quiet season, [*Governance for a Quiet Season*](GOVERNANCE.md), adopted by the Council of Stewards on 6 September 2026. This page says what that means if you want to contribute. It is deliberately one page.
 
-## Voice of the project
+## How to contribute
 
-This is a contemplative project, not a software-paced one. Contribution is
-welcomed in that spirit:
+Anyone may open an issue on this repository or write to John. A serious proposal is welcome and will be brought to the Council of Stewards as an Ask at its next monthly meeting; you will be told when that is. The [Council Log](docs/volume-6-governance/council-log.md) records, publicly, what was asked and how it was answered, and when the Council declines a change someone cared about, the argument is kept in the Log rather than discarded.
 
-- **Correction without contempt.** Disagreements are surfaced as engagements
-  with the work, not dismissals of it.
-- **Preservation of dissent rather than erasure.** Minority positions and
-  open questions are first-class content. When a core claim is revised, the
-  prior version is preserved as a minority position, not deleted.
-- **Pace matters.** A one-page contributor guide that actually gets read is
-  worth more than a ten-page policy that doesn't.
+The [Proposal Template](docs/volume-6-governance/proposal-template.md) remains available as a courtesy for anyone who wants to be thorough. It is not a gate. What any substantive change must be able to answer, in the Council's hearing, are the questions the work has always asked of itself: which scriptures, whose experience, does it cohere, what does tradition say, and what would show it wrong.
 
-## How contribution works (in summary)
+Three kinds of change are handled three ways. Refinements of prose, cross-references, corrections, and new research trails are made and reported (*tell*). Anything touching the work's foundations, a Foundational Law, a preserved minority position, safeguarding, or the rule itself is brought to the Council before it is published (*ask*). Frontier claims move only on evidence (*wait*). When in doubt, it is an ask.
 
-The project's content is organized as a structured **claim registry** (the
-`vol1-claims.yml` through `vol4-claims.yml` files in `source-documents/`).
-Every claim has an ID, a confidence rating, scripture references, upstream
-and downstream dependencies, and — where applicable — preserved minority
-positions and open questions.
+## What is canonical
 
-Proposed refinements are submitted using `PROPOSAL_TEMPLATE.md` (forthcoming).
-The template enforces a four-factor confidence test: every proposal must
-address (a) independent scriptural lines, (b) experiential corroboration,
-(c) conceptual coherence, and (d) consistency with tradition. Proposals that
-leave any of these blank are returned for strengthening rather than reviewed.
+The Markdown under `docs/` is the canonical text of the volumes. The `.docx` files under `source-documents/` are provenance only; they have diverged from the published text and are not edited. The four registry files, `vol1-claims.yml` through `vol4-claims.yml`, are an index of claims, tiers, and dependencies, kept in step with the prose; the prose, not the registry, is the record. Nothing reaches the published site except by a deliberate mirror from the working repository on John's word.
 
-Three confidence tiers receive different governance treatment:
+## For maintainers
 
-- **Tier 1 — Anchor claims (≥85%).** Revisions are governance-level changes
-  requiring Council consent.
-- **Tier 2 — Working claims (65–80%).** The majority of the corpus.
-  Routine refinement procedures apply.
-- **Tier 3 — Frontier claims (<65%).** Revisions require a research-program
-  track with new evidence, not rhetoric alone.
+After content changes, run the checks under `_implementation-notes/`: `_link_audit.py` (orphans, manifest-vs-disk, broken links), `_anchor_audit.py` (every `#fragment` resolves to a heading), and `_tier_audit.py` (each Foundational Law's tier agrees across its chapter, the Master Law Index, the Periodic Table, and the registry). Regenerate the search index after editing `docs/`. The reader's machinery at the repository root mirrors to the published repository by targeted edit, never by whole-file copy.
 
-See Volume 6 §5 and §6 for the full procedures.
+## License
 
-## Source of truth
-
-The published Markdown under `docs/` is the **canonical source** for the volumes' prose. Each chapter's `source:` front-matter field names the originating `.docx` (under `source-documents/`) for **provenance only** — those documents are historical and have since diverged from the published Markdown as the volumes have been edited in place (testimonies, doctrinal guards, cross-references, and other refinements live only in the Markdown). **Do not regenerate a chapter from its `source:` document**; doing so would silently discard those later edits. Edit the Markdown directly, and keep the dev and prod repositories in sync via the mirror workflow.
-
-## Consistency checks (run after edits)
-
-A doctrinal fix often lands in a chapter but not in its summaries or the registry. Three quick checks in `_implementation-notes/` catch that drift; run the relevant one after content changes:
-
-- **`_link_audit.py`** — orphan files, manifest-vs-disk, and broken `.md`/PDF/image links.
-- **`_anchor_audit.py`** — every `#fragment` link resolves to a real `##`/`###` heading.
-- **`_tier_audit.py`** — each Foundational Law's certainty tier agrees across all four places it is stated: the **chapter**, the **Master Law Index**, the **Periodic Table**, and the **claim registry** (`vol1-claims.yml`). Run this after any tier or doctrinal change.
-
-Always re-run the search-index generator after editing `docs/`.
-
-## License and contributor agreement
-
-This work is licensed under
-[Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/).
-By submitting a contribution, you agree your contribution is licensed under
-the same terms.
-
-Contributions are accepted under the
-[Developer Certificate of Origin](https://developercertificate.org/) — a
-lightweight contributor sign-off (`Signed-off-by:` line on commits)
-indicating you have the right to submit the contribution under the
-project's license.
+The work is licensed under [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/). By contributing you agree your contribution is licensed under the same terms, and you accept the [Developer Certificate of Origin](https://developercertificate.org/): a `Signed-off-by:` line on your commits says you have the right to submit the contribution under that license.
 
 ## Contact
 
-For now, contact is through GitHub issues and discussion on this repository.
-A formal Council and contributor process will be opened on the timeline
-described in Volume 6 §13.
+GitHub issues on this repository, or John directly. The Council meets on the first Sunday of each month.

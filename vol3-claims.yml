@@ -39,7 +39,6 @@ project: IJH
 volume: 3
 schema_version: 0.2
 founder: John G. Tittle
-last_council_review: null
 source_document: IJH_Vol3_v5_4_1.docx
 
 # Schema change log:

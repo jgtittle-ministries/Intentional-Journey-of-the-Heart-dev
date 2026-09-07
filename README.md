@@ -36,17 +36,20 @@ A rendered preview site is published from `docs/` to GitHub Pages.
 
 - `docs/` — Markdown for the rendered reading site
 - `source-documents/` — Canonical Word documents, organized by version
-- `GOVERNANCE.md` — Governance overview, pointing to Volume 6 (the canonical
-  governance text)
+- `GOVERNANCE.md` — the governance rule in force, *Governance for a Quiet
+  Season*, adopted by the Council of Stewards on 6 September 2026
 - `mkdocs.yml` — Site configuration
 - `overrides/` — MkDocs Material theme overrides (provides the sitewide
   "DEV ENVIRONMENT" banner)
 
 ## Governance
 
-This project is governed under the framework set out in **Volume 6:
-Governance** of the work itself. See [`GOVERNANCE.md`](GOVERNANCE.md) for an
-overview and a pointer to the canonical text.
+This project is governed by a light rule for a quiet season, set out in
+[`GOVERNANCE.md`](GOVERNANCE.md) and adopted by the Council of Stewards on
+6 September 2026. **Volume 6: Governance** of the work holds the Council
+paper, the Succession Letter, the Council Log, and, held in reserve, the
+fuller governance model of Part 1. See [`CONTRIBUTING.md`](CONTRIBUTING.md)
+to contribute.
 
 ## License
 

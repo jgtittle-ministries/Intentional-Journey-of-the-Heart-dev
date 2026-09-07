@@ -70,7 +70,6 @@ project: IJH
 volume: 1
 schema_version: 0.3
 founder: John G. Tittle
-last_council_review: null    # Council not yet seated; founder-stewarded
 source_documents:
   - IJH_Vol1_v5_6_1_1.docx
   - docs/volume-1-laws-of-the-spirit/foundational-law-*.md (38 chapters)
