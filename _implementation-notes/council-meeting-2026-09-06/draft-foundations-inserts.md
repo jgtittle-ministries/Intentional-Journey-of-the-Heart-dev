@@ -6,6 +6,8 @@ date: "Draft v1 — 4 September 2026"
 ---
 
 > **DRAFT v1, for John's edits.** Two proposed inserts, both touching the foundations, so under the light rule they are an *Ask* for the Council before anything is published. Part A goes into the Introduction. Part B is a new one-page chapter for Volume 2. Part C is the one sentence in the Note on Proof and Certainty that changes with them. Placement notes are in brackets and are not part of the text.
+>
+> **Revised 8 September 2026:** the author refined the theory-of-action sentence in Part B — "if you want to hear" became "if you want to hear and obey Christ," and the sentence now ends with its purpose: "such that you are on an intentional path to grow up into Christ, into hearing and obeying Christ in everything." The September packet carried the earlier form; this refinement goes before the Council with ask 3, so the Council answers on the author's current wording.
 
 ---
 
@@ -41,7 +43,7 @@ Exploration 0 asks four questions of every tool this volume imports: *what is a 
 
 **5. It is the Spirit's work, received by consent, witnessed by the body, escorted by a Companion, under a covering.** No one is formed by force. The participant chooses each step and may stop at any step. The community witnesses, and no adult is ever alone with a pilgrim. The Companion escorts, offering the next question and letting the pilgrim choose, and keeps their own material out of the pilgrim's work; a Companion who has not first received a practice does not lead it. And all of it is under a named spiritual authority, close enough to see the lives involved, because no one in this work leads uncovered (Gal. 6:1; Heb. 13:17; 1 Tim. 5:22; 1 Pet. 5:2–3).
 
-**The theory of action, in one sentence.** Everything in this volume rests on one expectation: that if you want to hear, and you bring what blocks you into the light, with the Word open, a few brothers or sisters beside you, and someone over you who can see your life, the Holy Spirit will clear the way, and the laws I wrote down in Volume 1 will start to work in you the way they were written.
+**The theory of action, in one sentence.** Everything in this volume rests on one expectation: that if you want to hear and obey Christ, and you bring what blocks you into the light, with the Word open, a few brothers or sisters beside you, and someone over you who can see your life, the Holy Spirit will clear the way, and the laws I wrote down in Volume 1 will start to work in you the way they were written such that you are on an intentional path to grow up into Christ, into hearing and obeying Christ in everything.
 
 **What this page does to Volume 4.** Two of these assumptions appear in the testing volume as hypotheses: that community is essential to faith formation, and that the heart is the center through which formation passes. A thing cannot be both an axiom and a claim under test, so I split them the way the Scripture-Grounding Standard splits every mixed claim. The principle is assumed here. The operational form stays on the bench: whether a group's Tell-Rate predicts its trajectory, whether a heart profile moves the way the taxonomy says it should. If the bench ever shows the principle itself is wrong, this page changes, and the Council will hear it first.
 

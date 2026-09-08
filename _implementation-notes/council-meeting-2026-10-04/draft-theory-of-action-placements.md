@@ -30,13 +30,15 @@ date: "Draft v1 — 7 September 2026, for the 4 October Council meeting"
 
 # The sentence, for reference
 
-From *Before the Tools: What This Volume Assumes* (Part B of the September draft, held under ask 3):
+From *Before the Tools: What This Volume Assumes* (Part B of the September draft, held under ask 3), as refined by the author on 8 September 2026 — the September packet carried the earlier form, without "and obey Christ" and without the closing purpose clause; the refinement comes before the Council with ask 3:
 
 > **The theory of action, in one sentence.** Everything in this volume rests on one
-> expectation: that if you want to hear, and you bring what blocks you into the
-> light, with the Word open, a few brothers or sisters beside you, and someone over
-> you who can see your life, the Holy Spirit will clear the way, and the laws I
-> wrote down in Volume 1 will start to work in you the way they were written.
+> expectation: that if you want to hear and obey Christ, and you bring what blocks
+> you into the light, with the Word open, a few brothers or sisters beside you, and
+> someone over you who can see your life, the Holy Spirit will clear the way, and
+> the laws I wrote down in Volume 1 will start to work in you the way they were
+> written such that you are on an intentional path to grow up into Christ, into
+> hearing and obeying Christ in everything.
 
 ---
 
@@ -50,15 +52,17 @@ questions," and before the RQ1 block.]
 
 The five questions are not five separate curiosities. They are the one expectation
 of this work, taken apart into the pieces a study can actually hold. Volume 2
-states it in a sentence: if you want to hear, and you bring what blocks you into
-the light, with the Word open, a few brothers or sisters beside you, and someone
-over you who can see your life, the Holy Spirit will clear the way, and the laws
-of Volume 1 will start to work in you the way they were written. Each clause of
-that sentence is a condition a study can observe, and each research question
-tests part of it:
+states it in a sentence: if you want to hear and obey Christ, and you bring what
+blocks you into the light, with the Word open, a few brothers or sisters beside
+you, and someone over you who can see your life, the Holy Spirit will clear the
+way, and the laws of Volume 1 will start to work in you the way they were written
+such that you are on an intentional path to grow up into Christ, into hearing and
+obeying Christ in everything. Each clause of that sentence is a condition a study
+can observe, and each research question tests part of it:
 
-- *You want to hear* — and what blocks you comes into the light: **RQ5** asks
-  whether willingness and disclosure, at cost, reliably precede the rapid shifts.
+- *You want to hear and obey Christ* — and what blocks you comes into the
+  light: **RQ5** asks whether willingness and disclosure, at cost, reliably
+  precede the rapid shifts.
 - *With the Word open*: **RQ2** asks whether scripture trust and formation move
   together, and in which order.
 - *A few brothers or sisters beside you*: **RQ1** asks whether the group practice
@@ -99,12 +103,14 @@ Orientation Night, in the "what to expect" segment. Kitchen-table register.]
 **What we expect to happen — and why.** Before anything else, you should know what
 this fellowship actually believes about these evenings, because everything else
 in this conversation follows from it. We hold one expectation, and it comes from
-the work this fellowship is built on: if you come wanting to hear, and you are
-willing to bring what blocks you into the light, with Scripture open on the
-table, a few people beside you who know your name, and trusted eyes over this
-group who can see how it is going — then the Holy Spirit will do the clearing,
-and the way God's love works, which the Scriptures have described all along, will
-start to work in your family the way it was written. Notice what that sentence
+the work this fellowship is built on: if you come wanting to hear and obey
+Christ, and you are willing to bring what blocks you into the light, with
+Scripture open on the table, a few people beside you who know your name, and
+trusted eyes over this group who can see how it is going — then the Holy Spirit
+will do the clearing, and the way God's love works, which the Scriptures have
+described all along, will start to work in your family the way it was written,
+setting you on an intentional path to grow up into Christ, into hearing and
+obeying Him in everything. Notice what that sentence
 does not say. It does not say the Companions change anyone. It does not say the
 exercises change anyone. Nothing in this room is a lever. Everything in this room
 only opens a door, and the Spirit walks through it, or does not, in His time. If
@@ -120,16 +126,17 @@ the format survives adaptation — when a future team proposes dropping a piece,
 this page makes visible which clause they are removing.]
 
 **Why the meeting has this shape.** The series rests on one expectation, stated in
-the work this fellowship comes from: if you want to hear, and you bring what
-blocks you into the light, with the Word open, a few brothers or sisters beside
-you, and someone over you who can see your life, the Holy Spirit will clear the
-way, and the laws written down in Volume 1 will start to work in you the way they
-were written. Every fixed element of the session is one clause of that sentence,
-built into furniture:
+the work this fellowship comes from: if you want to hear and obey Christ, and you
+bring what blocks you into the light, with the Word open, a few brothers or
+sisters beside you, and someone over you who can see your life, the Holy Spirit
+will clear the way, and the laws written down in Volume 1 will start to work in
+you the way they were written such that you are on an intentional path to grow up
+into Christ, into hearing and obeying Christ in everything. Every fixed element of
+the session is one clause of that sentence, built into furniture:
 
-- *You want to hear* is the *Intentional* condition — the spoken commitment at the
-  open, and the permission conversation before any instrument. Consent is not
-  paperwork here; it is the first clause of the expectation.
+- *You want to hear and obey Christ* is the *Intentional* condition — the spoken
+  commitment at the open, and the permission conversation before any instrument.
+  Consent is not paperwork here; it is the first clause of the expectation.
 - *You bring what blocks you into the light* is the shared circle and the
   graduated year — Week 1 asks for one true sentence, and the container grows
   safe before it is asked to be brave. *Safe*, *Present*, and *Clear* exist so
