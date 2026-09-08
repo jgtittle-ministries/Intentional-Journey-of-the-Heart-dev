@@ -30,15 +30,15 @@ date: "Draft v1 — 7 September 2026, for the 4 October Council meeting"
 
 # The sentence, for reference
 
-From *Before the Tools: What This Volume Assumes* (Part B of the September draft, held under ask 3), as refined by the author on 8 September 2026 — the September packet carried the earlier form, without "and obey Christ" and without the closing purpose clause; the refinement comes before the Council with ask 3:
+From *Before the Tools: What This Volume Assumes* (Part B of the September draft, held under ask 3), as refined by the author on 8 September 2026 — the September packet carried the earlier form, without "and obey Christ," without the closing purpose clause, and with "the Holy Spirit will clear the way" rather than the door-opened phrasing; the refinements come before the Council with ask 3:
 
 > **The theory of action, in one sentence.** Everything in this volume rests on one
 > expectation: that if you want to hear and obey Christ, and you bring what blocks
 > you into the light, with the Word open, a few brothers or sisters beside you, and
-> someone over you who can see your life, the Holy Spirit will clear the way, and
-> the laws I wrote down in Volume 1 will start to work in you the way they were
-> written such that you are on an intentional path to grow up into Christ, into
-> hearing and obeying Christ in everything.
+> someone over you who can see your life, the door will be open for the Holy Spirit
+> to clear the way as he wills, and the laws I wrote down in Volume 1 will start to
+> work in you the way they were written such that you are on an intentional path to
+> grow up into Christ, into hearing and obeying Christ in everything.
 
 ---
 
@@ -54,11 +54,12 @@ The five questions are not five separate curiosities. They are the one expectati
 of this work, taken apart into the pieces a study can actually hold. Volume 2
 states it in a sentence: if you want to hear and obey Christ, and you bring what
 blocks you into the light, with the Word open, a few brothers or sisters beside
-you, and someone over you who can see your life, the Holy Spirit will clear the
-way, and the laws of Volume 1 will start to work in you the way they were written
-such that you are on an intentional path to grow up into Christ, into hearing and
-obeying Christ in everything. Each clause of that sentence is a condition a study
-can observe, and each research question tests part of it:
+you, and someone over you who can see your life, the door will be open for the
+Holy Spirit to clear the way as he wills, and the laws of Volume 1 will start to
+work in you the way they were written such that you are on an intentional path to
+grow up into Christ, into hearing and obeying Christ in everything. Each clause of
+that sentence is a condition a study can observe, and each research question
+tests part of it:
 
 - *You want to hear and obey Christ* — and what blocks you comes into the
   light: **RQ5** asks whether willingness and disclosure, at cost, reliably
@@ -72,8 +73,10 @@ can observe, and each research question tests part of it:
 - *The laws will start to work in you*: **RQ3** asks whether the movement shows up
   where Volume 1 says it should — in the restored image of God.
 
-One clause has no instrument, on purpose. *The Holy Spirit will clear the way* is
-the mechanism, and the mechanism is confessed, not measured (John 3:8). The
+One clause has no instrument, on purpose. *The door will be open for the Holy
+Spirit to clear the way as he wills* is the mechanism, and the mechanism is
+confessed, not measured (John 3:8). The conditions open a door; they never
+compel God. The
 program measures the conditions and the outcomes; it does not put the wind in a
 box. If the conditions are met and the outcomes do not come, the sentence is
 wrong and this page changes. That is what makes it a theory of action rather than
@@ -106,9 +109,10 @@ in this conversation follows from it. We hold one expectation, and it comes from
 the work this fellowship is built on: if you come wanting to hear and obey
 Christ, and you are willing to bring what blocks you into the light, with
 Scripture open on the table, a few people beside you who know your name, and
-trusted eyes over this group who can see how it is going — then the Holy Spirit
-will do the clearing, and the way God's love works, which the Scriptures have
-described all along, will start to work in your family the way it was written,
+trusted eyes over this group who can see how it is going — then the door will be
+open for the Holy Spirit to do the clearing, as He wills, and the way God's love
+works, which the Scriptures have described all along, will start to work in your
+family the way it was written,
 setting you on an intentional path to grow up into Christ, into hearing and
 obeying Him in everything. Notice what that sentence
 does not say. It does not say the Companions change anyone. It does not say the
@@ -128,11 +132,12 @@ this page makes visible which clause they are removing.]
 **Why the meeting has this shape.** The series rests on one expectation, stated in
 the work this fellowship comes from: if you want to hear and obey Christ, and you
 bring what blocks you into the light, with the Word open, a few brothers or
-sisters beside you, and someone over you who can see your life, the Holy Spirit
-will clear the way, and the laws written down in Volume 1 will start to work in
-you the way they were written such that you are on an intentional path to grow up
-into Christ, into hearing and obeying Christ in everything. Every fixed element of
-the session is one clause of that sentence, built into furniture:
+sisters beside you, and someone over you who can see your life, the door will be
+open for the Holy Spirit to clear the way as he wills, and the laws written down
+in Volume 1 will start to work in you the way they were written such that you are
+on an intentional path to grow up into Christ, into hearing and obeying Christ in
+everything. Every fixed element of the session is one clause of that sentence,
+built into furniture:
 
 - *You want to hear and obey Christ* is the *Intentional* condition — the spoken
   commitment at the open, and the permission conversation before any instrument.
@@ -150,8 +155,9 @@ the session is one clause of that sentence, built into furniture:
 - *Someone over you who can see your life* is the Companion team, the Thursday
   Call, the covering in Section 3, and the door out with a name on it. No one in
   this work leads uncovered, and no participant walks unwatched.
-- *The Spirit will clear the way* is the reason every practice carries a pass and
-  nothing is ever forced. The Companions plant and water. God gives the growth
+- *The door will be open for the Spirit to clear the way as he wills* is the
+  reason every practice carries a pass and nothing is ever forced. The
+  Companions plant and water. God gives the growth
   (1 Cor. 3:6–7). The moment any element of this series starts to feel like a
   lever, set it down and come back to Him.
 - *The laws will start to work* is what the three vital signs watch for and what
