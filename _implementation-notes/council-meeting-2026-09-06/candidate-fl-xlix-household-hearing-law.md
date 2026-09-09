@@ -161,3 +161,22 @@ It is distinct from its neighbors. Not [FL.XXI](foundational-law-xxi-the-househo
 ---
 
 *Prepared for John's review, 5 September 2026, from his question that evening. Ask 7 for the Council on 6 September; the chapter is rewritten in John's words before anything is published.*
+
+
+---
+
+# Feedback received for the rewrite (Dave Smith, 10 September 2026)
+
+Recorded here so the author's rewrite (ask 7: the chapter in John's words
+before publication) has it in hand:
+
+- **A substantive draft** — Dave's overall read.
+- **Name the precondition at the start.** The law's underlying assumption is
+  that the parent or parents are themselves growing in faith and in their
+  ability to hear from the Trinity. That prerequisite is what gives a parent
+  sufficient confidence — and grace — to convey how to hear from God to
+  kids and grandkids.
+- **Cite the prerequisite laws.** The chapter should point to the other key
+  laws a parent should be practicing that form the inner prerequisites; the
+  taxonomy already names essential preconditions, and the chapter should
+  lean on them explicitly.
