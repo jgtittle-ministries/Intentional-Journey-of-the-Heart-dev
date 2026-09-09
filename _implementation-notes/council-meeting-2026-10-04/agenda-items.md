@@ -52,8 +52,19 @@ therefore an Ask, recorded in the Log like any other.
 The three shapes — the biweekly evening fellowship series (first starting
 point), the possible CCA evening club through Andrea, and the drafted CCA
 elective proposal ("The Intentional Heart," pass/fail, seventeen weeks) —
-for the Council's counsel. Expected by then: the Living Hope answer
-(≈ 20 September) on Fairback and Hammond as covering.
+for the Council's counsel.
+
+## 5. Spiritual authority — the first step's answer (for the Log)
+
+Bill Fairback answered ahead of the expected date (≈ 10 September): he is
+not led to serve as John's spiritual director, and he is willing to walk
+with John as a friend — which John receives with real value. Per the front
+piece's §7, each step of this pursuit is recorded in the Log; this is the
+first answer to record. Still open at this writing: Ryan Hammond's answer on
+oversight of the fellowship pilot (a separate question, unaffected by
+Bill's), and the direction question itself, with AJ McGraw, The Crucible
+Project (Dave Smith meets Tom Wooten in October), and the CCA context still
+on John's list from 5 September.
 
 ---
 
