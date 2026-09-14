@@ -9,6 +9,20 @@ volume: 6
 
 ---
 
+## Toward 4 October 2026 — the draft agenda, held here until the meeting
+
+*This paragraph holds agenda items as they gather during the month, so that the agenda is the Council's and not mine alone. It is a draft, not a record: the meeting's own entry replaces it. The running detail, with who asked and when, lives in the working repository at [agenda-items.md](https://github.com/jgtittle-ministries/Intentional-Journey-of-the-Heart-dev/blob/main/_implementation-notes/council-meeting-2026-10-04/agenda-items.md); the changes note, built near the date, folds these in and becomes the working agenda.*
+
+1. **The held asks come due.** Asks 3, 5, and 6 of 6 September — the two foundation inserts, the traceability study for the Research Register, and A34, The Throne Question — were promised an answer at or before this meeting.
+2. **Theory-of-action placements.** Part I rides with ask 3 for decision; Part II, the Fellowship of the Heart precohort statement and handbook rationale, is before the Council for counsel only.
+3. **The Rule of Life in our meetings** (John, 8 September). How much of Part 2's fifteen-point Rule do we intend to practice now, as a three-member body in a light season? Adopting a meeting practice is the Council's own to decide in session; any change to the Rule's text is an Ask.
+4. **Fellowship of the Heart re-launch shapes** (counsel; the decisions are mine). The biweekly evening fellowship series, the possible CCA evening club, and the drafted CCA elective proposal.
+5. **Spiritual authority — the first answer, to record.** Bill Fairback is not led to serve as my spiritual director and is willing to walk with me as a friend, which I receive with real value. Ryan Hammond's answer on oversight of the fellowship pilot, and the direction question itself, remain open.
+
+Members add items through the month as they think of them; they appear here as they arrive.
+
+---
+
 ## 6 September 2026 — Council Meeting 2
 
 **Present:** Barry Boyle, Dave Smith, John Tittle. Face to face.

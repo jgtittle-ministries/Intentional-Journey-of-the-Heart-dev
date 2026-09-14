@@ -71,4 +71,6 @@ on John's list from 5 September.
 *Items 1–2 were standing before this file; item 3 added at John's word,
 8 September 2026; item 4 rides with the packet's Part II. The changes note
 (told / asking / waiting), drafted near the meeting date, will fold these
-in.*
+in. A summary of this list is held on the Council Log ("Toward 4 October
+2026") until the meeting; when an item is added or changed here, keep the
+Log's holding paragraph in step.*
