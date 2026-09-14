@@ -72,13 +72,17 @@ John's finding, on the eve of the first evening: the six articles in
 draft — the foundation study, the curriculum, companion, and church
 articles, the Formation Companion ladder article, and the prospected
 fourth article — form a coherent, self-reinforcing ecology, the backbone
-of a book in the pastoral-academic register. A one-page prospectus is
-drafted ("Book Prospectus - A Place Where It Can Live - v1", IJH edits):
-thesis, three title candidates, chapter architecture, and sequencing
-gates — the articles land first, the Sage reuse terms get checked, the
-fourth article comes through the 835 study, and the pilot year supplies
-the lived chapters; horizon 2027–28. Before the Council for awareness and
-counsel.
+of a book. And the frame, in John's words: this is not just another
+suggestion for doing discipleship; it is preparing, as best we can, for
+the return of Jesus. A Church Prepared for Revival joins the
+architecture as the horizon chapter. A prospectus is drafted ("Book
+Prospectus - A Place Where It Can Live - v2", IJH edits): thesis, four
+title candidates (the open title question is how forward the
+return-of-Jesus horizon stands on the cover), a ten-chapter
+architecture, and sequencing gates — the articles land first, the Sage
+reuse terms get checked, the fourth article comes through the 835 study,
+and the pilot year supplies the lived chapters; horizon 2027–28. Before
+the Council for awareness and counsel.
 
 ---
 
