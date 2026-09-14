@@ -87,8 +87,11 @@ together; conversion trims repetition and the new chapters add back) —
 250–280 pages, a standard single volume — and sequencing gates: the
 articles land first, the Sage reuse terms get checked, the fourth
 article comes through the 835 study, and the pilot year supplies the
-lived chapters; horizon 2027–28. Before the Council for awareness and
-counsel.
+lived chapters; horizon 2027–28. A chapter-by-chapter outline with
+discussion is also drafted ("Before the Rain - Chapter Outline with
+Discussion - draft v1", IJH edits): each chapter's internal sections
+plus the conversion decisions each one carries. Before the Council for
+awareness and counsel.
 
 ---
 
