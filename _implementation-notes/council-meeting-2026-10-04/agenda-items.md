@@ -81,11 +81,14 @@ title, chosen 14 September: Before the Rain: Formation in Hearing God as
 Preparation for the Lord's Return. It carries the thesis, the candidate
 titles for the record, a ten-chapter architecture with an epilogue for
 the scales above the congregation (the denomination, and the one, holy,
-catholic and apostolic church — an ascent, not a program), and
-sequencing gates — the articles land first, the Sage
-reuse terms get checked, the fourth article comes through the 835 study,
-and the pilot year supplies the lived chapters; horizon 2027–28. Before
-the Council for awareness and counsel.
+catholic and apostolic church — an ascent, not a program), a projected
+size of roughly 72,000–76,000 words (the six articles measure ~57,000
+together; conversion trims repetition and the new chapters add back) —
+250–280 pages, a standard single volume — and sequencing gates: the
+articles land first, the Sage reuse terms get checked, the fourth
+article comes through the 835 study, and the pilot year supplies the
+lived chapters; horizon 2027–28. Before the Council for awareness and
+counsel.
 
 ---
 
