@@ -66,11 +66,26 @@ Bill's), and the direction question itself, with AJ McGraw, The Crucible
 Project (Dave Smith meets Tom Wooten in October), and the CCA context still
 on John's list from 5 September.
 
+## 6. The six-article book (John, 14 September; told for counsel, no decision asked)
+
+John's finding, on the eve of the first evening: the six articles in
+draft — the foundation study, the curriculum, companion, and church
+articles, the Formation Companion ladder article, and the prospected
+fourth article — form a coherent, self-reinforcing ecology, the backbone
+of a book in the pastoral-academic register. A one-page prospectus is
+drafted ("Book Prospectus - A Place Where It Can Live - v1", IJH edits):
+thesis, three title candidates, chapter architecture, and sequencing
+gates — the articles land first, the Sage reuse terms get checked, the
+fourth article comes through the 835 study, and the pilot year supplies
+the lived chapters; horizon 2027–28. Before the Council for awareness and
+counsel.
+
 ---
 
 *Items 1–2 were standing before this file; item 3 added at John's word,
-8 September 2026; item 4 rides with the packet's Part II. The changes note
-(told / asking / waiting), drafted near the meeting date, will fold these
-in. A summary of this list is held on the Council Log ("Toward 4 October
-2026") until the meeting; when an item is added or changed here, keep the
-Log's holding paragraph in step.*
+8 September 2026; item 4 rides with the packet's Part II; item 6 added at
+John's word, 14 September 2026. The changes note (told / asking /
+waiting), drafted near the meeting date, will fold these in. A summary of
+this list is held on the Council Log ("Toward 4 October 2026") until the
+meeting; when an item is added or changed here, keep the Log's holding
+paragraph in step.*
