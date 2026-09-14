@@ -76,10 +76,10 @@ of a book. And the frame, in John's words: this is not just another
 suggestion for doing discipleship; it is preparing, as best we can, for
 the return of Jesus. A Church Prepared for Revival joins the
 architecture as the horizon chapter. A prospectus is drafted ("Book
-Prospectus - A Place Where It Can Live - v2", IJH edits): thesis, four
-title candidates (the open title question is how forward the
-return-of-Jesus horizon stands on the cover), a ten-chapter
-architecture, and sequencing gates — the articles land first, the Sage
+Prospectus - Before the Rain - v3", IJH edits), under John's working
+title, chosen 14 September: Before the Rain: Formation in Hearing God as
+Preparation for the Lord's Return. It carries the thesis, the candidate
+titles for the record, a ten-chapter architecture, and sequencing gates — the articles land first, the Sage
 reuse terms get checked, the fourth article comes through the 835 study,
 and the pilot year supplies the lived chapters; horizon 2027–28. Before
 the Council for awareness and counsel.
