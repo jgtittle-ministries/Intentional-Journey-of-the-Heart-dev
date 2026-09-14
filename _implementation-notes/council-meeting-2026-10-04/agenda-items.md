@@ -79,7 +79,10 @@ architecture as the horizon chapter. A prospectus is drafted ("Book
 Prospectus - Before the Rain - v3", IJH edits), under John's working
 title, chosen 14 September: Before the Rain: Formation in Hearing God as
 Preparation for the Lord's Return. It carries the thesis, the candidate
-titles for the record, a ten-chapter architecture, and sequencing gates — the articles land first, the Sage
+titles for the record, a ten-chapter architecture with an epilogue for
+the scales above the congregation (the denomination, and the one, holy,
+catholic and apostolic church — an ascent, not a program), and
+sequencing gates — the articles land first, the Sage
 reuse terms get checked, the fourth article comes through the 835 study,
 and the pilot year supplies the lived chapters; horizon 2027–28. Before
 the Council for awareness and counsel.
