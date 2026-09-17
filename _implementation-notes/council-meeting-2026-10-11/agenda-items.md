@@ -107,6 +107,18 @@ item 5). The meeting was moved from 4 October to 11 October at John's word
 (17 September) to accommodate the weekend, so the debrief lands one week
 after it.
 
+Ahead of the debrief (added at John's word, 17 September): Dave's
+pre-retreat assignment is filed with the October packet (Crucible
+Pre-Retreat Assignment.doc, in the Toward 2026-10-11 folder) and was
+reviewed with adoption candidates ready for the conversation — pre-week
+journaling before an adult Getting Started; the judgments-as-mirrors
+observation week (a practice for the heart that cannot read itself); the
+three-person interview as external witness at personal scale, a PLP
+candidate as well; the father/mother wound questions held adult-only per
+the prototype's depth rail; and the willingness gate not adopted, since
+the permission ethic stands (a no costs nothing). Adoption decisions wait
+on Dave's lived account.
+
 ---
 
 *Items 1–2 were standing before this file; item 3 added at John's word,
