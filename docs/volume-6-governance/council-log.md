@@ -9,9 +9,9 @@ volume: 6
 
 ---
 
-## Toward 4 October 2026 — the draft agenda, held here until the meeting
+## Toward 11 October 2026 — the draft agenda, held here until the meeting
 
-*This paragraph holds agenda items as they gather during the month, so that the agenda is the Council's and not mine alone. It is a draft, not a record: the meeting's own entry replaces it. The running detail, with who asked and when, lives in the working repository at [agenda-items.md](https://github.com/jgtittle-ministries/Intentional-Journey-of-the-Heart-dev/blob/main/_implementation-notes/council-meeting-2026-10-04/agenda-items.md); the changes note, built near the date, folds these in and becomes the working agenda.*
+*This paragraph holds agenda items as they gather during the month, so that the agenda is the Council's and not mine alone. It is a draft, not a record: the meeting's own entry replaces it. The running detail, with who asked and when, lives in the working repository at [agenda-items.md](https://github.com/jgtittle-ministries/Intentional-Journey-of-the-Heart-dev/blob/main/_implementation-notes/council-meeting-2026-10-11/agenda-items.md); the changes note, built near the date, folds these in and becomes the working agenda. The meeting, ordinarily the first Sunday, falls on 11 October this month, moved at John's word to accommodate item 7's weekend.*
 
 1. **The held asks come due.** Asks 3, 5, and 6 of 6 September — the two foundation inserts, the traceability study for the Research Register, and A34, The Throne Question — were promised an answer at or before this meeting.
 2. **Theory-of-action placements.** Part I rides with ask 3 for decision; Part II, the Fellowship of the Heart precohort statement and handbook rationale, is before the Council for counsel only.
@@ -20,7 +20,7 @@ volume: 6
 5. **Spiritual authority — the first answer, to record.** Bill Fairback is not led to serve as my spiritual director and is willing to walk with me as a friend, which I receive with real value. Ryan Hammond's answer on oversight of the fellowship pilot, and the direction question itself, remain open.
 6. **The six-article book** (John, 14 September; told for counsel, no decision asked). The six articles in draft form a coherent, self-reinforcing ecology — the backbone of a book, working title *Before the Rain: Formation in Hearing God as Preparation for the Lord's Return*. The frame, in my words: this is not just another suggestion for doing discipleship; it is preparing, as best we can, for the return of Jesus. *A Church Prepared for Revival* joins as the horizon chapter, and the scales above the congregation — the denomination, and the one, holy, catholic and apostolic church — close the book as an epilogue, an ascent rather than a program. A prospectus and a chapter-by-chapter outline with discussion are drafted; projected size roughly 72,000–76,000 words, a standard single volume; the sequencing gates put the book after the articles land, the fourth article's study, and the pilot year, horizon 2027–28.
 
-7. **Crucible Project debrief** (John, 17 September). Dave Smith attends The Crucible Project weekend of 4 October — the path opened on 6 September, when Dave connected with Tom Wooten, its director. The Council hears his take: what he saw, and what he would counsel about the Crucible path in the spiritual-authority pursuit (rides with item 5's standing thread). The weekend coincides with the meeting date itself; the scheduling is to be settled.
+7. **Crucible Project debrief** (John, 17 September). Dave Smith attends The Crucible Project weekend of 4 October — the path opened on 6 September, when Dave connected with Tom Wooten, its director. The Council hears his take: what he saw, and what he would counsel about the Crucible path in the spiritual-authority pursuit (rides with item 5's standing thread). The meeting was moved to 11 October to accommodate the weekend.
 
 Members add items through the month as they think of them; they appear here as they arrive.
 

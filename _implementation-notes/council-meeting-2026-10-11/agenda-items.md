@@ -1,4 +1,7 @@
-# Agenda Items — Council Meeting, 4 October 2026
+# Agenda Items — Council Meeting, 11 October 2026
+
+*(Moved from 4 October at John's word, 17 September, to accommodate Dave
+Smith's Crucible Project weekend — see item 7.)*
 
 Running list, gathered through the month per the standing pattern (members
 submit agenda items through the month; the monthly changes note, built near
@@ -100,9 +103,9 @@ opened at the 6 September meeting: Dave has connected with Tom Wooten, its
 director). Agenda item to hear Dave's take on the weekend — what he saw,
 what it may offer this work, and what he would counsel about the Crucible
 path in the spiritual-authority pursuit (rides with the standing thread in
-item 5). Scheduling note: the weekend coincides with the Council's own
-meeting date of 4 October; if Dave is away for it, the debrief — or the
-meeting date — moves, which is John's to settle with the Council.
+item 5). The meeting was moved from 4 October to 11 October at John's word
+(17 September) to accommodate the weekend, so the debrief lands one week
+after it.
 
 ---
 
