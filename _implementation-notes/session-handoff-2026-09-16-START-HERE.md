@@ -6,10 +6,16 @@
 
 | Repo | Head | Mirror queue |
 |---|---|---|
-| IJH dev | this handoff's commit, after `6eb4c60` | **Empty.** |
-| IJH prod | `81221a1` | — (Council Log holder mirrored through item 6, at John's word) |
-| FotH dev | `76db9ec` | **Empty.** |
-| FotH prod | `b2c0ba9` | — (Session 5 page mirrored, at John's word) |
+| IJH dev | after `c08b6e6` (this amendment's commit) | **Empty.** |
+| IJH prod | `390955e` | — (Council Log mirrored through item 7 + the 10-11 move, at John's word) |
+| FotH dev | `876a088` | **Empty.** |
+| FotH prod | `c09cc74` | — (changelog mirrored through v2.6, at John's word) |
+| BSCP dev | `5c9236f` | **Empty.** |
+| BSCP prod | `419d56e` | — (current through Gallup Q12) |
+| CPR dev | `98ef8d4` | **Empty.** |
+| CPR prod | `cdbeb0a` | — (current through the covering note + CNAME) |
+
+*Amended 2026-09-17 at John's word: BSCP and CPR admitted to the index process — the table now carries all four dev→prod pairs, and the BSC Crosswalk (`_implementation-notes/bsc-crosswalk.md`) records what each zone draws from the Balanced Scorecard trail. Heads as of the amendment; all queues empty after the 09-17 full mirror.*
 
 ## 1. The article heads and JSFSC state
 
