@@ -93,12 +93,23 @@ Discussion - draft v1", IJH edits): each chapter's internal sections
 plus the conversion decisions each one carries. Before the Council for
 awareness and counsel.
 
+## 7. Crucible Project — Dave's debrief (John, 17 September)
+
+Dave Smith attends The Crucible Project weekend of 4 October (the path
+opened at the 6 September meeting: Dave has connected with Tom Wooten, its
+director). Agenda item to hear Dave's take on the weekend — what he saw,
+what it may offer this work, and what he would counsel about the Crucible
+path in the spiritual-authority pursuit (rides with the standing thread in
+item 5). Scheduling note: the weekend coincides with the Council's own
+meeting date of 4 October; if Dave is away for it, the debrief — or the
+meeting date — moves, which is John's to settle with the Council.
+
 ---
 
 *Items 1–2 were standing before this file; item 3 added at John's word,
 8 September 2026; item 4 rides with the packet's Part II; item 6 added at
-John's word, 14 September 2026. The changes note (told / asking /
-waiting), drafted near the meeting date, will fold these in. A summary of
-this list is held on the Council Log ("Toward 4 October 2026") until the
-meeting; when an item is added or changed here, keep the Log's holding
-paragraph in step.*
+John's word, 14 September 2026; item 7 added at John's word, 17 September
+2026. The changes note (told / asking / waiting), drafted near the meeting
+date, will fold these in. A summary of this list is held on the Council Log
+("Toward 4 October 2026") until the meeting; when an item is added or
+changed here, keep the Log's holding paragraph in step.*
