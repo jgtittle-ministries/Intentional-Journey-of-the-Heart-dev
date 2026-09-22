@@ -132,12 +132,24 @@ measured protocol deferred to the season that can carry it). No decision
 is asked; John is interested in ideas and feedback, particularly on the
 follow-on articles.
 
+## 9. The briefing's next doors — the target map (John, 22 September; counsel)
+
+The church-authority briefing (second edition in draft: the running pilot,
+the published warrant, the Come-and-see visit door, and the group's
+self-read exhibit) now has a target map — coverings, sponsors, and doors —
+filed with the October packet ("FotH Target Map — Coverings, Sponsors, and
+Doors — DRAFT v1"). Dave is already in process toward some in his church;
+Barry is invited to consider his own people; the map holds the CCA
+conversation (Andrea, Bobby, the board), the Living Hope thread, the home
+group, and the relationship-first names. Counsel welcome on the map itself
+and on who is missing from it.
+
 ---
 
 *Items 1–2 were standing before this file; item 3 added at John's word,
 8 September 2026; item 4 rides with the packet's Part II; item 6 added at
 John's word, 14 September 2026; item 7 added at John's word, 17 September
-2026; item 8 added at John's word, 22 September 2026. The changes note (told / asking / waiting), drafted near the meeting
+2026; items 8 and 9 added at John's word, 22 September 2026. The changes note (told / asking / waiting), drafted near the meeting
 date, will fold these in. A summary of this list is held on the Council Log
 ("Toward 4 October 2026") until the meeting; when an item is added or
 changed here, keep the Log's holding paragraph in step.*

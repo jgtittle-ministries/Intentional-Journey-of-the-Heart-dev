@@ -24,6 +24,8 @@ volume: 6
 
 8. **The foundation article — accepted** (John, 22 September; told for discussion, no decision asked). JSFSC accepted the foundation article on 21 September; publication is expected around November. The accepted final text joins the October packet, along with the proposed follow-on shape — the near article reframed as a design-and-transmissibility account of the running pilot, with the measured protocol deferred to the season that can carry it. I am interested in the Council's ideas and feedback, particularly on the follow-on articles.
 
+9. **The briefing's next doors** (John, 22 September; counsel). The church-authority briefing, now in a second edition draft — the running pilot, the published warrant, and an open invitation to come sit in an evening — has a target map filed with the packet: the CCA conversation, Living Hope, our own congregations, the home group, and the relationship-first names. Dave is already in process toward some in his church; Barry may consider his. I would value counsel on the map and on who is missing from it.
+
 Members add items through the month as they think of them; they appear here as they arrive.
 
 ---
