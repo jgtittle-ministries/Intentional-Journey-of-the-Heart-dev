@@ -119,12 +119,25 @@ the prototype's depth rail; and the willingness gate not adopted, since
 the permission ethic stands (a no costs nothing). Adoption decisions wait
 on Dave's lived account.
 
+## 8. The foundation article — accepted; the final text and the follow-on plan (John, 22 September; no decision asked)
+
+JSFSC accepted the foundation article on 21 September — "the reviewer(s)
+have recommended publication" — with publication expected around November.
+Two documents join the packet for discussion: the accepted final text
+(filed in the Toward 2026-10-11 folder as "JSFSC Foundation Article —
+Accepted Final Text (Sep 2026)") and the proposed follow-on shape ("JSFSC
+Follow-Up — Porter Proposal Reframe v1": the near article reframed as a
+design-and-transmissibility account of the running pilot, with the
+measured protocol deferred to the season that can carry it). No decision
+is asked; John is interested in ideas and feedback, particularly on the
+follow-on articles.
+
 ---
 
 *Items 1–2 were standing before this file; item 3 added at John's word,
 8 September 2026; item 4 rides with the packet's Part II; item 6 added at
 John's word, 14 September 2026; item 7 added at John's word, 17 September
-2026. The changes note (told / asking / waiting), drafted near the meeting
+2026; item 8 added at John's word, 22 September 2026. The changes note (told / asking / waiting), drafted near the meeting
 date, will fold these in. A summary of this list is held on the Council Log
 ("Toward 4 October 2026") until the meeting; when an item is added or
 changed here, keep the Log's holding paragraph in step.*

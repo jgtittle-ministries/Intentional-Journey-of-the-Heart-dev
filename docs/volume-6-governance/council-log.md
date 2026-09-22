@@ -22,6 +22,8 @@ volume: 6
 
 7. **Crucible Project debrief** (John, 17 September). Dave Smith attends The Crucible Project weekend of 4 October — the path opened on 6 September, when Dave connected with Tom Wooten, its director. The Council hears his take: what he saw, and what he would counsel about the Crucible path in the spiritual-authority pursuit (rides with item 5's standing thread). The meeting was moved to 11 October to accommodate the weekend. Dave's pre-retreat assignment is filed with the October packet, reviewed with adoption candidates ready for the conversation.
 
+8. **The foundation article — accepted** (John, 22 September; told for discussion, no decision asked). JSFSC accepted the foundation article on 21 September; publication is expected around November. The accepted final text joins the October packet, along with the proposed follow-on shape — the near article reframed as a design-and-transmissibility account of the running pilot, with the measured protocol deferred to the season that can carry it. I am interested in the Council's ideas and feedback, particularly on the follow-on articles.
+
 Members add items through the month as they think of them; they appear here as they arrive.
 
 ---
