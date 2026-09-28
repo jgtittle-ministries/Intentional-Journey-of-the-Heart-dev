@@ -57,17 +57,40 @@ point), the possible CCA evening club through Andrea, and the drafted CCA
 elective proposal ("The Intentional Heart," pass/fail, seventeen weeks) —
 for the Council's counsel.
 
-## 5. Spiritual authority — the first step's answer (for the Log)
+## 5. Spiritual authority — where it stands (for the Log)
 
-Bill Fairback answered ahead of the expected date (≈ 10 September): he is
-not led to serve as John's spiritual director, and he is willing to walk
-with John as a friend — which John receives with real value. Per the front
-piece's §7, each step of this pursuit is recorded in the Log; this is the
-first answer to record. Still open at this writing: Ryan Hammond's answer on
-oversight of the fellowship pilot (a separate question, unaffected by
-Bill's), and the direction question itself, with AJ McGraw, The Crucible
-Project (Dave Smith meets Tom Wooten in October), and the CCA context still
-on John's list from 5 September.
+Per the front piece’s §7, each step of this pursuit is recorded in the Log.
+Two asks are out, and both are waiting.
+
+**Spiritual direction — Bobby Gore.** From a call on 27 September: he
+understood what was being asked without needing it explained, which John notes
+is more than he has had from anyone else he has asked. He is considering it,
+with no due date set, and an answer is expected within several weeks.
+
+**Oversight of the fellowship pilot — Ryan Hammond.** The second and separate
+ask, put plainly on 26 September. It lines up with an elder’s existing
+responsibilities for discipleship and is a far smaller thing than direction:
+the Lead Companion appointed or confirmed, each leader’s own covering
+confirmed, the agreements signed, the door out named, a hearing once a month,
+and the power to stop it. No answer at this writing. Tom Fremont, the pilot
+family’s father and an elder, is the named backup if the answer is no,
+holding the oversight and reporting his assessment to Ryan.
+
+**The door out** for both the CCA pilot and the evening series is Bobby Gore,
+and stays with him whether or not he also takes the direction ask — John’s
+judgment being that he will speak truth clearly and in love, including about
+John.
+
+**How we got here, briefly.** Bill Fairback answered on 10 September that he is
+not led to serve as John’s spiritual director and would walk with him as a
+friend, which John received with real value. Ryan Hammond answered on
+26 September that he cannot fill that need at this time, offering instead to be
+a sounding board, a listener and an encourager; John accepted the same day and
+gladly. Two honest answers of no, and relationship offered in place of the
+office in both.
+
+Still on John’s list from 5 September: AJ McGraw, The Crucible Project (Dave
+Smith meets Tom Wooten in October — see item 7), and the CCA context.
 
 ## 6. The six-article book (John, 14 September; told for counsel, no decision asked)
 
