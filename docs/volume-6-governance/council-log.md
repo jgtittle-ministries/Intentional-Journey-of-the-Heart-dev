@@ -26,6 +26,8 @@ volume: 6
 
 9. **The briefing's next doors** (John, 22 September; counsel). The church-authority briefing, now in a second edition draft — the running pilot, the published warrant, and an open invitation to come sit in an evening — has a target map filed with the packet: the CCA conversation, Living Hope, our own congregations, the home group, and the relationship-first names. Dave is already in process toward some in his church; Barry may consider his. I would value counsel on the map and on who is missing from it.
 
+10. **The Seeing Round** (John, 28 September; counsel, and an invitation). A practice drafted this week for Connect with Others: fifteen minutes in which a room says aloud what it has seen in each other, in two rounds and two sentences — "What I see in you that I wish for myself…" and "What I've seen you do that I don't think you noticed…". Everyone gives twice and receives twice, to the left and then to the right, so no one chooses whom to affirm; the only answer is thank you. It is aimed at the Quarter 2 close of the evening series, where there will be enough shared history to make it worth anything, and it is tested first with the leading team. I would welcome counsel — and since we meet as a Fellowship of the Heart, forming a container and working within it, we may wish to run it ourselves rather than only talk about it.
+
 Members add items through the month as they think of them; they appear here as they arrive.
 
 ---

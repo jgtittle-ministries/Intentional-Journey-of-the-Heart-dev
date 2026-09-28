@@ -144,12 +144,45 @@ conversation (Andrea, Bobby, the board), the Living Hope thread, the home
 group, and the relationship-first names. Counsel welcome on the map itself
 and on who is missing from it.
 
+## 10. The Seeing Round — a new practice for Connect with Others (John, 28 September; counsel, and an invitation to practice it)
+
+A practice drafted this week, and it arrived sideways: the question being
+worked was how to assess a spiritual formation class without driving
+performance. The answer there was pass/fail, where the pass is presence and
+participation and "I pass" counts in full. But the practice that came with the
+question belongs to the fellowship work as much as to any classroom.
+
+The Seeing Round is fifteen minutes in which a room says aloud what it has seen
+in each other. Two rounds, two stems, one sentence each: "What I see in you that
+I wish for myself…" and "What I've seen you do that I don't think you noticed…".
+Everyone gives twice and receives twice, to the left and then to the right, so
+nobody chooses whom to affirm and nobody visibly receives less than the person
+beside them. The only answer is thank you. A third stem was written and cut —
+"what potential I see in you that I wish would be fulfilled in you" — because it
+leaves the speaker safe while the recipient absorbs an implied deficit; the two
+that survive both cost the speaker something to say.
+
+Placement: the Quarter 2 close of the evening series, as a block at the quarter
+mark rather than a new session. It needs accumulated watching to be worth
+anything — seven evenings in, the answers would be thin and polite — and it
+lands deeper after the confession-and-restoration evening. Sitting at a quarter
+mark, it runs again each quarter with more to see each time. It is tested first
+with the leading team at the planning lab before Sessions 7–8, where the
+question that decides its future is whether a teen lead can run it from the page
+alone.
+
+Before the Council for counsel — and, at John's word, with an invitation. The
+Council meets as a Fellowship of the Heart, forming a container and working
+within it; the table may wish to run the practice itself rather than only
+discuss it. Draft page: "The Seeing Round — practice draft v1."
+
 ---
 
 *Items 1–2 were standing before this file; item 3 added at John's word,
 8 September 2026; item 4 rides with the packet's Part II; item 6 added at
 John's word, 14 September 2026; item 7 added at John's word, 17 September
-2026; items 8 and 9 added at John's word, 22 September 2026. The changes note (told / asking / waiting), drafted near the meeting
+2026; items 8 and 9 added at John's word, 22 September 2026; item 10
+added at John's word, 28 September 2026. The changes note (told / asking / waiting), drafted near the meeting
 date, will fold these in. A summary of this list is held on the Council Log
 ("Toward 4 October 2026") until the meeting; when an item is added or
 changed here, keep the Log's holding paragraph in step.*
