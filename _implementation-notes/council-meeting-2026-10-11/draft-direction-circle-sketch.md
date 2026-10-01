@@ -2,9 +2,11 @@
 
 Draft v2 · 1 October 2026 · rides with item 5 (spiritual authority) · for counsel; the decisions are John's
 
+> In John's words: "the circle is about seeing what I cannot see or don't see clearly enough about my heart. The authority is about me not seeing scripture clear enough or interpreting it possibly wrongly."
+
 ## The question
 
-Since September, three people have been asked to serve as John's spiritual director. Two answered with an honest no and offered relationship in place of the office; the third, Bobby Gore, is still considering. While that waits, and perhaps beyond it, **can the work of direction be carried by a few people together**, so that John is not walking without it?
+Since September, three people have been asked to serve as John's spiritual director. Two said an honest no and offered relationship instead; Bobby Gore is still considering. Meanwhile, and perhaps beyond, **can the work of direction be carried by a few people together**, so that John is not walking without it?
 
 ## What is being asked for
 
@@ -33,7 +35,7 @@ Two safeguards, which John is weighing. *A pause clause:* when challenged, John 
 
 ## What it is not
 
-- **Not a replacement for a one-to-one director.** That search stays open. If Bobby says yes, the circle may continue alongside him or stand down; that is John's call.
+- **Not a replacement for a one-to-one director.** That search stays open. If Bobby says yes, the circle continues alongside or stands down, at John's call.
 - **Not oversight of the fellowship pilot.** That ask (Ryan Hammond, with Tom Fremont as backup) is unchanged. This sketch is about John's own soul.
 - **Not the keeper.** The AI-kept log is a record and a mirror, never a director; it cannot pray or say no.
 

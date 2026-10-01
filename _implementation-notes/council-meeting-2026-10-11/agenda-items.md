@@ -59,6 +59,8 @@ for the Council's counsel.
 
 ## 5. Spiritual authority — where it stands (for the Log)
 
+**In John's words (1 October):** "the circle is about seeing what I cannot see or don't see clearly enough about my heart. The authority is about me not seeing scripture clear enough or interpreting it possibly wrongly."
+
 Per the front piece’s §7, each step of this pursuit is recorded in the Log.
 Two asks are out, and both are waiting.
 
@@ -219,6 +221,8 @@ within it; the table may wish to run the practice itself rather than only
 discuss it. Draft page: "The Seeing Round — practice draft v1."
 
 ## 11. A direction circle — spiritual direction carried by a few (John, 1 October; counsel)
+
+**In John's words (1 October):** "the circle is about seeing what I cannot see or don't see clearly enough about my heart. The authority is about me not seeing scripture clear enough or interpreting it possibly wrongly."
 
 Item 5 records the pursuit of a spiritual director: three asks, two honest
 answers of no with relationship offered in place of the office, and Bobby
