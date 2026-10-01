@@ -199,13 +199,45 @@ Council meets as a Fellowship of the Heart, forming a container and working
 within it; the table may wish to run the practice itself rather than only
 discuss it. Draft page: "The Seeing Round — practice draft v1."
 
+## 11. A direction circle — spiritual direction carried by a few (John, 1 October; counsel)
+
+Item 5 records the pursuit of a spiritual director: three asks, two honest
+answers of no with relationship offered in place of the office, and Bobby
+Gore still considering. This item asks a different question. While that
+waits, and perhaps beyond it, can the work of direction be carried by a few
+people together, so that John is not walking without it?
+
+The sketch splits direction into its parts and places each one. A **direction
+circle** of three, meeting quarterly for about ninety minutes, in the pattern
+of the Quaker clearness committee and group spiritual direction: honest, open
+questions only, no advice unless it is asked for, and the time closed in
+prayer. John brings one page of his own choosing; his personal log stays
+private. Separately, there is **a named person outside the circle with
+standing to say stop**, and **a door out** outside both. Both are still to
+be found. A trial of two quarters, then an honest review of whether the
+circle is doing the work of direction.
+
+The people who declined one-to-one direction each offered something smaller,
+Bill Fairback friendship and Ryan Hammond a sounding board and encourager,
+and both are what a seat in the circle asks for. No one has been asked. The
+circle does not replace one-to-one direction (that search stays open), does
+not touch the oversight of the fellowship pilot in item 5, and is not the
+AI-kept log, which is a record and never a director.
+
+Counsel asked on four questions: whether a circle is a faithful form of
+direction or only a bridge; who should hold the standing to say stop, and
+whether the Council could; who is missing from the possible seats; and
+whether Dave's Crucible weekend (item 7) suggests anything. Draft page: "A
+Direction Circle — Sketch for Council — DRAFT v1."
+
 ---
 
 *Items 1–2 were standing before this file; item 3 added at John's word,
 8 September 2026; item 4 rides with the packet's Part II; item 6 added at
 John's word, 14 September 2026; item 7 added at John's word, 17 September
 2026; items 8 and 9 added at John's word, 22 September 2026; item 10
-added at John's word, 28 September 2026. The changes note (told / asking / waiting), drafted near the meeting
+added at John's word, 28 September 2026; item 11 added at John's word,
+1 October 2026. The changes note (told / asking / waiting), drafted near the meeting
 date, will fold these in. A summary of this list is held on the Council Log
 ("Toward 4 October 2026") until the meeting; when an item is added or
 changed here, keep the Log's holding paragraph in step.*
