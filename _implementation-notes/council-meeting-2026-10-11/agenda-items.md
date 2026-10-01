@@ -81,6 +81,25 @@ and stays with him whether or not he also takes the direction ask — John’s
 judgment being that he will speak truth clearly and in love, including about
 John.
 
+**What is being asked for, restated (John, 1 October).** Working through item
+11 made the ask clearer than it has been. Two different things have been
+travelling under one name. The first is **feedback** from people who
+actually know what is going on with John. That belongs to connection and to
+hear-and-obey, and the witness practices and item 11's circle serve it. The
+second is **authority**, and John defines it in his own words: "I'm not
+actually looking for an authority that I'm willing to kiss the ring. I'm
+looking for someone who's willing to challenge me if they think I'm missing
+a scripture interpretation of something and misapplying it. That's the
+authority that would cause me to back up and stop." The authority is the
+Word, opened against him by someone willing to open it. The pattern is
+Priscilla and Aquila expounding the way of God more accurately to Apollos
+(Acts 18:24–26), Paul withstanding Peter to his face over a misapplication
+(Gal 2:11–14), and the Bereans who searched the scriptures whether those
+things were so (Acts 17:11). One observation: "spiritual director" often
+names a contemplative listener rather than a scriptural challenger, and the
+answers so far may have been to a role John was not asking for. The pilot
+oversight ask below is unchanged.
+
 **How we got here, briefly.** Bill Fairback answered on 10 September that he is
 not led to serve as John’s spiritual director and would walk with him as a
 friend, which John received with real value. Ryan Hammond answered on
@@ -212,10 +231,24 @@ circle** of three, meeting quarterly for about ninety minutes, in the pattern
 of the Quaker clearness committee and group spiritual direction: honest, open
 questions only, no advice unless it is asked for, and the time closed in
 prayer. John brings one page of his own choosing; his personal log stays
-private. Separately, there is **a named person outside the circle with
-standing to say stop**, and **a door out** outside both. Both are still to
+private. The circle serves the feedback that item 5 now names.
+
+Separately, there is **a scriptural challenger** with standing to say stop,
+defined by item 5's restatement. This is not authority to command. It is
+standing to require a pause and a hearing from scripture: if the challenger
+thinks John has misread or misapplied a text, they open it to him and make
+the case, and if the case is made, he backs up and stops. Two safeguards are
+proposed and John is weighing them. The first is **a pause clause**: when
+challenged, John pauses the thing in question for an agreed time while they
+work through the text together, rather than continuing while he thinks it
+over. The second is **the weight of witnesses** (2 Cor 13:1; Matt 18:16):
+when two or three independently raise the same concern, it counts even
+before anyone has a verse for it, because not every miss is an
+interpretation miss. The challenger must know the scriptures, be willing to
+disagree with John, and not be intimidated by the founder of the work. A
+**door out** sits outside both. The challenger and the door out are still to
 be found. A trial of two quarters, then an honest review of whether the
-circle is doing the work of direction.
+circle and the challenger together are doing the work of direction.
 
 The people who declined one-to-one direction each offered something smaller,
 Bill Fairback friendship and Ryan Hammond a sounding board and encourager,
@@ -225,10 +258,14 @@ not touch the oversight of the fellowship pilot in item 5, and is not the
 AI-kept log, which is a record and never a director.
 
 Counsel asked on four questions: whether a circle is a faithful form of
-direction or only a bridge; who should hold the standing to say stop, and
-whether the Council could; who is missing from the possible seats; and
-whether Dave's Crucible weekend (item 7) suggests anything. Draft page: "A
-Direction Circle — Sketch for Council — DRAFT v1."
+direction or only a bridge; who could serve as the scriptural challenger,
+and whether the pause clause and the weight of witnesses are the right
+safeguards (and whether the Council could hold either); who is missing from
+the possible seats; and whether Dave's Crucible weekend (item 7) suggests
+anything. Draft page: "A Direction Circle — Sketch for Council — DRAFT v2."
+
+*(Revised at John's word, 1 October, after item 5's restatement of what is
+being asked for.)*
 
 ---
 
@@ -237,7 +274,7 @@ Direction Circle — Sketch for Council — DRAFT v1."
 John's word, 14 September 2026; item 7 added at John's word, 17 September
 2026; items 8 and 9 added at John's word, 22 September 2026; item 10
 added at John's word, 28 September 2026; item 11 added at John's word,
-1 October 2026. The changes note (told / asking / waiting), drafted near the meeting
+1 October 2026; items 5 and 11 revised at John's word, 1 October 2026. The changes note (told / asking / waiting), drafted near the meeting
 date, will fold these in. A summary of this list is held on the Council Log
 ("Toward 4 October 2026") until the meeting; when an item is added or
 changed here, keep the Log's holding paragraph in step.*
