@@ -176,6 +176,19 @@ measured protocol deferred to the season that can carry it). No decision
 is asked; John is interested in ideas and feedback, particularly on the
 follow-on articles.
 
+**Added 5 October: the follow-on email to Dr. Porter, held for the
+Council.** A third document joins: the email John has drafted to Dr. Porter
+("JSFSC Follow-Up — Porter Email Draft v4 (held for Council)"). It
+describes the three follow-on articles now in process, each in draft (the
+curriculum article, "If a Teenager Can Use It…"; "What Cannot Be
+Self-Cleared," on the Formation Companion; and "Forming a Hearing Church,"
+which also carries the credentialing question), the empirical results
+article behind them, and the EdD dissertation-in-praxis plan, and it asks
+Dr. Porter's counsel on where the series fits the field. John is
+considering sending it before November, and is holding it to hear the
+Council's input first. Counsel welcome on the email itself and on its
+timing.
+
 ## 9. The briefing's next doors — the target map (John, 22 September; counsel)
 
 The church-authority briefing (second edition in draft: the running pilot,
@@ -278,7 +291,8 @@ being asked for.)*
 John's word, 14 September 2026; item 7 added at John's word, 17 September
 2026; items 8 and 9 added at John's word, 22 September 2026; item 10
 added at John's word, 28 September 2026; item 11 added at John's word,
-1 October 2026; items 5 and 11 revised at John's word, 1 October 2026. The changes note (told / asking / waiting), drafted near the meeting
+1 October 2026; items 5 and 11 revised at John's word, 1 October 2026. Item 8 extended at John's word, 5 October 2026 (the
+Porter email, held for the Council). The changes note (told / asking / waiting), drafted near the meeting
 date, will fold these in. A summary of this list is held on the Council Log
 ("Toward 4 October 2026") until the meeting; when an item is added or
 changed here, keep the Log's holding paragraph in step.*
