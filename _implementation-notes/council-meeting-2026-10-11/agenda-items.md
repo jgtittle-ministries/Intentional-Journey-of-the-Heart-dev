@@ -178,7 +178,8 @@ follow-on articles.
 
 **Added 5 October: the follow-on email to Dr. Porter, held for the
 Council.** A third document joins: the email John has drafted to Dr. Porter
-("JSFSC Follow-Up — Porter Email Draft v4 (held for Council)"). It
+("JSFSC Follow-Up — Porter Email Draft v6 (held for Council)", which
+carries Dave Smith's edits as John accepted them). It
 describes the three follow-on articles now in process, each in draft (the
 curriculum article, "If a Teenager Can Use It…"; "What Cannot Be
 Self-Cleared," on the Formation Companion; and "Forming a Hearing Church,"
