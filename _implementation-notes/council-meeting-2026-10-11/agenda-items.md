@@ -176,24 +176,11 @@ measured protocol deferred to the season that can carry it). No decision
 is asked; John is interested in ideas and feedback, particularly on the
 follow-on articles.
 
-**Added 5 October: the follow-on email to Dr. Porter, held for the
-Council.** A third document joins: the email John has drafted to Dr. Porter
-("JSFSC Follow-Up — Porter Email Draft v6 (held for Council)", which
-carries Dave Smith's edits as John accepted them). It
-describes the three follow-on articles now in process, each in draft (the
-curriculum article, "If a Teenager Can Use It…"; "What Cannot Be
-Self-Cleared," on the Formation Companion; and "Forming a Hearing Church,"
-which also carries the credentialing question), the empirical results
-article behind them, and the EdD dissertation-in-praxis plan, and it asks
-Dr. Porter's counsel on where the series fits the field. John is
-considering sending it before November, and is holding it to hear the
-Council's input first. Counsel welcome on the email itself and on its
-timing.
-
-**The timing question (John, 5 October).** A second option joins the
-packet for counsel alongside the full email: a short note ("JSFSC Follow-Up
-— Porter Short Note Draft v1 (held for Council)"). John will walk through
-the considerations in session; the Council is asked which path, and when.
+**Added 5 October: a follow-on note to the journal's editor, for
+counsel.** Two drafts are in the packet: the full email ("JSFSC Follow-Up —
+Porter Email Draft v6 (held for Council)") and a short note ("JSFSC
+Follow-Up — Porter Short Note Draft v1 (held for Council)"). John will walk
+through them in session; the Council is asked which, and when.
 
 ## 9. The briefing's next doors — the target map (John, 22 September; counsel)
 
