@@ -190,6 +190,21 @@ considering sending it before November, and is holding it to hear the
 Council's input first. Counsel welcome on the email itself and on its
 timing.
 
+**The timing question, with a second option (John, 5 October).** John's
+trade-off: nothing must interrupt the article's publication, and he is a
+doctoral student, not yet a candidate, so credibility is in short supply
+before the article appears. He disclosed that at submission, but the full
+email's EdD paragraph makes it very present. At the same time, he would
+love to start on the path, and knowing the ideas are acceptable and
+interesting at this high level would be a useful data point. Three paths
+are on the table: (1) hold everything until publication; (2) send the full
+email (v6) now; (3) send a short note now, three sentences with no EdD
+mention, asking whether Dr. Porter would be open to hearing about the
+follow-on studies once the article is out, and save the full proposal,
+with the EdD reduced to a clause, for after publication. The short note is
+in the packet ("JSFSC Follow-Up — Porter Short Note Draft v1 (held for
+Council)"). The Council is asked which path, and why.
+
 ## 9. The briefing's next doors — the target map (John, 22 September; counsel)
 
 The church-authority briefing (second edition in draft: the running pilot,
