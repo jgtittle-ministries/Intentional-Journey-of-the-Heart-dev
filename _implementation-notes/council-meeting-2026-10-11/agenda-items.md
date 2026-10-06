@@ -217,9 +217,11 @@ mark rather than a new session. It needs accumulated watching to be worth
 anything — seven evenings in, the answers would be thin and polite — and it
 lands deeper after the confession-and-restoration evening. Sitting at a quarter
 mark, it runs again each quarter with more to see each time. It is tested first
-with the leading team at the planning lab before Sessions 7–8, where the
+with the leading team at the planning lab before Sessions 9–10, where the
 question that decides its future is whether a teen lead can run it from the page
-alone.
+alone. (Moved on 6 October, at John's word, from the lab before Sessions 7–8, so
+that it does not share an evening with The Round, for All of Us; both names
+stay.)
 
 Before the Council for counsel — and, at John's word, with an invitation. The
 Council meets as a Fellowship of the Heart, forming a container and working
