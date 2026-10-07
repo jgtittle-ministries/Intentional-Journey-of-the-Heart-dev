@@ -1,7 +1,10 @@
-# Agenda Items — Council Meeting, 11 October 2026
+# Agenda Items — Council Meeting, 18 October 2026
 
 *(Moved from 4 October at John's word, 17 September, to accommodate Dave
-Smith's Crucible Project weekend — see item 7.)*
+Smith's Crucible Project weekend — see item 7; and moved again, from 11 to
+18 October, at Dave's request on 7 October, so that he, John and any of the
+Council who can may attend the Crucible graduation in Elkton, Maryland, on
+the afternoon of the 11th.)*
 
 Running list, gathered through the month per the standing pattern (members
 submit agenda items through the month; the monthly changes note, built near
@@ -149,11 +152,13 @@ what it may offer this work, and what he would counsel about the Crucible
 path in the spiritual-authority pursuit (rides with the standing thread in
 item 5). The meeting was moved from 4 October to 11 October at John's word
 (17 September) to accommodate the weekend, so the debrief lands one week
-after it.
+after it. At Dave's request (7 October) it moved again, to 18 October, so
+that Dave can attend the Crucible graduation on the 11th, a community
+celebration of the men's heart work, to which he has invited John and Barry.
 
 Ahead of the debrief (added at John's word, 17 September): Dave's
 pre-retreat assignment is filed with the October packet (Crucible
-Pre-Retreat Assignment.doc, in the Toward 2026-10-11 folder) and was
+Pre-Retreat Assignment.doc, in the Toward 2026-10-18 folder) and was
 reviewed with adoption candidates ready for the conversation — pre-week
 journaling before an adult Getting Started; the judgments-as-mirrors
 observation week (a practice for the heart that cannot read itself); the
@@ -168,7 +173,7 @@ on Dave's lived account.
 JSFSC accepted the foundation article on 21 September — "the reviewer(s)
 have recommended publication" — with publication expected around November.
 Two documents join the packet for discussion: the accepted final text
-(filed in the Toward 2026-10-11 folder as "JSFSC Foundation Article —
+(filed in the Toward 2026-10-18 folder as "JSFSC Foundation Article —
 Accepted Final Text (Sep 2026)") and the proposed follow-on shape ("JSFSC
 Follow-Up — Porter Proposal Reframe v1": the near article reframed as a
 design-and-transmissibility account of the running pilot, with the
