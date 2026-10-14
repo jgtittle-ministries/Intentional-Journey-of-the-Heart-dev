@@ -71,9 +71,9 @@ on its own, and orienting them is now part of the teen leaders' training.
 **In John's words (1 October):** "the circle is about seeing what I cannot see or don't see clearly enough about my heart. The authority is about me not seeing scripture clear enough or interpreting it possibly wrongly."
 
 Per the front piece’s §7, each step of this pursuit is recorded in the Log.
-Two asks are out, and both are waiting.
+One ask is answered and one is waiting (updated 14 October, at John's word).
 
-**Spiritual direction — Bobby Gore.** From a call on 27 September: he
+**Spiritual direction — Bobby Gore: yes.** He has said yes to serving as John's spiritual director. From a call on 27 September: he
 understood what was being asked without needing it explained, which John notes
 is more than he has had from anyone else he has asked. He is considering it,
 with no due date set, and an answer is expected within several weeks.
@@ -83,9 +83,9 @@ ask, put plainly on 26 September. It lines up with an elder’s existing
 responsibilities for discipleship and is a far smaller thing than direction:
 the Lead Companion appointed or confirmed, each leader’s own covering
 confirmed, the agreements signed, the door out named, a hearing once a month,
-and the power to stop it. No answer at this writing. Tom Fremont, the pilot
-family’s father and an elder, is the named backup if the answer is no,
-holding the oversight and reporting his assessment to Ryan.
+and the power to stop it. No answer at this writing (14 October). Meanwhile the evenings run under Tom
+Fremont's authority as the father of the children in the group, an elder and
+the named backup, holding the oversight and reporting his assessment to Ryan.
 
 **The door out** for both the CCA pilot and the evening series is Bobby Gore,
 and stays with him whether or not he also takes the direction ask — John’s
@@ -249,10 +249,11 @@ discuss it. Draft page: "The Seeing Round — practice draft v1."
 **In John's words (1 October):** "the circle is about seeing what I cannot see or don't see clearly enough about my heart. The authority is about me not seeing scripture clear enough or interpreting it possibly wrongly."
 
 Item 5 records the pursuit of a spiritual director: three asks, two honest
-answers of no with relationship offered in place of the office, and Bobby
-Gore still considering. This item asks a different question. While that
-waits, and perhaps beyond it, can the work of direction be carried by a few
-people together, so that John is not walking without it?
+answers of no with relationship offered in place of the office, and, since
+(14 October), Bobby Gore's yes. This item was drafted while that waited; with a
+director now in place, its question becomes what a circle still adds beside
+one-to-one direction — chiefly the scriptural challenger and the weight of
+witnesses, which direction does not supply.
 
 The sketch splits direction into its parts and places each one. A **direction
 circle** of three, meeting quarterly for about ninety minutes, in the pattern
