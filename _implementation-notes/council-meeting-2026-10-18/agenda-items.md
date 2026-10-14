@@ -60,6 +60,12 @@ point), the possible CCA evening club through Andrea, and the drafted CCA
 elective proposal ("The Intentional Heart," pass/fail, seventeen weeks) —
 for the Council's counsel.
 
+*Told, 14 October:* the evening series is now numbered Evening 1–17 (the
+fitted walk); the school calendar has been stripped from it; and the
+founding family has agreed that it is time to invite others, the teens
+inviting their friends. Guests are a test of whether each evening stands
+on its own, and orienting them is now part of the teen leaders' training.
+
 ## 5. Spiritual authority — where it stands (for the Log)
 
 **In John's words (1 October):** "the circle is about seeing what I cannot see or don't see clearly enough about my heart. The authority is about me not seeing scripture clear enough or interpreting it possibly wrongly."
@@ -181,6 +187,11 @@ measured protocol deferred to the season that can carry it). No decision
 is asked; John is interested in ideas and feedback, particularly on the
 follow-on articles.
 
+**Added 14 October: the follow-on articles.** On 11 October Dave
+returned the curriculum article with substantial editing counsel; John has
+committed to revising all three follow-on articles in an iterative process
+of his own. This bears on the timing of the note to the editor below.
+
 **Added 5 October: a follow-on note to the journal's editor, for
 counsel.** Two drafts are in the packet: the full email ("JSFSC Follow-Up —
 Porter Email Draft v6 (held for Council)") and a short note ("JSFSC
@@ -284,6 +295,63 @@ anything. Draft page: "A Direction Circle — Sketch for Council — DRAFT v2."
 *(Revised at John's word, 1 October, after item 5's restatement of what is
 being asked for.)*
 
+## 12. Laws from a friend's book — candidates, and what they show about the table (John, 14 October; asks and counsel)
+
+Terry Allen's *Who Do You Think You Are?* (Lampion House, 2026) was put
+through the law-catalog test: candidates that clear the four-criterion bar,
+then used to stress-test the Volume 1 table, with the effect on Volumes 2
+and 3 read alongside. The book is almost entirely about knowing who the
+believer is; the catalog is entirely about how formation works. Fourteen
+candidates; seven finalists.
+
+**For the Council's word (asks):** admit **Image-Dignity** (how a person
+treats one made in God's image is reckoned as done toward the Maker: Gen
+9:6; Prov 14:31; Matt 25:40; Jas 3:9–10), **Faithfulness-Entrustment**
+(faithful with little, entrusted with more — responsibility, not wealth;
+already Volume 3's speculative Conservation Law 1), and **Comparison-Envy**
+(measuring oneself against others breeds envy and disorder; testing one's
+own work frees one to rejoice in the gift given: 2 Cor 10:12; Gal 6:4; Jas
+3:14–16). **Foothold-Resistance** (Eph 4:26–27; Jas 4:7) waits on item 13.
+
+**For counsel (structure):** a Direction tag for the adversary (FL.XLII has
+had to stretch "V" to cover it); a Horizon attribute (Present / Deferred /
+Eschatological), which Volume 2's falsification clause needs and Volume 3's
+own Range tags already show; renaming FL.XLVIII, whose name is larger than
+its spoken-word territory; and whether Reckoned-Identity (Rom 6:11; Col
+3:1–5) belongs in the Meta-Law Layer as a frame. Held: Reckoned-Identity,
+Endurance-Reign, Sonship-Fear. Document: "IJH_Vol1_Law_Expansion_and_
+Table_Test_v2 — Allen" (with appendices on Volumes 2 and 3).
+
+## 13. Spiritual warfare in IJH — a core discussion (John, 14 October; counsel, and an invitation)
+
+**In John's words (14 October):** "I think a core discussion point is how
+to handle spiritual warfare in IJH. I have avoided it based on my personal
+lack of experience. Maybe one of the other members can contribute that
+aspect."
+
+Where the work stands: Volume 2's Exploration 2B (the adversary's role)
+holds the enemy's active role as something the volume *tests* rather than
+assumes, and the draft assumptions page says so; FL.XLII covers Christ's
+authority confronting the powers, and leaves deliverance practice
+"deliberately… to contributors with the experience"; Volume 3 models no
+adversary at all (its friction is the world, the flesh and isolation), and
+its Daniel 10 open trail is unanswered. Item 12's Foothold-Resistance
+candidate is the first proposed law about the adversary's access to a
+person. The guards already written: never a formula; wound is not sin, so
+never a verdict on a wounded person's anger; not every trouble is the
+enemy's; the adversary is parasitic, never a second sovereign force; the
+therapy rail.
+
+Questions for the table:
+
+- What place should spiritual warfare have in IJH: a law, a practice, both,
+  or held open?
+- Who on the Council, or near it, has the experience to steward this
+  aspect — and is anyone willing to contribute it, or to name someone?
+- Which guards are non-negotiable before anything is written?
+- Does Foothold-Resistance enter now in its narrow form, or wait for this
+  discussion to settle?
+
 ---
 
 *Items 1–2 were standing before this file; item 3 added at John's word,
@@ -291,7 +359,7 @@ being asked for.)*
 John's word, 14 September 2026; item 7 added at John's word, 17 September
 2026; items 8 and 9 added at John's word, 22 September 2026; item 10
 added at John's word, 28 September 2026; item 11 added at John's word,
-1 October 2026; items 5 and 11 revised at John's word, 1 October 2026. Item 8 extended at John's word, 5 October 2026 (the
+1 October 2026; items 5 and 11 revised at John's word, 1 October 2026; items 12 and 13 added, and items 4 and 8 extended, at John's word, 14 October 2026. Item 8 extended at John's word, 5 October 2026 (the
 Porter email, held for the Council). The changes note (told / asking / waiting), drafted near the meeting
 date, will fold these in. A summary of this list is held on the Council Log
 ("Toward 4 October 2026") until the meeting; when an item is added or
