@@ -323,6 +323,19 @@ its spoken-word territory; and whether Reckoned-Identity (Rom 6:11; Col
 Endurance-Reign, Sonship-Fear. Document: "IJH_Vol1_Law_Expansion_and_
 Table_Test_v2 — Allen" (with appendices on Volumes 2 and 3).
 
+**Added 14 October: the same test on Dave's *Relational Discipleship*.**
+The book is partly IJH's own source (Volume 5 records its integration
+across Volume 2), so the test asked which of its principles IJH has made
+law, which it practises unnamed, and where the two have diverged. For the
+Council's word: admit **Log-First** (Matt 7:1–5; Rom 2:1), **Comfort-
+Transmission** (2 Cor 1:3–7; Gen 50:20) and **Willing-Heart** (Philem 14;
+2 Cor 9:7; Isa 29:13). Held: Numbered-Days, Clear-Before-Work, Honest-Doubt.
+The book also supplies the mirror of Faithfulness-Entrustment (Luke 16:10b)
+and a second witness for Sonship-Fear (John 5:44). Dave's counsel is
+wanted on where IJH and the book have diverged (the exit ritual,
+accountability, the warfare frame). Document: "IJH_Vol1_Law_Expansion_
+and_Table_Test_v3 — Smith".
+
 ## 13. Spiritual warfare in IJH — a core discussion (John, 14 October; counsel, and an invitation)
 
 **In John's words (14 October):** "I think a core discussion point is how
@@ -342,6 +355,13 @@ person. The guards already written: never a formula; wound is not sin, so
 never a verdict on a wounded person's anger; not every trouble is the
 enemy's; the adversary is parasitic, never a second sovereign force; the
 therapy rail.
+
+Dave's *Relational Discipleship* already holds a three-step order: ordinary
+inner work first (wounds, lies, agreements); then the brothers' agreement in
+prayer, commanding persistent voices to leave in Jesus' name; and last,
+experienced deliverance ministry within a church body (pp. 58–60). The book
+has the practice without citing verses; the Foothold-Resistance candidate
+has the verses without the practice.
 
 Questions for the table:
 
