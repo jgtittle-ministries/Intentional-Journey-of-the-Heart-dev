@@ -543,6 +543,10 @@ window.VOLUME_CHAPTERS = {
         "title": "Appendix: TFT Challenged"
       },
       {
+        "path": "docs/volume-3-quantitative-framework/appendix-tft-tested-against-history.md",
+        "title": "Appendix: TFT Tested Against the History of Philosophy"
+      },
+      {
         "path": "docs/volume-3-quantitative-framework/appendix-tft-explained.md",
         "title": "Appendix: TFT Explained"
       },
@@ -1961,6 +1965,15 @@ window.PATH_TO_INFO = {
     "folder": "volume-3-quantitative-framework",
     "title": "Appendix: TFT Challenged",
     "prev": "docs/volume-3-quantitative-framework/epilogue-the-invitation-forward.md",
+    "next": "docs/volume-3-quantitative-framework/appendix-tft-tested-against-history.md"
+  },
+  "docs/volume-3-quantitative-framework/appendix-tft-tested-against-history.md": {
+    "volume": 3,
+    "volumeName": "Volume 3: Spiritual Dynamics",
+    "volumeFile": "Volume 3.html",
+    "folder": "volume-3-quantitative-framework",
+    "title": "Appendix: TFT Tested Against the History of Philosophy",
+    "prev": "docs/volume-3-quantitative-framework/appendix-tft-challenged.md",
     "next": "docs/volume-3-quantitative-framework/appendix-tft-explained.md"
   },
   "docs/volume-3-quantitative-framework/appendix-tft-explained.md": {
@@ -1969,7 +1982,7 @@ window.PATH_TO_INFO = {
     "volumeFile": "Volume 3.html",
     "folder": "volume-3-quantitative-framework",
     "title": "Appendix: TFT Explained",
-    "prev": "docs/volume-3-quantitative-framework/appendix-tft-challenged.md",
+    "prev": "docs/volume-3-quantitative-framework/appendix-tft-tested-against-history.md",
     "next": "docs/volume-3-quantitative-framework/appendix-tft-interpreted-analogies.md"
   },
   "docs/volume-3-quantitative-framework/appendix-tft-interpreted-analogies.md": {

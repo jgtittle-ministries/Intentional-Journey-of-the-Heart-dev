@@ -26,4 +26,5 @@ Contents of Volume 3: Spiritual Dynamics. Each entry below opens that section of
 - [Appendix: TFT Interpreted Analogies](appendix-tft-interpreted-analogies.md)
 - [Appendix: TFT Explained](appendix-tft-explained.md)
 - [Appendix: TFT Challenged](appendix-tft-challenged.md)
+- [Appendix: TFT Tested Against the History of Philosophy](appendix-tft-tested-against-history.md)
 - [Appendix: Master Law Index](appendix-master-law-index.md)

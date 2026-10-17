@@ -6,7 +6,7 @@ source: "IJH_Vol3_v5_8_0_1.docx"
 
 # Appendix: TFT Challenged
 
-*Start here among the TFT appendices. This is the honest accounting — an adversarial critique of Transcendental Field Theory that marks where it is doing real mathematics and where it overreaches (its "Analogy Boundary Principle"). The TFT material is a structured analogy and an exploratory, AI-assisted dialogue, not vetted physics; read the other appendices through the boundaries this critique draws.*
+*Start here among the TFT appendices. This is the honest accounting — an adversarial critique of Transcendental Field Theory that marks where it is doing real mathematics and where it overreaches (its "Analogy Boundary Principle"). The TFT material is a structured analogy and an exploratory, AI-assisted dialogue, not vetted physics; read the other appendices through the boundaries this critique draws. Its companion, [TFT Tested Against the History of Philosophy](appendix-tft-tested-against-history.md), tests TFT against what philosophers from Plato to Kant said about truth, goodness, and beauty.*
 
 [TFT Challenged (pdf) ↗](source-pdfs/tft-challenged.pdf){: .md-button .md-button--primary .pdf-popup data-pdf-label="TFT — Challenged" }
 
