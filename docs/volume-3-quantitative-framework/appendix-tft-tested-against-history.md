@@ -65,6 +65,7 @@ Each objection falls into one of three groups. *Absorbed* means Volume 3 has alr
 | A coupling term that enforces coherence assumes what it should prove | The source assessment | **Absorbed** | "Collapse into tautology," one of TFT Challenged's three failure modes. |
 | A theory that survives every result says nothing | The source assessment | **Absorbed** | TFT Challenged's fourth concern; the fix is to name in advance what would count against it. |
 | Objective values would be "queer" | Mackie | **Answered** | Below: the strangeness points to God. |
+| Every argument for a good God works as well for an evil one | Stephen Law (2010) | **Answered** | Below: good and evil are not mirror images. |
 | You cannot reach *ought* from *is* | Hume; Moore | **Answered** | Below: the *is* was never value-free. |
 | Beauty is in the beholder | Kant; modern aesthetics | **Answered** | Below: beauty is real, and the beholder must be made able to see it. |
 | The transcendentals are one, so three fields is the wrong picture | Aquinas | **Answered, with a condition** | The section after the answers. |
@@ -81,7 +82,7 @@ But the Christian does not say goodness floats free in such a world. Goodness is
 
 On that account, the strangeness Mackie found is not a reason to deny objective value. It is a clue to where value comes from. Mackie himself saw the force of this. In *The Miracle of Theism* (1982, pp. 115–16) he granted that if there were objective, intrinsically prescriptive values, "they make the existence of a god more probable than it would have been without them". He rejected the values in order to keep the conclusion away. This volume accepts the values, and with them the conclusion.
 
-Mackie's second worry was the "special faculty" needed to know such values. Scripture names it: the law written on the heart and the conscience bearing witness (Rom. 2:14–15), and, beyond conscience, the Spirit who guides into truth (John 16:13). That this faculty is real, and also damaged, is exactly what Volumes 1 and 2 claim and test.
+Mackie's second worry was the "special faculty" needed to know such values. Scripture names it: the law written on the heart and the conscience bearing witness (Rom. 2:14–15), and, beyond conscience, the Spirit who guides into truth (John 16:13). Philosophers call the account that follows from this *Reformed epistemology*. Calvin held that every human mind carries a sense of the divine, the *sensus divinitatis* (*Institutes* I.3.1). Alvin Plantinga argues from it that belief in God can be *properly basic*, held without argument as memory and perception are, when it comes from faculties working as God designed them (*Warranted Christian Belief*, 2000). Mackie's "special faculty" is, on this view, not an embarrassment to be explained away. It is part of how we were made. That this faculty is real, and also damaged, is exactly what Volumes 1 and 2 claim and test.
 
 ### To Hume and Moore: the *is* was never value-free
 
@@ -98,6 +99,16 @@ Kant was right that beauty involves a response. Aquinas said as much: beautiful 
 The Reformed tradition puts it in its own words. Jonathan Edwards taught that "true virtue most essentially consists in benevolence to being in general", and found the highest beauty in "being's consent to being": the harmony of a creature's heart with God (*The Nature of True Virtue*, 1765, chs. I and III). Beauty, on this view, is the visible glory of goodness. "Worship the Lord in the beauty of holiness" (Ps. 96:9).
 
 Kant's real point survives, though, and the volume should keep it. Not every beholder sees. The noetic effects of sin dim the eye (Rom. 1:21; 1 Cor. 2:14), as TFT Challenged already insisted. Beauty is objective, and the capacity to perceive it has to be restored. That restoration is part of what formation is.
+
+### To Law: good and evil are not mirror images
+
+The sharpest recent form of the modern objection comes from Stephen Law. Every argument for a good God, he claims, works about as well for an evil one: a first cause, a fine-tuner, a lawgiver could be either. Since nobody believes in an evil God, belief in a good God should look just as weak ("The Evil-God Challenge," *Religious Studies* 46, 2010).
+
+The challenge fails because good and evil are not mirror images. Jack Symes, who set out to defend Law, tested about fifteen arguments and found two that fit both hypotheses and thirteen that favour a good God (*Defeating the Evil-God Challenge*, 2024). The decisive asymmetry is the classical one already met above. Being and goodness are the same reality, so a being complete in every way is complete in goodness too. Evil is not a second substance. It is a privation, a lack or corruption in something good, and it can exist only as a parasite on what God made.
+
+Experience points the same way. Merete Jakobsen studied the accounts of evil in the Alister Hardy archive of religious experience: about 170 among more than 4,000 letters. Writers named its source as their own heart, as Satan or the Devil, or as a power opposed to God. The protection they reached for hardly varied: the sign of the cross or the Lord's Prayer, and in most accounts the attack stopped (*Negative Spiritual Experiences: Encounters with Evil*, 1999). The evidence fits a real enemy who is lesser and answerable to the name of Christ. It does not fit two equal powers.
+
+This is also the shape Volume 3 needs when it finally models the adversary. See *What stays open*, below.
 
 ## Aquinas's objection, and the reply
 
@@ -180,9 +191,14 @@ Every quotation above was checked against the text listed here. Public-domain tr
 - Kenneth J. Arrow, *Social Choice and Individual Values* (Wiley, 1951).
 - P. A. M. Dirac, "The Evolution of the Physicist's Picture of Nature," *Scientific American* 208, no. 5 (May 1963): 47.
 - Werner Heisenberg, "The Meaning of Beauty in the Exact Sciences," lecture to the Bavarian Academy of Fine Arts, 9 July 1970.
+- Stephen Law, "The Evil-God Challenge," *Religious Studies* 46, no. 3 (2010): 353–73.
+- Jack Symes, *Defeating the Evil-God Challenge: In Defence of God's Goodness* (Bloomsbury, 2024).
+- Merete Demant Jakobsen, *Negative Spiritual Experiences: Encounters with Evil* (Religious Experience Research Centre, 1999; reissued in the RERC Third Series Occasional Papers, Lampeter).
 
 **Theological**
 
+- John Calvin, *Institutes of the Christian Religion* I.3.1.
+- Alvin Plantinga, *Warranted Christian Belief* (Oxford, 2000).
 - Jonathan Edwards, *The Nature of True Virtue* (1765), chs. I and III.
 - Robert Merrihew Adams, *Finite and Infinite Goods: A Framework for Ethics* (Oxford, 1999), ch. 1.
 
