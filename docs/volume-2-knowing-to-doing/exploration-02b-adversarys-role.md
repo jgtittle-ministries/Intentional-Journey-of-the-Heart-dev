@@ -62,7 +62,7 @@ The first kind is what the psalm calls the terror of the night, or simply a sens
 
 The second kind is harder to describe, and I remember one instance clearly. When I first walked the perimeter of our land, I was praying the Lord's protection and covering over it. When I reached the southeast corner, I had a sense of an approaching evil. It was not immediate, but it was headed toward my area. I put a stake in the ground there, set a cross on it, and prayed for the Lord's protection over that corner and the land behind it.
 
-I kept that command in mind, and the sense slowly faded. I have not sensed that same oppressive evil approaching since. Many times since then I have made a cleansing sweep of my house and land in prayer, though I have not walked the perimeter in the same way again.
+Afterward I kept in mind that I had given the command and prayed the prayer. I did not need to repeat it; I remembered that it was in place. The sense slowly faded. I have not sensed that same oppressive evil approaching since. Many times since then I have made a cleansing sweep of my house and land in prayer, though I have not walked the perimeter in the same way again.
 
 The cross on the stake was not a charm, and I did not think of it as one. It was a declaration of whose ground this is: "The earth is the LORD's and the fullness thereof" (Ps. 24:1). The protection was the prayer, made in the name of Christ and from inside His victory, as above. The cross marked the place where I had made it.
 
