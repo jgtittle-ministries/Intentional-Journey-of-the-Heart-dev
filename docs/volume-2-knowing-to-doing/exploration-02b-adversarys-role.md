@@ -49,4 +49,53 @@ Certainty: Reasonably Inferred. The scriptural case is clear, and I hold it with
 
 **VOL 1 CONNECTION: **The adversary’s strategy — targeting the hearing channel — maps directly onto the Vol 1 Word → Hearing → Faith operational law (Vol 1, Exp. 1). Mark 4:15 makes this explicit: when they hear, Satan immediately comes and takes away the word that is sown in them. The adversary is not passive in the Sower parable. He is active at the point of reception. The adversary’s lies also operate on V1.FL.III (Heart-Throne): the lie installed at the moment of vulnerability is rarely a free-standing falsehood. It is a promise — this will give you what you need, this will keep you safe, this will make you valuable. That is the structure of idolatry, and naming the lie’s implicit proposed throne-occupant is part of how the lie is undone.
 
+## A Second Front: What Comes Against Me from Outside
+Everything above concerns lies that work on the heart from the inside. Those confrontations with evil are what this volume deals with throughout. But I have known a second kind as well, and I would be leaving something out if I did not name it. These were things that did not feel like they came from my own heart. They felt like they came from outside me, and came against me.
+
+I hold one rule about this subject: I write only what I have experienced. So what follows is narrow on purpose.
+
+***Ps. 91:5 (ESV)***
+
+*"You will not fear the terror of the night, nor the arrow that flies by day."*
+
+The first kind is what the psalm calls the terror of the night, or simply a sense of an oppressive evil presence. It did not feel like something in me. It felt like something outside me, coming against me.
+
+The second kind is harder to describe, and I remember one instance clearly. When I first walked the perimeter of our land, I was praying the Lord's protection and covering over it. When I reached the southeast corner, I had a sense of an approaching evil. It was not immediate, but it was headed toward my area. I put a stake in the ground there, set a cross on it, and prayed for the Lord's protection over that corner and the land behind it.
+
+[JOHN: What happened afterward? Did the sense lift, then or later? Has it returned at that corner or anywhere else? One or two sentences in your own words.]
+
+The cross on the stake was not a charm, and I did not think of it as one. It was a declaration of whose ground this is: "The earth is the LORD's and the fullness thereof" (Ps. 24:1). The protection was the prayer, made in the name of Christ and from inside His victory, as above. The cross marked the place where I had made it.
+
+### I am not the only one
+
+Experiences like these can seem private and a little odd. They are neither. The Alister Hardy archive in Britain holds thousands of written accounts of religious experience gathered from the 1960s on. When Merete Jakobsen read over 4,000 of them looking for encounters with evil, she found about 170 (*Negative Spiritual Experiences: Encounters with Evil*, 1999). Her largest category was evil present in the room where one is sleeping. Her next was evil present in a place. Those are my two.
+
+What her writers did about it hardly varied: the sign of the cross or the Lord's Prayer. In most of the accounts, the attack stopped. That held even for writers who were not churchgoers. The ordinary believer's protection is not a technique reserved for specialists. It is the name of Christ, called on.
+
+### How the second front fits
+
+Christian Schwarz's account of God's energy (*God's Energy*, 2021; see Vol 3, Exp. 5) gives me the best picture I have of how this works. All energy is God's. The adversary has none of his own to set against it. What he does is divert: he takes some part of what God gives and bends it away from God's will. When I yield to that diversion, I am in that moment obeying him, and evil comes through me.
+
+***Rom. 6:16 (ESV)***
+
+*"Do you not know that if you present yourselves to anyone as obedient slaves, you are slaves of the one whom you obey…?"*
+
+That is the Bondage Law of Vol 1 (FL.XVI), seen from the adversary's side. It also says why the second front is not a contest between equals. Evil, in the classical account, has no being of its own; it is a corruption of something good (see the Vol 3 appendix, [TFT Tested Against the History of Philosophy](../volume-3-quantitative-framework/appendix-tft-tested-against-history.md)). The adversary cannot overpower what is God's. He can only gain access, and access can be refused.
+
+***Jas. 4:7 (ESV)***
+
+*"Submit yourselves therefore to God. Resist the devil, and he will flee from you."*
+
+So the two fronts are one contest. On the inside, the adversary gains a foothold through a lie believed (Eph. 4:27). On the outside, he presses against what is not yet claimed. In both, the answer is the same: submit to God, resist in Christ's name, and refuse him the ground.
+
+### What I have not experienced
+
+I have never dealt with someone possessed, and if I have met such a person, I did not recognize it. That work belongs to those with the experience, under the authority of a church; Vol 1 leaves it to them by design ([FL.XLII](../volume-1-laws-of-the-spirit/foundational-law-xlii-the-kingdom-confrontation-authority-law.md)). I believe a Christian can be oppressed but not possessed, and that many of the people I have walked with have been oppressed.
+
+[JOHN: Should IJH hold "oppressed, not possessed" as your settled conviction, or as a position held open for the Council and for testing? Edit the sentence above to match.]
+
+The cautions above apply here twice over. Not every bad night is an attack. Fear is not the right response to any of it, "for God gave us a spirit not of fear but of power and love and self-control" (2 Tim. 1:7). And no prayer or sign is a formula.
+
+**Certainty: Mixed.** That the adversary is real, active, and resisted in Christ's name is Clearly Taught. That some oppression comes from outside the person, and yields to ordinary prayer in the name of Christ, rests on my experience and on the Hardy accounts; it is Reasonably Inferred, not tested. Whether, and how, the second front belongs in Vol 1's laws (the Foothold-Resistance candidate) is before the Council in October 2026.
+
 *Vol 2 — Exploration 2C — Diagnostic Law*
