@@ -90,9 +90,7 @@ So the two fronts are one contest. On the inside, the adversary gains a foothold
 
 ### What I have not experienced
 
-I have never dealt with someone possessed, and if I have met such a person, I did not recognize it. That work belongs to those with the experience, under the authority of a church; Vol 1 leaves it to them by design ([FL.XLII](../volume-1-laws-of-the-spirit/foundational-law-xlii-the-kingdom-confrontation-authority-law.md)). I believe a Christian can be oppressed but not possessed, and that many of the people I have walked with have been oppressed.
-
-[JOHN: Should IJH hold "oppressed, not possessed" as your settled conviction, or as a position held open for the Council and for testing? Edit the sentence above to match.]
+I have never dealt with someone possessed, and if I have met such a person, I did not recognize it. That work belongs to those with the experience, under the authority of a church; Vol 1 leaves it to them by design ([FL.XLII](../volume-1-laws-of-the-spirit/foundational-law-xlii-the-kingdom-confrontation-authority-law.md)). It is my settled conviction that a Christian can be oppressed but not possessed. Many of the people I have walked with have been oppressed.
 
 The cautions above apply here twice over. Not every bad night is an attack. Fear is not the right response to any of it, "for God gave us a spirit not of fear but of power and love and self-control" (2 Tim. 1:7). And no prayer or sign is a formula.
 
