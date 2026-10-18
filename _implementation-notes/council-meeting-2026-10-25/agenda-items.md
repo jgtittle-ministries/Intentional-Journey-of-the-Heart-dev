@@ -72,9 +72,9 @@ on its own, and orienting them is now part of the teen leaders' training.
 **In John's words (1 October):** "the circle is about seeing what I cannot see or don't see clearly enough about my heart. The authority is about me not seeing scripture clear enough or interpreting it possibly wrongly."
 
 Per the front piece’s §7, each step of this pursuit is recorded in the Log.
-One ask is answered and one is waiting (updated 14 October, at John's word).
+Both asks are still waiting (corrected 18 October, at John's word).
 
-**Spiritual direction — Bobby Gore: yes.** He has said yes to serving as John's spiritual director. From a call on 27 September: he
+**Spiritual direction — Bobby Gore: still considering.** (Corrected 18 October, at John's word: the 14 October note that he had said yes was wrong; he has not yet answered. John will ask him at the CCA board meeting on 22 October.) From a call on 27 September: he
 understood what was being asked without needing it explained, which John notes
 is more than he has had from anyone else he has asked. He is considering it,
 with no due date set, and an answer is expected within several weeks.
@@ -251,10 +251,9 @@ discuss it. Draft page: "The Seeing Round — practice draft v1."
 **In John's words (1 October):** "the circle is about seeing what I cannot see or don't see clearly enough about my heart. The authority is about me not seeing scripture clear enough or interpreting it possibly wrongly."
 
 Item 5 records the pursuit of a spiritual director: three asks, two honest
-answers of no with relationship offered in place of the office, and, since
-(14 October), Bobby Gore's yes. This item was drafted while that waited; with a
-director now in place, its question becomes what a circle still adds beside
-one-to-one direction — chiefly the scriptural challenger and the weight of
+answers of no with relationship offered in place of the office, and Bobby Gore
+still considering (corrected 18 October). Whether or not a director is found,
+its question is what a circle adds beside one-to-one direction — chiefly the scriptural challenger and the weight of
 witnesses, which direction does not supply.
 
 The sketch splits direction into its parts and places each one. A **direction
