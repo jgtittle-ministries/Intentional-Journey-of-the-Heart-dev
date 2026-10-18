@@ -96,4 +96,36 @@ The cautions above apply here twice over. Not every bad night is an attack. Fear
 
 **Certainty: Mixed.** That the adversary is real, active, and resisted in Christ's name is Clearly Taught. That some oppression comes from outside the person, and yields to ordinary prayer in the name of Christ, rests on my experience and on the Hardy accounts; it is Reasonably Inferred, not tested. Whether, and how, the second front belongs in Vol 1's laws (the Foothold-Resistance candidate) is before the Council in October 2026.
 
+## A Third Front: Lies Among a People
+As I thought this through, it came back to me that I have been more engaged in this warfare than I had credited. The third front is not my heart, and not my land. It is the contest over what a whole people believes.
+
+In a national election season some years ago, I was astonished. Lies were being spoken from the campaign trail, and they were being accepted, believed, and repeated by the people who followed the speaker. I could not understand it, and I was so offended that eventually I went to the Lord and asked Him: what do You want me to do about it?
+
+What He did was show me a picture. Behind the speaking there was a lying spirit, causing the lie to be spoken. Alongside it there was a companion spirit of deception, which made the lies acceptable to listeners who were ready to receive them. And underneath both was fear. Every one of those lies spoke to a fear, or to a conspiracy, in whatever language was needed. It was a lie, and it invoked and built on fear.
+
+***1 Kings 22:22 (ESV)***
+
+*"I will go out, and will be a lying spirit in the mouth of all his prophets."*
+
+Then He gave me a prayer, in four parts:
+
+1. That the lips of the lying spirit would be shut. ("Let the lying lips be mute," Ps. 31:18.)
+2. That the deceptions of the deceiving spirit would be made clear and plain for all to see. ("When anything is exposed by the light, it becomes visible," Eph. 5:13.)
+3. *Father, let Your perfect love come in like a flood and wash away fear.* ("Perfect love casts out fear," 1 John 4:18.)
+4. *Holy Spirit, please convict the world concerning sin, righteousness, and judgment.* (John 16:8.)
+
+I have prayed it ever since. The trigger is simple: whenever I start getting irritated, and start criticizing and complaining, I am nudged to come back and pray it. The irritation itself has become the call to pray.
+
+I have no doubt this is spiritual warfare in the heavenlies, the "cosmic powers over this present darkness" of Eph. 6:12. Over the years since, the deceptions have been unpacked and made plain, over and over again. The spirits are still busy and active. But more and more people, I think, are beginning to realize that these are lies, and that they have been deceived.
+
+### How the third front fits
+
+The two spirits are the hearing chain run backwards. The Vol 1 law is Word → Hearing → Faith ([Vol 1, Exp. 1](../volume-1-laws-of-the-spirit/exploration-01-how-to-get-faith.md)). Here it is Lie → Hearing → Fear: one spirit works at the speaking, and the other at the receiving, where the adversary is always active (Mark 4:15). And the fear underneath is the fear knot described above, at the scale of a people: the lie that the feared outcome is inevitable and unsurvivable.
+
+The third petition fits Schwarz's picture of God's energy. Fear is a diversion. The prayer does not try to argue fear down. It asks the Father to flood the place fear occupies with His own love, which is the one thing fear cannot stand in.
+
+The prayer is aimed at spirits, not people. "We do not wrestle against flesh and blood" (Eph. 6:12). The people repeating the lies are not the enemy; they are the ones the lies are being used on.
+
+**Certainty: Mixed.** That lying and deceiving spirits are real, that perfect love casts out fear, and that the Spirit convicts the world are Clearly Taught. The picture and the prayer are what I received in prayer, and I hold them as given to me. That the deceptions have been made plain over these years is my observation, Reasonably Inferred and not tested: lies are exposed for many reasons, and a man praying expectantly also notices more.
+
 *Vol 2 — Exploration 2C — Diagnostic Law*
