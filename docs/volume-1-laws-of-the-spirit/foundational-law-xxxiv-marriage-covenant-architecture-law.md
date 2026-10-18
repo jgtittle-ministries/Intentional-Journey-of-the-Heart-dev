@@ -68,6 +68,26 @@ Marriage is the main and most fully taught example of a close two-person bond, b
 
 The catalog names marriage as the Foundational Law for close two-person bonds; the other bonds work by the same basic pattern in their own settings, and they're gathered here as related cases.
 
+## Tending the Covenant Space
+
+A covenant makes something that was not there before. When two people say yes to each other, a third thing comes into being: the "us." Jesus names it plainly: "So they are no longer two but one flesh" (Matt. 19:6). The marriage is not only two people side by side. It is a shared space with its own life, its own atmosphere, and its own vulnerability to what comes against it.
+
+That space has to be tended, and Scripture gives the husband a particular charge for it. He is to love his wife "as Christ loved the church," to care for her as a man "nourishes and cherishes" his own flesh (Eph. 5:25–29), and to live with her "in an understanding way" (1 Pet. 3:7). This is the authority of care, not of control, and it has a clear boundary.
+
+**Authority over the space, not over the person.** The one who tends the covenant space may cover it in prayer, keep it clean, resist what comes against it in the name of Christ, and guard its peace (see the second front in [Vol 2, Exp. 2B](../volume-2-knowing-to-doing/exploration-02b-adversarys-role.md#a-second-front-what-comes-against-me-from-outside), where the same covering is prayed over house and land). He has no authority over the other person's heart. Each spouse's inner work belongs to that spouse. It is theirs to take up, if and when they are ready, and it cannot be forced, managed, or done for them.
+
+**Look to yourself first.** Before stepping in to help, the one who tends the space examines his own heart: "first take the log out of your own eye" (Matt. 7:5); "Search me, O God, and know my heart" (Ps. 139:23). Anything in his own heart that needs confession, cleansing, or warfare is dealt with first. A spouse cannot clear the shared ground while bringing his own debris onto it.
+
+**Ready to help, when and where it is wanted.** The other's fears and wounds are not a project. The posture is readiness: to help the other fight, when and if they want to, in whatever pieces they are ready for, and to wait for the Lord to show where to step in. That is hear-and-obey at the scale of two.
+
+**Love is the atmosphere.** Much of what troubles a shared space is fear, and "perfect love casts out fear" (1 John 4:18). The one who tends the space prays for that love to flood in, and is himself one of the ways it comes.
+
+The same pattern holds, in its own measure, in the other covenant pairs above. A mentor tends the space of the mentoring bond, a friend the friendship, a director the direction. Each may cover the shared space in prayer, and each answers for his own heart first. None has authority over the other's inner life.
+
+***Mirror:*** *The covenant space goes wrong in two directions. One is control: treating the other's heart as one's own to fix, using prayer or headship as leverage, diagnosing the other, pressing work on them they have not chosen. The other is abdication: leaving the shared space untended, so that whatever comes against it meets no resistance. Both fail the charge of Eph. 5:25–29. The way back from either is the same: return to one's own heart first, then to tending the "us," and leave the other's heart to the other and to God.*
+
+***Certainty: Reasonably Inferred.*** *That marriage makes the two one, and that the husband is charged to love, nourish, and cherish it, is Clearly Taught. That this charge is authority over the shared space rather than over the other's heart, exercised self-first, in readiness, and in prayer, is drawn from those texts and from the founder's own long practice. It is offered for the Council's counsel (October 2026), not yet tested.*
+
 ## Why This Is a Foundational Law
 
 This law meets all four tests for inclusion, and meets them powerfully. First, the scriptural backing is among the strongest in the whole catalog. At least seven biblical writers teach it deeply (the writer of Genesis, Malachi, Matthew and Mark, Paul across several letters, the writer of Hebrews, Peter, the wisdom writers, the Song of Songs poet, the writer of Hosea, and John in Revelation), and the teaching runs through every part of Scripture — creation, the prophets, the Gospels, the apostles, the wisdom books, the stories, and the final vision.
