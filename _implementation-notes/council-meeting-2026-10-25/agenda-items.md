@@ -74,7 +74,7 @@ on its own, and orienting them is now part of the teen leaders' training.
 Per the front piece’s §7, each step of this pursuit is recorded in the Log.
 Both asks are still waiting (corrected 18 October, at John's word).
 
-**Spiritual direction — Bobby Gore: still considering.** (Corrected 18 October, at John's word: the 14 October note that he had said yes was wrong; he has not yet answered. John will ask him at the CCA board meeting on 22 October.) From a call on 27 September: he
+**Spiritual direction — Bobby Gore: still considering.** (Corrected 18 October, at John's word: the 14 October note that he had said yes was wrong; he has not yet answered. John will ask him at the CCA board meeting on 29 October.) From a call on 27 September: he
 understood what was being asked without needing it explained, which John notes
 is more than he has had from anyone else he has asked. He is considering it,
 with no due date set, and an answer is expected within several weeks.
