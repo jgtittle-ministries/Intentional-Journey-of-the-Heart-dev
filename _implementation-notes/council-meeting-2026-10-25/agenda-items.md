@@ -20,6 +20,11 @@ sentence as since refined by the author — see the revision notes in the
 September inserts draft), the traceability study for the Research Register,
 and A34 The Throne Question.
 
+**A standing rule for held asks (John, 20 October).** The three asks are still
+open. John proposes that from now on, if an ask receives no comments within
+30 days, it is considered accepted. Adopting this would change how the
+Council decides, so it is itself an Ask, recorded in the Log like any other.
+
 ## 2. Theory-of-action placements (from the packet)
 
 The packet document "The Theory of Action — Where Else It Lives": Part I
@@ -28,6 +33,17 @@ with ask 3 for decision; Part II (the FotH precohort statement and handbook
 rationale page) is before the Council for counsel only.
 
 ## 3. How much of the Rule of Life do we practice in our meetings? (John, 8 September)
+
+**Reframed by John, 20 October.** John is not using the Benedictine Rule he
+drafted, and doubts the others are. He proposes the Council consider the
+Fellowship of the Heart protocols instead, and decide what we are willing to
+do. He would start with three questions, in order:
+
+1. What formative practices, daily or otherwise, is each of us using now?
+2. Is there something central to all of them?
+3. What might be our common practice for the Council?
+
+The September framing follows, for reference.
 
 Part 2 closes with a fifteen-point Rule of Life written to be "read aloud at
 the beginning of every Council gathering," and Part 2 itself says the first
