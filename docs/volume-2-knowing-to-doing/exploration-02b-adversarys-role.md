@@ -133,7 +133,7 @@ The prayer is aimed at spirits, not people. "We do not wrestle against flesh and
 
 ## Praying in the Spirit, on Every Front
 
-When Paul finishes describing the armour, he does not stop. The next words are "praying at all times in the Spirit, with all prayer and supplication" (Eph. 6:18). Prayer in the Spirit is how the armour is worn. I brought this to the Council on 25 October 2026, and we agreed: praying in the Spirit can be part of spiritual warfare. Dave Smith writes about it in his book, *Relational Discipleship*.
+When Paul finishes describing the armour, he does not stop. The next words are "praying at all times in the Spirit, with all prayer and supplication" (Eph. 6:18). Prayer in the Spirit is how the armour is worn. I brought this to the Council on 25 October 2026, and we agreed: praying in the Spirit can be part of spiritual warfare. Dave Smith pointed us to Paul Billheimer's *Destined for the Throne* (1975), on the scriptural basis of our authority in Christ.
 
 ***Rom. 8:26 (ESV)***
 
