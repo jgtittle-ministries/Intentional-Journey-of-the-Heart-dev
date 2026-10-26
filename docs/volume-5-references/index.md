@@ -28,6 +28,7 @@ Contents of Volume 5: References. Each entry below opens that section of the vol
 - [A29 Any Doubts Process](a29-any-doubts-process.md)
 - [A32 Hot Seat Protocol (with Mini Hot Seat as named variant)](a32-hot-seat-protocol-with-mini-hot.md)
 - [A33 What's at Risk Protocol](a33-whats-at-risk-protocol.md)
+- [A34 The Throne Question (Naming and Dethroning the Functional Savior)](a34-the-throne-question.md)
 - [Mission-Arc Family (A27 + A30 + A31)](mission-arc-family-a27-a30-a31.md)
 - [B11 Ideal Support Figure](b11-ideal-support-figure.md)
 - [B12 Process Work Recipe](b12-process-work-recipe.md)

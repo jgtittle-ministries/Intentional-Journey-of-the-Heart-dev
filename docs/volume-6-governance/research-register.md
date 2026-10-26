@@ -28,6 +28,12 @@ The two lenses **meet** at two of Part 1's named priorities. V2.Exp6 (the Tool M
 
 ### Recently resolved
 
+!!! note "Hear-and-obey traceability — a finished trail, 2026-10-25"
+
+    How directly does each Foundational Law and Exploration trace to the core of this work, hearing and obeying God? The study answered it as a line-drawing judgment, not a measurement: of the forty-eight Foundational Laws, **13 trace directly on the strict line and 24 on the inclusive line**; the 24 less-than-direct laws run on a different spiritual logic either way. A coloured grid over the Periodic Table layout shows where each law falls.
+
+    The Council promoted it to this register as a finished trail on 25 October 2026 (ask 5 of 6 September). The full study and grid: [Traceability to the Hear-and-Obey Core — A Finished Trail](hear-and-obey-traceability.md).
+
 !!! note "Mustard Seed Resolution — RESOLVED 2026-06-15"
 
     The V1.Exp8 / V3.Exp3.Open1 open question (threshold vs. proportionality) was **resolved toward the synthesis** on 2026-06-15: the 14-day public comment period closed with no blocking objection, V3.Exp3.Open1 is now resolved, and V1.Exp8's confidence is confirmed at 80.

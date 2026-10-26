@@ -356,6 +356,10 @@ window.VOLUME_CHAPTERS = {
         "title": "Introduction: The Bridge from Knowing to Doing"
       },
       {
+        "path": "docs/volume-2-knowing-to-doing/before-the-tools-what-this-volume-assumes.md",
+        "title": "Before the Tools: What This Volume Assumes"
+      },
+      {
         "path": "docs/volume-2-knowing-to-doing/taxonomy-key-how-this-volume-classifies-its.md",
         "title": "Taxonomy Key: How This Volume Classifies Its Explorations"
       },
@@ -689,6 +693,10 @@ window.VOLUME_CHAPTERS = {
         "title": "A33 What's at Risk Protocol"
       },
       {
+        "path": "docs/volume-5-references/a34-the-throne-question.md",
+        "title": "A34 The Throne Question (Naming and Dethroning the Functional Savior)"
+      },
+      {
         "path": "docs/volume-5-references/mission-arc-family-a27-a30-a31.md",
         "title": "Mission-Arc Family (A27 + A30 + A31)"
       },
@@ -794,6 +802,10 @@ window.VOLUME_CHAPTERS = {
       {
         "path": "docs/volume-6-governance/mustard-seed-worked-resolution.md",
         "title": "The Mustard Seed Question — A Worked Resolution"
+      },
+      {
+        "path": "docs/volume-6-governance/hear-and-obey-traceability.md",
+        "title": "Traceability to the Hear-and-Obey Core — A Finished Trail"
       },
       {
         "path": "docs/volume-6-governance/appendix-catalog-history.md",
@@ -1560,6 +1572,15 @@ window.PATH_TO_INFO = {
     "folder": "volume-2-knowing-to-doing",
     "title": "Introduction: The Bridge from Knowing to Doing",
     "prev": "docs/volume-2-knowing-to-doing/larger-story-where-this-volume-sits.md",
+    "next": "docs/volume-2-knowing-to-doing/before-the-tools-what-this-volume-assumes.md"
+  },
+  "docs/volume-2-knowing-to-doing/before-the-tools-what-this-volume-assumes.md": {
+    "volume": 2,
+    "volumeName": "Volume 2: Knowing to Doing",
+    "volumeFile": "Volume 2.html",
+    "folder": "volume-2-knowing-to-doing",
+    "title": "Before the Tools: What This Volume Assumes",
+    "prev": "docs/volume-2-knowing-to-doing/introduction-the-bridge-from-knowing-to-doing.md",
     "next": "docs/volume-2-knowing-to-doing/taxonomy-key-how-this-volume-classifies-its.md"
   },
   "docs/volume-2-knowing-to-doing/taxonomy-key-how-this-volume-classifies-its.md": {
@@ -1568,7 +1589,7 @@ window.PATH_TO_INFO = {
     "volumeFile": "Volume 2.html",
     "folder": "volume-2-knowing-to-doing",
     "title": "Taxonomy Key: How This Volume Classifies Its Explorations",
-    "prev": "docs/volume-2-knowing-to-doing/introduction-the-bridge-from-knowing-to-doing.md",
+    "prev": "docs/volume-2-knowing-to-doing/before-the-tools-what-this-volume-assumes.md",
     "next": "docs/volume-2-knowing-to-doing/exploration-o-the-christian-companions-framework-tool.md"
   },
   "docs/volume-2-knowing-to-doing/exploration-o-the-christian-companions-framework-tool.md": {
@@ -2262,6 +2283,15 @@ window.PATH_TO_INFO = {
     "folder": "volume-5-references",
     "title": "A33 What's at Risk Protocol",
     "prev": "docs/volume-5-references/a32-hot-seat-protocol-with-mini-hot.md",
+    "next": "docs/volume-5-references/a34-the-throne-question.md"
+  },
+  "docs/volume-5-references/a34-the-throne-question.md": {
+    "volume": 5,
+    "volumeName": "Volume 5: References",
+    "volumeFile": "Volume 5.html",
+    "folder": "volume-5-references",
+    "title": "A34 The Throne Question (Naming and Dethroning the Functional Savior)",
+    "prev": "docs/volume-5-references/a33-whats-at-risk-protocol.md",
     "next": "docs/volume-5-references/mission-arc-family-a27-a30-a31.md"
   },
   "docs/volume-5-references/mission-arc-family-a27-a30-a31.md": {
@@ -2270,7 +2300,7 @@ window.PATH_TO_INFO = {
     "volumeFile": "Volume 5.html",
     "folder": "volume-5-references",
     "title": "Mission-Arc Family (A27 + A30 + A31)",
-    "prev": "docs/volume-5-references/a33-whats-at-risk-protocol.md",
+    "prev": "docs/volume-5-references/a34-the-throne-question.md",
     "next": "docs/volume-5-references/b11-ideal-support-figure.md"
   },
   "docs/volume-5-references/b11-ideal-support-figure.md": {
@@ -2486,6 +2516,15 @@ window.PATH_TO_INFO = {
     "folder": "volume-6-governance",
     "title": "The Mustard Seed Question — A Worked Resolution",
     "prev": "docs/volume-6-governance/research-register.md",
+    "next": "docs/volume-6-governance/hear-and-obey-traceability.md"
+  },
+  "docs/volume-6-governance/hear-and-obey-traceability.md": {
+    "volume": 6,
+    "volumeName": "Volume 6: Governance",
+    "volumeFile": "Volume 6 Governance.html",
+    "folder": "volume-6-governance",
+    "title": "Traceability to the Hear-and-Obey Core — A Finished Trail",
+    "prev": "docs/volume-6-governance/mustard-seed-worked-resolution.md",
     "next": "docs/volume-6-governance/appendix-catalog-history.md"
   },
   "docs/volume-6-governance/appendix-catalog-history.md": {
@@ -2494,7 +2533,7 @@ window.PATH_TO_INFO = {
     "volumeFile": "Volume 6 Governance.html",
     "folder": "volume-6-governance",
     "title": "Appendix: Catalog History — A Briefing for the Council",
-    "prev": "docs/volume-6-governance/mustard-seed-worked-resolution.md",
+    "prev": "docs/volume-6-governance/hear-and-obey-traceability.md",
     "next": "docs/volume-6-governance/part-1-governance-model.md"
   },
   "docs/volume-6-governance/governance-for-a-quiet-season.md": {

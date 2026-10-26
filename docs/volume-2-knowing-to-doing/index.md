@@ -11,6 +11,7 @@ Contents of Volume 2: Knowing to Doing. Each entry below opens that section of t
 
 - [The Larger Story: Where This Volume Sits](larger-story-where-this-volume-sits.md)
 - [Introduction: The Bridge from Knowing to Doing](introduction-the-bridge-from-knowing-to-doing.md)
+- [Before the Tools: What This Volume Assumes](before-the-tools-what-this-volume-assumes.md)
 - [Taxonomy Key: How This Volume Classifies Its Explorations](taxonomy-key-how-this-volume-classifies-its.md)
 - [Exploration 0: The Christian Companion's Framework](exploration-o-the-christian-companions-framework-tool.md) — Exploration 0: The Christian Companion's Framework — Tool Import Discipline
 - [Exploration 0B: The Contemplative Substrate](exploration-0b-contemplative-substrate.md) — Exploration 0B: The Contemplative Substrate — Foundational Practice (Operating Ground)

@@ -17,6 +17,17 @@ At the same time, I want to hold onto something that can easily get lost when a 
 ## 5a. The Five Primary Research Questions
 The research program is organized around five primary research questions. Each question is testable with the instruments and protocols described in Sections 3 and 4; each maps to one or more specific LotS claims; and each is designed to yield findings that are meaningful whether they confirm or challenge the framework.
 
+The five questions are not five separate curiosities. They are the one expectation of this work, taken apart into the pieces a study can actually hold. Volume 2 states it in a sentence: if you want to hear and obey Christ, and you bring what blocks you into the light, with the Word open, a few brothers or sisters beside you, and someone over you who can see your life, the door will be open for the Holy Spirit to clear the way as he wills, and the laws of Volume 1 will start to work in you the way they were written such that you are on an intentional path to grow up into Christ, into hearing and obeying Christ in everything. Each clause of that sentence is a condition a study can observe, and each research question tests part of it:
+
+- *You want to hear and obey Christ* — and what blocks you comes into the light: **RQ5** asks whether willingness and disclosure, at cost, reliably precede the rapid shifts.
+- *With the Word open*: **RQ2** asks whether scripture trust and formation move together, and in which order.
+- *A few brothers or sisters beside you*: **RQ1** asks whether the group practice produces movement a matched control does not.
+- *Someone over you who can see your life*: **RQ4** asks whether the formation of the one who holds the group predicts the group's trajectory.
+- *The laws will start to work in you*: **RQ3** asks whether the movement shows up where Volume 1 says it should — in the restored image of God.
+
+One clause has no instrument, on purpose. *The door will be open for the Holy Spirit to clear the way as he wills* is the mechanism, and the mechanism is confessed, not measured (John 3:8). The conditions open a door; they never compel God. The program measures the conditions and the outcomes; it does not put the wind in a box. If the conditions are met and the outcomes do not come, the sentence is wrong and this page changes. That is what makes it a theory of action rather than a slogan.
+
+
 !!! abstract "RQ1 — Primary research question"
 
     **Question.** Does consistent participation in PROAPT-based small-group bible study produce measurable movement through the Affective Taxonomy stages over a 12-month period, compared to a matched control group?

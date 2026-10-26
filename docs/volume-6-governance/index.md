@@ -25,6 +25,7 @@ What follows first is the governance for this stage of the project, in a few pag
 - **[The Scripture-Grounding Standard](scripture-grounding-standard.md)** — the five tests every chapter's handling of Scripture is held to.
 - **[Research Register — Investigations Underway and Proposed](research-register.md)** — a standing, Council-maintained register of the investigations the project has underway, recommends for the next research cycle, or holds in reserve; it gathers the open trails of Volumes 3–5 into one view and sorts them by what can actually be worked now.
 - **[The Mustard Seed Question — A Worked Resolution](mustard-seed-worked-resolution.md)** — the backstory and reasoning behind the resolution of the threshold-vs-proportionality question, offered as the first worked example of the project's method for closing an open question (pre-registration, a bounded corpus, an independent adversarial pass, and a cross-tradition check).
+- **[Traceability to the Hear-and-Obey Core — A Finished Trail](hear-and-obey-traceability.md)** — how directly each Foundational Law and Exploration traces to hearing and obeying God, with a coloured grid; promoted from the Research Register as a finished trail.
 - **[Appendix: Catalog History](appendix-catalog-history.md)** — a simplified briefing for the Council on how the Foundational Law catalog reached its present shape, with the major architectural decisions, disposition patterns with precedent, and a coverage maturity snapshot.
 
 **Reference**

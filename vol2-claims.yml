@@ -44,6 +44,113 @@ source_document: IJH_Vol2_v5_4_1.docx
 claims:
 
 # ---------------------------------------------------------------------------
+# Before the Tools — the five assumptions of Volume 2 (V2.Ax1-Ax5)
+# Added 2026-10-26: ask 3, approved by the Council on 25 October 2026.
+# Source: docs/volume-2-knowing-to-doing/before-the-tools-what-this-volume-assumes.md
+# ---------------------------------------------------------------------------
+
+  - id: V2.Ax1
+    type: axiom
+    title: "A Person Is a Nested Whole, and the Heart Is the Center"
+    core_text: >
+      Spirit, heart, soul, mind, and body, made in the image of God, with the heart as the place through which all formation passes and out of which life flows. Change runs from the inside out.
+    status: core
+    confidence: 90
+    confidence_rationale: >
+      The heart's centrality is held as Clearly Taught; the full map of the person (V1 Second Exploration; the Theological Anthropology paper) as Reasonably Inferred. The operational form (heart profiles moving as the taxonomy predicts) stays on the Volume 4 bench.
+    scripture_refs:
+      - Gen 1:27
+      - Prov 4:23
+      - 1 Thess 5:23
+      - Heb 4:12
+      - Mark 7:21
+    traditions_supporting: [Reformed, Evangelical, Charismatic, Mystical]
+    traditions_dissenting: []
+    upstream_dependencies: [V1.Ax1, V1.Ax2, V1.Ax3, V1.Ax4]
+    downstream_dependents: [V2.All]
+
+  - id: V2.Ax2
+    type: axiom
+    title: "What Is Wrong Is Blockage, Not Absence"
+    core_text: >
+      The laws of Volume 1 are true; most of us cannot live in them because the channel between the Word and the heart is clogged by wounds, sin, lies, and forgotten agreements. The work is clearing, not adding. The ground is contested; whether the enemy actively keeps it clogged is tested in Exploration 2B, not assumed here.
+    status: core
+    confidence: 90
+    confidence_rationale: >
+      Held as working assumption, the ground of the volume rather than a law.
+    scripture_refs:
+      - Mark 4:3-20
+      - Isa 59:1-2
+      - Heb 3:12-13
+      - John 8:44
+      - Ps 32:3
+      - Eph 6:12
+      - 1 Pet 5:8
+    traditions_supporting: [Reformed, Evangelical, Charismatic, Mystical]
+    traditions_dissenting: []
+    upstream_dependencies: [V1.Ax1, V1.Ax2, V1.Ax3, V1.Ax4]
+    downstream_dependents: [V2.All]
+
+  - id: V2.Ax3
+    type: axiom
+    title: "The Holy Spirit Does the Healing, Through the Word"
+    core_text: >
+      Not the tool, not the process, not the Companion. Every tool only opens a door; the Spirit walks through it, or does not, in His time. This assumption guards all the others.
+    status: core
+    confidence: 90
+    confidence_rationale: >
+      Held as working assumption; it is the guard against any tool becoming a lever.
+    scripture_refs:
+      - 1 Cor 3:6-7
+      - John 3:8
+      - Phil 2:13
+      - 2 Cor 3:18
+    traditions_supporting: [Reformed, Evangelical, Charismatic, Mystical]
+    traditions_dissenting: []
+    upstream_dependencies: [V1.Ax1, V1.Ax2, V1.Ax3, V1.Ax4]
+    downstream_dependents: [V2.All]
+
+  - id: V2.Ax4
+    type: axiom
+    title: "Formation Is Never Solitary"
+    core_text: >
+      Formation needs someone sent, someone preaching, someone hearing; confession to one another; a body that grows by what every joint supplies and discerns together. Solitude is a medium of formation; the unwitnessed soul is not.
+    status: core
+    confidence: 90
+    confidence_rationale: >
+      Held as working assumption. The operational form (whether a group's Tell-Rate predicts its trajectory) stays on the Volume 4 bench.
+    scripture_refs:
+      - Rom 10:14-17
+      - Jas 5:16
+      - Eph 4:15-16
+      - Heb 10:24-25
+      - Matt 18:20
+      - Acts 15:28
+    traditions_supporting: [Reformed, Evangelical, Charismatic, Mystical]
+    traditions_dissenting: []
+    upstream_dependencies: [V1.Ax1, V1.Ax2, V1.Ax3, V1.Ax4]
+    downstream_dependents: [V2.All]
+
+  - id: V2.Ax5
+    type: axiom
+    title: "The Spirit's Work, Received by Consent, Witnessed by the Body, Escorted by a Companion, Under a Covering"
+    core_text: >
+      No one is formed by force. The participant chooses each step and may stop at any step; the community witnesses; the Companion escorts and keeps their own material out of the pilgrim's work; all of it under a named spiritual authority close enough to see the lives involved.
+    status: core
+    confidence: 90
+    confidence_rationale: >
+      Held as working assumption.
+    scripture_refs:
+      - Gal 6:1
+      - Heb 13:17
+      - 1 Tim 5:22
+      - 1 Pet 5:2-3
+    traditions_supporting: [Reformed, Evangelical, Charismatic, Mystical]
+    traditions_dissenting: []
+    upstream_dependencies: [V1.Ax1, V1.Ax2, V1.Ax3, V1.Ax4]
+    downstream_dependents: [V2.All]
+
+# ---------------------------------------------------------------------------
 # Part I — Diagnostic (Exp 1, 2, 2A, 2B, 3, 4)
 # ---------------------------------------------------------------------------
 
