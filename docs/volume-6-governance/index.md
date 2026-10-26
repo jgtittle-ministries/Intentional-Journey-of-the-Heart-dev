@@ -15,7 +15,7 @@ What follows first is the governance for this stage of the project, in a few pag
 ## Contents
 
 - **[Governance in This Season](governance-for-a-quiet-season.md)** — who decides; tell, ask, and wait; the record; the standards every change meets; succession; contributions from outside; spiritual authority; and the fuller model, with what would bring it into force.
-- **[Part 2: The Council — A Fellowship of the Heart](part-2-council-fellowship.md)** — why the Council is a Fellowship of the Heart and not a board; what membership asks; how the Council works; what it owes the community it serves; on its own end; and a Rule of Life for the Council.
+- **[Part 2: The Council — A Fellowship of the Heart](part-2-council-fellowship.md)** — why the Council is a Fellowship of the Heart and not a board; what membership asks; how the Council works; what it owes the community it serves; on its own end; and the Council's common practice.
 - **[Part 3: Succession Letter](part-3-succession-letter.md)** — my wishes for the stewardship of the work should I become unable to continue stewarding it personally, naming a Literary Executor and a Theological Successor. Signed before the Council on 6 September 2026.
 - **[Council Log](council-log.md)** — one entry per Council meeting, newest first: who was present, what was told, what was asked and how it was answered, what was held, and any dissent by name, with every document linked as the Council saw it.
 

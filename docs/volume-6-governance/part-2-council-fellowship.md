@@ -4,7 +4,7 @@
 
 *A Fellowship of the Heart Stewarding the Work*
 
-*An essay on what Council membership asks, with a Rule of Life for those who say yes*
+*An essay on what Council membership asks, with a common practice for those who say yes*
 
 **John G. Tittle** — Intentional Journey of the Heart — Draft, April 2026
 
@@ -22,7 +22,7 @@ That is a strange thing to ask someone to be part of. Most governing bodies ask 
 
 I am writing this in kitchen-table voice because that is the voice most of the rest of my work is written in, and because the Council — if it is what I hope it becomes — will be kitchen-table in practice. It meets in real places, around real tables, with real bread and wine, over real hours. It is not a set of abstractions issuing pronouncements. It is a handful of people who said yes to walking with each other and with the work. The document should sound like what it describes.
 
-What follows is a working out of what I think this asks of a person who says yes. It is a draft, and I expect the first Council to revise it — probably more than once — as actual practice clarifies what was merely intuition on my part. The Rule of Life at the end is meant to be short enough to read aloud in a single sitting at the beginning of each Council gathering. That is its form. Its content is yours to inherit and change.
+What follows is a working out of what I think this asks of a person who says yes. It is a draft, and I expect the first Council to revise it — probably more than once — as actual practice clarifies what was merely intuition on my part. The common practice at the end is short on purpose: a rhythm for each day, kept by each member. The first Council chose it in place of the draft Rule of Life I first wrote here. Its content is yours to inherit and change.
 
 Read slowly. If you find yourself saying yes, come. If you find yourself saying no, say so honestly, and know that saying no is a real answer, not a failure. The Council needs people who have said yes with eyes open more than it needs people who felt they could not decline.
 
@@ -123,7 +123,7 @@ The governance is embedded in the formation. The governance is shaped by the for
 
 ### The rhythm of being apart
 
-Between gatherings, each member is in active practice. Daily PROAPT or equivalent. Weekly or biweekly participation in the ground-level FotH each member belongs to. Monthly spiritual direction or supervision. The Council is not the only formation community in each member's life; it is one among several, and it sits alongside the others rather than replacing them.
+Between gatherings, each member is in active practice. Daily, the common practice described at the end of this document: time with God in the morning, a word carried through the day, a reflection in the evening. Weekly or biweekly participation in the ground-level FotH each member belongs to. And someone with standing to challenge us from Scripture: a scriptural companion, or a form of supervision that can do the same. The Council is not the only formation community in each member's life; it is one among several, and it sits alongside the others rather than replacing them.
 
 Members correspond between gatherings as needed — about the claim registry, about emerging questions, about each other. The correspondence itself is part of the formation. How the Council holds its email exchange, its shared documents, and its interim video meetings is formation work. Sharp emails are not separated from the work; they are data about the work. Members who notice a sharpening tone in their own correspondence take it as information about their own formation state, not about the other person's inadequacy or self-centered judgements.
 
@@ -155,7 +155,7 @@ The Council is itself a FotH, but it is not a private one. The community that de
 
 The Benedictine tradition solves this with three layers. The Rule itself is public — anyone can read it, and every Benedictine community holds itself accountable to it in the open. The community's internal formation work — confessions, particular struggles, the specific ways each member is being formed — is kept private, because that is where honesty lives. The outcomes — the liturgy, the hospitality, the work produced — are public, because that is the community's gift to the world. I think that three-layer principle is close to right for the Council.
 
-**Public:** this document and the Rule of Life it contains, the claim registry and its revisions, the Council's membership, the Council's decisions with preserved dissent, the Vol 4 testing program outputs, and the framework itself in all its revisions. These are visible to anyone who wants to engage them.
+**Public:** this document and the common practice it describes, the claim registry and its revisions, the Council's membership, the Council's decisions with preserved dissent, the Vol 4 testing program outputs, and the framework itself in all its revisions. These are visible to anyone who wants to engage them.
 
 **Private:** the Council's internal formation work — each member's particular journey, the specific contents of each member's confession or disclosure, the interior details of the Council's conflicts. These stay inside the Council, because the Council cannot be honest about them in the open. Honesty requires private space.
 
@@ -181,7 +181,7 @@ The practical form of this answerability: the Council holds itself to the same f
 
 ### The Council is not the Work
 
-This is the hardest part of the document to write in the right tone, and I am going to try to write it gently rather than bracingly, because the subject itself deserves that. The Council, like everybody in this age, is finite. It will serve for a season. The season will end. Some of the endings are normal and expected. Individual members complete their service and are released to whatever God is calling them into next. Founders die, as I will, and the Council continues without me. Members turn over, generation by generation, and the Council in year thirty is not the Council in year one, even if the name and the Rule are continuous. These are the small endings, and they are already anticipated in the welcoming and releasing sections above.
+This is the hardest part of the document to write in the right tone, and I am going to try to write it gently rather than bracingly, because the subject itself deserves that. The Council, like everybody in this age, is finite. It will serve for a season. The season will end. Some of the endings are normal and expected. Individual members complete their service and are released to whatever God is calling them into next. Founders die, as I will, and the Council continues without me. Members turn over, generation by generation, and the Council in year thirty is not the Council in year one, even if the name and the practice are continuous. These are the small endings, and they are already anticipated in the welcoming and releasing sections above.
 
 Some of the endings are larger. There may come a time when the Council's specific shape — a standing body of nine or so members meeting several times a year — no longer fits the work the Work is doing. The framework might be absorbed into the broader body of Christian formation literature in ways that no longer require a dedicated Council. The community of practice might mature into a form that stewards itself without needing the Council's kind of curation. The scriptural and theological questions the framework addresses might reach a kind of settled state in which preserved dissent and claim revision are no longer the primary need. These are not failures; they are fulfillments. A Council that has done its work well enough that the work no longer needs it has done its work well.
 
@@ -207,37 +207,25 @@ If the Council is what I hope it will be, then the day the Council releases itse
 
 ---
 
-## A Rule of Life for the Council
+## Our Common Practice
 
-![A folio of Benedict's Rule — short, memorable, read aloud at the start of each gathering.](images/12-benedict-rule-folio.jpg)
+When I first wrote this document, I closed it with a draft Rule of Life for the Council, modeled on Benedict's: fifteen commitments, short enough to read aloud at the start of every gathering. I invited the first Council to modify it, expand it, or replace it as practice showed what a Rule should be. On 25 October 2026, it did. None of us was using the draft Rule. So we asked simpler questions. What formative practice is each of us keeping now? Is there something central to all of them? What might we keep in common? This section is the answer, and it replaces the draft Rule.
 
-What follows is a draft Rule of Life for the Council. It is meant to be short enough to read aloud at the beginning of each Council gathering. It is meant to be memorizable. It is meant to be the Council's common language for what it is about. I offer it as a starting point; the first Council is invited — expected, really — to modify, expand, or replace it as actual practice clarifies what the Rule should be.
-
-The Rule is written in the plural voice — "we," "the Council" — because it is what the Council says about itself, not what I say about the Council. The shift from the first-person singular of the essay to the first-person plural of the Rule is deliberate.
+Three of us already kept a standing morning practice. One of us kept something more. He takes one word from his morning time with God, carries a stone in his pocket all day to remind him of it, and in the evening reflects on the word and on what it did to his day. The rest of us recognized it at once as better than what we had.
 
 §
 
-We are the Council for the Intentional Journey of the Heart. We exist to steward the Work. We have said yes to what follows.
+We are the Council for the Intentional Journey of the Heart. Each day, each of us keeps a simple rhythm.
 
-- We are, before we are anything else, a Fellowship of the Heart. Our own formation is our first work. The Work we steward is our second work and flows from the first.
-- Each of us is on our own Intentional Journey. Each of us has a scripture practice, a form of spiritual direction or peer accountability, and a Fellowship of the Heart at the ground level outside the Council itself. None of us is in the helping-others posture while being unchanged by the work.
-- We meet together often enough to be in real fellowship, and for long enough each time to do the work of being together. Governance is embedded in formation, not fitted to the edge of a business meeting.
-- We handle disagreement by preserving it when it is the kind that should be preserved, and by praying it through when it is the kind that needs discernment. We do not use votes to end disagreements that have not yet been prayed through. When a member dissents, the dissent travels with the decision.
-- We welcome new members with an apprenticeship, not a duty-imposed assignment. We release departing members with liturgy, not filing. We grieve our dead as a Fellowship of the Heart grieves — with honest feeling, with time, with attention.
-- We are answerable, first, to Christ. Second, to scripture as the norming norm. Third, to the community of practice we serve.
-- Our Rule is public. Our internal formation is private. Our outcomes are public. Anyone may read what we have said we are; no one has a claim on what each of us is working on inside; the community may judge us by what we produce and how we carry ourselves.
-- We do not speak in one voice at the cost of truth. We speak in one voice where truth has been given; we preserve the voices where truth is still becoming clear.
-- We keep contact with the ground. Each of us remains in an ordinary Fellowship of the Heart outside the Council, so that we continue to speak for communities we still inhabit.
-- We are willing to be formed by the work we are stewarding. When the work surfaces something that cuts us, we let it cut. When a preserved dissent persuades us that we were wrong, we say so. When scripture opens a question we had thought closed, we reopen it.
-- We hold the Council loosely. The Council is not the Work. If the Work no longer needs this particular Council — because it has matured, or because the community has found a better shape of stewardship, or because the season has ended — we release the Council without bitterness and continue as members of the community we have served.
-- We confess our failures together, when we fail. A Council that can say to the community *we have not been what we said we would be, and here is what we are doing about it*, has already begun to become what it said it would be.
-- We pray for each other daily. We hold each other in each other's absence. We trust that what the Spirit is forming in one of us, the Spirit is forming in all of us, in ways we may not yet see.
-- We read this Rule aloud at the beginning of every Council gathering, and we let the reading do its work on us. We revise the Rule when practice shows us it needs revising, and we record what was revised and why.
-- We serve in our season. We release in our time. We are not the last Council, and the next Council is not ours to dictate. May what we have been about endure when we no longer need to carry it. Amen.
+- **In the morning,** time with God, in whatever form fits the person and the season: reflection, listening, journaling, reading Scripture, meditation. Out of it comes one word to carry.
+- **During the day,** some reminder to pay attention: a stone in the pocket, or whatever reminder works. It brings the word back to mind, and with it the One who gave it.
+- **In the evening,** a short reflection on the word and on the day: where it showed up, what it changed, where we missed it.
+
+When we gather, we begin by forming a container with the Fellowship of the Heart protocol. On 25 October we did it in pairs, face to face, each of us telling the other in our own words what safe, present, clear, and intentional mean. It made the four personal, and it is a form worth keeping.
 
 §
 
----
+**What we kept, and what we let go.** The draft Rule asked us to record what was revised and why, so here it is. What the draft said about how we govern still stands, because the body of this document already carries it: we preserve dissent and pray disagreements through before we decide (Part III); we are answerable first to Christ, then to Scripture as the norming norm, then to the community we serve (Part IV); our practice is public, our formation is private, and our outcomes are public (Part IV); and we hold the Council loosely, because the Council is not the Work (Part V). What we let go is a Rule read aloud at every gathering, written for a larger body than we are. If the body grows, a later Council may write a Rule again. The practice above is what we actually keep, and it is enough to begin.
 
 ## A Closing Note Back in Kitchen-Table Voice
 

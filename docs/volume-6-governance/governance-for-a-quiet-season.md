@@ -15,7 +15,7 @@ During my active tenure I am the steward and editor of the work. I decide what c
 
 The Council of Stewards is my counsel and covering, not a legislature. Its first job, in [Part 2](part-2-council-fellowship.md)'s words, is its own formation; its second is stewardship of the work. That stewardship takes one concrete form: once a month, at its regular meeting, the Council hears what I have changed and what I intend to change, and it blesses, questions, or asks me to wait.
 
-For the Council's word to mean anything, *wait* has to be real. When the Council asks me to wait, I wait, and the reason is written down. This is the Rule of Life's own line: we do not use votes to end disagreements that have not yet been prayed through. The same applies to blessings; a change the Council has not prayed through is not yet blessed.
+For the Council's word to mean anything, *wait* has to be real. When the Council asks me to wait, I wait, and the reason is written down. This is the line the draft Rule of Life drew, and it still stands (Part 2): we do not use votes to end disagreements that have not yet been prayed through. The same applies to blessings; a change the Council has not prayed through is not yet blessed.
 
 ---
 
