@@ -21,6 +21,8 @@ volume: 6
 
 4. **Spiritual authority — the open question** (standing, from 25 October). A Fellowship of the Heart needs both a Formation Companion and organizational authority, with cross-checks and accountability. I need a scriptural companion who can challenge me from Scripture: not as an authority, but as a call to back up and rethink. How to build that out of people is still open.
 
+5. **The personal leadership process** (John, 26 October; for review and discussion). The process I walked the Council through on 25 October, written up as a described process with my own results as the worked example. The write-up comes to the Council ahead of the meeting. There is more to do on the process itself.
+
 Members add items through the month as they think of them; they appear here as they arrive.
 
 ---
