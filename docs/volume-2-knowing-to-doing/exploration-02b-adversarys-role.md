@@ -130,4 +130,19 @@ The prayer is aimed at spirits, not people. "We do not wrestle against flesh and
 
 **Certainty: Mixed.** That lying and deceiving spirits are real, that perfect love casts out fear, and that the Spirit convicts the world are Clearly Taught. The picture and the prayer are what I received in prayer, and I hold them as given to me. That the deceptions have been made plain over these years is my observation, Reasonably Inferred and not tested: lies are exposed for many reasons, and a man praying expectantly also notices more.
 
+
+## Praying in the Spirit, on Every Front
+
+When Paul finishes describing the armour, he does not stop. The next words are "praying at all times in the Spirit, with all prayer and supplication" (Eph. 6:18). Prayer in the Spirit is how the armour is worn. I brought this to the Council on 25 October 2026, and we agreed: praying in the Spirit can be part of spiritual warfare. Dave Smith writes about it in his book, *Relational Discipleship*.
+
+***Rom. 8:26 (ESV)***
+
+*"Likewise the Spirit helps us in our weakness. For we do not know what to pray for as we ought, but the Spirit himself intercedes for us with groanings too deep for words."*
+
+I mean it in two senses. The broad one is prayer led and carried by the Spirit, in any words (Jude 20). The narrow one is praying in tongues, which many believers practise and some traditions do not accept for today. Both meet the same need. On every front there are times when I do not know what to pray. In warfare that is common. I can feel the resistance before I can name it. Over a people, on the third front, I rarely know the enemy's strategy. The Spirit does.
+
+Three guards go with it. First, tongues are addressed to God, not to the enemy (1 Cor. 14:2). In warfare they are surrender and intercession, not a weapon aimed at spirits. That keeps the order of James 4:7: submit to God first, then resist. Second, praying in the Spirit builds up the one who prays (1 Cor. 14:4; Jude 20–21), and a believer who is built up can stand. Without love, though, it is only noise (1 Cor. 13:1). Third, like everything in this exploration, it is never a formula.
+
+**Certainty: Mixed.** That believers are to pray at all times in the Spirit, and that the Spirit intercedes when we do not know how to pray, is Clearly Taught. That praying in tongues is one form of that prayer in spiritual warfare is Reasonably Inferred: Scripture does not call it warfare in so many words, and traditions differ.
+
 *Vol 2 — Exploration 2C — Diagnostic Law*
