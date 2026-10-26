@@ -24,6 +24,8 @@ The Part VI entries are organized into two lists, A and B, and the distinction m
 
 **The one explicit exception is B18 Heart Prayer Time** — the lone B-list entry that operates as a standalone core work-option in the work-component alongside the A-list options.
 
+**Which tool for which blockage.** The [Tool Map Matrix](../volume-2-knowing-to-doing/exploration-06-appendix-tool-map-matrix.md), an appendix to Volume 2's Exploration 6, lays the A- and B-list entries against the blockages they clear, with contraindications and gaps marked.
+
 The Companion's discernment selects from both lists for a gathering: an A-list work-option for the work-component; B-list access-modes within or alongside the A-list deployment as the participant's processing-style and the surfacing material require.
 
 **Container Forming: What this protocol does**

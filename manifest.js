@@ -412,6 +412,10 @@ window.VOLUME_CHAPTERS = {
         "title": "Sixth Exploration: The Tool Map — Matching the Right Tool to the Right Blockage"
       },
       {
+        "path": "docs/volume-2-knowing-to-doing/exploration-06-appendix-tool-map-matrix.md",
+        "title": "Appendix to Exploration 6: The Tool Map Matrix"
+      },
+      {
         "path": "docs/volume-2-knowing-to-doing/exploration-06a-image-bearing-dignity-of-wronger.md",
         "title": "Sixth Exploration (A): The Image-Bearing Dignity of the Wronger"
       },
@@ -1698,6 +1702,15 @@ window.PATH_TO_INFO = {
     "folder": "volume-2-knowing-to-doing",
     "title": "Sixth Exploration: The Tool Map — Matching the Right Tool to the Right Blockage",
     "prev": "docs/volume-2-knowing-to-doing/exploration-05-four-connects.md",
+    "next": "docs/volume-2-knowing-to-doing/exploration-06-appendix-tool-map-matrix.md"
+  },
+  "docs/volume-2-knowing-to-doing/exploration-06-appendix-tool-map-matrix.md": {
+    "volume": 2,
+    "volumeName": "Volume 2: Knowing to Doing",
+    "volumeFile": "Volume 2.html",
+    "folder": "volume-2-knowing-to-doing",
+    "title": "Appendix to Exploration 6: The Tool Map Matrix",
+    "prev": "docs/volume-2-knowing-to-doing/exploration-06-tool-map.md",
     "next": "docs/volume-2-knowing-to-doing/exploration-06a-image-bearing-dignity-of-wronger.md"
   },
   "docs/volume-2-knowing-to-doing/exploration-06a-image-bearing-dignity-of-wronger.md": {
@@ -1706,7 +1719,7 @@ window.PATH_TO_INFO = {
     "volumeFile": "Volume 2.html",
     "folder": "volume-2-knowing-to-doing",
     "title": "Sixth Exploration (A): The Image-Bearing Dignity of the Wronger",
-    "prev": "docs/volume-2-knowing-to-doing/exploration-06-tool-map.md",
+    "prev": "docs/volume-2-knowing-to-doing/exploration-06-appendix-tool-map-matrix.md",
     "next": "docs/volume-2-knowing-to-doing/exploration-06b-forgiveness-as-re-integration-of.md"
   },
   "docs/volume-2-knowing-to-doing/exploration-06b-forgiveness-as-re-integration-of.md": {
