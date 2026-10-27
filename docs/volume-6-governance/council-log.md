@@ -21,7 +21,9 @@ volume: 6
 
 4. **Spiritual authority — the open question** (standing, from 25 October). A Fellowship of the Heart needs both a Formation Companion and organizational authority, with cross-checks and accountability. I need a scriptural companion who can challenge me from Scripture: not as an authority, but as a call to back up and rethink. How to build that out of people is still open.
 
-5. **The personal leadership process** (John, 26 October; for review and discussion). The process I walked the Council through on 25 October, written up as a described process with my own results as the worked example. The write-up comes to the Council ahead of the meeting. There is more to do on the process itself.
+5. **The personal leadership process** (John, 26 October; for review and discussion). The process I walked the Council through on 25 October, written up as a described process with my own results as the worked example. The write-up went to the Council on 27 October, and we look at it together at this meeting. There is more to do on the process itself.
+
+6. **How would we tell it is working?** (John, 27 October; a report, and counsel). On 26 October I asked the teens how they would tell whether internalization is working. Their answers did not quite reach it, and we did not get to the group question at all. After some back and forth, I put one measure in front of them: when life interrupts the practice, do you return to it? Being turned the wrong way is not a great distance; it is a pivot in place. You stop, turn, and seek Jesus. This is a first word, not a definitive one. On 10 November I ask the same question of the group: how would we tell whether we are internalizing it together? I will bring what comes of both.
 
 Members add items through the month as they think of them; they appear here as they arrive.
 
