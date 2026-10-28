@@ -8,6 +8,10 @@ source: "Hearing-God Papers — MSM"
 
 The full paper — *Measuring Spiritual Maturity in Hearing God: An Affective Domain Taxonomy for Individual and Small-Group Internalization* — is the diagnostic member of the **Hearing-God Papers** and is available here [(pdf)](source-pdfs/msm-measuring-spiritual-maturity-in-hearing-god.pdf){: .pdf-popup data-pdf-label="MSM — Measuring Spiritual Maturity in Hearing God" }. The summary below names what the paper does, why it matters to the LotS project, and how it is used across the volumes.
 
+!!! note "Accepted for publication"
+
+    MSM was accepted on 28 October 2026 for publication in the *Journal of Spiritual Formation and Soul Care*. The pdf here is the accepted manuscript, posted under the publisher's sharing policy; it replaces the version first submitted, which was posted on 1 June 2026. Please cite the published version once it appears.
+
 ## What MSM Argues
 
 Three decades of proliferating assessment instruments have produced no consensus on how to measure spiritual maturity. MSM argues that the failure is not chiefly one of research methodology but of **taxonomic clarity**: existing instruments conflate different levels of affective internalization, using the same self-report tools to measure surface behavioral compliance that were intended to capture deep character transformation. Reading the problem through Krathwohl, Bloom, and Masia's *Taxonomy of Educational Objectives: Affective Domain*, the paper proposes that most instruments operate only at the first two or three levels — Receiving, Responding, Valuing — while the construct of spiritual maturity lives at the fourth and fifth, Organization and Characterization.

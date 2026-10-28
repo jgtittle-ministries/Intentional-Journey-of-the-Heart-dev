@@ -33,7 +33,7 @@ It also includes the Formation Documents referenced throughout the first four vo
 
 **The Hearing-God Papers** — the affective-taxonomy quartet, developed at publication length (diagnosis → cultivation → lower levels → upper levels):
 
-- MSM - Measuring Spiritual Maturity in Hearing God [(pdf)](source-pdfs/msm-measuring-spiritual-maturity-in-hearing-god.pdf){: .pdf-popup data-pdf-label="MSM — Measuring Spiritual Maturity in Hearing God" }
+- MSM - Measuring Spiritual Maturity in Hearing God (accepted, *Journal of Spiritual Formation and Soul Care*, 2026) [(pdf)](source-pdfs/msm-measuring-spiritual-maturity-in-hearing-god.pdf){: .pdf-popup data-pdf-label="MSM — Measuring Spiritual Maturity in Hearing God" }
 - CSM - Cultivating Spiritual Maturity in Hearing God [(pdf)](source-pdfs/csm-cultivating-spiritual-maturity-in-hearing-god.pdf){: .pdf-popup data-pdf-label="CSM — Cultivating Spiritual Maturity in Hearing God" }
 - CTG - Clearing the Ground: Forming the Heart Through the Lower Levels — Receiving, Responding, Valuing [(pdf)](source-pdfs/ctg-clearing-the-ground-lower-levels.pdf){: .pdf-popup data-pdf-label="CTG — Clearing the Ground (Lower Levels)" }
 - BFP - Bearing Fruit with Patience: Cultivating the Heart Through the Upper Levels — Organization, Characterization [(pdf)](source-pdfs/bfp-bearing-fruit-with-patience-upper-levels.pdf){: .pdf-popup data-pdf-label="BFP — Bearing Fruit with Patience (Upper Levels)" }
