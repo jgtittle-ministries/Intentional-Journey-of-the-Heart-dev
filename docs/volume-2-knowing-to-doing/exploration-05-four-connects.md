@@ -99,4 +99,6 @@ The “outward” direction the test asks about needs naming. For some cohort me
 
 *Dave Smith and I have wrapped these four connects into a workshop format, called, **surprisingly** the Four Connects ([4Cs](../volume-5-references/source-pdfs/4cs-four-connects.pdf){: .pdf-popup data-pdf-label="4Cs — Four Connects" }). This is a six-module introduction to doing heart work and has a good impact on people who have experienced it. The end of the workshop is an invitation to join a Fellowship of the Heart community/small group for ongoing development in internalizing hearing and obeying God. *
 
+*Where they came from:* the [dated history of the Four Connects](exploration-05-appendix-four-connects-dated-history.md) traces them from a 2002 question about measuring love to the evenings of 2026.
+
 **Vol 2 — Exploration 6 — Tools**

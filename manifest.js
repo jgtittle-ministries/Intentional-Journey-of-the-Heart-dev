@@ -408,6 +408,10 @@ window.VOLUME_CHAPTERS = {
         "title": "Fifth Exploration: The Four Connects — A Causal Sequence"
       },
       {
+        "path": "docs/volume-2-knowing-to-doing/exploration-05-appendix-four-connects-dated-history.md",
+        "title": "Appendix to Exploration 5: The Four Connects, a Dated History"
+      },
+      {
         "path": "docs/volume-2-knowing-to-doing/exploration-06-tool-map.md",
         "title": "Sixth Exploration: The Tool Map — Matching the Right Tool to the Right Blockage"
       },
@@ -1693,6 +1697,15 @@ window.PATH_TO_INFO = {
     "folder": "volume-2-knowing-to-doing",
     "title": "Fifth Exploration: The Four Connects — A Causal Sequence",
     "prev": "docs/volume-2-knowing-to-doing/exploration-04-confession-and-restoration.md",
+    "next": "docs/volume-2-knowing-to-doing/exploration-05-appendix-four-connects-dated-history.md"
+  },
+  "docs/volume-2-knowing-to-doing/exploration-05-appendix-four-connects-dated-history.md": {
+    "volume": 2,
+    "volumeName": "Volume 2: Knowing to Doing",
+    "volumeFile": "Volume 2.html",
+    "folder": "volume-2-knowing-to-doing",
+    "title": "Appendix to Exploration 5: The Four Connects, a Dated History",
+    "prev": "docs/volume-2-knowing-to-doing/exploration-05-four-connects.md",
     "next": "docs/volume-2-knowing-to-doing/exploration-06-tool-map.md"
   },
   "docs/volume-2-knowing-to-doing/exploration-06-tool-map.md": {
@@ -1701,7 +1714,7 @@ window.PATH_TO_INFO = {
     "volumeFile": "Volume 2.html",
     "folder": "volume-2-knowing-to-doing",
     "title": "Sixth Exploration: The Tool Map — Matching the Right Tool to the Right Blockage",
-    "prev": "docs/volume-2-knowing-to-doing/exploration-05-four-connects.md",
+    "prev": "docs/volume-2-knowing-to-doing/exploration-05-appendix-four-connects-dated-history.md",
     "next": "docs/volume-2-knowing-to-doing/exploration-06-appendix-tool-map-matrix.md"
   },
   "docs/volume-2-knowing-to-doing/exploration-06-appendix-tool-map-matrix.md": {

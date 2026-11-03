@@ -24,6 +24,7 @@ Contents of Volume 2: Knowing to Doing. Each entry below opens that section of t
 - [3. Believing a Lie](exploration-03-believing-lie.md) — Third Exploration: Believing a Lie — The Cognitive Blockage Law
 - [4. Confession and Restoration](exploration-04-confession-and-restoration.md) — Fourth Exploration: Confession and Restoration — Clearing the Sin Blockage
 - [5. The Four Connects](exploration-05-four-connects.md) — Fifth Exploration: The Four Connects — A Causal Sequence
+- [Appendix to 5: The Four Connects, a Dated History](exploration-05-appendix-four-connects-dated-history.md) — where they came from, and twenty years of running them
 - [6. The Tool Map](exploration-06-tool-map.md) — Sixth Exploration: The Tool Map — Matching the Right Tool to the Right Blockage
 - [Appendix to 6: The Tool Map Matrix](exploration-06-appendix-tool-map-matrix.md) — what is blocked, laid against what clears it
 - [6A. The Image-Bearing Dignity of the Wronger](exploration-06a-image-bearing-dignity-of-wronger.md) — Sixth Exploration (A): The Image-Bearing Dignity of the Wronger
