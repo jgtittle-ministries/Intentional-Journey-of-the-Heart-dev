@@ -1,0 +1,75 @@
+name: Suggest a change
+description: Propose a correction, a refinement, or a change to what the work claims.
+title: "Suggestion: "
+labels: ["suggestion"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for reading closely enough to suggest a change. Every suggestion is read by John. A serious proposal is brought to the Council of Stewards at its next monthly meeting, and you will be told when that is. The [Council Log](https://github.com/jgtittle-ministries/Intentional-Journey-of-the-Heart/blob/main/docs/volume-6-governance/council-log.md) records publicly what was asked and how it was answered. How changes are handled is set out in [CONTRIBUTING](https://github.com/jgtittle-ministries/Intentional-Journey-of-the-Heart/blob/main/CONTRIBUTING.md).
+
+        Only the first three boxes are required. For a small correction, those are enough. For a change to what the work claims, the five questions further down are the ones the Council will ask aloud.
+  - type: input
+    id: where
+    attributes:
+      label: Where
+      description: The volume and chapter, or a link to the page.
+      placeholder: "e.g. Volume 2, Fifth Exploration: The Four Connects"
+    validations:
+      required: true
+  - type: dropdown
+    id: kind
+    attributes:
+      label: What kind of change is it?
+      description: If you are not sure, choose the last one. It will be treated as an Ask.
+      options:
+        - A correction of fact, citation or Scripture reference
+        - A refinement of wording, or a cross-reference
+        - A change to what the work claims (a law, a tier, a foundation)
+        - Something touching safeguarding
+        - Not sure
+    validations:
+      required: true
+  - type: textarea
+    id: change
+    attributes:
+      label: The change you suggest
+      description: What it says now, and what you think it should say, or what is missing.
+    validations:
+      required: true
+  - type: markdown
+    attributes:
+      value: |
+        **The five questions.** These are for a change to what the work claims. Answer as many as you can; a partial answer is still welcome.
+  - type: textarea
+    id: scripture
+    attributes:
+      label: 1. Which scriptures?
+      description: The passages that bear on it, for or against.
+  - type: textarea
+    id: experience
+    attributes:
+      label: 2. Whose experience?
+      description: What you or others have seen happen in real lives.
+  - type: textarea
+    id: coherence
+    attributes:
+      label: 3. Does it cohere?
+      description: How it fits, or conflicts with, the rest of the work.
+  - type: textarea
+    id: tradition
+    attributes:
+      label: 4. What does tradition say?
+      description: What the church's teachers have held on it.
+  - type: textarea
+    id: disconfirm
+    attributes:
+      label: 5. What would show it wrong?
+      description: The evidence or argument that would change your mind.
+  - type: checkboxes
+    id: license
+    attributes:
+      label: License
+      options:
+        - label: I agree that my suggestion may be used in the work under its license, Creative Commons Attribution 4.0.
+          required: true

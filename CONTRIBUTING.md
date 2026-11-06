@@ -4,7 +4,7 @@ This project is governed by a light rule for a quiet season, [*Governance for a 
 
 ## How to contribute
 
-Anyone may open an issue on this repository or write to John. A serious proposal is welcome and will be brought to the Council of Stewards as an Ask at its next monthly meeting; you will be told when that is. The [Council Log](docs/volume-6-governance/council-log.md) records, publicly, what was asked and how it was answered, and when the Council declines a change someone cared about, the argument is kept in the Log rather than discarded.
+Anyone may open an issue on this repository or write to John. The [Suggest a change](https://github.com/jgtittle-ministries/Intentional-Journey-of-the-Heart/issues/new/choose) form walks you through it. A serious proposal is welcome and will be brought to the Council of Stewards as an Ask at its next monthly meeting; you will be told when that is. The [Council Log](docs/volume-6-governance/council-log.md) records, publicly, what was asked and how it was answered, and when the Council declines a change someone cared about, the argument is kept in the Log rather than discarded.
 
 The [Proposal Template](docs/volume-6-governance/proposal-template.md) remains available as a courtesy for anyone who wants to be thorough. It is not a gate. What any substantive change must be able to answer, in the Council's hearing, are the questions the work has always asked of itself: which scriptures, whose experience, does it cohere, what does tradition say, and what would show it wrong.
 
@@ -24,4 +24,4 @@ The work is licensed under [Creative Commons Attribution 4.0 International](http
 
 ## Contact
 
-GitHub issues on this repository, or John directly. The Council meets on the first Sunday of each month.
+GitHub issues on this repository, or John directly. The Council meets monthly; the date of each next meeting is posted in the [Council Log](docs/volume-6-governance/council-log.md).
