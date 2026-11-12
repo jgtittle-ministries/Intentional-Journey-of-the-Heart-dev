@@ -13,7 +13,7 @@ The companion papers (Volume 5) and the Volume 3 framework. Their full PDFs are 
 
 | Acronym | Stands for | What it is |
 |---|---|---|
-| **ATB** | Attachment Theory and the Biblical Triad | Maps the Sower soils to attachment patterns; the eighth Formation Document. |
+| **ATB** | Attachment Theory and the Biblical Triad | Draws a loose parallel between the Sower soils and attachment struggles, held as pastoral vocabulary, not types; the eighth Formation Document. |
 | **BFP** | Bearing Fruit with Patience | The upper-levels paper (Organization, Characterization) of the Hearing-God series. |
 | **CSM** | Cultivating Spiritual Maturity in Hearing God | The "growth" paper of the Hearing-God series. |
 | **CTG** | Clearing the Ground | The lower-levels paper (Receiving, Responding, Valuing). |
