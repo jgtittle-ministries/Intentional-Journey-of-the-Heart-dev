@@ -71,5 +71,12 @@ This work is licensed under
 You are free to share and adapt this material for any purpose, including
 commercially, provided appropriate credit is given.
 
+**One exception.** The accepted manuscript of *Measuring Spiritual Maturity
+in Hearing God* (`docs/volume-5-references/source-pdfs/msm-measuring-spiritual-maturity-in-hearing-god.pdf`),
+accepted for publication in the *Journal of Spiritual Formation and Soul
+Care* (Sage), is not covered by this license. It is posted under Sage's
+sharing policy: free to read and to share for non-commercial use, without
+changes. Please cite the published version.
+
 Contributions are accepted under the
 [Developer Certificate of Origin](https://developercertificate.org/).

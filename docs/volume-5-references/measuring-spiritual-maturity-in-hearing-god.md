@@ -6,11 +6,17 @@ source: "Hearing-God Papers — MSM"
 
 # Measuring Spiritual Maturity in Hearing God
 
-*Measuring Spiritual Maturity in Hearing God: An Affective Domain Taxonomy for Individual and Small-Group Internalization* is the diagnostic member of the **Hearing-God Papers**.
+The full paper — *Measuring Spiritual Maturity in Hearing God: An Affective Domain Taxonomy for Individual and Small-Group Internalization* — is the diagnostic member of the **Hearing-God Papers** and is available here as the accepted manuscript [(pdf)](source-pdfs/msm-measuring-spiritual-maturity-in-hearing-god.pdf){: .pdf-popup data-pdf-label="MSM — Measuring Spiritual Maturity in Hearing God (accepted manuscript)" }. The summary below names what the paper does, why it matters to the LotS project, and how it is used across the volumes.
 
-!!! note "Pending publication"
+!!! note "Accepted for publication"
 
-    This article has been accepted for publication in the *Journal of Spiritual Formation and Soul Care* and is pending publication. The full text has been withdrawn from this site until it appears. A link to the published version will be added here once it is available.
+    This article has been accepted for publication in the *Journal of Spiritual Formation and Soul Care* (Sage), DOI 10.1177/19397909261506283. The pdf here is the accepted manuscript, the version accepted after peer review and before the journal's copyediting and typesetting, posted under Sage's sharing policy. It is free to read and to share for non-commercial use, without changes; unlike the rest of this site, it is not covered by the Creative Commons license. Please cite the published version once it appears; a link to it will be added here.
+
+## What MSM Argues
+
+Three decades of proliferating assessment instruments have produced no consensus on how to measure spiritual maturity. MSM argues that the failure is not chiefly one of research methodology but of **taxonomic clarity**: existing instruments conflate different levels of affective internalization, using the same self-report tools to measure surface behavioral compliance that were intended to capture deep character transformation. Reading the problem through Krathwohl, Bloom, and Masia's *Taxonomy of Educational Objectives: Affective Domain*, the paper proposes that most instruments operate only at the first two or three levels — Receiving, Responding, Valuing — while the construct of spiritual maturity lives at the fourth and fifth, Organization and Characterization.
+
+Surveying six widely used instruments — Natural Church Development, the REVEAL Spiritual Life Survey, the Discipleship Pathway Assessment, the Faith Maturity Scale, the Spiritual Assessment Inventory, and Fowler's Stages of Faith — it shows that they **cluster at Levels 1–3**, with none reliably reaching Levels 4–5. The Parable of the Sower is shown to be a parallel scriptural diagnostic: the four soils name where and why the word fails to take root at each level. The **Pharisee problem** is the central exhibit — impeccable Level-2 performance mistaken for Level-5 transformation. Four structural reasons — the indistinguishability of Levels 2 and 5, the self-knowledge ceiling, the theological opacity of the heart (Jer 17:9), and the participation problem — explain why the higher levels resist self-report. The paper offers level-specific criteria for adequate measurement and is explicit that it is **Stage 1** of a two-stage program: it diagnoses the problem with enough precision to make instrument development tractable for the first time, without claiming to have solved it.
 
 ## How MSM Is Used in the LotS Project
 
