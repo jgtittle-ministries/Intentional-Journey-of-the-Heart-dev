@@ -8,9 +8,11 @@ source: "Hearing-God Papers — MSM"
 
 The full paper — *Measuring Spiritual Maturity in Hearing God: An Affective Domain Taxonomy for Individual and Small-Group Internalization* — is the diagnostic member of the **Hearing-God Papers** and is available here as the accepted manuscript [(pdf)](source-pdfs/msm-measuring-spiritual-maturity-in-hearing-god.pdf){: .pdf-popup data-pdf-label="MSM — Measuring Spiritual Maturity in Hearing God (accepted manuscript)" }. The summary below names what the paper does, why it matters to the LotS project, and how it is used across the volumes.
 
-!!! note "Accepted for publication"
+!!! note "Published"
 
-    This article has been accepted for publication in the *Journal of Spiritual Formation and Soul Care* (Sage), DOI 10.1177/19397909261506283. The pdf here is the accepted manuscript, the version accepted after peer review and before the journal's copyediting and typesetting, posted under Sage's sharing policy. It is free to read and to share for non-commercial use, without changes; unlike the rest of this site, it is not covered by the Creative Commons license. Please cite the published version once it appears; a link to it will be added here.
+    John G. Tittle, "Measuring Spiritual Maturity in Hearing God: An Affective Domain Taxonomy for Individual and Small-Group Internalization," *Journal of Spiritual Formation and Soul Care* (Sage), published online 26 November 2026. Copyright © 2026 John G. Tittle. DOI: [10.1177/19397909261506283](https://doi.org/10.1177/19397909261506283). Please cite the published version.
+
+    The pdf here is the accepted manuscript, the version accepted after peer review and before the journal's copyediting and typesetting, posted under Sage's sharing policy. It is free to read and to share for non-commercial use, without changes; unlike the rest of this site, it is not covered by the Creative Commons license. The published version is at the DOI above.
 
 ## What MSM Argues
 
